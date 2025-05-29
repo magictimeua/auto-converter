@@ -1,33 +1,36 @@
-name: Convert YML every hour
+name: Auto Convert and Push
 
 on:
   schedule:
-    - cron: '0 * * * *'  # кожну годину
-  workflow_dispatch:     # дозволяє запуск вручну
+    - cron: '0 * * * *'   # запуск щогодини на початку години
+  workflow_dispatch:       # ручний запуск з GitHub UI
 
 jobs:
-  build:
+  convert:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+    - name: Checkout repo
+      uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
 
-      - name: Install dependencies
-        run: pip install requests lxml
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
 
-      - name: Run converter
-        run: python convert.py
+    - name: Run conversion script
+      run: |
+        python convert.py
 
-      - name: Commit and push converted.yml
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git add converted.yml
-          git commit -m "Auto update converted.yml" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
-
+    - name: Commit and push converted.yml
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "actions@github.com"
+        git add converted.yml
+        git commit -m "Auto update converted.yml" || echo "No changes to commit"
+        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
