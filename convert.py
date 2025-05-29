@@ -49,7 +49,7 @@ def convert_categories_and_hierarchy(
                     if new_cat_el is not None:
                         offer.find("categoryId").text = new_cat_el.attrib["id"]
 
-    # Заміна <name> на <name_ua> і <description> на <description_ua>
+    # Заміна тегів name та description на name_ua і description_ua
     for offer in root.find(".//offers").findall("offer"):
         name_el = offer.find("name")
         if name_el is not None:
@@ -65,14 +65,14 @@ def convert_categories_and_hierarchy(
             offer.remove(desc_el)
             offer.append(desc_ua_el)
 
-    # Форматування
+    # Функція для гарного форматування XML
     def indent(elem, level=0):
-        i = "\n" + level * "    "
+        i = "\n" + level*"    "
         if len(elem):
             if not elem.text or not elem.text.strip():
                 elem.text = i + "    "
             for child in elem:
-                indent(child, level + 1)
+                indent(child, level+1)
             if not child.tail or not child.tail.strip():
                 child.tail = i
         if level and (not elem.tail or not elem.tail.strip()):
@@ -110,13 +110,15 @@ if __name__ == '__main__':
         }
     ]
 
-    input_file = "shop.yml"
-    output_file = "converted.yml"
+    input_file = "shop.yml"            # файл з робочої теки (репозиторію)
+    output_file = "converted.yml"      # файл вихідний у корені репозиторію
 
     url = "https://blissclub.com.ua/user/downloadyml?hash=c5f296cdb87c9780b8d77379aaacf981&filename=products_with_html_breaks_retail.yml"
 
+    # Завантажуємо файл з URL у поточну теку під ім'ям shop.yml
     download_file(url, input_file)
 
+    # Запускаємо конвертацію
     convert_categories_and_hierarchy(
         input_file,
         output_file,
