@@ -1,0 +1,32 @@
+name: Convert YML every hour
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # кожну годину
+  workflow_dispatch:     # дозволяє запуск вручну
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests lxml
+
+      - name: Run converter
+        run: python convert.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add converted.yml
+          git commit -m "Auto update converted.yml" || echo "No changes"
+          git push
