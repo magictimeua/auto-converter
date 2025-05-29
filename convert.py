@@ -1,11 +1,11 @@
 import os
 import requests
 import xml.etree.ElementTree as ET
-import openai
 import time
+from openai import OpenAI
 
-openai.api_key = os.getenv('convertkey')
-
+openai_api_key = os.getenv('convertkey')
+client = OpenAI(api_key=openai_api_key)
 
 def download_file(url, dest_path):
     response = requests.get(url)
@@ -13,36 +13,6 @@ def download_file(url, dest_path):
     with open(dest_path, 'wb') as f:
         f.write(response.content)
     print(f"Файл завантажено і збережено у {dest_path}")
-
-
-def generate_description(product_name, current_description):
-    try:
-        messages = [
-            {
-                "role": "system",
-                "content": "You are a helpful assistant who writes SEO-optimized product descriptions in Ukrainian."
-            },
-            {
-                "role": "user",
-                "content": (
-                    f"Напиши унікальний, грамотний і SEO-оптимізований опис українською мовою "
-                    f"для товару: {product_name}. "
-                    f"Поточний опис: {current_description}. "
-                    f"Опис має бути природнім, інформативним і без зайвої води."
-                )
-            }
-        ]
-        response = openai.ChatCompletion.create(
-            model="gpt-4o-mini",
-            messages=messages,
-            max_tokens=300,
-            temperature=0.7,
-        )
-        return response.choices[0].message['content'].strip()
-    except Exception as e:
-        print(f"Помилка генерації опису для {product_name}: {e}")
-        return current_description
-
 
 def convert_categories_and_hierarchy(
     input_file,
@@ -92,7 +62,7 @@ def convert_categories_and_hierarchy(
             name_ua_el.text = name_el.text
             offer.remove(name_el)
             offer.append(name_ua_el)
-
+    
         desc_el = offer.find("description")
         if desc_el is not None:
             desc_ua_el = ET.Element("description_ua")
@@ -100,10 +70,9 @@ def convert_categories_and_hierarchy(
             offer.remove(desc_el)
             offer.append(desc_ua_el)
 
-    # Обмеження на кількість товарів для генерації описів (щоб не витрачати забагато коштів)
-    max_test_items = 5  
+    max_test_items = 5  # обмеження для тесту
     count = 0
-
+        
     offers = root.find(".//offers").findall("offer")
     for offer in offers:
         if count >= max_test_items:
@@ -134,6 +103,34 @@ def convert_categories_and_hierarchy(
 
     indent(root)
     tree.write(output_file, encoding='utf-8', xml_declaration=True)
+
+def generate_description(product_name, current_description):
+    try:
+        messages = [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant who writes SEO-optimized product descriptions in Ukrainian."
+            },
+            {
+                "role": "user",
+                "content": (
+                    f"Напиши унікальний, грамотний і SEO-оптимізований опис українською мовою "
+                    f"для товару: {product_name}. "
+                    f"Поточний опис: {current_description}. "
+                    f"Опис має бути природнім, інформативним і без зайвої води."
+                )
+            }
+        ]
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=messages,
+            max_tokens=300,
+            temperature=0.7,
+        )
+        return response.choices[0].message.content.strip()
+    except Exception as e:
+        print(f"Помилка генерації опису для {product_name}: {e}")
+        return current_description
 
 
 if __name__ == '__main__':
