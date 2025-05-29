@@ -69,18 +69,23 @@ def convert_categories_and_hierarchy(
             offer.remove(desc_el)
             offer.append(desc_ua_el)
     
-    # Генеруємо нові унікальні описи через OpenAI API для кожного товару
-    offers = root.find(".//offers").findall("offer")
-    for offer in offers:
-        name_el = offer.find("name_ua")
-        desc_el = offer.find("description_ua")
-        if name_el is not None and desc_el is not None:
-            product_name = name_el.text or ""
-            current_description = desc_el.text or ""
-            print(f"Генеруємо опис для: {product_name}")
-            new_description = generate_description(product_name, current_description)
-            desc_el.text = new_description
-            time.sleep(2)  # пауза щоб не перевантажити API
+        max_test_items = 5  # обмеження для тесту
+        count = 0
+        
+        offers = root.find(".//offers").findall("offer")
+        for offer in offers:
+            if count >= max_test_items:
+                break
+            name_el = offer.find("name_ua")
+            desc_el = offer.find("description_ua")
+            if name_el is not None and desc_el is not None:
+                product_name = name_el.text or ""
+                current_description = desc_el.text or ""
+                print(f"Генеруємо опис для: {product_name}")
+                new_description = generate_description(product_name, current_description)
+                desc_el.text = new_description
+                count += 1
+                time.sleep(2)  # пауза щоб не перевантажити API
 
 
     # Функція для гарного форматування XML
