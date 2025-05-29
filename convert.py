@@ -1,6 +1,10 @@
 import os
 import requests
 import xml.etree.ElementTree as ET
+import openai
+import time
+
+openai.api_key = os.getenv('convertkey')
 
 def download_file(url, dest_path):
     response = requests.get(url)
@@ -57,13 +61,27 @@ def convert_categories_and_hierarchy(
             name_ua_el.text = name_el.text
             offer.remove(name_el)
             offer.append(name_ua_el)
-
+    
         desc_el = offer.find("description")
         if desc_el is not None:
             desc_ua_el = ET.Element("description_ua")
             desc_ua_el.text = desc_el.text
             offer.remove(desc_el)
             offer.append(desc_ua_el)
+    
+    # Генеруємо нові унікальні описи через OpenAI API для кожного товару
+    offers = root.find(".//offers").findall("offer")
+    for offer in offers:
+        name_el = offer.find("name_ua")
+        desc_el = offer.find("description_ua")
+        if name_el is not None and desc_el is not None:
+            product_name = name_el.text or ""
+            current_description = desc_el.text or ""
+            print(f"Генеруємо опис для: {product_name}")
+            new_description = generate_description(product_name, current_description)
+            desc_el.text = new_description
+            time.sleep(2)  # пауза щоб не перевантажити API
+
 
     # Функція для гарного форматування XML
     def indent(elem, level=0):
@@ -80,6 +98,28 @@ def convert_categories_and_hierarchy(
 
     indent(root)
     tree.write(output_file, encoding='utf-8', xml_declaration=True)
+
+def generate_description(product_name, current_description):
+    prompt = (
+        f"Напиши унікальний, грамотний і SEO-оптимізований опис українською мовою "
+        f"для товару: {product_name}. "
+        f"Поточний опис: {current_description}. "
+        f"Опис має бути природнім, інформативним і без зайвої води."
+    )
+    try:
+        response = openai.ChatCompletion.create(
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "user", "content": prompt}
+            ],
+            max_tokens=300,
+            temperature=0.7,
+        )
+        return response['choices'][0]['message']['content'].strip()
+    except Exception as e:
+        print(f"Помилка генерації опису для {product_name}: {e}")
+        return current_description
+
 
 if __name__ == '__main__':
     category_mappings = [
