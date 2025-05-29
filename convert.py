@@ -2,10 +2,13 @@ import os
 import requests
 import xml.etree.ElementTree as ET
 import time
-from openai import OpenAI
 
-openai_api_key = os.getenv('OPENAI_API_KEY')
-client = OpenAI(api_key=openai_api_key)
+ENABLE_DESCRIPTION_GENERATION = False
+
+if ENABLE_DESCRIPTION_GENERATION:
+    from openai import OpenAI
+    openai_api_key = os.getenv('OPENAI_API_KEY')
+    client = OpenAI(api_key=openai_api_key)
 
 def download_file(url, dest_path):
     response = requests.get(url)
@@ -70,23 +73,23 @@ def convert_categories_and_hierarchy(
             offer.remove(desc_el)
             offer.append(desc_ua_el)
 
-    max_test_items = 5  # обмеження для тесту
-    count = 0
-        
-    offers = root.find(".//offers").findall("offer")
-    for offer in offers:
-        if count >= max_test_items:
-            break
-        name_el = offer.find("name_ua")
-        desc_el = offer.find("description_ua")
-        if name_el is not None and desc_el is not None:
-            product_name = name_el.text or ""
-            current_description = desc_el.text or ""
-            print(f"Генеруємо опис для: {product_name}")
-            new_description = generate_description(product_name, current_description)
-            desc_el.text = new_description
-            count += 1
-            time.sleep(2)  # пауза щоб не перевантажити API
+    if ENABLE_DESCRIPTION_GENERATION:
+        max_test_items = 5
+        count = 0
+        offers = root.find(".//offers").findall("offer")
+        for offer in offers:
+            if count >= max_test_items:
+                break
+            name_el = offer.find("name_ua")
+            desc_el = offer.find("description_ua")
+            if name_el is not None and desc_el is not None:
+                product_name = name_el.text or ""
+                current_description = desc_el.text or ""
+                print(f"Генеруємо опис для: {product_name}")
+                new_description = generate_description(product_name, current_description)
+                desc_el.text = new_description
+                count += 1
+                time.sleep(2)
 
     # Функція для гарного форматування XML
     def indent(elem, level=0):
@@ -162,15 +165,13 @@ if __name__ == '__main__':
         }
     ]
 
-    input_file = "shop.yml"            # файл з робочої теки (репозиторію)
-    output_file = "converted.yml"      # файл вихідний у корені репозиторію
+    input_file = "shop.yml"
+    output_file = "converted.yml"
 
     url = "https://blissclub.com.ua/user/downloadyml?hash=c5f296cdb87c9780b8d77379aaacf981&filename=products_with_html_breaks_retail.yml"
 
-    # Завантажуємо файл з URL у поточну теку під ім'ям shop.yml
     download_file(url, input_file)
 
-    # Запускаємо конвертацію
     convert_categories_and_hierarchy(
         input_file,
         output_file,
