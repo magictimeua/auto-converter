@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 import time
 from openai import OpenAI
 
-openai_api_key = os.getenv('convertkey')
+openai_api_key = os.getenv('OPENAI_API_KEY')
 client = OpenAI(api_key=openai_api_key)
 
 def download_file(url, dest_path):
