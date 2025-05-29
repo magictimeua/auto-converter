@@ -22,6 +22,13 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install requests
+        
+    - name: Run conversion script
+      env:
+        convertkey: ${{ secrets.convertkey }}
+      run: |
+        python convert.py
+
 
     - name: Run conversion script
       run: |
