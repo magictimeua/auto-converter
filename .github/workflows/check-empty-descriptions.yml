@@ -27,8 +27,8 @@ jobs:
         from lxml import etree
         import os
 
-        input_file = "./converted.yml"
-        output_file = "./empty_checker.txt"
+        input_file = "converted.yml"
+        output_file = "empty_checker.txt"
 
         if not os.path.exists(input_file):
             print(f"❌ Error: Input file '{input_file}' not found!")
@@ -40,7 +40,6 @@ jobs:
         try:
             root = etree.fromstring(content.encode("utf-8"))
         except etree.XMLSyntaxError:
-            # Якщо файл не валідний XML (наприклад, нема кореневого тегу), додаємо <root>
             content = "<root>\n" + content + "\n</root>"
             root = etree.fromstring(content.encode("utf-8"))
 
@@ -59,23 +58,15 @@ jobs:
             if desc == "" or desc == name:
                 current_ids.add(offer_id)
 
-        if current_ids:
-            print(f"Знайдено офферів з пустим або збігаючим описом: {len(current_ids)}")
-        else:
-            print("Офферів з пустим або збігаючим описом не знайдено")
+        print(f"Знайдено офферів з пустим або збігаючим описом: {len(current_ids)}")
 
         with open(output_file, "w", encoding="utf-8") as out:
-            out.write("\n".join(sorted(current_ids)))
-
-        print(f"\nВміст файлу {output_file} (перші 10 рядків):")
-        with open(output_file, "r", encoding="utf-8") as f:
-            lines = f.readlines()
-            for line in lines[:10]:
-                print(line.strip())
+            for offer_id in sorted(current_ids):
+                out.write(f"{offer_id}\n")
         EOF
 
     - name: Upload empty_checker.txt as artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v2
       with:
         name: empty-checker-results
         path: empty_checker.txt
