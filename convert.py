@@ -21,24 +21,48 @@ def convert_categories_and_hierarchy(
     input_file,
     output_file,
     category_mappings,
-    custom_categories
 ):
     tree = ET.parse(input_file)
     root = tree.getroot()
     categories_element = root.find(".//categories")
 
-    # Додаємо нові кастомні категорії
-    for cat in custom_categories:
-        new_cat = ET.Element('category', id=cat["id"])
-        new_cat.text = cat["name"]
-        categories_element.insert(0, new_cat)
+    # Відповідність id категорій нашого файлу до portal_id Prom.ua
+    portal_id_map = {
+        "996": "1767",
+        "78": "161007",
+        "139": "410201",
+        "168": "3504",
+        "169": "5280501",
+        "129": "161008",
+        "124": "15131001",
+        "96": "16131201",
+        "79": "161610",
+        "39": "161002",
+        "101": "161002",
+        "40": "161002",
+        "999": "161001",
+        "38": "161003",
+        "63": "161007",
+        "58": "351",
+        "59": "31202",
+        "60": "16100403",
+        "62": "304",
+        "68": "3121101",
+        "127": "3390107",
+        "69": "16100403",
+        "72": "319",
+        "73": "31208",
+        "74": "31206",
+        "75": "324",
+        "76": "16100404",
+        "77": "35402",
+    }
 
-    # Прив’язуємо дочірні категорії до відповідних parentId
+    # Додаємо portal_id до тегів <category> якщо id в нашому списку
     for category in categories_element.findall("category"):
-        cat_id = category.attrib["id"]
-        for parent_cat in custom_categories:
-            if cat_id in parent_cat["child_ids"]:
-                category.set("parentId", parent_cat["id"])
+        cat_id = category.attrib.get("id")
+        if cat_id in portal_id_map:
+            category.set("portal_id", portal_id_map[cat_id])
 
     # Заміна назв категорій у секції categories
     for old_name, new_name in category_mappings:
@@ -140,29 +164,6 @@ if __name__ == '__main__':
         ('Вібратори від 15см', 'Довгі')
     ]
 
-    custom_categories = [
-        {
-            "id": "999",
-            "name": "Секс-іграшки",
-            "child_ids": {"11", "12", "13", "33", "28", "34", "50", "35", "70", "82"}
-        },
-        {
-            "id": "998",
-            "name": "Прелюдія",
-            "child_ids": {"79", "39", "101", "40"}
-        },
-        {
-            "id": "997",
-            "name": "Сексуальне здоров’я",
-            "child_ids": {"129", "124", "96"}
-        },
-        {
-            "id": "996",
-            "name": "Різне",
-            "child_ids": {"83", "78", "139", "168", "169"}
-        }
-    ]
-
     input_file = "shop.yml"
     output_file = "converted.yml"
 
@@ -174,5 +175,4 @@ if __name__ == '__main__':
         input_file,
         output_file,
         category_mappings,
-        custom_categories
     )
