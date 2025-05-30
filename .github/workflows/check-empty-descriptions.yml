@@ -2,11 +2,11 @@ name: Check Empty Descriptions
 
 on:
   schedule:
-    - cron: '10 * * * *'  # запуск щогодини на 10-й хвилині
-  workflow_dispatch:
+    - cron: '0 * * * *'  # Щогодини
+  workflow_dispatch:  # Ручний запуск
 
 jobs:
-  check:
+  check_empty_desc:
     runs-on: ubuntu-latest
 
     steps:
@@ -18,10 +18,10 @@ jobs:
       with:
         python-version: '3.x'
 
-    - name: Install dependencies
+    - name: Install lxml
       run: pip install lxml
 
-    - name: Run empty description checker
+    - name: Check empty or same descriptions
       run: |
         python3 - <<EOF
         from lxml import etree
@@ -43,10 +43,12 @@ jobs:
         with open(input_file, "r", encoding="utf-8") as f:
             content = f.read()
 
-        if not content.strip().startswith("<root>"):
+        try:
+            root = etree.fromstring(content.encode("utf-8"))
+        except etree.XMLSyntaxError as e:
             content = "<root>\n" + content + "\n</root>"
+            root = etree.fromstring(content.encode("utf-8"))
 
-        root = etree.fromstring(content.encode("utf-8"))
         current_ids = set()
 
         for offer in root.xpath(".//offer"):
@@ -67,11 +69,3 @@ jobs:
 
         print(f"✅ Було: {len(previous_ids)} | Залишилося: {len(updated_ids)} | Видалено: {len(previous_ids - current_ids)} | Додано: {len(current_ids - previous_ids)}")
         EOF
-
-    - name: Commit and push empty_checker.txt
-      run: |
-        git config --global user.name "github-actions"
-        git config --global user.email "actions@github.com"
-        git add empty_checker.txt
-        git commit -m "Update empty_checker.txt" || echo "No changes to commit"
-        git push
