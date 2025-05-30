@@ -1,12 +1,12 @@
-name: Check Empty or Duplicate Descriptions
+name: Check Empty Descriptions
 
 on:
   schedule:
-    - cron: '10 * * * *'   # запуск через 10 хвилин після кожної години
+    - cron: '10 * * * *'  # запуск щогодини на 10-й хвилині
   workflow_dispatch:
 
 jobs:
-  check_descriptions:
+  check:
     runs-on: ubuntu-latest
 
     steps:
@@ -18,17 +18,17 @@ jobs:
       with:
         python-version: '3.x'
 
-    - name: Install lxml
+    - name: Install dependencies
       run: pip install lxml
 
-    - name: Run checker script
+    - name: Run empty description checker
       run: |
         python3 - <<EOF
         from lxml import etree
         import os
 
-        input_file = "auto-converter/converted.yml"
-        output_file = "auto-converter/empty_checker.txt"
+        input_file = "converted.yml"
+        output_file = "empty_checker.txt"
 
         if os.path.exists(output_file):
             with open(output_file, "r", encoding="utf-8") as f:
@@ -47,7 +47,6 @@ jobs:
             content = "<root>\n" + content + "\n</root>"
 
         root = etree.fromstring(content.encode("utf-8"))
-
         current_ids = set()
 
         for offer in root.xpath(".//offer"):
@@ -68,3 +67,11 @@ jobs:
 
         print(f"✅ Було: {len(previous_ids)} | Залишилося: {len(updated_ids)} | Видалено: {len(previous_ids - current_ids)} | Додано: {len(current_ids - previous_ids)}")
         EOF
+
+    - name: Commit and push empty_checker.txt
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "actions@github.com"
+        git add empty_checker.txt
+        git commit -m "Update empty_checker.txt" || echo "No changes to commit"
+        git push
