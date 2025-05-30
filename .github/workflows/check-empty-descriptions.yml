@@ -14,6 +14,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: List files in auto-converter for debugging
+        run: ls -l auto-converter || echo "Directory not found"
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -36,6 +41,10 @@ jobs:
                   previous_ids = set(line.strip() for line in f if line.strip())
           else:
               previous_ids = set()
+
+          if not os.path.exists(input_file):
+              print(f"Error: Input file '{input_file}' not found!")
+              exit(1)
 
           with open(input_file, "r", encoding="utf-8") as f:
               content = f.read()
