@@ -1,0 +1,54 @@
+name: Check Empty Descriptions
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check-descriptions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run description checker
+        run: |
+          pip install lxml
+
+          python3 - <<EOF
+          from lxml import etree
+
+          input_file = "auto-converter/converted.yml"
+          output_file = "auto-converter/empty_checker.txt"
+
+          with open(input_file, "r", encoding="utf-8") as f:
+              content = f.read()
+
+          # Wrap content in a root tag if needed
+          if not content.strip().startswith("<root>"):
+              content = "<root>\n" + content + "\n</root>"
+
+          root = etree.fromstring(content.encode("utf-8"))
+
+          empty_ids = []
+
+          for offer in root.xpath(".//offer"):
+              offer_id = offer.get("id")
+              name_el = offer.find("name")
+              desc_el = offer.find("description")
+
+              name = name_el.text.strip() if name_el is not None and name_el.text else ""
+              desc = desc_el.text.strip() if desc_el is not None and desc_el.text else ""
+
+              if desc == "" or desc == name:
+                  empty_ids.append(offer_id)
+
+          with open(output_file, "w", encoding="utf-8") as out:
+              out.write("\n".join(empty_ids))
+
+          print(f"Знайдено {len(empty_ids)} товарів з пустим або неоригінальним description.")
+          EOF
