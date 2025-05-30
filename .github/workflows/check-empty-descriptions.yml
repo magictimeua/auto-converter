@@ -3,7 +3,7 @@ name: Check Empty Descriptions
 on:
   schedule:
     - cron: '0 * * * *'   # запуск щогодини
-  workflow_dispatch:       # можливість запуску вручну
+  workflow_dispatch:       # ручний запуск вручну
 
 jobs:
   check_empty:
@@ -37,6 +37,7 @@ jobs:
         with open(input_file, "r", encoding="utf-8") as f:
             content = f.read()
 
+        # Якщо файл не має єдиного кореневого тегу, додати
         try:
             root = etree.fromstring(content.encode("utf-8"))
         except etree.XMLSyntaxError:
@@ -47,6 +48,7 @@ jobs:
         print(f"Знайдено офферів: {len(offers)}")
 
         current_ids = set()
+
         for offer in offers:
             offer_id = offer.get("id")
             name_el = offer.find("name")
@@ -56,13 +58,17 @@ jobs:
             desc = desc_el.text.strip() if desc_el is not None and desc_el.text else ""
 
             if desc == "" or desc == name:
-                current_ids.add(offer_id)
+                if offer_id and offer_id.strip():
+                    current_ids.add(offer_id.strip())
 
-        if current_ids:
-            print(f"Знайдено офферів з пустим або збігаючим описом: {len(current_ids)}")
-        else:
-            print("Офферів з пустим або збігаючим описом не знайдено")
+        print(f"Знайдено офферів з пустим або збігаючим описом: {len(current_ids)}")
 
+        # Записуємо у файл
         with open(output_file, "w", encoding="utf-8") as out:
-            out.write("\n".join(sorted(current_ids)))
+            for cid in sorted(current_ids):
+                out.write(cid + "\n")
+
+        # Для перевірки виводимо перші 10 id
+        print("Перші 10 ID з файлу:")
+        print("\n".join(sorted(current_ids)[:10]))
         EOF
