@@ -8,6 +8,8 @@ ENABLE_DESCRIPTION_GENERATION = False
 if ENABLE_DESCRIPTION_GENERATION:
     from openai import OpenAI
     openai_api_key = os.getenv('OPENAI_API_KEY')
+    if not openai_api_key:
+        raise RuntimeError("Встановіть змінну середовища OPENAI_API_KEY для генерації описів")
     client = OpenAI(api_key=openai_api_key)
 
 def download_file(url, dest_path):
@@ -28,15 +30,15 @@ def convert_categories_and_hierarchy(
     root = tree.getroot()
     categories_element = root.find(".//categories")
 
-    # Додаємо нові кастомні категорії
+    # Додаємо нові кастомні категорії спереду
     for cat in custom_categories:
         new_cat = ET.Element('category', id=cat["id"])
         new_cat.text = cat["name"]
         categories_element.insert(0, new_cat)
 
-    # Прив’язуємо дочірні категорії до відповідних parentId
+    # Прив’язуємо дочірні категорії до parentId
     for category in categories_element.findall("category"):
-        cat_id = category.attrib["id"]
+        cat_id = category.attrib.get("id", "")
         for parent_cat in custom_categories:
             if cat_id in parent_cat["child_ids"]:
                 category.set("parentId", parent_cat["id"])
@@ -44,7 +46,7 @@ def convert_categories_and_hierarchy(
     # Заміна назв категорій у секції categories
     for old_name, new_name in category_mappings:
         for category in categories_element.findall("category"):
-            if category.text == old_name:
+            if category.text and category.text == old_name:
                 category.text = new_name
 
     # Заміна categoryId у товарах
@@ -54,15 +56,34 @@ def convert_categories_and_hierarchy(
         if category_element is not None:
             for old_name, new_name in category_mappings:
                 if category_element.text == old_name:
-                    new_cat_el = root.find(f".//category[.='{new_name}']")
+                    # Знайти категорію з новим ім’ям
+                    new_cat_el = None
+                    for c in categories_element.findall("category"):
+                        if c.text == new_name:
+                            new_cat_el = c
+                            break
                     if new_cat_el is not None:
                         offer.find("categoryId").text = new_cat_el.attrib["id"]
 
-    # Додаємо portal_id ТІЛЬКИ для категорій з portal_id_mappings
+    # Додаємо portal_id після parentId (якщо є), інакше після id
     for category in categories_element.findall("category"):
-        cat_id = category.attrib["id"]
+        cat_id = category.attrib.get("id", "")
         if cat_id in portal_id_mappings:
-            category.set("portal_id", portal_id_mappings[cat_id])
+            portal_id_value = portal_id_mappings[cat_id]
+            # Відновлюємо атрибути з правильним порядком
+            attribs = category.attrib.copy()
+            attribs["portal_id"] = portal_id_value
+            # Атрибут order: id -> parentId (якщо є) -> portal_id
+            new_attribs = {}
+            new_attribs["id"] = attribs.pop("id")
+            if "parentId" in attribs:
+                new_attribs["parentId"] = attribs.pop("parentId")
+            new_attribs["portal_id"] = attribs.pop("portal_id")
+            # Додаємо інші атрибути, якщо є
+            for k, v in attribs.items():
+                new_attribs[k] = v
+            category.attrib.clear()
+            category.attrib.update(new_attribs)
 
     # Заміна тегів name та description на name_ua і description_ua
     for offer in root.find(".//offers").findall("offer"):
@@ -106,10 +127,11 @@ def convert_categories_and_hierarchy(
                 elem.text = i + "    "
             for child in elem:
                 indent(child, level+1)
-            if not child.tail or not child.tail.strip():
-                child.tail = i
-        if level and (not elem.tail or not elem.tail.strip()):
-            elem.tail = i
+                if not child.tail or not child.tail.strip():
+                    child.tail = i
+        else:
+            if level and (not elem.tail or not elem.tail.strip()):
+                elem.tail = i
 
     indent(root)
     tree.write(output_file, encoding='utf-8', xml_declaration=True)
