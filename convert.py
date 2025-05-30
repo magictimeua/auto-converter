@@ -63,6 +63,7 @@ def convert_categories_and_hierarchy(
         cat_id = category.attrib.get("id")
         if cat_id in portal_id_map:
             category.set("portal_id", portal_id_map[cat_id])
+        # Якщо id немає у portal_id_map — нічого не змінюємо (категорія лишається без portal_id)
 
     # Заміна назв категорій у секції categories
     for old_name, new_name in category_mappings:
@@ -70,7 +71,7 @@ def convert_categories_and_hierarchy(
             if category.text == old_name:
                 category.text = new_name
 
-    # Заміна categoryId у товарах
+    # Заміна categoryId у товарах відповідно до оновлених назв категорій
     for offer in root.find(".//offers").findall("offer"):
         category_id = offer.find("categoryId").text
         category_element = root.find(f".//category[@id='{category_id}']")
