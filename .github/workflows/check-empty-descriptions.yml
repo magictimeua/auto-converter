@@ -1,74 +1,51 @@
-name: Check Empty Descriptions
+- name: Check empty descriptions
+  run: |
+    python3 - <<EOF
+    from lxml import etree
+    import os
 
-on:
-  schedule:
-    - cron: '0 * * * *'   # запуск щогодини
-  workflow_dispatch:       # ручний запуск вручну
+    input_file = "converted.yml"
+    output_file = "empty_checker.txt"
 
-jobs:
-  check_empty:
-    runs-on: ubuntu-latest
+    if not os.path.exists(input_file):
+        print(f"❌ Error: Input file '{input_file}' not found!")
+        exit(1)
 
-    steps:
-    - name: Checkout repo
-      uses: actions/checkout@v3
+    with open(input_file, "r", encoding="utf-8") as f:
+        content = f.read()
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.x'
+    try:
+        root = etree.fromstring(content.encode("utf-8"))
+    except etree.XMLSyntaxError:
+        content = "<root>\n" + content + "\n</root>"
+        root = etree.fromstring(content.encode("utf-8"))
 
-    - name: Install lxml
-      run: pip install lxml
+    offers = root.xpath(".//offer")
+    print(f"Знайдено офферів: {len(offers)}")
 
-    - name: Check empty descriptions
-      run: |
-        python3 - <<EOF
-        from lxml import etree
-        import os
+    current_ids = set()
 
-        input_file = "converted.yml"
-        output_file = "empty_checker.txt"
+    for offer in offers:
+        offer_id = offer.get("id")
+        name_el = offer.find("name")
+        desc_el = offer.find("description")
 
-        if not os.path.exists(input_file):
-            print(f"❌ Error: Input file '{input_file}' not found!")
-            exit(1)
+        name = name_el.text.strip() if name_el is not None and name_el.text else ""
+        desc = desc_el.text.strip() if desc_el is not None and desc_el.text else ""
 
-        with open(input_file, "r", encoding="utf-8") as f:
-            content = f.read()
+        if desc == "" or desc == name:
+            if offer_id and offer_id.strip():
+                current_ids.add(offer_id.strip())
 
-        # Якщо файл не має єдиного кореневого тегу, додати
-        try:
-            root = etree.fromstring(content.encode("utf-8"))
-        except etree.XMLSyntaxError:
-            content = "<root>\n" + content + "\n</root>"
-            root = etree.fromstring(content.encode("utf-8"))
+    print(f"Знайдено офферів з пустим або збігаючим описом: {len(current_ids)}")
 
-        offers = root.xpath(".//offer")
-        print(f"Знайдено офферів: {len(offers)}")
+    with open(output_file, "w", encoding="utf-8") as out:
+        for cid in sorted(current_ids):
+            out.write(cid + "\n")
 
-        current_ids = set()
-
-        for offer in offers:
-            offer_id = offer.get("id")
-            name_el = offer.find("name")
-            desc_el = offer.find("description")
-
-            name = name_el.text.strip() if name_el is not None and name_el.text else ""
-            desc = desc_el.text.strip() if desc_el is not None and desc_el.text else ""
-
-            if desc == "" or desc == name:
-                if offer_id and offer_id.strip():
-                    current_ids.add(offer_id.strip())
-
-        print(f"Знайдено офферів з пустим або збігаючим описом: {len(current_ids)}")
-
-        # Записуємо у файл
-        with open(output_file, "w", encoding="utf-8") as out:
-            for cid in sorted(current_ids):
-                out.write(cid + "\n")
-
-        # Для перевірки виводимо перші 10 id
-        print("Перші 10 ID з файлу:")
-        print("\n".join(sorted(current_ids)[:10]))
-        EOF
+    print(f"\nВміст файлу {output_file} (перші 10 рядків):")
+    with open(output_file, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+        for line in lines[:10]:
+            print(line.strip())
+    EOF
