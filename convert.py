@@ -57,20 +57,18 @@ def convert_categories_and_hierarchy(
                     if new_cat_el is not None:
                         offer.find("categoryId").text = new_cat_el.attrib["id"]
 
-    # Заміна тегів name та description на name_ua і description_ua
+    # Додаємо name_ua та description_ua, залишаючи name і description
     for offer in root.find(".//offers").findall("offer"):
         name_el = offer.find("name")
         if name_el is not None:
             name_ua_el = ET.Element("name_ua")
             name_ua_el.text = name_el.text
-            offer.remove(name_el)
             offer.append(name_ua_el)
     
         desc_el = offer.find("description")
         if desc_el is not None:
             desc_ua_el = ET.Element("description_ua")
             desc_ua_el.text = desc_el.text
-            offer.remove(desc_el)
             offer.append(desc_ua_el)
 
     if ENABLE_DESCRIPTION_GENERATION:
