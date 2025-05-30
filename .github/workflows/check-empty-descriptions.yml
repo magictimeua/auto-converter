@@ -2,70 +2,75 @@ name: Check Empty Descriptions
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Щогодини
-  workflow_dispatch:  # Ручний запуск
+    - cron: '0 * * * *'  # щогодини на початку години
+  workflow_dispatch:      # можливість запуску вручну
 
 jobs:
-  check_empty_desc:
+  check_empty:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.x'
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
-    - name: Install lxml
-      run: pip install lxml
+      - name: Install lxml
+        run: pip install lxml
 
-    - name: Check empty or same descriptions
-      run: |
-        python3 - <<EOF
-        from lxml import etree
-        import os
+      - name: Check empty descriptions
+        run: |
+          python3 - <<EOF
+          from lxml import etree
+          import os
 
-        input_file = "converted.yml"
-        output_file = "empty_checker.txt"
+          input_file = "converted.yml"
+          output_file = "empty_checker.txt"
 
-        if os.path.exists(output_file):
-            with open(output_file, "r", encoding="utf-8") as f:
-                previous_ids = set(line.strip() for line in f if line.strip())
-        else:
-            previous_ids = set()
+          if os.path.exists(output_file):
+              with open(output_file, "r", encoding="utf-8") as f:
+                  previous_ids = set(line.strip() for line in f if line.strip())
+          else:
+              previous_ids = set()
 
-        if not os.path.exists(input_file):
-            print(f"❌ Error: Input file '{input_file}' not found!")
-            exit(1)
+          if not os.path.exists(input_file):
+              print(f"❌ Error: Input file '{input_file}' not found!")
+              exit(1)
 
-        with open(input_file, "r", encoding="utf-8") as f:
-            content = f.read()
+          with open(input_file, "r", encoding="utf-8") as f:
+              content = f.read()
 
-        try:
-            root = etree.fromstring(content.encode("utf-8"))
-        except etree.XMLSyntaxError as e:
-            content = "<root>\n" + content + "\n</root>"
-            root = etree.fromstring(content.encode("utf-8"))
+          try:
+              root = etree.fromstring(content.encode("utf-8"))
+          except etree.XMLSyntaxError:
+              content = "<root>\\n" + content + "\\n</root>"
+              root = etree.fromstring(content.encode("utf-8"))
 
-        current_ids = set()
+          current_ids = set()
+          count = 0
 
-        for offer in root.xpath(".//offer"):
-            offer_id = offer.get("id")
-            name_el = offer.find("name")
-            desc_el = offer.find("description")
+          for offer in root.xpath(".//offer"):
+              offer_id = offer.get("id")
+              name_el = offer.find("name")
+              desc_el = offer.find("description")
 
-            name = name_el.text.strip() if name_el is not None and name_el.text else ""
-            desc = desc_el.text.strip() if desc_el is not None and desc_el.text else ""
+              name = name_el.text.strip() if name_el is not None and name_el.text else ""
+              desc = desc_el.text.strip() if desc_el is not None and desc_el.text else ""
 
-            if desc == "" or desc == name:
-                current_ids.add(offer_id)
+              if count < 5:
+                  print(f"Offer id={offer_id}, name='{name}', desc='{desc}'")
+                  count += 1
 
-        updated_ids = sorted(current_ids)
+              if desc == "" or desc == name:
+                  current_ids.add(offer_id)
 
-        with open(output_file, "w", encoding="utf-8") as out:
-            out.write("\n".join(updated_ids))
+          updated_ids = sorted(current_ids)
 
-        print(f"✅ Було: {len(previous_ids)} | Залишилося: {len(updated_ids)} | Видалено: {len(previous_ids - current_ids)} | Додано: {len(current_ids - previous_ids)}")
-        EOF
+          with open(output_file, "w", encoding="utf-8") as out:
+              out.write("\\n".join(updated_ids))
+
+          print(f"✅ Було: {len(previous_ids)} | Залишилося: {len(updated_ids)} | Видалено: {len(previous_ids - current_ids)} | Додано: {len(current_ids - previous_ids)}")
+          EOF
