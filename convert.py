@@ -28,26 +28,26 @@ def convert_categories_and_hierarchy(
     root = tree.getroot()
     categories_element = root.find(".//categories")
 
-    # --- 1. Додаємо нові кастомні категорії ---
+    # Додаємо нові кастомні категорії
     for cat in custom_categories:
         new_cat = ET.Element('category', id=cat["id"])
         new_cat.text = cat["name"]
         categories_element.insert(0, new_cat)
 
-    # --- 2. Прив’язуємо дочірні категорії до відповідних parentId ---
+    # Прив’язуємо дочірні категорії до відповідних parentId
     for category in categories_element.findall("category"):
         cat_id = category.attrib["id"]
         for parent_cat in custom_categories:
             if cat_id in parent_cat["child_ids"]:
                 category.set("parentId", parent_cat["id"])
 
-    # --- 3. Заміна назв категорій ---
+    # Заміна назв категорій у секції categories
     for old_name, new_name in category_mappings:
         for category in categories_element.findall("category"):
             if category.text == old_name:
                 category.text = new_name
 
-    # --- 4. Заміна categoryId у товарах ---
+    # Заміна categoryId у товарах
     for offer in root.find(".//offers").findall("offer"):
         category_id = offer.find("categoryId").text
         category_element = root.find(f".//category[@id='{category_id}']")
@@ -58,15 +58,13 @@ def convert_categories_and_hierarchy(
                     if new_cat_el is not None:
                         offer.find("categoryId").text = new_cat_el.attrib["id"]
 
-    # --- 5. Додаємо portal_id до категорій ---
-    # Атрибут portal_id додаємо після parentId, якщо він є, інакше після id.
-    # У xml.etree.ElementTree порядок атрибутів не гарантований, тому просто додаємо атрибут portal_id.
+    # Додаємо portal_id ТІЛЬКИ для категорій з portal_id_mappings
     for category in categories_element.findall("category"):
         cat_id = category.attrib["id"]
         if cat_id in portal_id_mappings:
             category.set("portal_id", portal_id_mappings[cat_id])
 
-    # --- 6. Перейменування тегів name та description на name_ua і description_ua ---
+    # Заміна тегів name та description на name_ua і description_ua
     for offer in root.find(".//offers").findall("offer"):
         name_el = offer.find("name")
         if name_el is not None:
@@ -74,7 +72,7 @@ def convert_categories_and_hierarchy(
             name_ua_el.text = name_el.text
             offer.remove(name_el)
             offer.append(name_ua_el)
-
+    
         desc_el = offer.find("description")
         if desc_el is not None:
             desc_ua_el = ET.Element("description_ua")
@@ -82,7 +80,6 @@ def convert_categories_and_hierarchy(
             offer.remove(desc_el)
             offer.append(desc_ua_el)
 
-    # --- 7. Генерація описів через OpenAI (опціонально) ---
     if ENABLE_DESCRIPTION_GENERATION:
         max_test_items = 5
         count = 0
@@ -101,7 +98,7 @@ def convert_categories_and_hierarchy(
                 count += 1
                 time.sleep(2)
 
-    # --- 8. Форматування XML ---
+    # Функція для гарного форматування XML
     def indent(elem, level=0):
         i = "\n" + level*"    "
         if len(elem):
@@ -145,6 +142,7 @@ def generate_description(product_name, current_description):
         print(f"Помилка генерації опису для {product_name}: {e}")
         return current_description
 
+
 if __name__ == '__main__':
     category_mappings = [
         ('Вібратори до 15см', 'Компактні'),
@@ -175,15 +173,34 @@ if __name__ == '__main__':
     ]
 
     portal_id_mappings = {
-        "999": "12345",
-        "998": "12346",
-        "997": "12347",
-        "996": "12348",
-        # приклад інших id категорій порталу Prom.ua
-        "11": "11111",
-        "12": "11112",
-        "13": "11113",
-        # і т.д. — додавай свої ID тут
+        "996": "1767",
+        "78": "161007",
+        "139": "410201",
+        "168": "3504",
+        "169": "5280501",
+        "129": "161008",
+        "124": "15131001",
+        "96": "16131201",
+        "79": "161610",
+        "39": "161002",
+        "101": "161002",
+        "40": "161002",
+        "999": "161001",
+        "38": "161003",
+        "63": "161007",
+        "58": "351",
+        "59": "31202",
+        "60": "16100403",
+        "62": "304",
+        "68": "3121101",
+        "127": "3390107",
+        "69": "16100403",
+        "72": "319",
+        "73": "31208",
+        "74": "31206",
+        "75": "324",
+        "76": "16100404",
+        "77": "35402",
     }
 
     input_file = "shop.yml"
