@@ -66,7 +66,7 @@ jobs:
         EOF
 
     - name: Upload empty_checker.txt as artifact
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: empty-checker-results
         path: empty_checker.txt
