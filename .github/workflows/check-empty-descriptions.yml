@@ -3,7 +3,7 @@ name: Check Empty Descriptions
 on:
   schedule:
     - cron: '0 * * * *'   # запуск щогодини
-  workflow_dispatch:       # ручний запуск
+  workflow_dispatch:       # можливість запуску вручну
 
 jobs:
   check_empty:
@@ -43,23 +43,17 @@ jobs:
             content = "<root>\n" + content + "\n</root>"
             root = etree.fromstring(content.encode("utf-8"))
 
-        print("Кореневі теги у файлі:")
-        for child in root[:3]:
-            print(f"  {child.tag}")
-
         offers = root.xpath(".//offer")
         print(f"Знайдено офферів: {len(offers)}")
 
         current_ids = set()
-        for i, offer in enumerate(offers[:5]):
+        for offer in offers:
             offer_id = offer.get("id")
             name_el = offer.find("name")
             desc_el = offer.find("description")
 
             name = name_el.text.strip() if name_el is not None and name_el.text else ""
             desc = desc_el.text.strip() if desc_el is not None and desc_el.text else ""
-
-            print(f"Оффер #{i+1} id={offer_id}, name='{name}', desc='{desc[:30]}'")
 
             if desc == "" or desc == name:
                 current_ids.add(offer_id)
