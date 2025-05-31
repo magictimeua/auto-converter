@@ -68,6 +68,11 @@ jobs:
               for line in sorted(ids)[:10]:
                   print(line)
           EOF
+      - name: Debug file existence
+        run: |
+          echo "=== ПЕРЕВІРКА ФАЙЛУ ==="
+          ls -lh
+          cat empty_checker.txt || echo "Файл не знайдено або порожній"
 
       - name: Upload results
         uses: actions/upload-artifact@main
