@@ -23,13 +23,13 @@ jobs:
 
       - name: Check empty descriptions
         run: |
-          python3 - <<EOF
+          cd "$GITHUB_WORKSPACE"
+          python3 <<EOF
           from lxml import etree
           import os
 
           input_file = "converted.yml"
           output_file = "empty_checker.txt"
-          output_path = os.path.join(os.getcwd(), output_file)
 
           if not os.path.exists(input_file):
               print(f"❌ Error: Input file '{input_file}' not found!")
@@ -61,18 +61,19 @@ jobs:
 
           print(f"Знайдено офферів з пустим або збігаючим описом: {len(ids)}")
 
-          with open(output_path, "w", encoding="utf-8") as out:
+          with open(output_file, "w", encoding="utf-8") as out:
               out.write("\n".join(sorted(ids)))
 
-          print("\n✅ Файл успішно записано в:", output_path)
+          print("\n✅ Файл успішно записано в:", os.path.abspath(output_file))
 
-          with open(output_path, "r", encoding="utf-8") as out:
+          with open(output_file, "r", encoding="utf-8") as out:
               print("\nВміст файлу empty_checker.txt (перші 10 рядків):")
               for i, line in enumerate(out):
                   if i >= 10:
                       break
                   print(line.strip())
           EOF
+
 
       - name: Debug file existence
         run: |
