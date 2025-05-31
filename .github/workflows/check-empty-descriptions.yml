@@ -28,7 +28,7 @@ jobs:
           import os
 
           input_file = "converted.yml"
-          output_file = os.path.join(os.getcwd(), "empty_checker.txt")
+          output_file = "empty_checker.txt"
 
           if not os.path.exists(input_file):
               print(f"❌ Error: Input file '{input_file}' not found!")
