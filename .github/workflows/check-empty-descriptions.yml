@@ -2,8 +2,8 @@ name: Check Empty Descriptions
 
 on:
   schedule:
-    - cron: '0 * * * *'   # запуск щогодини
-  workflow_dispatch:       # ручний запуск
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   check_empty:
@@ -18,18 +18,18 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install lxml
+      - name: Install dependencies
         run: pip install lxml
 
       - name: Check empty descriptions
         run: |
-          cd "$GITHUB_WORKSPACE"
+          mkdir -p artifacts
           python3 <<EOF
           from lxml import etree
           import os
 
           input_file = "converted.yml"
-          output_file = "empty_checker.txt"
+          output_file = "artifacts/empty_checker.txt"
 
           if not os.path.exists(input_file):
               print(f"❌ Error: Input file '{input_file}' not found!")
@@ -74,16 +74,8 @@ jobs:
                   print(line.strip())
           EOF
 
-
-      - name: Debug file existence
-        run: |
-          echo "=== ПЕРЕВІРКА ФАЙЛУ ==="
-          ls -lh
-          file empty_checker.txt
-          cat empty_checker.txt || echo "❌ Файл не знайдено або порожній"
-
       - name: Upload results
-        uses: actions/upload-artifact@main
+        uses: actions/upload-artifact@v3
         with:
           name: empty-description-offers
-          path: ./empty_checker.txt
+          path: artifacts/empty_checker.txt
