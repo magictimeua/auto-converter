@@ -2,7 +2,7 @@ name: Check Empty Descriptions
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'  # щогодини
   workflow_dispatch:
 
 jobs:
@@ -21,15 +21,14 @@ jobs:
       - name: Install dependencies
         run: pip install lxml
 
-      - name: Check empty descriptions
+      - name: Check and update empty descriptions
         run: |
-          mkdir -p artifacts
           python3 <<EOF
           from lxml import etree
           import os
 
           input_file = "converted.yml"
-          output_file = "artifacts/empty_checker.txt"
+          output_file = "empty_checker.txt"
 
           if not os.path.exists(input_file):
               print(f"❌ Error: Input file '{input_file}' not found!")
@@ -64,7 +63,7 @@ jobs:
           with open(output_file, "w", encoding="utf-8") as out:
               out.write("\n".join(sorted(ids)))
 
-          print("\n✅ Файл успішно записано в:", os.path.abspath(output_file))
+          print(f"\n✅ Файл успішно оновлено: {os.path.abspath(output_file)}")
 
           with open(output_file, "r", encoding="utf-8") as out:
               print("\nВміст файлу empty_checker.txt (перші 10 рядків):")
@@ -74,8 +73,12 @@ jobs:
                   print(line.strip())
           EOF
 
-      - name: Upload results
-        uses: actions/upload-artifact@main
-        with:
-          name: empty-description-offers
-          path: artifacts/empty_checker.txt
+      - name: Commit updated empty_checker.txt
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add empty_checker.txt
+          git diff --cached --quiet || git commit -m "🔄 update empty_checker.txt"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
