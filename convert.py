@@ -86,16 +86,25 @@ def convert_categories_and_hierarchy(
             category.attrib.update(new_attribs)
 
     # Заміна тегів name та description на name_ua і description_ua
-    for offer in root.find(".//offers").findall("offer"):
+        for offer in root.find(".//offers").findall("offer"):
         name_el = offer.find("name")
-        if name_el is not None:
-            # Копіюємо текст name у name_ua, але залишаємо name
+        if name_el is None:
+            name_el = ET.Element("name")
+            name_el.text = "Назва товару"  # або можеш поставити "" або якийсь fallback
+            offer.append(name_el)
+
+        if offer.find("name_ua") is None:
             name_ua_el = ET.Element("name_ua")
             name_ua_el.text = name_el.text
             offer.append(name_ua_el)
-    
+
         desc_el = offer.find("description")
-        if desc_el is not None:
+        if desc_el is None:
+            desc_el = ET.Element("description")
+            desc_el.text = "Опис товару"  # або теж залишити ""
+            offer.append(desc_el)
+
+        if offer.find("description_ua") is None:
             desc_ua_el = ET.Element("description_ua")
             desc_ua_el.text = desc_el.text
             offer.append(desc_ua_el)
