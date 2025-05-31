@@ -75,7 +75,7 @@ jobs:
           EOF
 
       - name: Upload results
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@main
         with:
           name: empty-description-offers
           path: artifacts/empty_checker.txt
