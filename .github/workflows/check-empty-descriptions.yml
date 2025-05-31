@@ -10,63 +10,69 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.x'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
-    - name: Install lxml
-      run: pip install lxml
+      - name: Install lxml
+        run: pip install lxml
 
-    - name: Check empty descriptions
-      run: |
-        python3 - <<EOF
-        from lxml import etree
-        import os
+      - name: Check empty descriptions
+        run: |
+          python3 - <<EOF
+          from lxml import etree
+          import os
 
-        input_file = "converted.yml"
-        output_file = "empty_checker.txt"
+          input_file = "converted.yml"
+          output_file = "empty_checker.txt"
 
-        if not os.path.exists(input_file):
-            print(f"❌ Error: Input file '{input_file}' not found!")
-            exit(1)
+          if not os.path.exists(input_file):
+              print(f"❌ Error: Input file '{input_file}' not found!")
+              exit(1)
 
-        with open(input_file, "r", encoding="utf-8") as f:
-            content = f.read()
+          with open(input_file, "r", encoding="utf-8") as f:
+              content = f.read()
 
-        try:
-            root = etree.fromstring(content.encode("utf-8"))
-        except etree.XMLSyntaxError:
-            content = "<root>\n" + content + "\n</root>"
-            root = etree.fromstring(content.encode("utf-8"))
+          try:
+              root = etree.fromstring(content.encode("utf-8"))
+          except etree.XMLSyntaxError:
+              content = "<root>\n" + content + "\n</root>"
+              root = etree.fromstring(content.encode("utf-8"))
 
-        offers = root.xpath(".//offer")
-        print(f"Знайдено офферів: {len(offers)}")
+          offers = root.xpath(".//offer")
+          print(f"\nЗнайдено офферів: {len(offers)}")
 
-        current_ids = set()
-        for offer in offers:
-            offer_id = offer.get("id")
-            name_el = offer.find("name")
-            desc_el = offer.find("description")
+          ids = []
+          for offer in offers:
+              offer_id = offer.get("id")
+              name_el = offer.find("name")
+              desc_el = offer.find("description")
 
-            name = name_el.text.strip() if name_el is not None and name_el.text else ""
-            desc = desc_el.text.strip() if desc_el is not None and desc_el.text else ""
+              name = name_el.text.strip() if name_el is not None and name_el.text else ""
+              desc = desc_el.text.strip() if desc_el is not None and desc_el.text else ""
 
-            if desc == "" or desc == name:
-                current_ids.add(offer_id)
+              if desc == "" or desc == name:
+                  ids.append(offer_id)
 
-        print(f"Знайдено офферів з пустим або збігаючим описом: {len(current_ids)}")
+          print(f"Знайдено офферів з пустим або збігаючим описом: {len(ids)}")
 
-        with open(output_file, "w", encoding="utf-8") as out:
-            for offer_id in sorted(current_ids):
-                out.write(f"{offer_id}\n")
-        EOF
+          with open(output_file, "w", encoding="utf-8") as out:
+              out.write("\n".join(sorted(ids)))
 
-    - name: Upload empty_checker.txt as artifact
-      uses: actions/upload-artifact@v3
-      with:
-        name: empty-checker-results
-        path: empty_checker.txt
+          with open(output_file, "r", encoding="utf-8") as out:
+              print("\nВміст файлу empty_checker.txt (перші 10 рядків):")
+              for i, line in enumerate(out):
+                  if i >= 10:
+                      break
+                  print(line.strip())
+          EOF
+
+      - name: Upload results
+        uses: actions/upload-artifact@v2
+        with:
+          name: empty-description-offers
+          path: empty_checker.txt
