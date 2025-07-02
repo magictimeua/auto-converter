@@ -1,4 +1,4 @@
-name: Generate Descriptions & Keywords
+name: Generate Descriptions FINAL
 
 on:
   workflow_dispatch:
