@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-07-08 16:15">
+<yml_catalog date="2025-07-08 17:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -287,6 +287,24 @@ Silicone Boss of Toys - це ідеальний вибір для тих, хто
 Чому обирають Silicone Boss of Toys:&lt;br /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;br /&gt;
 Silicone Boss of Toys - це ідеальний вибір для тих, хто шукає лубрикант на силіконовій основі з тривалим зволоженням і плавним ковзанням. Його висока якість і спеціально розроблена формула забезпечують комфорт і задоволення під час інтимних моментів, роблячи їх більш приємними і чуттєвими.</description_ua>
+            </offer>
+        <offer id="6-0003802" available="true">
+                <erp>6-0003802</erp>
+            <barcode>6-0003802</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2295-feromony_casual_navy_50ml_feromony_dla_mfioletowe</url>
+            <price>610.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>81</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/6-0003802.jpg</picture>
+            <name>Парфуми Casual Navy 50ml feromony dla mFioletowe</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>WPJ</vendor>
+            <model>Парфуми Casual Navy 50ml feromony dla mFioletowe</model>
+            <description>Парфуми Casual Navy 50ml feromony dla mFioletowe</description>
+            <name_ua>Парфуми Casual Navy 50ml feromony dla mFioletowe</name_ua>
+            <description_ua>Парфуми Casual Navy 50ml feromony dla mFioletowe</description_ua>
             </offer>
         <offer id="26-00003" available="true">
                 <erp>26-00003</erp>
@@ -22200,24 +22218,6 @@ Satisfyer Spinning G-Spot 1: Водонепроникний (IPX7) вібрат�
             <description>Вагінальні кульки CLEAR ANAL BEADS LARGE</description>
             <name_ua>Вагінальні кульки CLEAR ANAL BEADS LARGE</name_ua>
             <description_ua>Вагінальні кульки CLEAR ANAL BEADS LARGE</description_ua>
-            </offer>
-        <offer id="6-0003803" available="true">
-                <erp>6-0003803</erp>
-            <barcode>6-0003803</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2296-feromony_casual_green_50ml_feromony_dla_mzielone</url>
-            <price>610.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>81</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/6-0003803.jpg</picture>
-            <name>Парфуми Casual Green 50ml feromony dla mZielone</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>WPJ</vendor>
-            <model>Парфуми Casual Green 50ml feromony dla mZielone</model>
-            <description>Парфуми Casual Green 50ml feromony dla mZielone</description>
-            <name_ua>Парфуми Casual Green 50ml feromony dla mZielone</name_ua>
-            <description_ua>Парфуми Casual Green 50ml feromony dla mZielone</description_ua>
             </offer>
         <offer id="31-57700" available="true">
                 <erp>31-57700</erp>
