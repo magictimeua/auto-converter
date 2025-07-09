@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-07-09 14:00">
+<yml_catalog date="2025-07-09 15:15">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -15176,6 +15176,24 @@ Hummer Munde 2в1 виготовлений з м'якого гіпоалерге
             <name_ua>Страпон BAILE Sensual Comfort Strap-On</name_ua>
             <description_ua>Реалістичний силіконовий протез з вібратором, з плавним регулюванням вібрації. У набір входять трусики на ремнях, які дозволяють регулювати розмір. Колір фалоімітатора : тілесний. Розміри: довжина: 16,5 см, діаметр: 3,7 см. Живлення:  батарейки 2xAA - немає в комплекті.</description_ua>
             </offer>
+        <offer id="BI-014362" available="true">
+                <erp>BI-014362</erp>
+            <barcode>6959532315943</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/24548-pretty_love__benson</url>
+            <price>1052.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>21</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/BI-014362.jpg</picture>
+            <name>Віброяйце PRETTY LOVE -Benson</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor />
+            <model>Віброяйце PRETTY LOVE -Benson</model>
+            <description>Віброяйце PRETTY LOVE -Benson</description>
+            <name_ua>Віброяйце PRETTY LOVE -Benson</name_ua>
+            <description_ua>Віброяйце PRETTY LOVE -Benson</description_ua>
+            </offer>
         <offer id="BI-014617" available="true">
                 <erp>BI-014617</erp>
             <barcode>6959532331479</barcode>
@@ -18344,6 +18362,33 @@ Cloud Dancer привертає увагу своїм надзвичайно п�
 &lt;br /&gt;
 Прозоре покриття з гладкого силікону, привабливі на дотик вигини та захоплюючий дизайн у формі хмари настільки красиві, що ви можете закохатися в цей продукт. Цей вібратор на кліпсах спокушає своїм привабливим зовнішнім виглядом, що робить його не тільки ідеальним вибором для всіх безнадійних романтиків, але й чудово виглядає як подарунок. Satisfyer Cloud Dancer: чуттєва стимуляція клітора&lt;br /&gt;
 Cloud Dancer привертає увагу своїм надзвичайно привабливим зовнішнім виглядом, але внутрішні якості цього вібратора також вас порадують: 11 програм хвиль тиску та 12 режимів вібрації можна вільно комбінувати. Безконтактна стимуляція клітора в поєднанні з захоплюючими вібраціями подарує вам задоволення не тільки під час соло гри. Завдяки зручному розміру та чарівному дизайну Cloud Dancer також ідеально підходить для того, щоб прикрасити інтимні моменти для двох (завдяки його водонепроникному покриттю (IPX7) навіть у ванні чи душі). Цей хвильовий вібратор виготовлений з гігієнічного силікону, який приємний на шкіру. Його матеріал можна легко очистити засобом для чищення іграшок або теплою водою з м’яким милом. USB-кабель для заряджання, що входить у комплект, забезпечує повну потужність для вашого задоволення. Дозвольте себе спокусити Satisfyer Cloud Dancer і насолоджуйтеся еротичним запамороченням!</description_ua>
+            </offer>
+        <offer id="BI-210225" available="true">
+                <erp>BI-210225</erp>
+            <barcode>6959532325898</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31103-erektsiyne_kilytse_pretty_love__pennis_ring_rodrigo</url>
+            <price>489.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>109</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_311006616bdc37a4e8.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6616bdc081356.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6616bdc0a223e.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6616bdc0b289b.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6616bdc0bf42e.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6616bdc0cb7b4.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6616bdc0d78f4.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6616bdc0e6184.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6616bdc0f33b8.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6616bdc10c989.jpeg</picture>
+            <name>Ерекційне кільце PRETTY LOVE -PENNIS RING RODRIGO</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor />
+            <model>Ерекційне кільце PRETTY LOVE -PENNIS RING RODRIGO</model>
+            <description>Ерекційне кільце PRETTY LOVE -PENNIS RING RODRIGO</description>
+            <name_ua>Ерекційне кільце PRETTY LOVE -PENNIS RING RODRIGO</name_ua>
+            <description_ua>Ерекційне кільце PRETTY LOVE -PENNIS RING RODRIGO</description_ua>
             </offer>
         <offer id="CN-920832506" available="true">
                 <erp>CN-920832506</erp>
@@ -24223,24 +24268,6 @@ JoyDivision BIOglide Neutral - це ідеальний вибір для тих,
             <name_ua>Вібратор BAILE Water Spray Telecontrol Vibration</name_ua>
             <description_ua>Реалістичний пеніс зі штучною еякуляцією та вібраціями. Функція еякуляції дозволяє наливати воду або іншу рідину в пеніс. Міцна присоска дозволяє прикріпити пеніс до гладкої поверхні. Має реалістичну форму: жолудь, лінії, тілесний колір. Гнучкість і м'якість - інші переваги цієї моделі. У пеніс вводиться трубка з грушею. Щоб наповнити пеніс, вставте головку в рідину і натисніть на цибулину, щоб всмоктувати рідину. Повторне натискання на грушу призведе до еякуляції. Додаткові вібрації (плавне регулювання за допомогою дистанційного керування від ніжного до сильного) посилюють відчуття. Рекомендуємо наповнювати штучною спермою або зволожуючим гелем на водній основі. Підходить для анального та вагінального сексу. Робить мастурбацію реалістичнішою та приємнішою. Це гарантує досягнення незабутніх тілесних насолод.</description_ua>
             </offer>
-        <offer id="BI-014362" available="true">
-                <erp>BI-014362</erp>
-            <barcode>6959532315943</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/24548-pretty_love__benson</url>
-            <price>1052.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>21</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/BI-014362.jpg</picture>
-            <name>Віброяйце PRETTY LOVE -Benson</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor />
-            <model>Віброяйце PRETTY LOVE -Benson</model>
-            <description>Віброяйце PRETTY LOVE -Benson</description>
-            <name_ua>Віброяйце PRETTY LOVE -Benson</name_ua>
-            <description_ua>Віброяйце PRETTY LOVE -Benson</description_ua>
-            </offer>
         <offer id="BW-007018G" available="true">
                 <erp>BW-007018G</erp>
             <barcode>6959532301465</barcode>
@@ -26752,33 +26779,6 @@ Satisfyer Glowing Ghost також має унікальну особливіс�
 Satisfyer Glowing Ghost — ідеальний вібратор для тих, хто не має досвіду роботи з секс-іграшками: завдяки своєму милому дизайну та компактним розмірам цей вібратор із хвилею тиску не злякає навіть новачків. Завдяки поверхні з м'якого силікону, що приємно до шкіри, отвір вібратора прилягає до вашого клітора і пестить його гарячими хвилями тиску, не торкаючись до нього. Завдяки 11 різним інтенсивностям ви самі вирішуєте, наскільки інтенсивно насолоджуватися. А 12 додаткових програм вібрації, які можна поєднати з хвилями тиску, забезпечать ще кращі еротичні враження. Вібрації також можна регулювати незалежно, тому цей маленький спрайт також можна використовувати як класичний вібратор із кліпсою.&lt;br /&gt;
 Satisfyer Glowing Ghost: водонепроникний (IPX7) вібратор з флуоресцентною поверхнею&lt;br /&gt;
 Satisfyer Glowing Ghost також має унікальну особливість: завдяки своєму флуоресцентному силіконовому шару цей вібратор хвилі тиску світиться в темряві, тому він не загубиться під ковдрою... Satisfyer Glowing Ghost також забезпечує надзвичайно приємні враження під водою. : Цей водонепроникний (IPX7) продукт буде супроводжувати вас у душі чи ванні. І якщо батарея цього хвильового вібратора розрядиться, вам не варто хвилюватися. Ви можете відновити його живлення за допомогою USB-кабелю для зарядки, який входить у комплект.</description_ua>
-            </offer>
-        <offer id="BI-210225" available="true">
-                <erp>BI-210225</erp>
-            <barcode>6959532325898</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31103-erektsiyne_kilytse_pretty_love__pennis_ring_rodrigo</url>
-            <price>489.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>109</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_311006616bdc37a4e8.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6616bdc081356.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6616bdc0a223e.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6616bdc0b289b.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6616bdc0bf42e.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6616bdc0cb7b4.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6616bdc0d78f4.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6616bdc0e6184.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6616bdc0f33b8.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6616bdc10c989.jpeg</picture>
-            <name>Ерекційне кільце PRETTY LOVE -PENNIS RING RODRIGO</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor />
-            <model>Ерекційне кільце PRETTY LOVE -PENNIS RING RODRIGO</model>
-            <description>Ерекційне кільце PRETTY LOVE -PENNIS RING RODRIGO</description>
-            <name_ua>Ерекційне кільце PRETTY LOVE -PENNIS RING RODRIGO</name_ua>
-            <description_ua>Ерекційне кільце PRETTY LOVE -PENNIS RING RODRIGO</description_ua>
             </offer>
         <offer id="CN-920832538" available="true">
                 <erp>CN-920832538</erp>
