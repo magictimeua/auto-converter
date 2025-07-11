@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-07-11 16:15">
+<yml_catalog date="2025-07-11 17:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -43130,6 +43130,26 @@ TPR&lt;br /&gt;
 &lt;br /&gt;
 Склад:  вода (вода), гліцерин, ароматизатор, гідрокситилцелюлоза, екстракт акмелії олеацери, сахарин натрію, бензоат натрію, BHT.</description_ua>
             </offer>
+        <offer id="28-00114" available="true">
+                <erp>28-00114</erp>
+            <barcode>6095423379356</barcode>
+            <quantity_in_stock>6</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31288-rozheviy_pivniy_sholom_z_printom_panna_moda</url>
+            <price>1035.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>93</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3128567a4805405d02.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67a480517dd4a.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67a480518ccf4.jpg</picture>
+            <name>Рожевий пивний шолом </name>
+            <Отображать>Да</Отображать>
+            <stock>6</stock>
+            <vendor>Propa</vendor>
+            <model>Рожевий пивний шолом </model>
+            <description>Рожевий пивний шолом з принтом для дівич-вечора.</description>
+            <name_ua>Рожевий пивний шолом </name_ua>
+            <description_ua>Рожевий пивний шолом з принтом для дівич-вечора.</description_ua>
+            </offer>
         <offer id="32-00085" available="true">
                 <erp>32-00085</erp>
             <barcode>5904405351086</barcode>
@@ -45176,26 +45196,6 @@ Intt Coffee Massage Gel 30 мл - це ідеальний вибір для ти
 Вібраційний гель! Vibration HONEY  розроблений на основі амазонських рослин з чудовим кавовим смаком. Надає поколювання, пульсуючий і зігріваючий ефект.  Продукт призначений для обох статей. Ефект від гелю триває не менше 30 хвилин. Добре працює з еротичними гаджетами, для анально-вагінального проникнення або орального сексу.&lt;br /&gt;
 &lt;br /&gt;
 Склад:  вода (вода), гліцерин, ароматизатор, гідрокситилцелюлоза, екстракт акмелії олеацери, сахарин натрію, бензоат натрію, BHT.</description_ua>
-            </offer>
-        <offer id="28-00114" available="true">
-                <erp>28-00114</erp>
-            <barcode>6095423379356</barcode>
-            <quantity_in_stock>7</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31288-rozheviy_pivniy_sholom_z_printom_panna_moda</url>
-            <price>1035.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>93</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3128567a4805405d02.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67a480517dd4a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67a480518ccf4.jpg</picture>
-            <name>Рожевий пивний шолом </name>
-            <Отображать>Да</Отображать>
-            <stock>7</stock>
-            <vendor>Propa</vendor>
-            <model>Рожевий пивний шолом </model>
-            <description>Рожевий пивний шолом з принтом для дівич-вечора.</description>
-            <name_ua>Рожевий пивний шолом </name_ua>
-            <description_ua>Рожевий пивний шолом з принтом для дівич-вечора.</description_ua>
             </offer>
         <offer id="12-EXSBLACK" available="true">
                 <erp>12-EXSBLACK</erp>
@@ -48262,18 +48262,17 @@ Apple Secret - це секрет, який варто завжди мати пі
             <price>704.00</price>
             <currencyId>UAH</currencyId>
             <categoryId>93</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3151366edbad22f017.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3151368710f5ebc53a.jpg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_66edbad10484c.jpeg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_66edbad127709.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edbad14a747.jpeg</picture>
             <name>Антистрес Squeeze Boob Stress Ball Breast XXL</name>
             <Отображать>Да</Отображать>
             <stock>9</stock>
             <vendor />
             <model>Антистрес Squeeze Boob Stress Ball Breast XXL</model>
-            <description>Антистрес Squeeze Boob Stress Ball Breast XXL</description>
+            <description>&lt;p&gt;Антистрес Squeeze Boob Stress Ball Breast XXL&lt;/p&gt;</description>
             <name_ua>Антистрес Squeeze Boob Stress Ball Breast XXL</name_ua>
-            <description_ua>Антистрес Squeeze Boob Stress Ball Breast XXL</description_ua>
+            <description_ua>&lt;p&gt;Антистрес Squeeze Boob Stress Ball Breast XXL&lt;/p&gt;</description_ua>
             </offer>
         <offer id="BI-014173-A1" available="true">
                 <erp>BI-014173-A1</erp>
@@ -48876,6 +48875,70 @@ JoyDivision Frenchkiss Raspberry - це відмінний вибір для т�
             <description_ua>Гель на водній основі, спеціально виготовлений для використання з еротичними гаджетами. Його високоякісна формула, також підходить для чутливої шкіри, була дерматологічно протестована. Він не містить олії та спирту. Змивається легко. Безпечний для використання з латексними презервативами. Без запаху і смаку. PoA&lt;br /&gt;
 &lt;br /&gt;
 Склад: вода, пропіленгліколь, гліцерин, феноксиетанол, карбомер, гіроксіетилцелюлоза, трометамін, етилгексилгліцерин</description_ua>
+            </offer>
+        <offer id="48-11313" available="true">
+                <erp>48-11313</erp>
+            <barcode>4028403113130</barcode>
+            <quantity_in_stock>10</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/3714-lubrikant__super_rutscher_anal_100_ml</url>
+            <price>508.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>159</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/48-11313.jpg</picture>
+            <name>Лубрикант  Super-Rutscher Anal, 100 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>10</stock>
+            <vendor>JOYDIVISION</vendor>
+            <model>Лубрикант  Super-Rutscher Anal, 100 мл</model>
+            <description>Super-Rutscher Anal - це спеціалізований лубрикант на водній основі, розроблений для анальних інтимних моментів. Його формула забезпечує тривале зволоження і зменшення тертя, що робить анальний секс більш комфортним і приємним.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Основні переваги:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+	1.	Спеціально для анального використання: Лубрикант має особливу формулу, розроблену для забезпечення максимального комфорту і зменшення тертя під час анального сексу.&lt;br /&gt;&lt;br /&gt;
+	2.	На водній основі: Лубрикант на водній основі, що робить його сумісним з латексними презервативами і секс-іграшками. Легко змивається водою, не залишаючи слідів.&lt;br /&gt;&lt;br /&gt;
+	3.	Тривале зволоження: Забезпечує тривале зволоження для зменшення тертя і підвищення комфорту під час інтимних моментів.&lt;br /&gt;&lt;br /&gt;
+	4.	Легка текстура: Має легку і невагому текстуру, яка рівномірно розподіляється і швидко вбирається, не залишаючи липкого відчуття.&lt;br /&gt;&lt;br /&gt;
+	5.	Зручний об’єм: Флакон об’ємом 100 мл ідеально підходить для регулярного використання і зручного дозування продукту.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Нанесіть необхідну кількість лубриканта на анальну область або секс-іграшки перед початком інтимних моментів. Рівномірно розподіліть для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+	•	Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
+	•	Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
+	•	Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
+	•	Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Чому обирають Super-Rutscher Anal:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Super-Rutscher Anal - це надійний лубрикант, спеціально розроблений для анального використання. Його водна формула забезпечує тривале зволоження і комфорт, зменшуючи тертя і роблячи інтимні моменти більш приємними.</description>
+            <name_ua>Лубрикант  Super-Rutscher Anal, 100 мл</name_ua>
+            <description_ua>Super-Rutscher Anal - це спеціалізований лубрикант на водній основі, розроблений для анальних інтимних моментів. Його формула забезпечує тривале зволоження і зменшення тертя, що робить анальний секс більш комфортним і приємним.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Основні переваги:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+	1.	Спеціально для анального використання: Лубрикант має особливу формулу, розроблену для забезпечення максимального комфорту і зменшення тертя під час анального сексу.&lt;br /&gt;&lt;br /&gt;
+	2.	На водній основі: Лубрикант на водній основі, що робить його сумісним з латексними презервативами і секс-іграшками. Легко змивається водою, не залишаючи слідів.&lt;br /&gt;&lt;br /&gt;
+	3.	Тривале зволоження: Забезпечує тривале зволоження для зменшення тертя і підвищення комфорту під час інтимних моментів.&lt;br /&gt;&lt;br /&gt;
+	4.	Легка текстура: Має легку і невагому текстуру, яка рівномірно розподіляється і швидко вбирається, не залишаючи липкого відчуття.&lt;br /&gt;&lt;br /&gt;
+	5.	Зручний об’єм: Флакон об’ємом 100 мл ідеально підходить для регулярного використання і зручного дозування продукту.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Нанесіть необхідну кількість лубриканта на анальну область або секс-іграшки перед початком інтимних моментів. Рівномірно розподіліть для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+	•	Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
+	•	Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
+	•	Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
+	•	Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Чому обирають Super-Rutscher Anal:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Super-Rutscher Anal - це надійний лубрикант, спеціально розроблений для анального використання. Його водна формула забезпечує тривале зволоження і комфорт, зменшуючи тертя і роблячи інтимні моменти більш приємними.</description_ua>
             </offer>
         <offer id="42-05513330000" available="true">
                 <erp>42-05513330000</erp>
@@ -49777,70 +49840,6 @@ ONE Pleasure Dome — коли хочеться більше, ніж прост�
             <description>Парфуми Smak for Women 50 ml</description>
             <name_ua>Парфуми Smak for Women 50 ml</name_ua>
             <description_ua>Парфуми Smak for Women 50 ml</description_ua>
-            </offer>
-        <offer id="48-11313" available="true">
-                <erp>48-11313</erp>
-            <barcode>4028403113130</barcode>
-            <quantity_in_stock>11</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/3714-lubrikant__super_rutscher_anal_100_ml</url>
-            <price>508.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>159</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/48-11313.jpg</picture>
-            <name>Лубрикант  Super-Rutscher Anal, 100 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>11</stock>
-            <vendor>JOYDIVISION</vendor>
-            <model>Лубрикант  Super-Rutscher Anal, 100 мл</model>
-            <description>Super-Rutscher Anal - це спеціалізований лубрикант на водній основі, розроблений для анальних інтимних моментів. Його формула забезпечує тривале зволоження і зменшення тертя, що робить анальний секс більш комфортним і приємним.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Основні переваги:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-	1.	Спеціально для анального використання: Лубрикант має особливу формулу, розроблену для забезпечення максимального комфорту і зменшення тертя під час анального сексу.&lt;br /&gt;&lt;br /&gt;
-	2.	На водній основі: Лубрикант на водній основі, що робить його сумісним з латексними презервативами і секс-іграшками. Легко змивається водою, не залишаючи слідів.&lt;br /&gt;&lt;br /&gt;
-	3.	Тривале зволоження: Забезпечує тривале зволоження для зменшення тертя і підвищення комфорту під час інтимних моментів.&lt;br /&gt;&lt;br /&gt;
-	4.	Легка текстура: Має легку і невагому текстуру, яка рівномірно розподіляється і швидко вбирається, не залишаючи липкого відчуття.&lt;br /&gt;&lt;br /&gt;
-	5.	Зручний об’єм: Флакон об’ємом 100 мл ідеально підходить для регулярного використання і зручного дозування продукту.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Нанесіть необхідну кількість лубриканта на анальну область або секс-іграшки перед початком інтимних моментів. Рівномірно розподіліть для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-	•	Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
-	•	Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
-	•	Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
-	•	Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Чому обирають Super-Rutscher Anal:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Super-Rutscher Anal - це надійний лубрикант, спеціально розроблений для анального використання. Його водна формула забезпечує тривале зволоження і комфорт, зменшуючи тертя і роблячи інтимні моменти більш приємними.</description>
-            <name_ua>Лубрикант  Super-Rutscher Anal, 100 мл</name_ua>
-            <description_ua>Super-Rutscher Anal - це спеціалізований лубрикант на водній основі, розроблений для анальних інтимних моментів. Його формула забезпечує тривале зволоження і зменшення тертя, що робить анальний секс більш комфортним і приємним.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Основні переваги:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-	1.	Спеціально для анального використання: Лубрикант має особливу формулу, розроблену для забезпечення максимального комфорту і зменшення тертя під час анального сексу.&lt;br /&gt;&lt;br /&gt;
-	2.	На водній основі: Лубрикант на водній основі, що робить його сумісним з латексними презервативами і секс-іграшками. Легко змивається водою, не залишаючи слідів.&lt;br /&gt;&lt;br /&gt;
-	3.	Тривале зволоження: Забезпечує тривале зволоження для зменшення тертя і підвищення комфорту під час інтимних моментів.&lt;br /&gt;&lt;br /&gt;
-	4.	Легка текстура: Має легку і невагому текстуру, яка рівномірно розподіляється і швидко вбирається, не залишаючи липкого відчуття.&lt;br /&gt;&lt;br /&gt;
-	5.	Зручний об’єм: Флакон об’ємом 100 мл ідеально підходить для регулярного використання і зручного дозування продукту.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Нанесіть необхідну кількість лубриканта на анальну область або секс-іграшки перед початком інтимних моментів. Рівномірно розподіліть для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-	•	Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
-	•	Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
-	•	Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
-	•	Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Чому обирають Super-Rutscher Anal:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Super-Rutscher Anal - це надійний лубрикант, спеціально розроблений для анального використання. Його водна формула забезпечує тривале зволоження і комфорт, зменшуючи тертя і роблячи інтимні моменти більш приємними.</description_ua>
             </offer>
         <offer id="32-00016" available="true">
                 <erp>32-00016</erp>
