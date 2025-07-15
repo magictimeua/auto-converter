@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-07-15 12:15">
+<yml_catalog date="2025-07-15 12:30">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -81,7 +81,7 @@
         <category id="159" parentId="38" portal_id="161007">Анальные лубриканты</category>
         <category id="48" parentId="38" portal_id="161007">Оральные смазки</category>
         <category id="167" parentId="38" portal_id="161007">Согревающие лубриканты</category>
-        <category id="49" parentId="38" portal_id="161007">Массажные масла и свечи</category>
+        <category id="49" parentId="38" portal_id="331903">Массажные масла и свечи</category>
         <category id="138" parentId="38" portal_id="161007">Косметические средства</category>
         <category id="166" parentId="38" portal_id="161007">Тестеры</category>
         <category id="39" parentId="998" portal_id="161002">Возбуждающие препараты</category>
