@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-07-24 11:00">
+<yml_catalog date="2025-07-24 12:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -2876,29 +2876,6 @@ Bunny Tail Plug - це анальна пробка, виконана з ніжн
 Легко чиститься &lt;br /&gt;
 Зручний&lt;br /&gt;
 Використовуйте з лубрикантами на водній основі</description_ua>
-            </offer>
-        <offer id="BI-014027" available="true">
-                <erp>BI-014027</erp>
-            <barcode>6959532303841</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/17851-baile_eleanora_vibrating_egg</url>
-            <price>160.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>21</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_17851617875c894f1d.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_617875c5f0617.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_617875c61727d.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_617875c62cb7a.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_617875c6475bb.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_617875c65d28f.png</picture>
-            <name>Віброяйце Baile Eleanora</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor />
-            <model>Віброяйце Baile Eleanora</model>
-            <description>Маленьке вібруюче яйце, покрите м’яким матеріалом,  Вібрація регулюються за допомогою виносного пульта управління. Стимулятор підійде для ігор удвох або для індивідуального використання. Довжина іграшки - 9 см, діаметр - 3,4 см.</description>
-            <name_ua>Віброяйце Baile Eleanora</name_ua>
-            <description_ua>Маленьке вібруюче яйце, покрите м’яким матеріалом,  Вібрація регулюються за допомогою виносного пульта управління. Стимулятор підійде для ігор удвох або для індивідуального використання. Довжина іграшки - 9 см, діаметр - 3,4 см.</description_ua>
             </offer>
         <offer id="BI-014563" available="true">
                 <erp>BI-014563</erp>
@@ -22798,6 +22775,29 @@ AQUAglide Massage+Glide Lemongrass - це ідеальний вибір для �
 Чому обирають AQUAglide Massage+Glide Lemongrass:&lt;br /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;br /&gt;
 AQUAglide Massage+Glide Lemongrass - це ідеальний вибір для тих, хто шукає універсальний продукт з ароматом лимонної трави, що поєднує функцію лубриканта та масажного гелю. Його водна основа і великий об’єм забезпечують комфорт, зволоження і задоволення, роблячи інтимні моменти і масаж більш приємними і розслаблюючими.</description_ua>
+            </offer>
+        <offer id="BI-014027" available="true">
+                <erp>BI-014027</erp>
+            <barcode>6959532303841</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/17851-baile_eleanora_vibrating_egg</url>
+            <price>160.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>21</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_17851617875c894f1d.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_617875c5f0617.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_617875c61727d.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_617875c62cb7a.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_617875c6475bb.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_617875c65d28f.png</picture>
+            <name>Віброяйце Baile Eleanora</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor />
+            <model>Віброяйце Baile Eleanora</model>
+            <description>Маленьке вібруюче яйце, покрите м’яким матеріалом,  Вібрація регулюються за допомогою виносного пульта управління. Стимулятор підійде для ігор удвох або для індивідуального використання. Довжина іграшки - 9 см, діаметр - 3,4 см.</description>
+            <name_ua>Віброяйце Baile Eleanora</name_ua>
+            <description_ua>Маленьке вібруюче яйце, покрите м’яким матеріалом,  Вібрація регулюються за допомогою виносного пульта управління. Стимулятор підійде для ігор удвох або для індивідуального використання. Довжина іграшки - 9 см, діаметр - 3,4 см.</description_ua>
             </offer>
         <offer id="BI-014502-3" available="true">
                 <erp>BI-014502-3</erp>
