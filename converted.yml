@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-07-28 16:30">
+<yml_catalog date="2025-07-28 17:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -16395,6 +16395,29 @@ PheroStrong представляє новий аромат для жінок: On
             <name_ua>Віброяйце PRETTY LOVE - Rosalie</name_ua>
             <description_ua>Віброяйце має заокруглену основу, прикріплену до силіконового шнура, і наконечник у формі кролика для найкращої стимуляції. Функції: 7 функцій вібрації, функція пам'яті. Живлення: USB перезаряджається. Матеріал: ABS силікон Колір: чорний.  Розмір яйця 9 см, з хостиком загальна -  15,5 см</description_ua>
             </offer>
+        <offer id="BW-008055R" available="true">
+                <erp>BW-008055R</erp>
+            <barcode>6959532326062</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30045-vibratorbarbara_mark</url>
+            <price>539.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>143</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_300456385f40fdf337.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40d69aaa.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40d8ba9a.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40d998b6.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40da6dfb.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40db51fd.jpg</picture>
+            <name>Вібратор	BARBARA MARK</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor />
+            <model>Вібратор	BARBARA MARK</model>
+            <description>Вібратор	BARBARA MARK</description>
+            <name_ua>Вібратор	BARBARA MARK</name_ua>
+            <description_ua>Вібратор	BARBARA MARK</description_ua>
+            </offer>
         <offer id="52-00058" available="true">
                 <erp>52-00058</erp>
             <barcode>5903661808372</barcode>
@@ -25122,29 +25145,6 @@ Satisfyer Men Classic – це більше, ніж мастурбатор. Це
             <description>Фалоімітатор з кільцем The Ultra Soft Double ідеально підходить для анальних ігор. Кільце дуже гнучке і еластичне, що добре фіксується і водночас забезпечує міцну ерекцію. Фаллоімітатор надзвичайно гнучкий та ультрам'який, матеріал TPE забезпечує найвище задоволення та реалістичні відчуття. Довжина 14,7см , діаметр 3,3 см</description>
             <name_ua>Насадка на член 5.8 The Ultra Soft Double  1</name_ua>
             <description_ua>Фалоімітатор з кільцем The Ultra Soft Double ідеально підходить для анальних ігор. Кільце дуже гнучке і еластичне, що добре фіксується і водночас забезпечує міцну ерекцію. Фаллоімітатор надзвичайно гнучкий та ультрам'який, матеріал TPE забезпечує найвище задоволення та реалістичні відчуття. Довжина 14,7см , діаметр 3,3 см</description_ua>
-            </offer>
-        <offer id="BW-008055R" available="true">
-                <erp>BW-008055R</erp>
-            <barcode>6959532326062</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30045-vibratorbarbara_mark</url>
-            <price>539.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>143</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_300456385f40fdf337.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40d69aaa.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40d8ba9a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40d998b6.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40da6dfb.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40db51fd.jpg</picture>
-            <name>Вібратор	BARBARA MARK</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor />
-            <model>Вібратор	BARBARA MARK</model>
-            <description>Вібратор	BARBARA MARK</description>
-            <name_ua>Вібратор	BARBARA MARK</name_ua>
-            <description_ua>Вібратор	BARBARA MARK</description_ua>
             </offer>
         <offer id="42-04137710000" available="true">
                 <erp>42-04137710000</erp>
