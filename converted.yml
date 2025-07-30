@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-07-30 17:00">
+<yml_catalog date="2025-07-30 18:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -5831,6 +5831,29 @@ Bijoux Indiscrets (Іспанія)</description_ua>
             <name_ua>Реалістичний силіконовий фалоімітатор 9.5'' DUAL LAYERED</name_ua>
             <description_ua>Реалістичний силіконовий фалоімітатор 9.5'' DUAL LAYERED</description_ua>
             </offer>
+        <offer id="BW-008055R" available="true">
+                <erp>BW-008055R</erp>
+            <barcode>6959532326062</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30045-vibratorbarbara_mark</url>
+            <price>539.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>143</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_300456385f40fdf337.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40d69aaa.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40d8ba9a.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40d998b6.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40da6dfb.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40db51fd.jpg</picture>
+            <name>Вібратор	BARBARA MARK</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor />
+            <model>Вібратор	BARBARA MARK</model>
+            <description>Вібратор	BARBARA MARK</description>
+            <name_ua>Вібратор	BARBARA MARK</name_ua>
+            <description_ua>Вібратор	BARBARA MARK</description_ua>
+            </offer>
         <offer id="52-00036-1" available="true">
                 <erp>52-00036-1</erp>
             <barcode>5903661806170</barcode>
@@ -9358,34 +9381,6 @@ Satisfyer Cutie Ghost створює хвилі тиску навіть під �
             <description>Вібратор PRETTY LOVE ELFIN 12 FUNCTIONS USB GREEN</description>
             <name_ua>Вібратор PRETTY LOVE ELFIN 12 FUNCTIONS USB GREEN</name_ua>
             <description_ua>Вібратор PRETTY LOVE ELFIN 12 FUNCTIONS USB GREEN</description_ua>
-            </offer>
-        <offer id="BI-014812-A3" available="true">
-                <erp>BI-014812-A3</erp>
-            <barcode>6959532360516</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31558-silikonoviy_vibrator_pretty_love_elemental_black</url>
-            <price>456.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>143</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3155566ed8c4d54605.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed8c4a14318.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed8c4a457ed.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed8c4a79124.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed8c4aad955.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed8c4ae37aa.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed8c4b275af.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed8c4b6666e.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed8c4bac00d.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed8c4bdcdc5.gif</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed8c4c24c6b.jpeg</picture>
-            <name>Силіконовий вібратор PRETTY LOVE Elemental black</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Силіконовий вібратор PRETTY LOVE Elemental black</model>
-            <description>Гладкий вібратор з гіпоалергенного силікону високої якості. Іграшка має злегка зігнутий стовбур з масивною головкою для оптимальної стимуляції точки "G". 30 режимів вібростимуляції регулюються за допомогою вбудованого контролера. Загальна довжина - 19 см, діаметр - 3,2 см.</description>
-            <name_ua>Силіконовий вібратор PRETTY LOVE Elemental black</name_ua>
-            <description_ua>Гладкий вібратор з гіпоалергенного силікону високої якості. Іграшка має злегка зігнутий стовбур з масивною головкою для оптимальної стимуляції точки "G". 30 режимів вібростимуляції регулюються за допомогою вбудованого контролера. Загальна довжина - 19 см, діаметр - 3,2 см.</description_ua>
             </offer>
         <offer id="BI-026252" available="true">
                 <erp>BI-026252</erp>
@@ -16708,29 +16703,6 @@ PheroStrong представляє новий аромат для жінок: On
             <name_ua>Віброяйце PRETTY LOVE - Rosalie</name_ua>
             <description_ua>Віброяйце має заокруглену основу, прикріплену до силіконового шнура, і наконечник у формі кролика для найкращої стимуляції. Функції: 7 функцій вібрації, функція пам'яті. Живлення: USB перезаряджається. Матеріал: ABS силікон Колір: чорний.  Розмір яйця 9 см, з хостиком загальна -  15,5 см</description_ua>
             </offer>
-        <offer id="BW-008055R" available="true">
-                <erp>BW-008055R</erp>
-            <barcode>6959532326062</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30045-vibratorbarbara_mark</url>
-            <price>539.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>143</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_300456385f40fdf337.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40d69aaa.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40d8ba9a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40d998b6.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40da6dfb.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40db51fd.jpg</picture>
-            <name>Вібратор	BARBARA MARK</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor />
-            <model>Вібратор	BARBARA MARK</model>
-            <description>Вібратор	BARBARA MARK</description>
-            <name_ua>Вібратор	BARBARA MARK</name_ua>
-            <description_ua>Вібратор	BARBARA MARK</description_ua>
-            </offer>
         <offer id="52-00058" available="true">
                 <erp>52-00058</erp>
             <barcode>5903661808372</barcode>
@@ -17696,6 +17668,32 @@ Satisfyer Hot Lover має 11 режимів вібрації та пульса�
             <description>Пінка для масажу ORGIE  ACQUA CROCANTE MONOI 150 ML</description>
             <name_ua>Пінка для масажу ORGIE  ACQUA CROCANTE MONOI 150 ML</name_ua>
             <description_ua>Пінка для масажу ORGIE  ACQUA CROCANTE MONOI 150 ML</description_ua>
+            </offer>
+        <offer id="26-00158" available="true">
+                <erp>26-00158</erp>
+            <barcode>5903661806989</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30614-viibrator_hannah_usb_pink</url>
+            <price>1392.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>18</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3061464c2b7b9f06e5.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b70c1c7.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b75d77b.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b798abe.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b7d3ad0.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b804d3a.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b84cc2e.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b87de25.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b8b0a6d.jpeg</picture>
+            <name>Віібратор Hannah USB Pink</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Віібратор Hannah USB Pink</model>
+            <description>Віібратор Hannah USB Pink</description>
+            <name_ua>Віібратор Hannah USB Pink</name_ua>
+            <description_ua>Віібратор Hannah USB Pink</description_ua>
             </offer>
         <offer id="8-9832" available="true">
                 <erp>8-9832</erp>
@@ -21804,7 +21802,7 @@ Satisfyer Spinning G-Spot 1: Водонепроникний (IPX7) вібрат�
             </offer>
         <offer id="36-OU346BUR" available="true">
                 <erp>36-OU346BUR</erp>
-            <barcode />
+            <barcode>8714273928658</barcode>
             <quantity_in_stock>2</quantity_in_stock>
             <url>http://blissclub.com.ua/product/32197-stek_luxury_paddle___blackred</url>
             <price>449.00</price>
@@ -21821,9 +21819,9 @@ Satisfyer Spinning G-Spot 1: Водонепроникний (IPX7) вібрат�
             <stock>2</stock>
             <vendor>Ouch!</vendor>
             <model>Стек Luxury Paddle - Black&amp;Red</model>
-            <description>&lt;p&gt;Стек Luxury Paddle - Black&amp;Red&lt;/p&gt;</description>
+            <description>Стек Luxury Paddle - Black&amp;Red</description>
             <name_ua>Стек Luxury Paddle - Black&amp;Red</name_ua>
-            <description_ua>&lt;p&gt;Стек Luxury Paddle - Black&amp;Red&lt;/p&gt;</description_ua>
+            <description_ua>Стек Luxury Paddle - Black&amp;Red</description_ua>
             </offer>
         <offer id="12-EXSAIR 48" available="true">
                 <erp>12-EXSAIR 48</erp>
@@ -21842,9 +21840,15 @@ Satisfyer Spinning G-Spot 1: Водонепроникний (IPX7) вібрат�
             <stock>2</stock>
             <vendor>LOVE MATCH CONDOMS</vendor>
             <model>Презервативи 48SZT. EXS AIR THIN</model>
-            <description>&lt;p&gt;Все в назві! Презервативи EXS Air Thin створюють враження, ніби ви їх взагалі не одягаєте, створюючи відчуття задоволення від контакту голої шкіри з вашим партнером. Презервативи EXS Air Thin, які називають «справжнім ультратонким презервативом», надзвичайно м’які та тонкі. Вони мають товщину всього 0,045 мм і в той же час надзвичайно міцні - це презервативи нового покоління, які забезпечують максимальну інтимність і найвищу безпеку. Презервативи EXS Air Thin надягати легко і зручно. Анатомічна форма, щільніша біля основи та ширша біля кінчика, забезпечує ідеальну посадку, яка не зісковзує під час статевого акту. Презерватив забезпечує природний рух, не викликаючи неприємного відчуття тиску. Презервативи EXS Air Thin ідеально підходять для всіх типів сексу та не мають смаку та запаху. Виріб виготовлено з повністю натурального латексу найвищої якості та змащено силіконом для зменшення тертя та максимального комфорту під час статевого акту. Він підходить для людей з чутливою шкірою. Спеціально розроблений розширений наконечник запобігає розриву презерватива.&lt;/p&gt;</description>
+            <description>Все в назві! Презервативи EXS Air Thin створюють враження, ніби ви їх взагалі не одягаєте, створюючи відчуття задоволення від контакту голої шкіри з вашим партнером. Презервативи EXS Air Thin, які називають «справжнім ультратонким презервативом», надзвичайно м’які та тонкі.&lt;br /&gt;
+Вони мають товщину всього 0,045 мм і в той же час надзвичайно міцні - це презервативи нового покоління, які забезпечують максимальну інтимність і найвищу безпеку.&lt;br /&gt;
+Презервативи EXS Air Thin надягати легко і зручно. Анатомічна форма, щільніша біля основи та ширша біля кінчика, забезпечує ідеальну посадку, яка не зісковзує під час статевого акту. Презерватив забезпечує природний рух, не викликаючи неприємного відчуття тиску.&lt;br /&gt;
+Презервативи EXS Air Thin ідеально підходять для всіх типів сексу та не мають смаку та запаху. Виріб виготовлено з повністю натурального латексу найвищої якості та змащено силіконом для зменшення тертя та максимального комфорту під час статевого акту. Він підходить для людей з чутливою шкірою. Спеціально розроблений розширений наконечник запобігає розриву презерватива.</description>
             <name_ua>Презервативи 48SZT. EXS AIR THIN</name_ua>
-            <description_ua>&lt;p&gt;Все в назві! Презервативи EXS Air Thin створюють враження, ніби ви їх взагалі не одягаєте, створюючи відчуття задоволення від контакту голої шкіри з вашим партнером. Презервативи EXS Air Thin, які називають «справжнім ультратонким презервативом», надзвичайно м’які та тонкі. Вони мають товщину всього 0,045 мм і в той же час надзвичайно міцні - це презервативи нового покоління, які забезпечують максимальну інтимність і найвищу безпеку. Презервативи EXS Air Thin надягати легко і зручно. Анатомічна форма, щільніша біля основи та ширша біля кінчика, забезпечує ідеальну посадку, яка не зісковзує під час статевого акту. Презерватив забезпечує природний рух, не викликаючи неприємного відчуття тиску. Презервативи EXS Air Thin ідеально підходять для всіх типів сексу та не мають смаку та запаху. Виріб виготовлено з повністю натурального латексу найвищої якості та змащено силіконом для зменшення тертя та максимального комфорту під час статевого акту. Він підходить для людей з чутливою шкірою. Спеціально розроблений розширений наконечник запобігає розриву презерватива.&lt;/p&gt;</description_ua>
+            <description_ua>Все в назві! Презервативи EXS Air Thin створюють враження, ніби ви їх взагалі не одягаєте, створюючи відчуття задоволення від контакту голої шкіри з вашим партнером. Презервативи EXS Air Thin, які називають «справжнім ультратонким презервативом», надзвичайно м’які та тонкі.&lt;br /&gt;
+Вони мають товщину всього 0,045 мм і в той же час надзвичайно міцні - це презервативи нового покоління, які забезпечують максимальну інтимність і найвищу безпеку.&lt;br /&gt;
+Презервативи EXS Air Thin надягати легко і зручно. Анатомічна форма, щільніша біля основи та ширша біля кінчика, забезпечує ідеальну посадку, яка не зісковзує під час статевого акту. Презерватив забезпечує природний рух, не викликаючи неприємного відчуття тиску.&lt;br /&gt;
+Презервативи EXS Air Thin ідеально підходять для всіх типів сексу та не мають смаку та запаху. Виріб виготовлено з повністю натурального латексу найвищої якості та змащено силіконом для зменшення тертя та максимального комфорту під час статевого акту. Він підходить для людей з чутливою шкірою. Спеціально розроблений розширений наконечник запобігає розриву презерватива.</description_ua>
             </offer>
         <offer id="36-AMR001BLKOS" available="true">
                 <erp>36-AMR001BLKOS</erp>
@@ -24408,16 +24412,16 @@ Satisfyer Penguin Next Generation має 11 режимів стимуляції,
             <url>http://blissclub.com.ua/product/25793-bilizna_alabama2_obroa_2_kka</url>
             <price>278.00</price>
             <currencyId>UAH</currencyId>
-            <categoryId>56</categoryId>
+            <categoryId>95</categoryId>
             <picture>https://blissclub.com.ua/images/product_variants/51-00606.jpg</picture>
-            <name>Білизна Alabama2 (obroA?a 2 kA?A‚ka)</name>
+            <name>Чокер Bielizna- Alabama2 (obroża 2 kółka)</name>
             <Отображать>Да</Отображать>
             <stock>3</stock>
             <vendor>ANAIS</vendor>
-            <model>Білизна Alabama2 (obroA?a 2 kA?A‚ka)</model>
-            <description>Червона спідниця Белінда Чудове білизна, яке доставляє масу задоволення. Ось сорочка Белінди! Незвичайний стиль, красиве, ніжне мереживо в яскраво -червоному кольорі змусить вас сяяти цього вечора! - ніжне червоне мереживо - легковажні бічні прорізи - ремінці в комплекті</description>
-            <name_ua>Білизна Alabama2 (obroA?a 2 kA?A‚ka)</name_ua>
-            <description_ua>Червона спідниця Белінда Чудове білизна, яке доставляє масу задоволення. Ось сорочка Белінди! Незвичайний стиль, красиве, ніжне мереживо в яскраво -червоному кольорі змусить вас сяяти цього вечора! - ніжне червоне мереживо - легковажні бічні прорізи - ремінці в комплекті</description_ua>
+            <model>Чокер Bielizna- Alabama2 (obroża 2 kółka)</model>
+            <description>Чокер Bielizna- Alabama2 (obroża 2 kółka)</description>
+            <name_ua>Чокер Bielizna- Alabama2 (obroża 2 kółka)</name_ua>
+            <description_ua>Чокер Bielizna- Alabama2 (obroża 2 kółka)</description_ua>
             </offer>
         <offer id="73-4000893" available="true">
                 <erp>73-4000893</erp>
@@ -25982,32 +25986,6 @@ Satisfyer Penguin Next Generation має 11 режимів стимуляції,
             <description>Автоматичний мастурбатор з підігрівом PRETTY LOVE – MARISSA</description>
             <name_ua>Автоматичний мастурбатор з підігрівом PRETTY LOVE – MARISSA</name_ua>
             <description_ua>Автоматичний мастурбатор з підігрівом PRETTY LOVE – MARISSA</description_ua>
-            </offer>
-        <offer id="26-00158" available="true">
-                <erp>26-00158</erp>
-            <barcode>5903661806989</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30614-viibrator_hannah_usb_pink</url>
-            <price>1392.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>18</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3061464c2b7b9f06e5.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b70c1c7.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b75d77b.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b798abe.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b7d3ad0.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b804d3a.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b84cc2e.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b87de25.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b8b0a6d.jpeg</picture>
-            <name>Віібратор Hannah USB Pink</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Віібратор Hannah USB Pink</model>
-            <description>Віібратор Hannah USB Pink</description>
-            <name_ua>Віібратор Hannah USB Pink</name_ua>
-            <description_ua>Віібратор Hannah USB Pink</description_ua>
             </offer>
         <offer id="52-00001" available="true">
                 <erp>52-00001</erp>
@@ -29402,32 +29380,26 @@ Satisfyer Perfect Pair 2 — це ідеальне поєднання функц
             <url>http://blissclub.com.ua/product/32239-vibrator_dual_pleasure_balls</url>
             <price>1279.00</price>
             <currencyId>UAH</currencyId>
-            <categoryId>14</categoryId>
+            <categoryId>161</categoryId>
             <picture>https://blissclub.com.ua/images/product_variants/product_32235688264fc944e3.jpeg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_688264fb6da84.jpeg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_688264fb7c119.jpeg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_688264fb8705a.jpeg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_688264fb915f0.jpeg</picture>
-            <name>Вібратор Dual Pleasure Balls</name>
+            <name>Анальний розширювач Dual Pleasure Balls</name>
             <Отображать>Да</Отображать>
             <stock>3</stock>
             <vendor>BOSS SERIES</vendor>
-            <model>Вібратор Dual Pleasure Balls</model>
+            <model>Анальний розширювач Dual Pleasure Balls</model>
             <description>Ця унікальна секс-іграшка поєднує функції накачування та стимуляції для максимального задоволення. Ідеально підходить як для вагінальної, так і для анальної стимуляції.&lt;br /&gt;
-&lt;br /&gt;
 Регульований об'єм – балончик для накачування дозволяє регулювати розмір.&lt;br /&gt;
 Ніжний медичний силікон – безпечний, м'який та гнучкий.&lt;br /&gt;
-&lt;br /&gt;
-Вібрація – додаткова стимуляція (на деяких моделях).&lt;br /&gt;
 Універсальне використання – ідеально підходить для жінок та чоловіків. Водонепроникний та легкий у догляді.&lt;br /&gt;
 Відкрийте для себе нові рівні задоволення – зробіть крок до інтенсивних та персоналізованих відчуттів.</description>
-            <name_ua>Вібратор Dual Pleasure Balls</name_ua>
+            <name_ua>Анальний розширювач Dual Pleasure Balls</name_ua>
             <description_ua>Ця унікальна секс-іграшка поєднує функції накачування та стимуляції для максимального задоволення. Ідеально підходить як для вагінальної, так і для анальної стимуляції.&lt;br /&gt;
-&lt;br /&gt;
 Регульований об'єм – балончик для накачування дозволяє регулювати розмір.&lt;br /&gt;
 Ніжний медичний силікон – безпечний, м'який та гнучкий.&lt;br /&gt;
-&lt;br /&gt;
-Вібрація – додаткова стимуляція (на деяких моделях).&lt;br /&gt;
 Універсальне використання – ідеально підходить для жінок та чоловіків. Водонепроникний та легкий у догляді.&lt;br /&gt;
 Відкрийте для себе нові рівні задоволення – зробіть крок до інтенсивних та персоналізованих відчуттів.</description_ua>
             </offer>
@@ -30566,7 +30538,7 @@ Satisfyer Perfect Pair 2 — це ідеальне поєднання функц
             </offer>
         <offer id="68-GK0001" available="true">
                 <erp>68-GK0001</erp>
-            <barcode />
+            <barcode>5600304015394</barcode>
             <quantity_in_stock>4</quantity_in_stock>
             <url>http://blissclub.com.ua/product/16409-lubrikant_greek_kiss_15_ml</url>
             <price>744.00</price>
@@ -30579,9 +30551,9 @@ Satisfyer Perfect Pair 2 — це ідеальне поєднання функц
             <stock>4</stock>
             <vendor>INTT COSMETICS</vendor>
             <model>Стимулюючий масажний гель Intt Greek Kiss</model>
-            <description>&lt;p&gt;Рідкий вібратор на основі амазонських рослин. Він стимулює інтимні місця завдяки формулі, яка забезпечує поколювання та охолодження окремих ділянок. Продукт, призначений ним і нею, це ідеальне доповнення до п’янких ночей. Поради: нанесіть 3 спреї на інтимну зону і зачекайте кілька секунд, щоб відчути всі відчуття.&lt;/p&gt;</description>
+            <description>Рідкий вібратор на основі амазонських рослин. Він стимулює інтимні місця завдяки формулі, яка забезпечує поколювання та охолодження окремих ділянок. Продукт, призначений ним і нею, це ідеальне доповнення до п’янких ночей. Поради: нанесіть 3 спреї на інтимну зону і зачекайте кілька секунд, щоб відчути всі відчуття.</description>
             <name_ua>Стимулюючий масажний гель Intt Greek Kiss</name_ua>
-            <description_ua>&lt;p&gt;Рідкий вібратор на основі амазонських рослин. Він стимулює інтимні місця завдяки формулі, яка забезпечує поколювання та охолодження окремих ділянок. Продукт, призначений ним і нею, це ідеальне доповнення до п’янких ночей. Поради: нанесіть 3 спреї на інтимну зону і зачекайте кілька секунд, щоб відчути всі відчуття.&lt;/p&gt;</description_ua>
+            <description_ua>Рідкий вібратор на основі амазонських рослин. Він стимулює інтимні місця завдяки формулі, яка забезпечує поколювання та охолодження окремих ділянок. Продукт, призначений ним і нею, це ідеальне доповнення до п’янких ночей. Поради: нанесіть 3 спреї на інтимну зону і зачекайте кілька секунд, щоб відчути всі відчуття.</description_ua>
             </offer>
         <offer id="69-21067" available="true">
                 <erp>69-21067</erp>
@@ -31496,7 +31468,7 @@ Pjur Back Door Regenerating Anal Glide підходить для викорис�
             </offer>
         <offer id="42-05405440000" available="true">
                 <erp>42-05405440000</erp>
-            <barcode>4024144554355</barcode>
+            <barcode>603912274028</barcode>
             <quantity_in_stock>4</quantity_in_stock>
             <url>http://blissclub.com.ua/product/26768-ffs_frisky_feather_duster</url>
             <price>626.00</price>
@@ -33010,6 +32982,41 @@ ABS силікон&lt;br /&gt;
             <description>Віброяйце Mandala light purple</description>
             <name_ua>Віброяйце Mandala light purple</name_ua>
             <description_ua>Віброяйце Mandala light purple</description_ua>
+            </offer>
+        <offer id="63-00058" available="true">
+                <erp>63-00058</erp>
+            <barcode>6972775511958</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30642-vibrator_dlya_podviyno_stimulyatsi_silicon_vibrator_7_function_and_heating_mode_purple</url>
+            <price>1585.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>27</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3064264c1495f51889.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c1495be6f97.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c1495c29618.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c1495c64c9e.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c1495c9df13.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c1495ce0494.jpg</picture>
+            <name>Вібратор для подвійної стимуляції Silicon, Vibrator 7 Function and Heating Mode, PURPLE</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Вібратор для подвійної стимуляції Silicon, Vibrator 7 Function and Heating Mode, PURPLE</model>
+            <description>Чудова іграшка, окрім унікального стимулятора клітора у вигляді рухомого язика, має 7 режимів вібрації, пульсацію та функцію підігріву.&lt;br /&gt;
+Футуристичний вигляд, ідеальні текстури зроблять ваші моменти більш пристрасними.&lt;br /&gt;
+Масажер виготовлений з високоякісного м'якого силікону, який пестить своїм оксамитовим дотиком.&lt;br /&gt;
+Безпечно використовувати у ванні або душі,&lt;br /&gt;
+тому що іграшка повністю водонепроникна і водонепроникна.&lt;br /&gt;
+Простий у користуванні блокування для подорожей - утримуйте протягом 3 секунд, щоб увімкнути або вимкнути.&lt;br /&gt;
+Іграшка має вбудований акумулятор - USB кабель в комплекті.</description>
+            <name_ua>Вібратор для подвійної стимуляції Silicon, Vibrator 7 Function and Heating Mode, PURPLE</name_ua>
+            <description_ua>Чудова іграшка, окрім унікального стимулятора клітора у вигляді рухомого язика, має 7 режимів вібрації, пульсацію та функцію підігріву.&lt;br /&gt;
+Футуристичний вигляд, ідеальні текстури зроблять ваші моменти більш пристрасними.&lt;br /&gt;
+Масажер виготовлений з високоякісного м'якого силікону, який пестить своїм оксамитовим дотиком.&lt;br /&gt;
+Безпечно використовувати у ванні або душі,&lt;br /&gt;
+тому що іграшка повністю водонепроникна і водонепроникна.&lt;br /&gt;
+Простий у користуванні блокування для подорожей - утримуйте протягом 3 секунд, щоб увімкнути або вимкнути.&lt;br /&gt;
+Іграшка має вбудований акумулятор - USB кабель в комплекті.</description_ua>
             </offer>
         <offer id="52-00008-1" available="true">
                 <erp>52-00008-1</erp>
@@ -35578,9 +35585,15 @@ USB-C – швидка зарядка (кабель не входить).&lt;br 
             <stock>4</stock>
             <vendor>EXS</vendor>
             <model>Презервативи 48 EXS Snug Fit</model>
-            <description>&lt;p&gt;Презервативи EXS Snug Fit ідеально підходять для тих, хто має невеликий розмір пеніса, а також для тих, хто любить красиву, більш звужену посадку. Розроблений, щоб залишатися на місці після еякуляції. Завдяки ширині 49 мм і довжині 192 мм ці презервативи здатні дати вашому любовному життю справжній поштовх. Пряма стінка оточує пеніс, не обмежуючи рухів. При товщині 0,073 мм вони трохи товщі звичайних презервативів. Однак вони все одно дозволяють відчути тепло партнера і ідеально підходять для вагінального та анального статевого акту. Виріб виготовлено з натурального латексу, м'яке та шовковисте на дотик. Покритий мастилом на основі силікону, його можна використовувати навіть у випадках, коли природного змащення недостатньо. При необхідності можна використовувати додаткове мастило.&lt;/p&gt;</description>
+            <description>Презервативи EXS Snug Fit ідеально підходять для тих, хто має невеликий розмір пеніса, а також для тих, хто любить красиву, більш звужену посадку. Розроблений, щоб залишатися на місці після еякуляції.&lt;br /&gt;
+Завдяки ширині 49 мм і довжині 192 мм ці презервативи здатні дати вашому любовному життю справжній поштовх. Пряма стінка оточує пеніс, не обмежуючи рухів.&lt;br /&gt;
+При товщині 0,073 мм вони трохи товщі звичайних презервативів. Однак вони все одно дозволяють відчути тепло партнера і ідеально підходять для вагінального та анального статевого акту.&lt;br /&gt;
+Виріб виготовлено з натурального латексу, м'яке та шовковисте на дотик. Покритий мастилом на основі силікону, його можна використовувати навіть у випадках, коли природного змащення недостатньо. При необхідності можна використовувати додаткове мастило.</description>
             <name_ua>Презервативи 48 EXS Snug Fit</name_ua>
-            <description_ua>&lt;p&gt;Презервативи EXS Snug Fit ідеально підходять для тих, хто має невеликий розмір пеніса, а також для тих, хто любить красиву, більш звужену посадку. Розроблений, щоб залишатися на місці після еякуляції. Завдяки ширині 49 мм і довжині 192 мм ці презервативи здатні дати вашому любовному життю справжній поштовх. Пряма стінка оточує пеніс, не обмежуючи рухів. При товщині 0,073 мм вони трохи товщі звичайних презервативів. Однак вони все одно дозволяють відчути тепло партнера і ідеально підходять для вагінального та анального статевого акту. Виріб виготовлено з натурального латексу, м'яке та шовковисте на дотик. Покритий мастилом на основі силікону, його можна використовувати навіть у випадках, коли природного змащення недостатньо. При необхідності можна використовувати додаткове мастило.&lt;/p&gt;</description_ua>
+            <description_ua>Презервативи EXS Snug Fit ідеально підходять для тих, хто має невеликий розмір пеніса, а також для тих, хто любить красиву, більш звужену посадку. Розроблений, щоб залишатися на місці після еякуляції.&lt;br /&gt;
+Завдяки ширині 49 мм і довжині 192 мм ці презервативи здатні дати вашому любовному життю справжній поштовх. Пряма стінка оточує пеніс, не обмежуючи рухів.&lt;br /&gt;
+При товщині 0,073 мм вони трохи товщі звичайних презервативів. Однак вони все одно дозволяють відчути тепло партнера і ідеально підходять для вагінального та анального статевого акту.&lt;br /&gt;
+Виріб виготовлено з натурального латексу, м'яке та шовковисте на дотик. Покритий мастилом на основі силікону, його можна використовувати навіть у випадках, коли природного змащення недостатньо. При необхідності можна використовувати додаткове мастило.</description_ua>
             </offer>
         <offer id="26-00178" available="true">
                 <erp>26-00178</erp>
@@ -36694,7 +36707,7 @@ BIOglide Lubricant and Massage Oil - це ідеальний вибір для �
             </offer>
         <offer id="2-00207" available="true">
                 <erp>2-00207</erp>
-            <barcode>8718546539071</barcode>
+            <barcode>8720168231680</barcode>
             <quantity_in_stock>5</quantity_in_stock>
             <url>http://blissclub.com.ua/product/17316-spre_toy_cleaner_50_ml_boss_series</url>
             <price>181.00</price>
@@ -38531,41 +38544,6 @@ Sensfeel™ for Him - це природний активний інгредіє�
             <description_ua>Реалістична профільована накладка тілесного кольору. Він був виготовлений з високоякісної кібершкіри. Супереластичний, ідеально сидить. Підходить для більшості типів пеніса або вібратора. Цей матеріал, як справжня людська шкіра, швидко нагрівається, регулюючи температуру тіла. Це гарантує відчуття на найвищому рівні, близькі до реалістичних.&lt;br /&gt;
 За допомогою цієї накладки ви легко зможете подовжити і потовщити свій член, завдяки чому ви і ваш партнер отримаєте ще більше задоволення від сексу.&lt;br /&gt;
 Природна форма була спрофільована з урахуванням усіх анатомічних деталей.</description_ua>
-            </offer>
-        <offer id="63-00058" available="true">
-                <erp>63-00058</erp>
-            <barcode>6972775511958</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30642-vibrator_dlya_podviyno_stimulyatsi_silicon_vibrator_7_function_and_heating_mode_purple</url>
-            <price>1585.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>27</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3064264c1495f51889.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c1495be6f97.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c1495c29618.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c1495c64c9e.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c1495c9df13.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c1495ce0494.jpg</picture>
-            <name>Вібратор для подвійної стимуляції Silicon, Vibrator 7 Function and Heating Mode, PURPLE</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Вібратор для подвійної стимуляції Silicon, Vibrator 7 Function and Heating Mode, PURPLE</model>
-            <description>Чудова іграшка, окрім унікального стимулятора клітора у вигляді рухомого язика, має 7 режимів вібрації, пульсацію та функцію підігріву.&lt;br /&gt;
-Футуристичний вигляд, ідеальні текстури зроблять ваші моменти більш пристрасними.&lt;br /&gt;
-Масажер виготовлений з високоякісного м'якого силікону, який пестить своїм оксамитовим дотиком.&lt;br /&gt;
-Безпечно використовувати у ванні або душі,&lt;br /&gt;
-тому що іграшка повністю водонепроникна і водонепроникна.&lt;br /&gt;
-Простий у користуванні блокування для подорожей - утримуйте протягом 3 секунд, щоб увімкнути або вимкнути.&lt;br /&gt;
-Іграшка має вбудований акумулятор - USB кабель в комплекті.</description>
-            <name_ua>Вібратор для подвійної стимуляції Silicon, Vibrator 7 Function and Heating Mode, PURPLE</name_ua>
-            <description_ua>Чудова іграшка, окрім унікального стимулятора клітора у вигляді рухомого язика, має 7 режимів вібрації, пульсацію та функцію підігріву.&lt;br /&gt;
-Футуристичний вигляд, ідеальні текстури зроблять ваші моменти більш пристрасними.&lt;br /&gt;
-Масажер виготовлений з високоякісного м'якого силікону, який пестить своїм оксамитовим дотиком.&lt;br /&gt;
-Безпечно використовувати у ванні або душі,&lt;br /&gt;
-тому що іграшка повністю водонепроникна і водонепроникна.&lt;br /&gt;
-Простий у користуванні блокування для подорожей - утримуйте протягом 3 секунд, щоб увімкнути або вимкнути.&lt;br /&gt;
-Іграшка має вбудований акумулятор - USB кабель в комплекті.</description_ua>
             </offer>
         <offer id="83-LT2387" available="true">
                 <erp>83-LT2387</erp>
@@ -40956,9 +40934,27 @@ Satisfyer Pocket Panda: водонепроникний (IPX7) накладний
             <stock>5</stock>
             <vendor>LOVE MATCH CONDOMS</vendor>
             <model>Презервативи 48 EXS Variety Pack 2</model>
-            <description>&lt;p&gt;Набір EXS Variety Pack 2 – це колекція презервативів-бестселерів, які пропонують різноманітні стимулюючі ефекти – від зігрівання до охолодження, а також текстуровані та світяться в темряві варіанти. Ідеальний вибір для пар, які шукають нових стимулів та різноманітності у своєму інтимному житті. Вміст упаковки: 12× Nano Thin – ультратонкі презервативи для природного досвіду 6× Warming – зігрівальний ефект для посиленого задоволення 6× Cooling – освіжаючий охолоджувальний ефект 6× Ribbed &amp; Dotted – ребристі та крапчасті – для додаткової стимуляції 6× Regular – класичний захист у найкращому вигляді 6× Black Latex – елегантний та чуттєвий чорний колір 6× Glow in the Dark – світяться в темряві для нічних пригод Презервативи EXS виготовлені з натурального латексу, мають соску на кінці та покриті силіконовим мастилом. Вони не мають характерного запаху гуми, що підвищує комфорт. Усі продукти EXS є веганськими та не тестуються на тваринах, тобто не містять інгредієнтів тваринного походження та не тестуються на тваринах. EXS є найбільшим незалежним постачальником презервативів у Великій Британії!&lt;/p&gt;</description>
+            <description>Набір EXS Variety Pack 2 – це колекція презервативів-бестселерів, які пропонують різноманітні стимулюючі ефекти – від зігрівання до охолодження, а також текстуровані та світяться в темряві варіанти. Ідеальний вибір для пар, які шукають нових стимулів та різноманітності у своєму інтимному житті.&lt;br /&gt;
+Вміст упаковки:&lt;br /&gt;
+12× Nano Thin – ультратонкі презервативи для природного досвіду&lt;br /&gt;
+6× Warming – зігрівальний ефект для посиленого задоволення&lt;br /&gt;
+6× Cooling – освіжаючий охолоджувальний ефект&lt;br /&gt;
+6× Ribbed &amp; Dotted – ребристі та крапчасті – для додаткової стимуляції&lt;br /&gt;
+6× Regular – класичний захист у найкращому вигляді&lt;br /&gt;
+6× Black Latex – елегантний та чуттєвий чорний колір&lt;br /&gt;
+6× Glow in the Dark – світяться в темряві для нічних пригод&lt;br /&gt;
+Презервативи EXS виготовлені з натурального латексу, мають соску на кінці та покриті силіконовим мастилом. Вони не мають характерного запаху гуми, що підвищує комфорт. Усі продукти EXS є веганськими та не тестуються на тваринах, тобто не містять інгредієнтів тваринного походження та не тестуються на тваринах. EXS є найбільшим незалежним постачальником презервативів у Великій Британії!</description>
             <name_ua>Презервативи 48 EXS Variety Pack 2</name_ua>
-            <description_ua>&lt;p&gt;Набір EXS Variety Pack 2 – це колекція презервативів-бестселерів, які пропонують різноманітні стимулюючі ефекти – від зігрівання до охолодження, а також текстуровані та світяться в темряві варіанти. Ідеальний вибір для пар, які шукають нових стимулів та різноманітності у своєму інтимному житті. Вміст упаковки: 12× Nano Thin – ультратонкі презервативи для природного досвіду 6× Warming – зігрівальний ефект для посиленого задоволення 6× Cooling – освіжаючий охолоджувальний ефект 6× Ribbed &amp; Dotted – ребристі та крапчасті – для додаткової стимуляції 6× Regular – класичний захист у найкращому вигляді 6× Black Latex – елегантний та чуттєвий чорний колір 6× Glow in the Dark – світяться в темряві для нічних пригод Презервативи EXS виготовлені з натурального латексу, мають соску на кінці та покриті силіконовим мастилом. Вони не мають характерного запаху гуми, що підвищує комфорт. Усі продукти EXS є веганськими та не тестуються на тваринах, тобто не містять інгредієнтів тваринного походження та не тестуються на тваринах. EXS є найбільшим незалежним постачальником презервативів у Великій Британії!&lt;/p&gt;</description_ua>
+            <description_ua>Набір EXS Variety Pack 2 – це колекція презервативів-бестселерів, які пропонують різноманітні стимулюючі ефекти – від зігрівання до охолодження, а також текстуровані та світяться в темряві варіанти. Ідеальний вибір для пар, які шукають нових стимулів та різноманітності у своєму інтимному житті.&lt;br /&gt;
+Вміст упаковки:&lt;br /&gt;
+12× Nano Thin – ультратонкі презервативи для природного досвіду&lt;br /&gt;
+6× Warming – зігрівальний ефект для посиленого задоволення&lt;br /&gt;
+6× Cooling – освіжаючий охолоджувальний ефект&lt;br /&gt;
+6× Ribbed &amp; Dotted – ребристі та крапчасті – для додаткової стимуляції&lt;br /&gt;
+6× Regular – класичний захист у найкращому вигляді&lt;br /&gt;
+6× Black Latex – елегантний та чуттєвий чорний колір&lt;br /&gt;
+6× Glow in the Dark – світяться в темряві для нічних пригод&lt;br /&gt;
+Презервативи EXS виготовлені з натурального латексу, мають соску на кінці та покриті силіконовим мастилом. Вони не мають характерного запаху гуми, що підвищує комфорт. Усі продукти EXS є веганськими та не тестуються на тваринах, тобто не містять інгредієнтів тваринного походження та не тестуються на тваринах. EXS є найбільшим незалежним постачальником презервативів у Великій Британії!</description_ua>
             </offer>
         <offer id="12-EXSMIXEDFLAV 48" available="true">
                 <erp>12-EXSMIXEDFLAV 48</erp>
@@ -40976,9 +40972,23 @@ Satisfyer Pocket Panda: водонепроникний (IPX7) накладний
             <stock>5</stock>
             <vendor>EXS</vendor>
             <model>Презервативи 48 SZT. EXS MIX FLAVOURED</model>
-            <description>&lt;p&gt;Презервативи EXS Mixed Flavoured розроблені, щоб стимулювати уяву та запалювати почуття під час статевого акту та прелюдії. Спокушаючи вашого партнера обволікаючим ароматом і солодким виразним смаком, ці презервативи ідеально підходять для закоханих, які хочуть додати трохи збочення в оральний секс. Ідеально підходить для винаходу нових еротичних ігор і розпалювання пристрасті, цей пакет презервативів поєднує в собі грайливі смаки: Кокс Шоколад Полуничне пломбір Жуйка Виріб виготовлено з натурального латексу, який гладкий і шовковистий на дотик. Розширена головка в поєднанні з тоншими стінками презерватива забезпечує відчуття майже «шкіра до шкіри» під час статевого акту. Презервативи EXS Mixed Flavoured — відмінний вибір для тих, хто хоче насолоджуватися всіма видами чуттєвих насолод з меншим ризиком. Вони пройшли електронний тест на безпеку та відповідають усім британським та європейським стандартам. Усі презервативи EXS мають позначки CE та BSI Kite та сертифіковані Vegan Society.&lt;/p&gt;</description>
+            <description>Презервативи EXS Mixed Flavoured розроблені, щоб стимулювати уяву та запалювати почуття під час статевого акту та прелюдії. Спокушаючи вашого партнера обволікаючим ароматом і солодким виразним смаком, ці презервативи ідеально підходять для закоханих, які хочуть додати трохи збочення в оральний секс.&lt;br /&gt;
+Ідеально підходить для винаходу нових еротичних ігор і розпалювання пристрасті, цей пакет презервативів поєднує в собі грайливі смаки:&lt;br /&gt;
+Кокс&lt;br /&gt;
+Шоколад&lt;br /&gt;
+Полуничне пломбір&lt;br /&gt;
+Жуйка&lt;br /&gt;
+Виріб виготовлено з натурального латексу, який гладкий і шовковистий на дотик. Розширена головка в поєднанні з тоншими стінками презерватива забезпечує відчуття майже «шкіра до шкіри» під час статевого акту.&lt;br /&gt;
+Презервативи EXS Mixed Flavoured — відмінний вибір для тих, хто хоче насолоджуватися всіма видами чуттєвих насолод з меншим ризиком. Вони пройшли електронний тест на безпеку та відповідають усім британським та європейським стандартам. Усі презервативи EXS мають позначки CE та BSI Kite та сертифіковані Vegan Society.</description>
             <name_ua>Презервативи 48 SZT. EXS MIX FLAVOURED</name_ua>
-            <description_ua>&lt;p&gt;Презервативи EXS Mixed Flavoured розроблені, щоб стимулювати уяву та запалювати почуття під час статевого акту та прелюдії. Спокушаючи вашого партнера обволікаючим ароматом і солодким виразним смаком, ці презервативи ідеально підходять для закоханих, які хочуть додати трохи збочення в оральний секс. Ідеально підходить для винаходу нових еротичних ігор і розпалювання пристрасті, цей пакет презервативів поєднує в собі грайливі смаки: Кокс Шоколад Полуничне пломбір Жуйка Виріб виготовлено з натурального латексу, який гладкий і шовковистий на дотик. Розширена головка в поєднанні з тоншими стінками презерватива забезпечує відчуття майже «шкіра до шкіри» під час статевого акту. Презервативи EXS Mixed Flavoured — відмінний вибір для тих, хто хоче насолоджуватися всіма видами чуттєвих насолод з меншим ризиком. Вони пройшли електронний тест на безпеку та відповідають усім британським та європейським стандартам. Усі презервативи EXS мають позначки CE та BSI Kite та сертифіковані Vegan Society.&lt;/p&gt;</description_ua>
+            <description_ua>Презервативи EXS Mixed Flavoured розроблені, щоб стимулювати уяву та запалювати почуття під час статевого акту та прелюдії. Спокушаючи вашого партнера обволікаючим ароматом і солодким виразним смаком, ці презервативи ідеально підходять для закоханих, які хочуть додати трохи збочення в оральний секс.&lt;br /&gt;
+Ідеально підходить для винаходу нових еротичних ігор і розпалювання пристрасті, цей пакет презервативів поєднує в собі грайливі смаки:&lt;br /&gt;
+Кокс&lt;br /&gt;
+Шоколад&lt;br /&gt;
+Полуничне пломбір&lt;br /&gt;
+Жуйка&lt;br /&gt;
+Виріб виготовлено з натурального латексу, який гладкий і шовковистий на дотик. Розширена головка в поєднанні з тоншими стінками презерватива забезпечує відчуття майже «шкіра до шкіри» під час статевого акту.&lt;br /&gt;
+Презервативи EXS Mixed Flavoured — відмінний вибір для тих, хто хоче насолоджуватися всіма видами чуттєвих насолод з меншим ризиком. Вони пройшли електронний тест на безпеку та відповідають усім британським та європейським стандартам. Усі презервативи EXS мають позначки CE та BSI Kite та сертифіковані Vegan Society.</description_ua>
             </offer>
         <offer id="26-00202" available="true">
                 <erp>26-00202</erp>
@@ -41174,9 +41184,9 @@ Satisfyer Pocket Panda: водонепроникний (IPX7) накладний
             <stock>5</stock>
             <vendor>PRETTY LOVE/BAILE</vendor>
             <model>Віброкулі PRETTY LOVE - Fun Box Pink, 12 vibration functions</model>
-            <description>&lt;p&gt;Ця вібруюча куля може здаватися маленькою, але ви можете бути впевнені, що вона сповнена задоволення! Вібратор Bullet можна тримати біля ваших улюблених ерогенних зон (таких як клітор або соски) для зовнішньої стимуляції або вводити всередину для масажу внутрішніх стінок. Незалежно від того, де ви її розмістите, ця розумна маленька куля забезпечує 12 чуттєвих режимів вібрації, які обов'язково піднімуть вас на нові висоти задоволення! Вібратор Bullet постачається з дротовим пультом дистанційного керування та футляром, які ви або ваш партнер можете використовувати для плавного перемикання між 12 режимами вібрації, а також для безпечного та легкого видалення. Це ідеально підходить для легкого перемикання між інтенсивністю та швидкістю, не перериваючи задоволення!&lt;/p&gt;</description>
+            <description>Ця вібруюча куля може здаватися маленькою, але ви можете бути впевнені, що вона сповнена задоволення! Вібратор Bullet можна тримати біля ваших улюблених ерогенних зон (таких як клітор або соски) для зовнішньої стимуляції або вводити всередину для масажу внутрішніх стінок. Незалежно від того, де ви її розмістите, ця розумна маленька куля забезпечує 12 чуттєвих режимів вібрації, які обов'язково піднімуть вас на нові висоти задоволення! Вібратор Bullet постачається з дротовим пультом дистанційного керування та футляром, які ви або ваш партнер можете використовувати для плавного перемикання між 12 режимами вібрації, а також для безпечного та легкого видалення. Це ідеально підходить для легкого перемикання між інтенсивністю та швидкістю, не перериваючи задоволення!</description>
             <name_ua>Віброкулі PRETTY LOVE - Fun Box Pink, 12 vibration functions</name_ua>
-            <description_ua>&lt;p&gt;Ця вібруюча куля може здаватися маленькою, але ви можете бути впевнені, що вона сповнена задоволення! Вібратор Bullet можна тримати біля ваших улюблених ерогенних зон (таких як клітор або соски) для зовнішньої стимуляції або вводити всередину для масажу внутрішніх стінок. Незалежно від того, де ви її розмістите, ця розумна маленька куля забезпечує 12 чуттєвих режимів вібрації, які обов'язково піднімуть вас на нові висоти задоволення! Вібратор Bullet постачається з дротовим пультом дистанційного керування та футляром, які ви або ваш партнер можете використовувати для плавного перемикання між 12 режимами вібрації, а також для безпечного та легкого видалення. Це ідеально підходить для легкого перемикання між інтенсивністю та швидкістю, не перериваючи задоволення!&lt;/p&gt;</description_ua>
+            <description_ua>Ця вібруюча куля може здаватися маленькою, але ви можете бути впевнені, що вона сповнена задоволення! Вібратор Bullet можна тримати біля ваших улюблених ерогенних зон (таких як клітор або соски) для зовнішньої стимуляції або вводити всередину для масажу внутрішніх стінок. Незалежно від того, де ви її розмістите, ця розумна маленька куля забезпечує 12 чуттєвих режимів вібрації, які обов'язково піднімуть вас на нові висоти задоволення! Вібратор Bullet постачається з дротовим пультом дистанційного керування та футляром, які ви або ваш партнер можете використовувати для плавного перемикання між 12 режимами вібрації, а також для безпечного та легкого видалення. Це ідеально підходить для легкого перемикання між інтенсивністю та швидкістю, не перериваючи задоволення!</description_ua>
             </offer>
         <offer id="35-30079" available="true">
                 <erp>35-30079</erp>
@@ -43859,9 +43869,17 @@ Swiss Navy® 4-in-1 Playful Flavors: Salted Caramel Delight дозволяє л�
             <stock>6</stock>
             <vendor>EROSPACE</vendor>
             <model>Батіг EROSPACE WILD PLAY C19</model>
-            <description>&lt;p&gt;Цей батіг – ідеальний аксесуар для інтенсивної гри, виготовлений з високоякісної штучної шкіри, яка ніжна до шкіри та легко чиститься. Оснащений ергономічною ручкою, він гарантує надійний та стабільний хват, дозволяючи точно регулювати силу ваших ударів. Легкий та компактний, він ідеально підходить для використання в спальні, забезпечуючи комфорт навіть під час тривалих сеансів.• Довжина ручки: 18 см • Довжина бахроми: 57 см • Загальна довжина: 75 см • Діаметр ручки: 3,4 см • Ширина бахроми: 0,6 см&lt;/p&gt;</description>
+            <description>Цей батіг – ідеальний аксесуар для інтенсивної гри, виготовлений з високоякісної штучної шкіри, яка ніжна до шкіри та легко чиститься. Оснащений ергономічною ручкою, він гарантує надійний та стабільний хват, дозволяючи точно регулювати силу ваших ударів. Легкий та компактний, він ідеально підходить для використання в спальні, забезпечуючи комфорт навіть під час тривалих сеансів.• Довжина ручки: 18 см&lt;br /&gt;
+• Довжина бахроми: 57 см&lt;br /&gt;
+• Загальна довжина: 75 см&lt;br /&gt;
+• Діаметр ручки: 3,4 см&lt;br /&gt;
+• Ширина бахроми: 0,6 см</description>
             <name_ua>Батіг EROSPACE WILD PLAY C19</name_ua>
-            <description_ua>&lt;p&gt;Цей батіг – ідеальний аксесуар для інтенсивної гри, виготовлений з високоякісної штучної шкіри, яка ніжна до шкіри та легко чиститься. Оснащений ергономічною ручкою, він гарантує надійний та стабільний хват, дозволяючи точно регулювати силу ваших ударів. Легкий та компактний, він ідеально підходить для використання в спальні, забезпечуючи комфорт навіть під час тривалих сеансів.• Довжина ручки: 18 см • Довжина бахроми: 57 см • Загальна довжина: 75 см • Діаметр ручки: 3,4 см • Ширина бахроми: 0,6 см&lt;/p&gt;</description_ua>
+            <description_ua>Цей батіг – ідеальний аксесуар для інтенсивної гри, виготовлений з високоякісної штучної шкіри, яка ніжна до шкіри та легко чиститься. Оснащений ергономічною ручкою, він гарантує надійний та стабільний хват, дозволяючи точно регулювати силу ваших ударів. Легкий та компактний, він ідеально підходить для використання в спальні, забезпечуючи комфорт навіть під час тривалих сеансів.• Довжина ручки: 18 см&lt;br /&gt;
+• Довжина бахроми: 57 см&lt;br /&gt;
+• Загальна довжина: 75 см&lt;br /&gt;
+• Діаметр ручки: 3,4 см&lt;br /&gt;
+• Ширина бахроми: 0,6 см</description_ua>
             </offer>
         <offer id="39-70255" available="true">
                 <erp>39-70255</erp>
@@ -43881,9 +43899,9 @@ Swiss Navy® 4-in-1 Playful Flavors: Salted Caramel Delight дозволяє л�
             <stock>6</stock>
             <vendor>EROSPACE</vendor>
             <model>Чокер EROSPACE WILD PLAY C17</model>
-            <description>&lt;p&gt;Чокер EROSPACE WILD PLAY C17&lt;/p&gt;</description>
+            <description>Чокер EROSPACE WILD PLAY C17</description>
             <name_ua>Чокер EROSPACE WILD PLAY C17</name_ua>
-            <description_ua>&lt;p&gt;Чокер EROSPACE WILD PLAY C17&lt;/p&gt;</description_ua>
+            <description_ua>Чокер EROSPACE WILD PLAY C17</description_ua>
             </offer>
         <offer id="39-70231" available="true">
                 <erp>39-70231</erp>
@@ -43904,9 +43922,9 @@ Swiss Navy® 4-in-1 Playful Flavors: Salted Caramel Delight дозволяє л�
             <stock>6</stock>
             <vendor>EROSPACE</vendor>
             <model>Кляп з затискачами для грудей EROSPACE WILD PLAY C15</model>
-            <description>&lt;p&gt;Кляп з затискачами для грудей EROSPACE WILD PLAY C15&lt;/p&gt;</description>
+            <description>Кляп з затискачами для грудей EROSPACE WILD PLAY C15</description>
             <name_ua>Кляп з затискачами для грудей EROSPACE WILD PLAY C15</name_ua>
-            <description_ua>&lt;p&gt;Кляп з затискачами для грудей EROSPACE WILD PLAY C15&lt;/p&gt;</description_ua>
+            <description_ua>Кляп з затискачами для грудей EROSPACE WILD PLAY C15</description_ua>
             </offer>
         <offer id="39-70224" available="true">
                 <erp>39-70224</erp>
@@ -43927,9 +43945,9 @@ Swiss Navy® 4-in-1 Playful Flavors: Salted Caramel Delight дозволяє л�
             <stock>6</stock>
             <vendor>EROSPACE</vendor>
             <model>Кляп EROSPACE WILD PLAY C14</model>
-            <description>&lt;p&gt;Кляп EROSPACE WILD PLAY C14&lt;/p&gt;</description>
+            <description>Кляп EROSPACE WILD PLAY C14</description>
             <name_ua>Кляп EROSPACE WILD PLAY C14</name_ua>
-            <description_ua>&lt;p&gt;Кляп EROSPACE WILD PLAY C14&lt;/p&gt;</description_ua>
+            <description_ua>Кляп EROSPACE WILD PLAY C14</description_ua>
             </offer>
         <offer id="26-00206" available="true">
                 <erp>26-00206</erp>
@@ -44084,9 +44102,25 @@ Swiss Navy® 4-in-1 Playful Flavors: Salted Caramel Delight дозволяє л�
             <stock>6</stock>
             <vendor>PRETTY LOVE/BAILE</vendor>
             <model>Фалоімітатор з мошонкою PRETTY LOVE TALLEN 8.7(220mm) Sliding Skin Series TPR, Suction base</model>
-            <description>&lt;p&gt;Приготуйтеся до справжнього вибуху задоволення з нашим найновішим фалоімітатором із реалістичної колекції. Виготовлений з матеріалу TPR, фалоімітатор є прикладом досконалості у світі секс-іграшок. Основні характеристики: •Матеріал TPR: виготовлено з матеріалу, який ідеально імітує натуральну шкіру, пропонуючи справжні враження. • Дизайн хребта: унікальний спинний мозок забезпечує гнучкий рух, ідеально адаптується до ваших потреб і забезпечує точну стимуляцію. • Головка: головка підсилює задоволення та реалістичність, забезпечуючи глибші та інтенсивніші враження. •Рухома шкіра: завдяки спеціальній рухливій шкірі кожен рух стає більш інтенсивним і автентичним. • Міцна присоска: велика присоска на основі забезпечує стабільність і дозволяє захоплюючу гру без рук. •Вражаючий розмір: великі розміри фалоімітатора гарантують повне наповнення та максимальне задоволення. Приготуйтеся до прекрасних моментів насолоди з цим вражаючим фалоімітатором, який завдяки інноваційному дизайну хребта дозволить вам знайти ідеальне місце для незабутніх відчуттів.&lt;/p&gt;</description>
+            <description>Приготуйтеся до справжнього вибуху задоволення з нашим найновішим фалоімітатором із реалістичної колекції. Виготовлений з матеріалу TPR, фалоімітатор є прикладом досконалості у світі секс-іграшок.&lt;br /&gt;
+Основні характеристики:&lt;br /&gt;
+•Матеріал TPR: виготовлено з матеріалу, який ідеально імітує натуральну шкіру, пропонуючи справжні враження.&lt;br /&gt;
+• Дизайн хребта: унікальний спинний мозок забезпечує гнучкий рух, ідеально адаптується до ваших потреб і забезпечує точну стимуляцію.&lt;br /&gt;
+• Головка: головка підсилює задоволення та реалістичність, забезпечуючи глибші та інтенсивніші враження.&lt;br /&gt;
+•Рухома шкіра: завдяки спеціальній рухливій шкірі кожен рух стає більш інтенсивним і автентичним.&lt;br /&gt;
+• Міцна присоска: велика присоска на основі забезпечує стабільність і дозволяє захоплюючу гру без рук.&lt;br /&gt;
+•Вражаючий розмір: великі розміри фалоімітатора гарантують повне наповнення та максимальне задоволення.&lt;br /&gt;
+Приготуйтеся до прекрасних моментів насолоди з цим вражаючим фалоімітатором, який завдяки інноваційному дизайну хребта дозволить вам знайти ідеальне місце для незабутніх відчуттів.</description>
             <name_ua>Фалоімітатор з мошонкою PRETTY LOVE TALLEN 8.7(220mm) Sliding Skin Series TPR, Suction base</name_ua>
-            <description_ua>&lt;p&gt;Приготуйтеся до справжнього вибуху задоволення з нашим найновішим фалоімітатором із реалістичної колекції. Виготовлений з матеріалу TPR, фалоімітатор є прикладом досконалості у світі секс-іграшок. Основні характеристики: •Матеріал TPR: виготовлено з матеріалу, який ідеально імітує натуральну шкіру, пропонуючи справжні враження. • Дизайн хребта: унікальний спинний мозок забезпечує гнучкий рух, ідеально адаптується до ваших потреб і забезпечує точну стимуляцію. • Головка: головка підсилює задоволення та реалістичність, забезпечуючи глибші та інтенсивніші враження. •Рухома шкіра: завдяки спеціальній рухливій шкірі кожен рух стає більш інтенсивним і автентичним. • Міцна присоска: велика присоска на основі забезпечує стабільність і дозволяє захоплюючу гру без рук. •Вражаючий розмір: великі розміри фалоімітатора гарантують повне наповнення та максимальне задоволення. Приготуйтеся до прекрасних моментів насолоди з цим вражаючим фалоімітатором, який завдяки інноваційному дизайну хребта дозволить вам знайти ідеальне місце для незабутніх відчуттів.&lt;/p&gt;</description_ua>
+            <description_ua>Приготуйтеся до справжнього вибуху задоволення з нашим найновішим фалоімітатором із реалістичної колекції. Виготовлений з матеріалу TPR, фалоімітатор є прикладом досконалості у світі секс-іграшок.&lt;br /&gt;
+Основні характеристики:&lt;br /&gt;
+•Матеріал TPR: виготовлено з матеріалу, який ідеально імітує натуральну шкіру, пропонуючи справжні враження.&lt;br /&gt;
+• Дизайн хребта: унікальний спинний мозок забезпечує гнучкий рух, ідеально адаптується до ваших потреб і забезпечує точну стимуляцію.&lt;br /&gt;
+• Головка: головка підсилює задоволення та реалістичність, забезпечуючи глибші та інтенсивніші враження.&lt;br /&gt;
+•Рухома шкіра: завдяки спеціальній рухливій шкірі кожен рух стає більш інтенсивним і автентичним.&lt;br /&gt;
+• Міцна присоска: велика присоска на основі забезпечує стабільність і дозволяє захоплюючу гру без рук.&lt;br /&gt;
+•Вражаючий розмір: великі розміри фалоімітатора гарантують повне наповнення та максимальне задоволення.&lt;br /&gt;
+Приготуйтеся до прекрасних моментів насолоди з цим вражаючим фалоімітатором, який завдяки інноваційному дизайну хребта дозволить вам знайти ідеальне місце для незабутніх відчуттів.</description_ua>
             </offer>
         <offer id="3-44200" available="true">
                 <erp>3-44200</erp>
@@ -46490,6 +46524,24 @@ Strawberry Boss of Toys - це ідеальний вибір для тих, хт
             <name_ua>Парфуми PHERO SPRAY 15 ML</name_ua>
             <description_ua>Духи для чоловіків з додаванням феромонів - природних речовин, що викликають потяг у протилежної статі. Це найновіший і найсильніший парфум для підвищення привабливості. Немає жінки, яка б могла протистояти їм ... Ідеально підходить для будь-якого хлопця, який потребує «м'якої допомоги» у спілкуванні з жінкам</description_ua>
             </offer>
+        <offer id="26-00020" available="true">
+                <erp>26-00020</erp>
+            <barcode>8466216000203</barcode>
+            <quantity_in_stock>8</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2510-lalka_sindy3d</url>
+            <price>2074.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>70</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/26-00020.jpg</picture>
+            <name>Секс лялька Lalka -SINDY3D</name>
+            <Отображать>Да</Отображать>
+            <stock>8</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Секс лялька Lalka -SINDY3D</model>
+            <description>Sindy Doll- 3D - лялька кохання. Красива надувна лялька кохання з чарівним обличчям і стоячим положенням 168 см. Голова природного, гарного контуру, ненакачана, з великими миготливими очима (У положенні лежачи очі закриті, в положенні стоячи очі відкриті). М'які губи і натуральне волосся. Вона в натуральну величину, має красиві, великі груди. Любовні отвори виготовлені з дуже якісного м'якого матеріалу. Окремо прикріплене віброяйце з регульованою швидкістю пульсації. У комплект входить насос. Лялька відрізняється як функціональністю, так і естетичністю. Розміри упаковки: 40 см / 27 см / 16 см.</description>
+            <name_ua>Секс лялька Lalka -SINDY3D</name_ua>
+            <description_ua>Sindy Doll- 3D - лялька кохання. Красива надувна лялька кохання з чарівним обличчям і стоячим положенням 168 см. Голова природного, гарного контуру, ненакачана, з великими миготливими очима (У положенні лежачи очі закриті, в положенні стоячи очі відкриті). М'які губи і натуральне волосся. Вона в натуральну величину, має красиві, великі груди. Любовні отвори виготовлені з дуже якісного м'якого матеріалу. Окремо прикріплене віброяйце з регульованою швидкістю пульсації. У комплект входить насос. Лялька відрізняється як функціональністю, так і естетичністю. Розміри упаковки: 40 см / 27 см / 16 см.</description_ua>
+            </offer>
         <offer id="48-11740" available="true">
                 <erp>48-11740</erp>
             <barcode>4028403117404</barcode>
@@ -48199,24 +48251,6 @@ JO All-in-One Sensual Massage Glide – це масажний ковзаючий
             <description>Лубрикант SPRAY""""M UP</description>
             <name_ua>Лубрикант SPRAYM UP</name_ua>
             <description_ua>Лубрикант SPRAY""""M UP</description_ua>
-            </offer>
-        <offer id="26-00020" available="true">
-                <erp>26-00020</erp>
-            <barcode>8466216000203</barcode>
-            <quantity_in_stock>9</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2510-lalka_sindy3d</url>
-            <price>2074.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>70</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/26-00020.jpg</picture>
-            <name>Секс лялька Lalka -SINDY3D</name>
-            <Отображать>Да</Отображать>
-            <stock>9</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Секс лялька Lalka -SINDY3D</model>
-            <description>Sindy Doll- 3D - лялька кохання. Красива надувна лялька кохання з чарівним обличчям і стоячим положенням 168 см. Голова природного, гарного контуру, ненакачана, з великими миготливими очима (У положенні лежачи очі закриті, в положенні стоячи очі відкриті). М'які губи і натуральне волосся. Вона в натуральну величину, має красиві, великі груди. Любовні отвори виготовлені з дуже якісного м'якого матеріалу. Окремо прикріплене віброяйце з регульованою швидкістю пульсації. У комплект входить насос. Лялька відрізняється як функціональністю, так і естетичністю. Розміри упаковки: 40 см / 27 см / 16 см.</description>
-            <name_ua>Секс лялька Lalka -SINDY3D</name_ua>
-            <description_ua>Sindy Doll- 3D - лялька кохання. Красива надувна лялька кохання з чарівним обличчям і стоячим положенням 168 см. Голова природного, гарного контуру, ненакачана, з великими миготливими очима (У положенні лежачи очі закриті, в положенні стоячи очі відкриті). М'які губи і натуральне волосся. Вона в натуральну величину, має красиві, великі груди. Любовні отвори виготовлені з дуже якісного м'якого матеріалу. Окремо прикріплене віброяйце з регульованою швидкістю пульсації. У комплект входить насос. Лялька відрізняється як функціональністю, так і естетичністю. Розміри упаковки: 40 см / 27 см / 16 см.</description_ua>
             </offer>
         <offer id="19-2021" available="true">
                 <erp>19-2021</erp>
@@ -49978,7 +50012,7 @@ Cool - 53 мм - Охолоджувальний ефект**</description_ua>
             </offer>
         <offer id="26-00010" available="true">
                 <erp>26-00010</erp>
-            <barcode>5906233080350</barcode>
+            <barcode>8466216000104</barcode>
             <quantity_in_stock>10</quantity_in_stock>
             <url>http://blissclub.com.ua/product/2459-lalka_roma</url>
             <price>814.00</price>
@@ -55183,9 +55217,39 @@ USB перезаряджається&lt;br /&gt;
             <stock>15</stock>
             <vendor>EXS</vendor>
             <model>Презервативи 3 SZT. EXS RIBBED AND DOTTED</model>
-            <description>&lt;p&gt;Презервативи EXS Extreme Ribbed розроблені для максимального задоволення під час статевого акту. Їхня виразна ребриста текстура стимулює нервові закінчення, забезпечуючи більш інтенсивний досвід як для вас, так і для вашого партнера. Виготовлені з високоякісного натурального латексу, з комфортною розширеною головкою та кінчиком-соскою, презервативи EXS Extreme Ribbed поєднують комфорт, безпеку та ефективну стимуляцію. Вони попередньо змащені силіконом, що робить їх ідеальними для вагінального, орального та анального сексу. Виразна текстурована поверхня – більше задоволення. Розширена головка – більше комфорту та краще прилягання. Натуральний латекс найвищої якості. Силіконове мастило – не сперміцидне, без спирту. Без запаху гуми, натуральна текстура. Сумісний з мастилами на водній основі та силіконовими. Веганський, схвалений PETA. Сертифікований CE, мінімальний термін придатності 3 роки. Розміри: Ширина: 56 мм Довжина: 190 мм Товщина: 0,075 мм. Склад: Натуральний каучуковий латекс, силіконове мастило.&lt;/p&gt;</description>
+            <description>Презервативи EXS Extreme Ribbed розроблені для максимального задоволення під час статевого акту. Їхня виразна ребриста текстура стимулює нервові закінчення, забезпечуючи більш інтенсивний досвід як для вас, так і для вашого партнера.&lt;br /&gt;
+&lt;br /&gt;
+Виготовлені з високоякісного натурального латексу, з комфортною розширеною головкою та кінчиком-соскою, презервативи EXS Extreme Ribbed поєднують комфорт, безпеку та ефективну стимуляцію. Вони попередньо змащені силіконом, що робить їх ідеальними для вагінального, орального та анального сексу. Виразна текстурована поверхня – більше задоволення.&lt;br /&gt;
+Розширена головка – більше комфорту та краще прилягання.&lt;br /&gt;
+Натуральний латекс найвищої якості.&lt;br /&gt;
+Силіконове мастило – не сперміцидне, без спирту.&lt;br /&gt;
+Без запаху гуми, натуральна текстура.&lt;br /&gt;
+Сумісний з мастилами на водній основі та силіконовими.&lt;br /&gt;
+Веганський, схвалений PETA.&lt;br /&gt;
+Сертифікований CE, мінімальний термін придатності 3 роки.&lt;br /&gt;
+Розміри:&lt;br /&gt;
+Ширина: 56 мм&lt;br /&gt;
+Довжина: 190 мм&lt;br /&gt;
+Товщина: 0,075 мм.&lt;br /&gt;
+Склад:&lt;br /&gt;
+Натуральний каучуковий латекс, силіконове мастило.</description>
             <name_ua>Презервативи 3 SZT. EXS RIBBED AND DOTTED</name_ua>
-            <description_ua>&lt;p&gt;Презервативи EXS Extreme Ribbed розроблені для максимального задоволення під час статевого акту. Їхня виразна ребриста текстура стимулює нервові закінчення, забезпечуючи більш інтенсивний досвід як для вас, так і для вашого партнера. Виготовлені з високоякісного натурального латексу, з комфортною розширеною головкою та кінчиком-соскою, презервативи EXS Extreme Ribbed поєднують комфорт, безпеку та ефективну стимуляцію. Вони попередньо змащені силіконом, що робить їх ідеальними для вагінального, орального та анального сексу. Виразна текстурована поверхня – більше задоволення. Розширена головка – більше комфорту та краще прилягання. Натуральний латекс найвищої якості. Силіконове мастило – не сперміцидне, без спирту. Без запаху гуми, натуральна текстура. Сумісний з мастилами на водній основі та силіконовими. Веганський, схвалений PETA. Сертифікований CE, мінімальний термін придатності 3 роки. Розміри: Ширина: 56 мм Довжина: 190 мм Товщина: 0,075 мм. Склад: Натуральний каучуковий латекс, силіконове мастило.&lt;/p&gt;</description_ua>
+            <description_ua>Презервативи EXS Extreme Ribbed розроблені для максимального задоволення під час статевого акту. Їхня виразна ребриста текстура стимулює нервові закінчення, забезпечуючи більш інтенсивний досвід як для вас, так і для вашого партнера.&lt;br /&gt;
+&lt;br /&gt;
+Виготовлені з високоякісного натурального латексу, з комфортною розширеною головкою та кінчиком-соскою, презервативи EXS Extreme Ribbed поєднують комфорт, безпеку та ефективну стимуляцію. Вони попередньо змащені силіконом, що робить їх ідеальними для вагінального, орального та анального сексу. Виразна текстурована поверхня – більше задоволення.&lt;br /&gt;
+Розширена головка – більше комфорту та краще прилягання.&lt;br /&gt;
+Натуральний латекс найвищої якості.&lt;br /&gt;
+Силіконове мастило – не сперміцидне, без спирту.&lt;br /&gt;
+Без запаху гуми, натуральна текстура.&lt;br /&gt;
+Сумісний з мастилами на водній основі та силіконовими.&lt;br /&gt;
+Веганський, схвалений PETA.&lt;br /&gt;
+Сертифікований CE, мінімальний термін придатності 3 роки.&lt;br /&gt;
+Розміри:&lt;br /&gt;
+Ширина: 56 мм&lt;br /&gt;
+Довжина: 190 мм&lt;br /&gt;
+Товщина: 0,075 мм.&lt;br /&gt;
+Склад:&lt;br /&gt;
+Натуральний каучуковий латекс, силіконове мастило.</description_ua>
             </offer>
         <offer id="12-EXSGlow 3" available="true">
                 <erp>12-EXSGlow 3</erp>
@@ -55203,9 +55267,33 @@ USB перезаряджається&lt;br /&gt;
             <stock>15</stock>
             <vendor>EXS</vendor>
             <model>Презервативи 3 SZT EXS Glow</model>
-            <description>&lt;p&gt;Освітіть ніч та додайте гостроти веселощам з презервативами EXS Glow-in-the-Dark. Вони поєднують класичний захист з унікальним сяючим ефектом, який здивує та розважить під час інтимних моментів. Вони гарантують ефективний захист від інфекцій, що передаються статевим шляхом (ІПСШ) (включаючи ВІЛ), та небажаної вагітності, а також забезпечують унікальний візуальний досвід. Виготовлені з високоякісного натурального латексу, з прямими стінками та резервуарним наконечником, вони легко вставляються та зручні в носінні. Завдяки силіконовому мастилу вони забезпечують плавне ковзання та підходять для вагінального, орального та анального сексу. Світіння в темряві – вау-фактор під час статевого акту Преміальний натуральний каучуковий латекс Прямі стінки та анатомічний кінчик Попередньо змащений – лубрикант на силіконовій основі (без сперміцидних добавок) Безпечний для використання з лубрикантами на водній основі та силіконовими Веганський, схвалений PETA Сертифікований CE, без спирту, мінімальний термін придатності 3 роки Ширина: 53 мм Довжина: 190 мм Товщина: 0,075 мм Склад:Натуральний каучуковий латекс, силіконовий лубрикант&lt;/p&gt;</description>
+            <description>Освітіть ніч та додайте гостроти веселощам з презервативами EXS Glow-in-the-Dark. Вони поєднують класичний захист з унікальним сяючим ефектом, який здивує та розважить під час інтимних моментів. Вони гарантують ефективний захист від інфекцій, що передаються статевим шляхом (ІПСШ) (включаючи ВІЛ), та небажаної вагітності, а також забезпечують унікальний візуальний досвід.&lt;br /&gt;
+Виготовлені з високоякісного натурального латексу, з прямими стінками та резервуарним наконечником, вони легко вставляються та зручні в носінні. Завдяки силіконовому мастилу вони забезпечують плавне ковзання та підходять для вагінального, орального та анального сексу.&lt;br /&gt;
+Світіння в темряві – вау-фактор під час статевого акту&lt;br /&gt;
+Преміальний натуральний каучуковий латекс&lt;br /&gt;
+Прямі стінки та анатомічний кінчик&lt;br /&gt;
+Попередньо змащений – лубрикант на силіконовій основі (без сперміцидних добавок)&lt;br /&gt;
+Безпечний для використання з лубрикантами на водній основі та силіконовими&lt;br /&gt;
+Веганський, схвалений PETA&lt;br /&gt;
+Сертифікований CE, без спирту, мінімальний термін придатності 3 роки&lt;br /&gt;
+Ширина: 53 мм&lt;br /&gt;
+Довжина: 190 мм&lt;br /&gt;
+Товщина: 0,075 мм&lt;br /&gt;
+Склад:Натуральний каучуковий латекс, силіконовий лубрикант</description>
             <name_ua>Презервативи 3 SZT EXS Glow</name_ua>
-            <description_ua>&lt;p&gt;Освітіть ніч та додайте гостроти веселощам з презервативами EXS Glow-in-the-Dark. Вони поєднують класичний захист з унікальним сяючим ефектом, який здивує та розважить під час інтимних моментів. Вони гарантують ефективний захист від інфекцій, що передаються статевим шляхом (ІПСШ) (включаючи ВІЛ), та небажаної вагітності, а також забезпечують унікальний візуальний досвід. Виготовлені з високоякісного натурального латексу, з прямими стінками та резервуарним наконечником, вони легко вставляються та зручні в носінні. Завдяки силіконовому мастилу вони забезпечують плавне ковзання та підходять для вагінального, орального та анального сексу. Світіння в темряві – вау-фактор під час статевого акту Преміальний натуральний каучуковий латекс Прямі стінки та анатомічний кінчик Попередньо змащений – лубрикант на силіконовій основі (без сперміцидних добавок) Безпечний для використання з лубрикантами на водній основі та силіконовими Веганський, схвалений PETA Сертифікований CE, без спирту, мінімальний термін придатності 3 роки Ширина: 53 мм Довжина: 190 мм Товщина: 0,075 мм Склад:Натуральний каучуковий латекс, силіконовий лубрикант&lt;/p&gt;</description_ua>
+            <description_ua>Освітіть ніч та додайте гостроти веселощам з презервативами EXS Glow-in-the-Dark. Вони поєднують класичний захист з унікальним сяючим ефектом, який здивує та розважить під час інтимних моментів. Вони гарантують ефективний захист від інфекцій, що передаються статевим шляхом (ІПСШ) (включаючи ВІЛ), та небажаної вагітності, а також забезпечують унікальний візуальний досвід.&lt;br /&gt;
+Виготовлені з високоякісного натурального латексу, з прямими стінками та резервуарним наконечником, вони легко вставляються та зручні в носінні. Завдяки силіконовому мастилу вони забезпечують плавне ковзання та підходять для вагінального, орального та анального сексу.&lt;br /&gt;
+Світіння в темряві – вау-фактор під час статевого акту&lt;br /&gt;
+Преміальний натуральний каучуковий латекс&lt;br /&gt;
+Прямі стінки та анатомічний кінчик&lt;br /&gt;
+Попередньо змащений – лубрикант на силіконовій основі (без сперміцидних добавок)&lt;br /&gt;
+Безпечний для використання з лубрикантами на водній основі та силіконовими&lt;br /&gt;
+Веганський, схвалений PETA&lt;br /&gt;
+Сертифікований CE, без спирту, мінімальний термін придатності 3 роки&lt;br /&gt;
+Ширина: 53 мм&lt;br /&gt;
+Довжина: 190 мм&lt;br /&gt;
+Товщина: 0,075 мм&lt;br /&gt;
+Склад:Натуральний каучуковий латекс, силіконовий лубрикант</description_ua>
             </offer>
         <offer id="12-EXSUNIQ 3" available="true">
                 <erp>12-EXSUNIQ 3</erp>
@@ -55221,9 +55309,61 @@ USB перезаряджається&lt;br /&gt;
             <stock>15</stock>
             <vendor>EXS</vendor>
             <model>Презервативи 3 SZT. EXS PULL NON-LATEX</model>
-            <description>&lt;p&gt;Унікальний дизайн цих презервативів має ремінці, які допомагають надійно розгортатися на шкірі, забезпечуючи щільне та зручне прилягання, підвищуючи інтимну близькість без шкоди для безпеки. Виготовлені з гіпоалергенного матеріалу без латексу, презервативи EXS PULL забезпечують ледь відчутний дотик, що прискорює відчуття для обох партнерів. Попередньо змащені формулою на основі силікону, вони сприяють гладкому ковзанню, ідеально підходять для вагінального, орального та анального статевого акту. Без запаху чи смаку гуми, ці презервативи пропонують стриманий та приємний досвід без відволікаючих запахів чи смаків. Сумісні з усіма мастилами на водній або силіконовій основі, вони задовольняють різноманітні переваги та бажання. З огляду на безпеку та задоволення, усі презервативи EXS проходять суворе тестування на відповідність європейським стандартам.&lt;/p&gt;</description>
+            <description>Унікальний дизайн цих презервативів має ремінці, які допомагають надійно розгортатися на шкірі, забезпечуючи щільне та зручне прилягання, підвищуючи інтимну близькість без шкоди для безпеки. Виготовлені з гіпоалергенного матеріалу без латексу, презервативи EXS PULL забезпечують ледь відчутний дотик, що прискорює відчуття для обох партнерів. Попередньо змащені формулою на основі силікону, вони сприяють гладкому ковзанню, ідеально підходять для вагінального, орального та анального статевого акту.&lt;br /&gt;
+Без запаху чи смаку гуми, ці презервативи пропонують стриманий та приємний досвід без відволікаючих запахів чи смаків. Сумісні з усіма мастилами на водній або силіконовій основі, вони задовольняють різноманітні переваги та бажання.&lt;br /&gt;
+З огляду на безпеку та задоволення, усі презервативи EXS проходять суворе тестування на відповідність європейським стандартам.</description>
             <name_ua>Презервативи 3 SZT. EXS PULL NON-LATEX</name_ua>
-            <description_ua>&lt;p&gt;Унікальний дизайн цих презервативів має ремінці, які допомагають надійно розгортатися на шкірі, забезпечуючи щільне та зручне прилягання, підвищуючи інтимну близькість без шкоди для безпеки. Виготовлені з гіпоалергенного матеріалу без латексу, презервативи EXS PULL забезпечують ледь відчутний дотик, що прискорює відчуття для обох партнерів. Попередньо змащені формулою на основі силікону, вони сприяють гладкому ковзанню, ідеально підходять для вагінального, орального та анального статевого акту. Без запаху чи смаку гуми, ці презервативи пропонують стриманий та приємний досвід без відволікаючих запахів чи смаків. Сумісні з усіма мастилами на водній або силіконовій основі, вони задовольняють різноманітні переваги та бажання. З огляду на безпеку та задоволення, усі презервативи EXS проходять суворе тестування на відповідність європейським стандартам.&lt;/p&gt;</description_ua>
+            <description_ua>Унікальний дизайн цих презервативів має ремінці, які допомагають надійно розгортатися на шкірі, забезпечуючи щільне та зручне прилягання, підвищуючи інтимну близькість без шкоди для безпеки. Виготовлені з гіпоалергенного матеріалу без латексу, презервативи EXS PULL забезпечують ледь відчутний дотик, що прискорює відчуття для обох партнерів. Попередньо змащені формулою на основі силікону, вони сприяють гладкому ковзанню, ідеально підходять для вагінального, орального та анального статевого акту.&lt;br /&gt;
+Без запаху чи смаку гуми, ці презервативи пропонують стриманий та приємний досвід без відволікаючих запахів чи смаків. Сумісні з усіма мастилами на водній або силіконовій основі, вони задовольняють різноманітні переваги та бажання.&lt;br /&gt;
+З огляду на безпеку та задоволення, усі презервативи EXS проходять суворе тестування на відповідність європейським стандартам.</description_ua>
+            </offer>
+        <offer id="12-EXSRIBBED" available="true">
+                <erp>12-EXSRIBBED</erp>
+            <barcode>5027701000233</barcode>
+            <quantity_in_stock>15</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32289-prezervativi_12_szt_exs_ribbed_and_dotted</url>
+            <price>329.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/12-EXSRIBBED.jpg</picture>
+            <name>Презервативи 12 SZT. EXS RIBBED AND DOTTED</name>
+            <Отображать>Да</Отображать>
+            <stock>15</stock>
+            <vendor>EXS</vendor>
+            <model>Презервативи 12 SZT. EXS RIBBED AND DOTTED</model>
+            <description>Презервативи EXS Extreme Ribbed розроблені для максимального задоволення під час статевого акту. Їхня виразна ребриста текстура стимулює нервові закінчення, забезпечуючи більш інтенсивний досвід як для вас, так і для вашого партнера.&lt;br /&gt;
+&lt;br /&gt;
+Виготовлені з високоякісного натурального латексу, з комфортною розширеною головкою та кінчиком-соскою, презервативи EXS Extreme Ribbed поєднують комфорт, безпеку та ефективну стимуляцію. Вони попередньо змащені силіконом, що робить їх ідеальними для вагінального, орального та анального сексу. Виразна текстурована поверхня – більше задоволення.&lt;br /&gt;
+Розширена головка – більше комфорту та краще прилягання.&lt;br /&gt;
+Натуральний латекс найвищої якості.&lt;br /&gt;
+Силіконове мастило – не сперміцидне, без спирту.&lt;br /&gt;
+Без запаху гуми, натуральна текстура.&lt;br /&gt;
+Сумісний з мастилами на водній основі та силіконовими.&lt;br /&gt;
+Веганський, схвалений PETA.&lt;br /&gt;
+Сертифікований CE, мінімальний термін придатності 3 роки.&lt;br /&gt;
+Розміри:&lt;br /&gt;
+Ширина: 56 мм&lt;br /&gt;
+Довжина: 190 мм&lt;br /&gt;
+Товщина: 0,075 мм.&lt;br /&gt;
+Склад:&lt;br /&gt;
+Натуральний каучуковий латекс, силіконове мастило.</description>
+            <name_ua>Презервативи 12 SZT. EXS RIBBED AND DOTTED</name_ua>
+            <description_ua>Презервативи EXS Extreme Ribbed розроблені для максимального задоволення під час статевого акту. Їхня виразна ребриста текстура стимулює нервові закінчення, забезпечуючи більш інтенсивний досвід як для вас, так і для вашого партнера.&lt;br /&gt;
+&lt;br /&gt;
+Виготовлені з високоякісного натурального латексу, з комфортною розширеною головкою та кінчиком-соскою, презервативи EXS Extreme Ribbed поєднують комфорт, безпеку та ефективну стимуляцію. Вони попередньо змащені силіконом, що робить їх ідеальними для вагінального, орального та анального сексу. Виразна текстурована поверхня – більше задоволення.&lt;br /&gt;
+Розширена головка – більше комфорту та краще прилягання.&lt;br /&gt;
+Натуральний латекс найвищої якості.&lt;br /&gt;
+Силіконове мастило – не сперміцидне, без спирту.&lt;br /&gt;
+Без запаху гуми, натуральна текстура.&lt;br /&gt;
+Сумісний з мастилами на водній основі та силіконовими.&lt;br /&gt;
+Веганський, схвалений PETA.&lt;br /&gt;
+Сертифікований CE, мінімальний термін придатності 3 роки.&lt;br /&gt;
+Розміри:&lt;br /&gt;
+Ширина: 56 мм&lt;br /&gt;
+Довжина: 190 мм&lt;br /&gt;
+Товщина: 0,075 мм.&lt;br /&gt;
+Склад:&lt;br /&gt;
+Натуральний каучуковий латекс, силіконове мастило.</description_ua>
             </offer>
         <offer id="19-31321" available="true">
                 <erp>19-31321</erp>
@@ -56432,9 +56572,17 @@ ONE Super Sensitive — для тих, хто хоче відчувати біл
             <stock>20</stock>
             <vendor>EXS</vendor>
             <model>Презервативи 3 SZT. EXS NANO THIN</model>
-            <description>&lt;p&gt;Презервативи EXS Nano Thin прилягають майже до вашої шкіри, забезпечуючи той самий рівень захисту, що й звичайні презервативи. Презервативи EXS Nano Thin ідеально підходять для закоханих, які хочуть безпечно насолоджуватися одне одним, не відчуваючи жодних перешкод, товщиною всього 0,045 мм. Продукт такий же гнучкий і міцний, як і товстостінні презервативи, а презервативи Nano Thin щільно прилягають до пеніса. Виготовлений з натурального латексу, презерватив гладкий і шовковистий на дотик. Шар мастила на основі силікону забезпечує виняткову гладкість, зменшуючи тертя та запобігаючи подразненню навіть за відсутності належного природного змащення. Презервативи EXS Nano Thin підходять для вагінального, анального та орального сексу. За необхідності можна додати додаткове мастило. Презервативи EXS Nano Thin забезпечують зручну посадку. При ширині 53 мм і довжині 192 мм вони ідеально підходять для чоловіків, яким потрібен презерватив звичайного розміру.&lt;/p&gt;</description>
+            <description>Презервативи EXS Nano Thin прилягають майже до вашої шкіри, забезпечуючи той самий рівень захисту, що й звичайні презервативи.&lt;br /&gt;
+Презервативи EXS Nano Thin ідеально підходять для закоханих, які хочуть безпечно насолоджуватися одне одним, не відчуваючи жодних перешкод, товщиною всього 0,045 мм. Продукт такий же гнучкий і міцний, як і товстостінні презервативи, а презервативи Nano Thin щільно прилягають до пеніса.&lt;br /&gt;
+Виготовлений з натурального латексу, презерватив гладкий і шовковистий на дотик. Шар мастила на основі силікону забезпечує виняткову гладкість, зменшуючи тертя та запобігаючи подразненню навіть за відсутності належного природного змащення. Презервативи EXS Nano Thin підходять для вагінального, анального та орального сексу. За необхідності можна додати додаткове мастило.&lt;br /&gt;
+&lt;br /&gt;
+Презервативи EXS Nano Thin забезпечують зручну посадку. При ширині 53 мм і довжині 192 мм вони ідеально підходять для чоловіків, яким потрібен презерватив звичайного розміру.</description>
             <name_ua>Презервативи 3 SZT. EXS NANO THIN</name_ua>
-            <description_ua>&lt;p&gt;Презервативи EXS Nano Thin прилягають майже до вашої шкіри, забезпечуючи той самий рівень захисту, що й звичайні презервативи. Презервативи EXS Nano Thin ідеально підходять для закоханих, які хочуть безпечно насолоджуватися одне одним, не відчуваючи жодних перешкод, товщиною всього 0,045 мм. Продукт такий же гнучкий і міцний, як і товстостінні презервативи, а презервативи Nano Thin щільно прилягають до пеніса. Виготовлений з натурального латексу, презерватив гладкий і шовковистий на дотик. Шар мастила на основі силікону забезпечує виняткову гладкість, зменшуючи тертя та запобігаючи подразненню навіть за відсутності належного природного змащення. Презервативи EXS Nano Thin підходять для вагінального, анального та орального сексу. За необхідності можна додати додаткове мастило. Презервативи EXS Nano Thin забезпечують зручну посадку. При ширині 53 мм і довжині 192 мм вони ідеально підходять для чоловіків, яким потрібен презерватив звичайного розміру.&lt;/p&gt;</description_ua>
+            <description_ua>Презервативи EXS Nano Thin прилягають майже до вашої шкіри, забезпечуючи той самий рівень захисту, що й звичайні презервативи.&lt;br /&gt;
+Презервативи EXS Nano Thin ідеально підходять для закоханих, які хочуть безпечно насолоджуватися одне одним, не відчуваючи жодних перешкод, товщиною всього 0,045 мм. Продукт такий же гнучкий і міцний, як і товстостінні презервативи, а презервативи Nano Thin щільно прилягають до пеніса.&lt;br /&gt;
+Виготовлений з натурального латексу, презерватив гладкий і шовковистий на дотик. Шар мастила на основі силікону забезпечує виняткову гладкість, зменшуючи тертя та запобігаючи подразненню навіть за відсутності належного природного змащення. Презервативи EXS Nano Thin підходять для вагінального, анального та орального сексу. За необхідності можна додати додаткове мастило.&lt;br /&gt;
+&lt;br /&gt;
+Презервативи EXS Nano Thin забезпечують зручну посадку. При ширині 53 мм і довжині 192 мм вони ідеально підходять для чоловіків, яким потрібен презерватив звичайного розміру.</description_ua>
             </offer>
         <offer id="12-EXSBLACK" available="true">
                 <erp>12-EXSBLACK</erp>
