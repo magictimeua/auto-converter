@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-07-31 14:00">
+<yml_catalog date="2025-07-31 15:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -2012,26 +2012,6 @@ Flutschi Anal - це відмінний вибір для тих, хто шук�
 Загальна довжина: 70 см&lt;br /&gt;
 Довжина ручки: 20 см&lt;br /&gt;
 Діаметр ручки: 8 мм</description_ua>
-            </offer>
-        <offer id="42-05042890000" available="true">
-                <erp>42-05042890000</erp>
-            <barcode>4024144505463</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/13737-cholovicha_pompa_mrbig</url>
-            <price>2109.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>29</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-05042890000.jpg</picture>
-            <name>Чоловіча помпа Mr.Big</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>ORION</vendor>
-            <model>Чоловіча помпа Mr.Big</model>
-            <description>Колба вакуумної помпи із високоміцного пластику прозорого кольору. Пристрій комплектується герметизуючою манжетою із латексу, що комплектуються ще 3-ма запасними. Ручка для накачки для зручності при застосуванні. Трубка запобігає перегинам і зім'яттю за рахунок своєї гофрованої структурі. Прилад оснащений впускним клапаном, за допомогою нього можна контролювати рівень тиску в колбі.&lt;br /&gt;
- Довжина колби 32 см, глибина введення 30,7 см, внутрішній діаметр 6,5 см, зовнішній діаметр 6,6-7 см. Ø отвору втулки 3,4 см (еластичний). </description>
-            <name_ua>Чоловіча помпа Mr.Big</name_ua>
-            <description_ua>Колба вакуумної помпи із високоміцного пластику прозорого кольору. Пристрій комплектується герметизуючою манжетою із латексу, що комплектуються ще 3-ма запасними. Ручка для накачки для зручності при застосуванні. Трубка запобігає перегинам і зім'яттю за рахунок своєї гофрованої структурі. Прилад оснащений впускним клапаном, за допомогою нього можна контролювати рівень тиску в колбі.&lt;br /&gt;
- Довжина колби 32 см, глибина введення 30,7 см, внутрішній діаметр 6,5 см, зовнішній діаметр 6,6-7 см. Ø отвору втулки 3,4 см (еластичний). </description_ua>
             </offer>
         <offer id="30-16901-X-SKIN" available="true">
                 <erp>30-16901-X-SKIN</erp>
@@ -5541,6 +5521,24 @@ Bijoux Indiscrets (Іспанія)</description_ua>
 &lt;br /&gt;
 довжина: 18.5 см; &lt;br /&gt;
 діаметр: 3.7 см.</description_ua>
+            </offer>
+        <offer id="6-00105" available="true">
+                <erp>6-00105</erp>
+            <barcode>5907776187520</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/29712-parfumi_z_feromonami_feromony_pherluxe_red_for_women_33_ml_spray</url>
+            <price>820.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>80</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/6-00105.jpg</picture>
+            <name>Парфуми з феромонами Feromony-Pherluxe Red for women 33 ml spray</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor />
+            <model>Парфуми з феромонами Feromony-Pherluxe Red for women 33 ml spray</model>
+            <description>Парфуми з феромонами Feromony-Pherluxe Red for women 33 ml spray</description>
+            <name_ua>Парфуми з феромонами Feromony-Pherluxe Red for women 33 ml spray</name_ua>
+            <description_ua>Парфуми з феромонами Feromony-Pherluxe Red for women 33 ml spray</description_ua>
             </offer>
         <offer id="BI-014887" available="true">
                 <erp>BI-014887</erp>
@@ -16163,24 +16161,6 @@ PheroStrong представляє новий аромат для жінок: On
             <description>Парфуми з феромонами Feromony-Pherluxe Blue for men 33 ml spray </description>
             <name_ua>Парфуми з феромонами Feromony-Pherluxe Blue for men 33 ml spray </name_ua>
             <description_ua>Парфуми з феромонами Feromony-Pherluxe Blue for men 33 ml spray </description_ua>
-            </offer>
-        <offer id="6-00105" available="true">
-                <erp>6-00105</erp>
-            <barcode>5907776187520</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29712-parfumi_z_feromonami_feromony_pherluxe_red_for_women_33_ml_spray</url>
-            <price>820.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>80</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/6-00105.jpg</picture>
-            <name>Парфуми з феромонами Feromony-Pherluxe Red for women 33 ml spray</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor />
-            <model>Парфуми з феромонами Feromony-Pherluxe Red for women 33 ml spray</model>
-            <description>Парфуми з феромонами Feromony-Pherluxe Red for women 33 ml spray</description>
-            <name_ua>Парфуми з феромонами Feromony-Pherluxe Red for women 33 ml spray</name_ua>
-            <description_ua>Парфуми з феромонами Feromony-Pherluxe Red for women 33 ml spray</description_ua>
             </offer>
         <offer id="64-00126" available="true">
                 <erp>64-00126</erp>
@@ -31060,28 +31040,6 @@ Pjur Back Door Regenerating Anal Glide підходить для викорис�
             <name_ua>Вакуумна помпа Penis Pump Air Control</name_ua>
             <description_ua>Вакуумна помпа Penis Pump "Air Control"</description_ua>
             </offer>
-        <offer id="42-05506390000" available="true">
-                <erp>42-05506390000</erp>
-            <barcode>4024144550630</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/20006-vibrator__7zoll_mini</url>
-            <price>756.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>143</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-05506390000.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61e4062ad72fd.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61e4062aef41b.jpg</picture>
-            <name>Анальний вібратор  Real Deal Anal</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>ORION</vendor>
-            <model>Анальний вібратор  Real Deal Anal</model>
-            <description>Вібратор природної форми та кольору, виготовлений з гнучкого матеріалу, спеціально для анального досвіду. Є регулювання коливань та швидкості. Довжина 19,5 см. Діаметр 2,5 см. Колір – тілесний&lt;br /&gt;
-Вібратор Real Deal працює від 1 батарейки АА.</description>
-            <name_ua>Анальний вібратор  Real Deal Anal</name_ua>
-            <description_ua>Вібратор природної форми та кольору, виготовлений з гнучкого матеріалу, спеціально для анального досвіду. Є регулювання коливань та швидкості. Довжина 19,5 см. Діаметр 2,5 см. Колір – тілесний&lt;br /&gt;
-Вібратор Real Deal працює від 1 батарейки АА.</description_ua>
-            </offer>
         <offer id="42-05780880000" available="true">
                 <erp>42-05780880000</erp>
             <barcode>4024144582501</barcode>
@@ -33260,6 +33218,33 @@ ABS силікон&lt;br /&gt;
             <description>Батіг  шкіра колір метал - звичайний 30см</description>
             <name_ua>Батіг  шкіра колір метал - звичайний 30см</name_ua>
             <description_ua>Батіг  шкіра колір метал - звичайний 30см</description_ua>
+            </offer>
+        <offer id="BI-040160Q" available="true">
+                <erp>BI-040160Q</erp>
+            <barcode>6959532328240</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30977-analyna_probka_rozshiryuva_pretty_love_manson</url>
+            <price>1420.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>161</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3097465d13c2573f12.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d13c20c8b59.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d13c20ec284.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d13c211535c.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d13c21323fa.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d13c214d118.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d13c21673aa.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d13c217ffe7.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d13c2198096.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d13c21b05f7.jpeg</picture>
+            <name>Анальна пробка розширюва PRETTY LOVE Manson</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Анальна пробка розширюва PRETTY LOVE Manson</model>
+            <description>Анальна пробка розширюва PRETTY LOVE Manson</description>
+            <name_ua>Анальна пробка розширюва PRETTY LOVE Manson</name_ua>
+            <description_ua>Анальна пробка розширюва PRETTY LOVE Manson</description_ua>
             </offer>
         <offer id="110-00002" available="true">
                 <erp>110-00002</erp>
@@ -36886,6 +36871,28 @@ BIOglide Lubricant and Massage Oil - це ідеальний вибір для �
             <name_ua>Маструбатор MasturbatorCLEO Double Delight 3.0</name_ua>
             <description_ua>Чоловічий мастурбатор має красиво профільовані м’які губи з одного боку та піхву з іншого. Текстурована камера має численні виступи, які будуть інтенсивно масажувати ваш член під час проникнення. Піхви Зроблено з ультрареалістичного матеріалу (CyberSkin®). Внутрішній тунель має численні смужки, які ретельно масажують пеніс з точною точністю, створюючи відчуття справжніх відчуттів. Для кращого результату можна використовувати зволожуючі гелі. М'який і реалістичний матеріал - кібершкіра, пестить своїм дотиком. Загальна довжина в см: 21,5 см Діаметр в см: 7,5 см</description_ua>
             </offer>
+        <offer id="42-05506390000" available="true">
+                <erp>42-05506390000</erp>
+            <barcode>4024144550630</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/20006-vibrator__7zoll_mini</url>
+            <price>756.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>143</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/42-05506390000.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_61e4062ad72fd.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_61e4062aef41b.jpg</picture>
+            <name>Анальний вібратор  Real Deal Anal</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>ORION</vendor>
+            <model>Анальний вібратор  Real Deal Anal</model>
+            <description>Вібратор природної форми та кольору, виготовлений з гнучкого матеріалу, спеціально для анального досвіду. Є регулювання коливань та швидкості. Довжина 19,5 см. Діаметр 2,5 см. Колір – тілесний&lt;br /&gt;
+Вібратор Real Deal працює від 1 батарейки АА.</description>
+            <name_ua>Анальний вібратор  Real Deal Anal</name_ua>
+            <description_ua>Вібратор природної форми та кольору, виготовлений з гнучкого матеріалу, спеціально для анального досвіду. Є регулювання коливань та швидкості. Довжина 19,5 см. Діаметр 2,5 см. Колір – тілесний&lt;br /&gt;
+Вібратор Real Deal працює від 1 батарейки АА.</description_ua>
+            </offer>
         <offer id="42-05767600000" available="true">
                 <erp>42-05767600000</erp>
             <barcode>4024144580477</barcode>
@@ -38625,33 +38632,6 @@ Sensfeel™ for Him - це природний активний інгредіє�
 17 см x 11 см x 3,8 см.&lt;br /&gt;
 Вага 196 г&lt;br /&gt;
 Силікон, АБС.</description_ua>
-            </offer>
-        <offer id="BI-040160Q" available="true">
-                <erp>BI-040160Q</erp>
-            <barcode>6959532328240</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30977-analyna_probka_rozshiryuva_pretty_love_manson</url>
-            <price>1420.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>161</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3097465d13c2573f12.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d13c20c8b59.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d13c20ec284.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d13c211535c.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d13c21323fa.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d13c214d118.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d13c21673aa.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d13c217ffe7.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d13c2198096.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d13c21b05f7.jpeg</picture>
-            <name>Анальна пробка розширюва PRETTY LOVE Manson</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Анальна пробка розширюва PRETTY LOVE Manson</model>
-            <description>Анальна пробка розширюва PRETTY LOVE Manson</description>
-            <name_ua>Анальна пробка розширюва PRETTY LOVE Manson</name_ua>
-            <description_ua>Анальна пробка розширюва PRETTY LOVE Manson</description_ua>
             </offer>
         <offer id="BI-300008-1" available="true">
                 <erp>BI-300008-1</erp>
@@ -51996,6 +51976,28 @@ pjur TOY GLIDE – ідеальний вибір для тих, хто хоче 
             <name_ua>Парфуми PheroStrong Strong dla kobiet 15 ml</name_ua>
             <description_ua>Парфуми PheroStrong Strong dla kobiet 15 ml</description_ua>
             </offer>
+        <offer id="BI-014173" available="true">
+                <erp>BI-014173</erp>
+            <barcode>6959532310955</barcode>
+            <quantity_in_stock>11</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/13867-pretty_love_snappy_30_function</url>
+            <price>631.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>27</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/BI-014173.jpg</picture>
+            <name>Вібратор з кліторальною стимуляцією Pretty Love Snappy Purple</name>
+            <Отображать>Да</Отображать>
+            <stock>11</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Вібратор з кліторальною стимуляцією Pretty Love Snappy Purple</model>
+            <description>Багатошвидкісний вібратор кольору фуксії, з  30 різнми режимами  вібрації, що перезаряджається. Має додатковий кліторальний стимулятор. Іграшка виконана з високоякісного приємного і бархатистого на дотик силікону. Вібратор цієї моделі має вбудований основу пульт управління, за допомогою якого можна вибрати найбільш приємний для себе варіант вібрації. 2 батареї ААА (немає в комплекті) Загальна довжина – 19,5 см, максимальний діаметр – 3.4 см, довжина кліторального відростка – 6 см, діаметр – 2.5 см.&lt;br /&gt;
+Є мішечок для зберігання.&lt;br /&gt;
+</description>
+            <name_ua>Вібратор з кліторальною стимуляцією Pretty Love Snappy Purple</name_ua>
+            <description_ua>Багатошвидкісний вібратор кольору фуксії, з  30 різнми режимами  вібрації, що перезаряджається. Має додатковий кліторальний стимулятор. Іграшка виконана з високоякісного приємного і бархатистого на дотик силікону. Вібратор цієї моделі має вбудований основу пульт управління, за допомогою якого можна вибрати найбільш приємний для себе варіант вібрації. 2 батареї ААА (немає в комплекті) Загальна довжина – 19,5 см, максимальний діаметр – 3.4 см, довжина кліторального відростка – 6 см, діаметр – 2.5 см.&lt;br /&gt;
+Є мішечок для зберігання.&lt;br /&gt;
+</description_ua>
+            </offer>
         <offer id="BI-014377W" available="true">
                 <erp>BI-014377W</erp>
             <barcode>6959532316186</barcode>
@@ -52746,28 +52748,6 @@ Plaisir Secret став синонімом косметики найвищої �
             <description>Ексклюзивний гель на водній основі з поколюванням (не викликає алергії, суперефективний). Забезпечте легке та надійне рішення, коли природне вагінальне змащування є недостатнім. Навіть без цієї проблеми він забезпечує більшу інтенсивність відчуттів і емоцій під час статевого акту.</description>
             <name_ua>Гель лубрикант Waterglide Tingling 300 ml </name_ua>
             <description_ua>Ексклюзивний гель на водній основі з поколюванням (не викликає алергії, суперефективний). Забезпечте легке та надійне рішення, коли природне вагінальне змащування є недостатнім. Навіть без цієї проблеми він забезпечує більшу інтенсивність відчуттів і емоцій під час статевого акту.</description_ua>
-            </offer>
-        <offer id="BI-014173" available="true">
-                <erp>BI-014173</erp>
-            <barcode>6959532310955</barcode>
-            <quantity_in_stock>12</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/13867-pretty_love_snappy_30_function</url>
-            <price>631.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>27</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/BI-014173.jpg</picture>
-            <name>Вібратор з кліторальною стимуляцією Pretty Love Snappy Purple</name>
-            <Отображать>Да</Отображать>
-            <stock>12</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Вібратор з кліторальною стимуляцією Pretty Love Snappy Purple</model>
-            <description>Багатошвидкісний вібратор кольору фуксії, з  30 різнми режимами  вібрації, що перезаряджається. Має додатковий кліторальний стимулятор. Іграшка виконана з високоякісного приємного і бархатистого на дотик силікону. Вібратор цієї моделі має вбудований основу пульт управління, за допомогою якого можна вибрати найбільш приємний для себе варіант вібрації. 2 батареї ААА (немає в комплекті) Загальна довжина – 19,5 см, максимальний діаметр – 3.4 см, довжина кліторального відростка – 6 см, діаметр – 2.5 см.&lt;br /&gt;
-Є мішечок для зберігання.&lt;br /&gt;
-</description>
-            <name_ua>Вібратор з кліторальною стимуляцією Pretty Love Snappy Purple</name_ua>
-            <description_ua>Багатошвидкісний вібратор кольору фуксії, з  30 різнми режимами  вібрації, що перезаряджається. Має додатковий кліторальний стимулятор. Іграшка виконана з високоякісного приємного і бархатистого на дотик силікону. Вібратор цієї моделі має вбудований основу пульт управління, за допомогою якого можна вибрати найбільш приємний для себе варіант вібрації. 2 батареї ААА (немає в комплекті) Загальна довжина – 19,5 см, максимальний діаметр – 3.4 см, довжина кліторального відростка – 6 см, діаметр – 2.5 см.&lt;br /&gt;
-Є мішечок для зберігання.&lt;br /&gt;
-</description_ua>
             </offer>
         <offer id="BI-014191" available="true">
                 <erp>BI-014191</erp>
