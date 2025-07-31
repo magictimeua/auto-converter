@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-07-31 16:15">
+<yml_catalog date="2025-07-31 17:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -32538,6 +32538,32 @@ ABS силікон&lt;br /&gt;
             <name_ua>Анальна пробка Cuties Plugs Blue</name_ua>
             <description_ua>Анальна пробка Cuties Plugs Blue</description_ua>
             </offer>
+        <offer id="4-30761" available="true">
+                <erp>4-30761</erp>
+            <barcode>8433345307619</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30253-menstrualyna_chasha_menstrual_cup_fucsia_size_s</url>
+            <price>559.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>124</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3025363f0b9223f9bd.png</picture>
+            <name>Менструальна чаша Menstrual Cup fucsia Size S</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor />
+            <model>Менструальна чаша Menstrual Cup fucsia Size S</model>
+            <description>Менструальна чаша фуксія, розмір S&lt;br /&gt;
+матеріал: силікон&lt;br /&gt;
+колір: рожевий&lt;br /&gt;
+діаметр: 4 см&lt;br /&gt;
+висота: 6,8 см</description>
+            <name_ua>Менструальна чаша Menstrual Cup fucsia Size S</name_ua>
+            <description_ua>Менструальна чаша фуксія, розмір S&lt;br /&gt;
+матеріал: силікон&lt;br /&gt;
+колір: рожевий&lt;br /&gt;
+діаметр: 4 см&lt;br /&gt;
+висота: 6,8 см</description_ua>
+            </offer>
         <offer id="BI-014535-2" available="true">
                 <erp>BI-014535-2</erp>
             <barcode>6959532321081</barcode>
@@ -38257,32 +38283,6 @@ Sensfeel™ for Him - це природний активний інгредіє�
 Матеріал: 100% силікон&lt;br /&gt;
 Колір: рожевий&lt;br /&gt;
 Розміри: діам. 4,6 см / висота 6,8 см</description_ua>
-            </offer>
-        <offer id="4-30761" available="true">
-                <erp>4-30761</erp>
-            <barcode>8433345307619</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30253-menstrualyna_chasha_menstrual_cup_fucsia_size_s</url>
-            <price>559.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>124</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3025363f0b9223f9bd.png</picture>
-            <name>Менструальна чаша Menstrual Cup fucsia Size S</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor />
-            <model>Менструальна чаша Menstrual Cup fucsia Size S</model>
-            <description>Менструальна чаша фуксія, розмір S&lt;br /&gt;
-матеріал: силікон&lt;br /&gt;
-колір: рожевий&lt;br /&gt;
-діаметр: 4 см&lt;br /&gt;
-висота: 6,8 см</description>
-            <name_ua>Менструальна чаша Menstrual Cup fucsia Size S</name_ua>
-            <description_ua>Менструальна чаша фуксія, розмір S&lt;br /&gt;
-матеріал: силікон&lt;br /&gt;
-колір: рожевий&lt;br /&gt;
-діаметр: 4 см&lt;br /&gt;
-висота: 6,8 см</description_ua>
             </offer>
         <offer id="74-3465" available="true">
                 <erp>74-3465</erp>
@@ -56403,6 +56403,25 @@ ONE Super Sensitive — для тих, хто хоче відчувати біл
 &lt;br /&gt;
 Презервативи EXS Nano Thin забезпечують зручну посадку. При ширині 53 мм і довжині 192 мм вони ідеально підходять для чоловіків, яким потрібен презерватив звичайного розміру.</description_ua>
             </offer>
+        <offer id="90-800067" available="true">
+                <erp>90-800067</erp>
+            <barcode>347922800067</barcode>
+            <quantity_in_stock>21</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30374-lubrikant_lubrix_200_ml</url>
+            <price>454.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>46</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_303746411c0b576b50.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6411c0b42822c.jpg</picture>
+            <name>Лубрикант Lubrix, 200 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>21</stock>
+            <vendor />
+            <model>Лубрикант Lubrix, 200 мл</model>
+            <description>Lubrix-високоякісний гель-лубрикант для жінок на водно-гліцериновій основі, створений за спец. Забезпечує тривале легке ковзання під час статевого акту. . Попередньо дзвоніть і живіть, підходячи до будь-якого типу шкіри. Він не відчуває втрати здатності, не залишає плям на одязі та післябійній білизні, не містить парабенів. Не зачіпайте первісне і окреме, можна використовувати для анального сексу. Сумісний із різноманітними секс-іграшками та презервативами, легко змішується водою. Об'єм 200 мл.</description>
+            <name_ua>Лубрикант Lubrix, 200 мл</name_ua>
+            <description_ua>Lubrix-високоякісний гель-лубрикант для жінок на водно-гліцериновій основі, створений за спец. Забезпечує тривале легке ковзання під час статевого акту. . Попередньо дзвоніть і живіть, підходячи до будь-якого типу шкіри. Він не відчуває втрати здатності, не залишає плям на одязі та післябійній білизні, не містить парабенів. Не зачіпайте первісне і окреме, можна використовувати для анального сексу. Сумісний із різноманітними секс-іграшками та презервативами, легко змішується водою. Об'єм 200 мл.</description_ua>
+            </offer>
         <offer id="12-EXSBLACK" available="true">
                 <erp>12-EXSBLACK</erp>
             <barcode>5027701000264</barcode>
@@ -56540,25 +56559,6 @@ ONE Super Sensitive — для тих, хто хоче відчувати біл
             <description>Вібратор PRETTY LOVE DAVID, 30 function</description>
             <name_ua>Вібратор PRETTY LOVE DAVID, 30 function</name_ua>
             <description_ua>Вібратор PRETTY LOVE DAVID, 30 function</description_ua>
-            </offer>
-        <offer id="90-800067" available="true">
-                <erp>90-800067</erp>
-            <barcode>347922800067</barcode>
-            <quantity_in_stock>22</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30374-lubrikant_lubrix_200_ml</url>
-            <price>454.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_303746411c0b576b50.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6411c0b42822c.jpg</picture>
-            <name>Лубрикант Lubrix, 200 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>22</stock>
-            <vendor />
-            <model>Лубрикант Lubrix, 200 мл</model>
-            <description>Lubrix-високоякісний гель-лубрикант для жінок на водно-гліцериновій основі, створений за спец. Забезпечує тривале легке ковзання під час статевого акту. . Попередньо дзвоніть і живіть, підходячи до будь-якого типу шкіри. Він не відчуває втрати здатності, не залишає плям на одязі та післябійній білизні, не містить парабенів. Не зачіпайте первісне і окреме, можна використовувати для анального сексу. Сумісний із різноманітними секс-іграшками та презервативами, легко змішується водою. Об'єм 200 мл.</description>
-            <name_ua>Лубрикант Lubrix, 200 мл</name_ua>
-            <description_ua>Lubrix-високоякісний гель-лубрикант для жінок на водно-гліцериновій основі, створений за спец. Забезпечує тривале легке ковзання під час статевого акту. . Попередньо дзвоніть і живіть, підходячи до будь-якого типу шкіри. Він не відчуває втрати здатності, не залишає плям на одязі та післябійній білизні, не містить парабенів. Не зачіпайте первісне і окреме, можна використовувати для анального сексу. Сумісний із різноманітними секс-іграшками та презервативами, легко змішується водою. Об'єм 200 мл.</description_ua>
             </offer>
         <offer id="11-90265" available="true">
                 <erp>11-90265</erp>
