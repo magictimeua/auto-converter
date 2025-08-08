@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-08-08 15:00">
+<yml_catalog date="2025-08-08 16:15">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -35815,6 +35815,24 @@ Zyra – ідеальний вибір для жінок, які шукають 
             <name_ua>Парфуми MM Next PURE 15ml HOMME</name_ua>
             <description_ua>Парфуми MM Next PURE 15ml HOMME</description_ua>
             </offer>
+        <offer id="26-00012" available="true">
+                <erp>26-00012</erp>
+            <barcode>8466216000128</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2384-lalka_floryda</url>
+            <price>814.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>70</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/26-00012.jpg</picture>
+            <name>Секс лялька Lalka  Floryda</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Секс лялька Lalka  Floryda</model>
+            <description>Флорида - лялька кохання. Красива надувна лялька кохання з чарівним друкованим обличчям. Вона в натуральну величину, має гарні, великі та міцні груди та 3 отвори.  Лялька відрізняється як функціональністю, так і естетичністю виконання. </description>
+            <name_ua>Секс лялька Lalka  Floryda</name_ua>
+            <description_ua>Флорида - лялька кохання. Красива надувна лялька кохання з чарівним друкованим обличчям. Вона в натуральну величину, має гарні, великі та міцні груди та 3 отвори.  Лялька відрізняється як функціональністю, так і естетичністю виконання. </description_ua>
+            </offer>
         <offer id="19-1201" available="true">
                 <erp>19-1201</erp>
             <barcode>3548960012017</barcode>
@@ -37475,6 +37493,30 @@ Zyra – ідеальний вибір для жінок, які шукають 
             <name_ua>Наручники Ankle Cuffs</name_ua>
             <description_ua>Наручники легко регулюються завдяки регульованій застібці. Вони досить великі, отож можна використовувати як поножі.  Матеріал: штучна шкіра. Колір: чорний&lt;br /&gt;
 </description_ua>
+            </offer>
+        <offer id="BM-009173" available="true">
+                <erp>BM-009173</erp>
+            <barcode>6959532315219</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30109-podviyniy_masturbator_z_vibro_baile_passion_lady</url>
+            <price>1119.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>156</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3010963c6a61ea4754.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63c6a61c3b7e4.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63c6a61c548f7.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63c6a61c652fb.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63c6a61c74111.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63c6a61c82655.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63c6a61c8eb7b.jpg</picture>
+            <name>Подвiйний мастурбатор з вiбро BAILE PASSION LADY</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor />
+            <model>Подвiйний мастурбатор з вiбро BAILE PASSION LADY</model>
+            <description>Шикарна вагіна з вібрацією та двома функціональними отворами вагінальним та анальним – справжній подарунок для любителів реалістичних секс-іграшок! Інтимний аксесуар створений у вигляді однієї з пікантних частин жіночого тіла і максимально точно імітує всі деталі - статеві губи, сідниці, внутрішню поверхню інтимних зон. Забезпечує режим «вібрація» віброяйце, яке вставляється у спеціальний отвір на поверхні виробу. Увімкнення/вимкнення вібрації здійснюється за допомогою пульта керування. Вагіна виготовлена з м'якого, приємного на дотик матеріалу - кібершкіри, має природний тілесний відтінок.</description>
+            <name_ua>Подвiйний мастурбатор з вiбро BAILE PASSION LADY</name_ua>
+            <description_ua>Шикарна вагіна з вібрацією та двома функціональними отворами вагінальним та анальним – справжній подарунок для любителів реалістичних секс-іграшок! Інтимний аксесуар створений у вигляді однієї з пікантних частин жіночого тіла і максимально точно імітує всі деталі - статеві губи, сідниці, внутрішню поверхню інтимних зон. Забезпечує режим «вібрація» віброяйце, яке вставляється у спеціальний отвір на поверхні виробу. Увімкнення/вимкнення вібрації здійснюється за допомогою пульта керування. Вагіна виготовлена з м'якого, приємного на дотик матеріалу - кібершкіри, має природний тілесний відтінок.</description_ua>
             </offer>
         <offer id="69-51829" available="true">
                 <erp>69-51829</erp>
@@ -40130,24 +40172,6 @@ Strawberry Boss of Toys - це ідеальний вибір для тих, хт
 &lt;br /&gt;&lt;br /&gt;
 Strawberry Boss of Toys - це ідеальний вибір для тих, хто шукає лубрикант на водній основі з приємним ароматом полуниці. Його ніжна текстура і ароматичні властивості додають задоволення і комфорт в інтимні моменти, роблячи їх ще більш чуттєвими та приємними.</description_ua>
             </offer>
-        <offer id="26-00012" available="true">
-                <erp>26-00012</erp>
-            <barcode>8466216000128</barcode>
-            <quantity_in_stock>6</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2384-lalka_floryda</url>
-            <price>814.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>70</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/26-00012.jpg</picture>
-            <name>Секс лялька Lalka  Floryda</name>
-            <Отображать>Да</Отображать>
-            <stock>6</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Секс лялька Lalka  Floryda</model>
-            <description>Флорида - лялька кохання. Красива надувна лялька кохання з чарівним друкованим обличчям. Вона в натуральну величину, має гарні, великі та міцні груди та 3 отвори.  Лялька відрізняється як функціональністю, так і естетичністю виконання. </description>
-            <name_ua>Секс лялька Lalka  Floryda</name_ua>
-            <description_ua>Флорида - лялька кохання. Красива надувна лялька кохання з чарівним друкованим обличчям. Вона в натуральну величину, має гарні, великі та міцні груди та 3 отвори.  Лялька відрізняється як функціональністю, так і естетичністю виконання. </description_ua>
-            </offer>
         <offer id="19-1001" available="true">
                 <erp>19-1001</erp>
             <barcode>3548960010013</barcode>
@@ -41420,30 +41444,6 @@ ABS TPR&lt;br /&gt;
 15 мл&lt;br /&gt;
 Підходить для веганів&lt;br /&gt;
 100% натуральний</description_ua>
-            </offer>
-        <offer id="BM-009173" available="true">
-                <erp>BM-009173</erp>
-            <barcode>6959532315219</barcode>
-            <quantity_in_stock>6</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30109-podviyniy_masturbator_z_vibro_baile_passion_lady</url>
-            <price>1119.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>156</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3010963c6a61ea4754.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63c6a61c3b7e4.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63c6a61c548f7.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63c6a61c652fb.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63c6a61c74111.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63c6a61c82655.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63c6a61c8eb7b.jpg</picture>
-            <name>Подвiйний мастурбатор з вiбро BAILE PASSION LADY</name>
-            <Отображать>Да</Отображать>
-            <stock>6</stock>
-            <vendor />
-            <model>Подвiйний мастурбатор з вiбро BAILE PASSION LADY</model>
-            <description>Шикарна вагіна з вібрацією та двома функціональними отворами вагінальним та анальним – справжній подарунок для любителів реалістичних секс-іграшок! Інтимний аксесуар створений у вигляді однієї з пікантних частин жіночого тіла і максимально точно імітує всі деталі - статеві губи, сідниці, внутрішню поверхню інтимних зон. Забезпечує режим «вібрація» віброяйце, яке вставляється у спеціальний отвір на поверхні виробу. Увімкнення/вимкнення вібрації здійснюється за допомогою пульта керування. Вагіна виготовлена з м'якого, приємного на дотик матеріалу - кібершкіри, має природний тілесний відтінок.</description>
-            <name_ua>Подвiйний мастурбатор з вiбро BAILE PASSION LADY</name_ua>
-            <description_ua>Шикарна вагіна з вібрацією та двома функціональними отворами вагінальним та анальним – справжній подарунок для любителів реалістичних секс-іграшок! Інтимний аксесуар створений у вигляді однієї з пікантних частин жіночого тіла і максимально точно імітує всі деталі - статеві губи, сідниці, внутрішню поверхню інтимних зон. Забезпечує режим «вібрація» віброяйце, яке вставляється у спеціальний отвір на поверхні виробу. Увімкнення/вимкнення вібрації здійснюється за допомогою пульта керування. Вагіна виготовлена з м'якого, приємного на дотик матеріалу - кібершкіри, має природний тілесний відтінок.</description_ua>
             </offer>
         <offer id="74-8749" available="true">
                 <erp>74-8749</erp>
@@ -51003,6 +51003,24 @@ Plaisir Secret став синонімом косметики найвищої �
             <name_ua>Лубрикант Anal Gel, 50 мл</name_ua>
             <description_ua>Анальний лубрикант на водній основі. Без смаку і запаху.. Об'єм: 50 мл.</description_ua>
             </offer>
+        <offer id="6-00101" available="true">
+                <erp>6-00101</erp>
+            <barcode>5907776187506</barcode>
+            <quantity_in_stock>12</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30115-parfumi_dlya_cholovikiv_feromony_pherluxe_silver_for_men_33_ml_spray_</url>
+            <price>820.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>81</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/6-00101.jpg</picture>
+            <name>Парфуми для чоловіків Feromony-Pherluxe Silver for men 33 ml spray </name>
+            <Отображать>Да</Отображать>
+            <stock>12</stock>
+            <vendor />
+            <model>Парфуми для чоловіків Feromony-Pherluxe Silver for men 33 ml spray </model>
+            <description>Парфуми для чоловіків Feromony-Pherluxe Silver for men 33 ml spray </description>
+            <name_ua>Парфуми для чоловіків Feromony-Pherluxe Silver for men 33 ml spray </name_ua>
+            <description_ua>Парфуми для чоловіків Feromony-Pherluxe Silver for men 33 ml spray </description_ua>
+            </offer>
         <offer id="37-3666" available="true">
                 <erp>37-3666</erp>
             <barcode>8435097836669</barcode>
@@ -51680,24 +51698,6 @@ Joydivision AQUAglide Sensitive Neutral - це ідеальний вибір д�
             <param name="Їстівний">Ні</param>
             <name_ua>Анальний лубрикант Just Glide Premium Anal 200 мл</name_ua>
             <description_ua>&lt;p&gt;Анальний лубрикант Just Glide Premium Anal - це високоякісний лубрикант, створений спеціально для забезпечення максимального комфорту та задоволення під час анальних ігор. З його допомогою ви зможете відчути нові грані насолоди, забувши про будь-який дискомфорт.&lt;br /&gt;&lt;br /&gt;Основні переваги:&lt;br /&gt;&lt;br /&gt;1. Преміальна якість: Just Glide Premium Anal виготовлений з безпечних і високоякісних інгредієнтів, що гарантують довготривалу зволоженість та гладкість.&lt;br /&gt;2. Великий об’єм: Флакон містить 200 мл лубриканта, що вистачить на тривалий час, навіть при регулярному використанні.&lt;br /&gt;3. Ідеальна консистенція: Густа формула забезпечує відмінне ковзання, зменшуючи тертя та запобігаючи подразненню шкіри.&lt;br /&gt;4. Безпечний склад: Не містить олій, парабенів та ароматизаторів, що робить його ідеальним для чутливої шкіри.&lt;br /&gt;5. Сумісність з презервативами: Лубрикант повністю сумісний з усіма типами презервативів, що забезпечує додаткову безпеку під час інтимних стосунків.&lt;br /&gt;6. Простота у використанні: Зручний дозатор дозволяє легко контролювати кількість лубриканта, що використовується.&lt;br /&gt;&lt;br /&gt;Спосіб застосування:&lt;br /&gt;&lt;br /&gt;Нанесіть невелику кількість лубриканта на бажану ділянку тіла або на секс-іграшку. При необхідності додайте ще трохи лубриканта для досягнення бажаного рівня зволоженості.&lt;br /&gt;&lt;br /&gt;Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;• Уникайте контакту з очима.&lt;br /&gt;• Зберігайте у недоступному для дітей місці.&lt;br /&gt;• Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;Чому обирають Just Glide Premium Anal:&lt;br /&gt;&lt;br /&gt;Анальний лубрикант Just Glide Premium Anal - це ваш надійний помічник у світі інтимних насолод. Відкрийте для себе нові відчуття з цим преміальним продуктом, який поєднує в собі комфорт, безпеку та максимальну ефективність.&lt;/p&gt;</description_ua>
-            </offer>
-        <offer id="6-00101" available="true">
-                <erp>6-00101</erp>
-            <barcode>5907776187506</barcode>
-            <quantity_in_stock>13</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30115-parfumi_dlya_cholovikiv_feromony_pherluxe_silver_for_men_33_ml_spray_</url>
-            <price>820.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>81</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/6-00101.jpg</picture>
-            <name>Парфуми для чоловіків Feromony-Pherluxe Silver for men 33 ml spray </name>
-            <Отображать>Да</Отображать>
-            <stock>13</stock>
-            <vendor />
-            <model>Парфуми для чоловіків Feromony-Pherluxe Silver for men 33 ml spray </model>
-            <description>Парфуми для чоловіків Feromony-Pherluxe Silver for men 33 ml spray </description>
-            <name_ua>Парфуми для чоловіків Feromony-Pherluxe Silver for men 33 ml spray </name_ua>
-            <description_ua>Парфуми для чоловіків Feromony-Pherluxe Silver for men 33 ml spray </description_ua>
             </offer>
         <offer id="93-ES25426" available="true">
                 <erp>93-ES25426</erp>
