@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-08-13 17:03">
+<yml_catalog date="2025-08-13 17:45">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
     <url>http://blissclub.com.ua/</url>
-    <eurate>48.40</eurate>
+    <eurate>48.50</eurate>
     <currencies>
             <currency id="UAH" rate="1" />
         </currencies>
@@ -3295,26 +3295,6 @@ Hummer Munde 2в1 виготовлений з м'якого гіпоалерге
             <description>Інтимний душ Shower Me</description>
             <name_ua>Інтимний душ Shower Me</name_ua>
             <description_ua>Інтимний душ Shower Me</description_ua>
-            </offer>
-        <offer id="42-05096630000" available="true">
-                <erp>42-05096630000</erp>
-            <barcode>4024144513574</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/19650-strapon_bezremneviy_strapless_strap_on</url>
-            <price>2045.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>152</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-05096630000.jpg</picture>
-            <name>Страпон безремневий Strapless Strap-On</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>ORION</vendor>
-            <model>Страпон безремневий Strapless Strap-On</model>
-            <description>Спокусливе тріо!&lt;br /&gt;
-Вагінальна пробка, анальна пробка і фалоімітатор - все в одному. фіолетовий. Загальна довжина: прибл. 20 см. Довжина вагінальної пробки: прибл. 10,5 см. Довжина анальної пробки: прибл. 8,5 см. Діаметр пробки і фалоімітатора: 1,4-4 см. Матеріал: силікон.</description>
-            <name_ua>Страпон безремневий Strapless Strap-On</name_ua>
-            <description_ua>Спокусливе тріо!&lt;br /&gt;
-Вагінальна пробка, анальна пробка і фалоімітатор - все в одному. фіолетовий. Загальна довжина: прибл. 20 см. Довжина вагінальної пробки: прибл. 10,5 см. Довжина анальної пробки: прибл. 8,5 см. Діаметр пробки і фалоімітатора: 1,4-4 см. Матеріал: силікон.</description_ua>
             </offer>
         <offer id="42-05117490000" available="true">
                 <erp>42-05117490000</erp>
