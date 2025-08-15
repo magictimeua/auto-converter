@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-08-15 16:45">
+<yml_catalog date="2025-08-15 18:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -47313,6 +47313,30 @@ EGGCITED можна використовувати у ванні або душі
             <name_ua>Фалоімітатор 6 Enduro Blaster Realistic Dong</name_ua>
             <description_ua>Фалоімітатор з присоскою Enduro Blaster має реалістичний дизайн та анатомічну форму пеніса. Виготовлений з м’якого, гнучкого, але міцного матеріалу, що створює максимально реальне відчуття. Оснащений міцною присоскою, Це надає можливість прикріпити фалоімітатор на будь-яку плоску поверхню. Діаметр - 3,9 см, довжина - 17см, матеріал- ПВХ</description_ua>
             </offer>
+        <offer id="66-LV2614" available="true">
+                <erp>66-LV2614</erp>
+            <barcode>6970260901444</barcode>
+            <quantity_in_stock>10</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/29803-nasadka_dlya_podviynogo_proniknennya_double_prober</url>
+            <price>704.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>163</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_29803630fc2c993d32.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_630fc2c620790.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_630fc2c630954.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_630fc2c63fb45.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_630fc2c65214c.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_630fc2c65df44.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_630fc2c66a099.jpg</picture>
+            <name>Насадка для подвійного проникнення DOUBLE PROBER</name>
+            <Отображать>Да</Отображать>
+            <stock>10</stock>
+            <vendor />
+            <model>Насадка для подвійного проникнення DOUBLE PROBER</model>
+            <description>Насадка для подвійного проникнення DOUBLE PROBER</description>
+            <name_ua>Насадка для подвійного проникнення DOUBLE PROBER</name_ua>
+            <description_ua>Насадка для подвійного проникнення DOUBLE PROBER</description_ua>
+            </offer>
         <offer id="37-3655" available="true">
                 <erp>37-3655</erp>
             <barcode>8435097836553</barcode>
@@ -48564,30 +48588,6 @@ pjur TOY GLIDE – ідеальний вибір для тих, хто хоче 
             <name_ua>Парфуми жіночі TABOO AIME EMOI 50ml</name_ua>
             <description_ua>Aime Emoi — це зухвале творіння з теплими і пудровими акцентами, побудоване навколо дуету кокоса та ванілі в супроводі апельсинової квітки. Aime Emoi відкриває новий аспект і пропонує аромат, оповитий таємницею, який підкреслює сяючу жіночність.&lt;br /&gt;
 Композиція настільки ж загадкова, як і сліпуче чуттєва. Блискучий і захоплюючий, він спокушає своїм східним квітковим серцем і теплом ніжного бурштинового сліду.</description_ua>
-            </offer>
-        <offer id="66-LV2614" available="true">
-                <erp>66-LV2614</erp>
-            <barcode>6970260901444</barcode>
-            <quantity_in_stock>11</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29803-nasadka_dlya_podviynogo_proniknennya_double_prober</url>
-            <price>704.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>163</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_29803630fc2c993d32.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_630fc2c620790.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_630fc2c630954.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_630fc2c63fb45.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_630fc2c65214c.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_630fc2c65df44.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_630fc2c66a099.jpg</picture>
-            <name>Насадка для подвійного проникнення DOUBLE PROBER</name>
-            <Отображать>Да</Отображать>
-            <stock>11</stock>
-            <vendor />
-            <model>Насадка для подвійного проникнення DOUBLE PROBER</model>
-            <description>Насадка для подвійного проникнення DOUBLE PROBER</description>
-            <name_ua>Насадка для подвійного проникнення DOUBLE PROBER</name_ua>
-            <description_ua>Насадка для подвійного проникнення DOUBLE PROBER</description_ua>
             </offer>
         <offer id="60-00201" available="true">
                 <erp>60-00201</erp>
