@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-08-16 15:00">
+<yml_catalog date="2025-08-16 16:15">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -2939,6 +2939,24 @@ H2O UNI Gel - це універсальний і надійний лубрика
             <name_ua>Masturbator Satisfyer Men Classic (Silver)</name_ua>
             <description_ua>Satisfyer Men Classic - стильний мастурбатор надає ефект всмоктування. Дивайс із надм'якою вставкою із кібершкіри. Інноваційний внутрішній регулятор герметичності змінює рівень тиску та може забезпечити додаткову інтенсивність. Вставка має яскраво виражену внутрішню структуру. Для комфортності використання та отримання максимально приємних відчуттів потрібно використовувати мастило на водній основі. Довжина -25 см&lt;br /&gt;
 Діаметр - 9.6 см, Матеріал термопластичний еластомер (TPE)</description_ua>
+            </offer>
+        <offer id="73-4002101" available="true">
+                <erp>73-4002101</erp>
+            <barcode>4061504002101</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/19228-tampony_satisfyer_feel_good_menstrual_cup_lila</url>
+            <price>566.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>124</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/73-4002101.jpg</picture>
+            <name>Менструальні чаші Satisfyer Feel good Menstrual Cup (Lila)</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>SATISFYER</vendor>
+            <model>Менструальні чаші Satisfyer Feel good Menstrual Cup (Lila)</model>
+            <description>Менструальні чаші Satisfyer Feel good Menstrual Cup (Lila)</description>
+            <name_ua>Менструальні чаші Satisfyer Feel good Menstrual Cup (Lila)</name_ua>
+            <description_ua>Менструальні чаші Satisfyer Feel good Menstrual Cup (Lila)</description_ua>
             </offer>
         <offer id="42-05043350000" available="true">
                 <erp>42-05043350000</erp>
@@ -14563,24 +14581,6 @@ Satisfyer Men Classic – це більше, ніж мастурбатор. Це
             <name_ua>Вібратор Satisfyer Man Wand</name_ua>
             <description_ua>Мастурбатор у сучасному дизайні та ергономічній формі футуристичного видовженого трикутника з м'якими крильцями. Саме між ними фіксується статевий член, який під час фрикцій додатково стимулює ребриста поверхня секс-іграшки. Додаткової насолоди додають понад 30 комбінацій вібрації, які можна регулювати кнопками на корпусі. Девайс сумісний з лубрикантами на водній основі. Довжина - 20 см, діаметр - 7,5 см.</description_ua>
             </offer>
-        <offer id="73-4002101" available="true">
-                <erp>73-4002101</erp>
-            <barcode>4061504002101</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/19228-tampony_satisfyer_feel_good_menstrual_cup_lila</url>
-            <price>566.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>124</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/73-4002101.jpg</picture>
-            <name>Менструальні чаші Satisfyer Feel good Menstrual Cup (Lila)</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>SATISFYER</vendor>
-            <model>Менструальні чаші Satisfyer Feel good Menstrual Cup (Lila)</model>
-            <description>Менструальні чаші Satisfyer Feel good Menstrual Cup (Lila)</description>
-            <name_ua>Менструальні чаші Satisfyer Feel good Menstrual Cup (Lila)</name_ua>
-            <description_ua>Менструальні чаші Satisfyer Feel good Menstrual Cup (Lila)</description_ua>
-            </offer>
         <offer id="42-05000970000" available="true">
                 <erp>42-05000970000</erp>
             <barcode>4024144500093</barcode>
@@ -21565,6 +21565,24 @@ Satisfyer Spinning G-Spot 1: Водонепроникний (IPX7) вібрат�
 Він не подразнює шкіру або слизові оболонки. Не має протизаплідних властивостей. Ємкість 200 мл.&lt;br /&gt;
 </description_ua>
             </offer>
+        <offer id="19-3061" available="true">
+                <erp>19-3061</erp>
+            <barcode>3548960030615</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2432-lubrikant_sex_control_erect</url>
+            <price>472.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>42</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/19-3061.jpg</picture>
+            <name>Збуджуючий крем Sex Control Erect 30ml</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor>RUF</vendor>
+            <model>Збуджуючий крем Sex Control Erect 30ml</model>
+            <description>Крем для ерекції Sex Control Erect, крем для чоловіків, що дозволяє отримати швидку ерекціюі. Активні компоненти крему сприяють припливу крові, полегшуючи ерекцію. Дерматологічно протестований. протиалергічний. не подразнює шкіру та слизові оболонки. не має протизаплідних властивостей. Ємкість 30 мл.</description>
+            <name_ua>Збуджуючий крем Sex Control Erect 30ml</name_ua>
+            <description_ua>Крем для ерекції Sex Control Erect, крем для чоловіків, що дозволяє отримати швидку ерекціюі. Активні компоненти крему сприяють припливу крові, полегшуючи ерекцію. Дерматологічно протестований. протиалергічний. не подразнює шкіру та слизові оболонки. не має протизаплідних властивостей. Ємкість 30 мл.</description_ua>
+            </offer>
         <offer id="19-3075" available="true">
                 <erp>19-3075</erp>
             <barcode>3548960030752</barcode>
@@ -21618,6 +21636,28 @@ Satisfyer Spinning G-Spot 1: Водонепроникний (IPX7) вібрат�
             <description>Парфуми Hypno-Love</description>
             <name_ua>Парфуми Hypno-Love</name_ua>
             <description_ua>Парфуми Hypno-Love</description_ua>
+            </offer>
+        <offer id="19-3055" available="true">
+                <erp>19-3055</erp>
+            <barcode>3548960030554</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2638-lubrikant_x_strong</url>
+            <price>367.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>41</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/19-3055.jpg</picture>
+            <name>Спрей для посилення ерекції X Strong Penis Power 15 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor>RUF</vendor>
+            <model>Спрей для посилення ерекції X Strong Penis Power 15 мл</model>
+            <description>Спрей, створений для чоловіків, які не відчувають повного сексуального задоволення через занадто слабку або занадто коротку ерекцію. Це збільшує приплив крові до статевого члена, що робить пеніс більш твердим.&lt;br /&gt;
+&lt;br /&gt;
+Інгредієнти:   вода, гліцерин, ізопропіловий спирт, пропіленгліколь, гідрогенізована касторова олія PEG 40, саліцилат гліколю, феноксиетанол, метилпарабен, етилпарабен, пропілпарабен, бутилпарабен, ізобутилпарабен, імідазолідініл, імідазолідиніл, імідазолідиніл, імідазолідініл, ізреазол. ., Лімонен, Ліналол.</description>
+            <name_ua>Спрей для посилення ерекції X Strong Penis Power 15 мл</name_ua>
+            <description_ua>Спрей, створений для чоловіків, які не відчувають повного сексуального задоволення через занадто слабку або занадто коротку ерекцію. Це збільшує приплив крові до статевого члена, що робить пеніс більш твердим.&lt;br /&gt;
+&lt;br /&gt;
+Інгредієнти:   вода, гліцерин, ізопропіловий спирт, пропіленгліколь, гідрогенізована касторова олія PEG 40, саліцилат гліколю, феноксиетанол, метилпарабен, етилпарабен, пропілпарабен, бутилпарабен, ізобутилпарабен, імідазолідініл, імідазолідиніл, імідазолідиніл, імідазолідініл, ізреазол. ., Лімонен, Ліналол.</description_ua>
             </offer>
         <offer id="35-111223" available="true">
                 <erp>35-111223</erp>
@@ -28968,6 +29008,24 @@ Satisfyer Perfect Pair 2 — це ідеальне поєднання функц
             <name_ua>Збуджуючі краплі Spain Fly extreme men30ml</name_ua>
             <description_ua>Збуджуючі краплі Spain Fly extreme men30ml</description_ua>
             </offer>
+        <offer id="6-00050" available="true">
+                <erp>6-00050</erp>
+            <barcode>5907776180491</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2196-feromony_mm_next_pure_15ml_homme</url>
+            <price>975.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>81</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/6-00050.jpg</picture>
+            <name>Парфуми MM Next PURE 15ml HOMME</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>WPJ</vendor>
+            <model>Парфуми MM Next PURE 15ml HOMME</model>
+            <description>Парфуми MM Next PURE 15ml HOMME</description>
+            <name_ua>Парфуми MM Next PURE 15ml HOMME</name_ua>
+            <description_ua>Парфуми MM Next PURE 15ml HOMME</description_ua>
+            </offer>
         <offer id="6-00051" available="true">
                 <erp>6-00051</erp>
             <barcode>5907776180507</barcode>
@@ -29005,46 +29063,6 @@ Satisfyer Perfect Pair 2 — це ідеальне поєднання функц
             <description>&lt;p&gt;Back Side Anal Tightening Creme - це крем, спеціально розроблений для тонізації та підвищення еластичності анальної області. Завдяки своїй унікальній формулі, цей крем допомагає покращити відчуття і комфорт під час анального сексу.&lt;br /&gt;&lt;br /&gt;Основні переваги:&lt;br /&gt;&lt;br /&gt;1. Тонізуюча формула: Крем містить активні компоненти, які сприяють підвищенню еластичності та тонізації анальної області, що може покращити відчуття і задоволення під час інтимних моментів.&lt;br /&gt;2. Зволоження та комфорт: Формула крему також забезпечує зволоження, що допомагає зменшити дискомфорт і підвищити загальний комфорт.&lt;br /&gt;3. Легка текстура: Крем має легку текстуру, яка швидко вбирається і не залишає жирного відчуття, забезпечуючи комфорт під час використання.&lt;br /&gt;4. Зручний об’єм: Флакон об’ємом 50 мл є ідеальним для домашнього використання і дозволяє зручно наносити необхідну кількість продукту.&lt;br /&gt;&lt;br /&gt;Спосіб застосування:&lt;br /&gt;&lt;br /&gt;Нанесіть невелику кількість крему на анальну область, ніжно масажуючи до повного всмоктування. Використовуйте за потреби для підвищення еластичності і комфорту.&lt;br /&gt;&lt;br /&gt;Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;• Уникайте контакту з очима.&lt;br /&gt;• Зберігайте у недоступному для дітей місці.&lt;br /&gt;• Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;• Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;Чому обирають Back Side Anal Tightening Creme:&lt;br /&gt;&lt;br /&gt;Back Side Anal Tightening Creme - це відмінний вибір для тих, хто шукає ефективний крем для тонізації та підвищення еластичності анальної області. Його спеціально розроблена формула забезпечує комфорт, зменшує дискомфорт і покращує відчуття під час інтимних моментів.&lt;/p&gt;</description>
             <name_ua>Крем Back Side Anal Tightening Creme 50 ml</name_ua>
             <description_ua>&lt;p&gt;Back Side Anal Tightening Creme - це крем, спеціально розроблений для тонізації та підвищення еластичності анальної області. Завдяки своїй унікальній формулі, цей крем допомагає покращити відчуття і комфорт під час анального сексу.&lt;br /&gt;&lt;br /&gt;Основні переваги:&lt;br /&gt;&lt;br /&gt;1. Тонізуюча формула: Крем містить активні компоненти, які сприяють підвищенню еластичності та тонізації анальної області, що може покращити відчуття і задоволення під час інтимних моментів.&lt;br /&gt;2. Зволоження та комфорт: Формула крему також забезпечує зволоження, що допомагає зменшити дискомфорт і підвищити загальний комфорт.&lt;br /&gt;3. Легка текстура: Крем має легку текстуру, яка швидко вбирається і не залишає жирного відчуття, забезпечуючи комфорт під час використання.&lt;br /&gt;4. Зручний об’єм: Флакон об’ємом 50 мл є ідеальним для домашнього використання і дозволяє зручно наносити необхідну кількість продукту.&lt;br /&gt;&lt;br /&gt;Спосіб застосування:&lt;br /&gt;&lt;br /&gt;Нанесіть невелику кількість крему на анальну область, ніжно масажуючи до повного всмоктування. Використовуйте за потреби для підвищення еластичності і комфорту.&lt;br /&gt;&lt;br /&gt;Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;• Уникайте контакту з очима.&lt;br /&gt;• Зберігайте у недоступному для дітей місці.&lt;br /&gt;• Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;• Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;Чому обирають Back Side Anal Tightening Creme:&lt;br /&gt;&lt;br /&gt;Back Side Anal Tightening Creme - це відмінний вибір для тих, хто шукає ефективний крем для тонізації та підвищення еластичності анальної області. Його спеціально розроблена формула забезпечує комфорт, зменшує дискомфорт і покращує відчуття під час інтимних моментів.&lt;/p&gt;</description_ua>
-            </offer>
-        <offer id="19-3061" available="true">
-                <erp>19-3061</erp>
-            <barcode>3548960030615</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2432-lubrikant_sex_control_erect</url>
-            <price>472.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>42</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/19-3061.jpg</picture>
-            <name>Збуджуючий крем Sex Control Erect 30ml</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>RUF</vendor>
-            <model>Збуджуючий крем Sex Control Erect 30ml</model>
-            <description>Крем для ерекції Sex Control Erect, крем для чоловіків, що дозволяє отримати швидку ерекціюі. Активні компоненти крему сприяють припливу крові, полегшуючи ерекцію. Дерматологічно протестований. протиалергічний. не подразнює шкіру та слизові оболонки. не має протизаплідних властивостей. Ємкість 30 мл.</description>
-            <name_ua>Збуджуючий крем Sex Control Erect 30ml</name_ua>
-            <description_ua>Крем для ерекції Sex Control Erect, крем для чоловіків, що дозволяє отримати швидку ерекціюі. Активні компоненти крему сприяють припливу крові, полегшуючи ерекцію. Дерматологічно протестований. протиалергічний. не подразнює шкіру та слизові оболонки. не має протизаплідних властивостей. Ємкість 30 мл.</description_ua>
-            </offer>
-        <offer id="19-3055" available="true">
-                <erp>19-3055</erp>
-            <barcode>3548960030554</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2638-lubrikant_x_strong</url>
-            <price>367.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>41</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/19-3055.jpg</picture>
-            <name>Спрей для посилення ерекції X Strong Penis Power 15 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>RUF</vendor>
-            <model>Спрей для посилення ерекції X Strong Penis Power 15 мл</model>
-            <description>Спрей, створений для чоловіків, які не відчувають повного сексуального задоволення через занадто слабку або занадто коротку ерекцію. Це збільшує приплив крові до статевого члена, що робить пеніс більш твердим.&lt;br /&gt;
-&lt;br /&gt;
-Інгредієнти:   вода, гліцерин, ізопропіловий спирт, пропіленгліколь, гідрогенізована касторова олія PEG 40, саліцилат гліколю, феноксиетанол, метилпарабен, етилпарабен, пропілпарабен, бутилпарабен, ізобутилпарабен, імідазолідініл, імідазолідиніл, імідазолідиніл, імідазолідініл, ізреазол. ., Лімонен, Ліналол.</description>
-            <name_ua>Спрей для посилення ерекції X Strong Penis Power 15 мл</name_ua>
-            <description_ua>Спрей, створений для чоловіків, які не відчувають повного сексуального задоволення через занадто слабку або занадто коротку ерекцію. Це збільшує приплив крові до статевого члена, що робить пеніс більш твердим.&lt;br /&gt;
-&lt;br /&gt;
-Інгредієнти:   вода, гліцерин, ізопропіловий спирт, пропіленгліколь, гідрогенізована касторова олія PEG 40, саліцилат гліколю, феноксиетанол, метилпарабен, етилпарабен, пропілпарабен, бутилпарабен, ізобутилпарабен, імідазолідініл, імідазолідиніл, імідазолідиніл, імідазолідініл, ізреазол. ., Лімонен, Ліналол.</description_ua>
             </offer>
         <offer id="731-00007" available="true">
                 <erp>731-00007</erp>
@@ -34222,6 +34240,31 @@ Apple Secret - це секрет, який варто завжди мати пі
 12 швидкостей регулюються кнопками на корпусі іграшки, і кожен режим пропонує різну модель вібрації, яка забезпечує різноманітні відчуття. Повністю перезаряджається, яйце поставляється з кабелем USB, який ви міцно вставляєте в основу іграшки, щоб зарядити його.&lt;br /&gt;
 Стимулятор з 4 режимами постукування також є ідеальним вибором для змінної інтенсивності відчуттів.</description_ua>
             </offer>
+        <offer id="BI-014911HP-1" available="true">
+                <erp>BI-014911HP-1</erp>
+            <barcode>6959532335613</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32139-vibrator_dlya_dvoh_pretty_love_ayleen_12_vibration_functions_mobile_app_long_distance_control_</url>
+            <price>1763.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>123</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_321356835abab04045.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6835aba87b4fc.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6835aba88f22a.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6835aba8a43b9.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6835aba8b8534.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6835aba8cc65d.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6835aba8e1b86.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6835aba901b54.jpg</picture>
+            <name>Вібратор для двох PRETTY LOVE Jayleen, 12 vibration functions Mobile APP Long-distance Control </name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Вібратор для двох PRETTY LOVE Jayleen, 12 vibration functions Mobile APP Long-distance Control </model>
+            <description>Вібратор для двох PRETTY LOVE Jayleen, 12 vibration functions Mobile APP Long-distance Control </description>
+            <name_ua>Вібратор для двох PRETTY LOVE Jayleen, 12 vibration functions Mobile APP Long-distance Control </name_ua>
+            <description_ua>Вібратор для двох PRETTY LOVE Jayleen, 12 vibration functions Mobile APP Long-distance Control </description_ua>
+            </offer>
         <offer id="BI-040184" available="true">
                 <erp>BI-040184</erp>
             <barcode>6959532338416</barcode>
@@ -34693,24 +34736,6 @@ Zyra – ідеальний вибір для жінок, які шукають 
             <description>Кільце з вібрацією -Devol Cockring</description>
             <name_ua>Кільце з вібрацією -Devol Cockring</name_ua>
             <description_ua>Кільце з вібрацією -Devol Cockring</description_ua>
-            </offer>
-        <offer id="6-00050" available="true">
-                <erp>6-00050</erp>
-            <barcode>5907776180491</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2196-feromony_mm_next_pure_15ml_homme</url>
-            <price>975.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>81</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/6-00050.jpg</picture>
-            <name>Парфуми MM Next PURE 15ml HOMME</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>WPJ</vendor>
-            <model>Парфуми MM Next PURE 15ml HOMME</model>
-            <description>Парфуми MM Next PURE 15ml HOMME</description>
-            <name_ua>Парфуми MM Next PURE 15ml HOMME</name_ua>
-            <description_ua>Парфуми MM Next PURE 15ml HOMME</description_ua>
             </offer>
         <offer id="19-1081" available="true">
                 <erp>19-1081</erp>
@@ -38273,31 +38298,6 @@ Satisfyer Pocket Panda: водонепроникний (IPX7) накладний
             <description>Компактний силіконовий вібромасажер із зручно розташованими на його кінці кульками. Добре підійде для подорожей, не займає багато місця у сумочці. Має 10 режимів вібрації, які зручно перемикаються кнопкою на основі іграшки. Працює від однієї батареї типу ААА (ні в комплекті). Загальна довжина – 12см, робоча довжина – 9,5 см. максимальний діаметр –2,3 см. діаметр кульок – 1,7 см.</description>
             <name_ua>Вібратор PRETTY LOVE - Goddard Pink</name_ua>
             <description_ua>Компактний силіконовий вібромасажер із зручно розташованими на його кінці кульками. Добре підійде для подорожей, не займає багато місця у сумочці. Має 10 режимів вібрації, які зручно перемикаються кнопкою на основі іграшки. Працює від однієї батареї типу ААА (ні в комплекті). Загальна довжина – 12см, робоча довжина – 9,5 см. максимальний діаметр –2,3 см. діаметр кульок – 1,7 см.</description_ua>
-            </offer>
-        <offer id="BI-014911HP-1" available="true">
-                <erp>BI-014911HP-1</erp>
-            <barcode>6959532335613</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32139-vibrator_dlya_dvoh_pretty_love_ayleen_12_vibration_functions_mobile_app_long_distance_control_</url>
-            <price>1763.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>123</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_321356835abab04045.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6835aba87b4fc.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6835aba88f22a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6835aba8a43b9.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6835aba8b8534.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6835aba8cc65d.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6835aba8e1b86.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6835aba901b54.jpg</picture>
-            <name>Вібратор для двох PRETTY LOVE Jayleen, 12 vibration functions Mobile APP Long-distance Control </name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Вібратор для двох PRETTY LOVE Jayleen, 12 vibration functions Mobile APP Long-distance Control </model>
-            <description>Вібратор для двох PRETTY LOVE Jayleen, 12 vibration functions Mobile APP Long-distance Control </description>
-            <name_ua>Вібратор для двох PRETTY LOVE Jayleen, 12 vibration functions Mobile APP Long-distance Control </name_ua>
-            <description_ua>Вібратор для двох PRETTY LOVE Jayleen, 12 vibration functions Mobile APP Long-distance Control </description_ua>
             </offer>
         <offer id="BI-014935HP" available="true">
                 <erp>BI-014935HP</erp>
@@ -51003,7 +51003,7 @@ Just Glide Premium Anal - це ідеальний вибір для тих, хт
         <offer id="11-50225" available="true">
                 <erp>11-50225</erp>
             <barcode>4019514502258</barcode>
-            <quantity_in_stock>35</quantity_in_stock>
+            <quantity_in_stock>33</quantity_in_stock>
             <url>http://blissclub.com.ua/product/31026-prezervativi_amor_wild_moments_3_sht</url>
             <price>67.00</price>
             <currencyId>UAH</currencyId>
@@ -51011,7 +51011,7 @@ Just Glide Premium Anal - це ідеальний вибір для тих, хт
             <picture>https://blissclub.com.ua/images/product_variants/product_31023660049cb231d0.png</picture>
             <name>Презервативи Amor Wild Moments, 3 шт</name>
             <Отображать>Да</Отображать>
-            <stock>35</stock>
+            <stock>33</stock>
             <vendor>AMOR</vendor>
             <model>Презервативи Amor Wild Moments, 3 шт</model>
             <description>Презервативи Amor Wild Moments, 3 шт</description>
