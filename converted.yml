@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-08-22 09:45">
+<yml_catalog date="2025-08-22 11:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
     <url>http://blissclub.com.ua/</url>
-    <eurate>48.30</eurate>
+    <eurate>48.15</eurate>
     <currencies>
             <currency id="UAH" rate="1" />
         </currencies>
@@ -3015,6 +3015,26 @@ H2O UNI Gel - це універсальний і надійний лубрика
             <description>Завдяки своїм корисним зволожуючим і тонізуючим властивостям  Bio Aloe  він полегшує і прискорює загоєння мікротравм, які іноді можуть виникати під час тертя під час статевого акту. Ідеально зволожує і в поєднанні з іншими інгредієнтами забезпечує ковзання. Усі інгредієнти отримані з екологічно вирощених, видобутих і без хімічних джерел. Ємкість 100 мл</description>
             <name_ua>Лубрикант на водній основі  Orgie Bio Aloe 100 мл</name_ua>
             <description_ua>Завдяки своїм корисним зволожуючим і тонізуючим властивостям  Bio Aloe  він полегшує і прискорює загоєння мікротравм, які іноді можуть виникати під час тертя під час статевого акту. Ідеально зволожує і в поєднанні з іншими інгредієнтами забезпечує ковзання. Усі інгредієнти отримані з екологічно вирощених, видобутих і без хімічних джерел. Ємкість 100 мл</description_ua>
+            </offer>
+        <offer id="731-00050" available="true">
+                <erp>731-00050</erp>
+            <barcode>5903268071193</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/18197-lubrikant_h2o_anal_gel_1000ml</url>
+            <price>1016.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>159</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/731-00050.jpg</picture>
+            <name>Анальний гель на водній основі H2O Анальний гель 1000 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>LOVESTIM</vendor>
+            <model>Анальний гель на водній основі H2O Анальний гель 1000 мл</model>
+            <description>Ідеальне зволоження, забезпечить лубрикант H2O.Він приємний свіжий аромат, і ніжну текстуру на водній основіі, тому його можна використовувати для всіх анальних гаджетів, а також для презервативів.  Не залишає відчуття липкості. &lt;br /&gt;
+Ємкість 1000мл</description>
+            <name_ua>Анальний гель на водній основі H2O Анальний гель 1000 мл</name_ua>
+            <description_ua>Ідеальне зволоження, забезпечить лубрикант H2O.Він приємний свіжий аромат, і ніжну текстуру на водній основіі, тому його можна використовувати для всіх анальних гаджетів, а також для презервативів.  Не залишає відчуття липкості. &lt;br /&gt;
+Ємкість 1000мл</description_ua>
             </offer>
         <offer id="61-00018" available="true">
                 <erp>61-00018</erp>
@@ -13019,26 +13039,6 @@ JO Warm &amp; Buzzy був створений, щоб підняти прелю�
             <name_ua>Вібратор Pasha</name_ua>
             <description_ua>Реалістичний вібратор Pasha - тілесного кольору. Рельєфний, легко ковзаючий, з яскраво вираженими вінками. Повна імітація чоловічого статевого органу. Матеріал - полівінілхлорид. Дивайс мультишвидкісний, пульт управління вбудований в основу. Діаметр 3,5-5 см. Для живлення використовуються 2 елементи формату АА, їх слід придбати додатково.</description_ua>
             </offer>
-        <offer id="731-00029" available="true">
-                <erp>731-00029</erp>
-            <barcode>5903268070059</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/3720-lubrikant_h2o_uni_gel_1000ml</url>
-            <price>1016.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/731-00029.jpg</picture>
-            <name>Лубрикант H2O UNI GEL 1000ml</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>LOVESTIM</vendor>
-            <model>Лубрикант H2O UNI GEL 1000ml</model>
-            <description>H2O UNI GEL  - це вдосконалений лубрикант, який  створює зволоження, дуже схоже на натуральне. Універсальний гель H2O ідеально підходить для всіх видів інтимної близкостіі. Його можна використовувати з усіма типами еротичних гаджетів для чоловіків і жінок.&lt;br /&gt;
-Ємкість 1000 мл</description>
-            <name_ua>Лубрикант H2O UNI GEL 1000ml</name_ua>
-            <description_ua>H2O UNI GEL  - це вдосконалений лубрикант, який  створює зволоження, дуже схоже на натуральне. Універсальний гель H2O ідеально підходить для всіх видів інтимної близкостіі. Його можна використовувати з усіма типами еротичних гаджетів для чоловіків і жінок.&lt;br /&gt;
-Ємкість 1000 мл</description_ua>
-            </offer>
         <offer id="48-14801" available="true">
                 <erp>48-14801</erp>
             <barcode>4028403148019</barcode>
@@ -13190,6 +13190,24 @@ JO Warm &amp; Buzzy був створений, щоб підняти прелю�
             <description>ROXIE LUVE взуття для танців на полюсі - професійне взуття для танців. Красиві туфлі на шпильці з платформою 7 см і каблуками 18 см. Взуття дуже зручне і стійке, в ньому можна грати цілу ніч. Шкіряні високі підбори з еротичним віком ідеально доповнюють сексуальну білизну. Добре для людей, які люблять БДСМ. Роксі Люв створює взуття для хижих жінок, які люблять відчувати хтиві погляди чоловіків, які їх носять.</description>
             <name_ua>Білизна  853-CHE-1 koszulka i stringi L/XL</name_ua>
             <description_ua>ROXIE LUVE взуття для танців на полюсі - професійне взуття для танців. Красиві туфлі на шпильці з платформою 7 см і каблуками 18 см. Взуття дуже зручне і стійке, в ньому можна грати цілу ніч. Шкіряні високі підбори з еротичним віком ідеально доповнюють сексуальну білизну. Добре для людей, які люблять БДСМ. Роксі Люв створює взуття для хижих жінок, які люблять відчувати хтиві погляди чоловіків, які їх носять.</description_ua>
+            </offer>
+        <offer id="914-00060" available="true">
+                <erp>914-00060</erp>
+            <barcode>5903111016913</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/6312-feromony_la_vida_dulce_1ml</url>
+            <price>128.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>80</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/914-00060.jpg</picture>
+            <name>Парфуми La Vida Dulce 1ml.</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor>AURORA</vendor>
+            <model>Парфуми La Vida Dulce 1ml.</model>
+            <description>Парфуми La Vida Dulce 1ml.</description>
+            <name_ua>Парфуми La Vida Dulce 1ml.</name_ua>
+            <description_ua>Парфуми La Vida Dulce 1ml.</description_ua>
             </offer>
         <offer id="42-05266810000" available="true">
                 <erp>42-05266810000</erp>
@@ -21910,24 +21928,6 @@ Satisfyer Spinning G-Spot 1: Водонепроникний (IPX7) вібрат�
             <name_ua>Лубрикант Waerglide Hot Chocolate 300ml</name_ua>
             <description_ua>Лубрикант з запахом і смаком гарячого шоколаду,  завдяки своїй довготривалій змащуваності забезпечує природне, приємне відчуття в інтимні моменти. Шовковиста консистенція надає шкірі приємне відчуття без злипання.Підходить для презервативів. </description_ua>
             </offer>
-        <offer id="914-00060" available="true">
-                <erp>914-00060</erp>
-            <barcode>5903111016913</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/6312-feromony_la_vida_dulce_1ml</url>
-            <price>128.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>80</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/914-00060.jpg</picture>
-            <name>Парфуми La Vida Dulce 1ml.</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>AURORA</vendor>
-            <model>Парфуми La Vida Dulce 1ml.</model>
-            <description>Парфуми La Vida Dulce 1ml.</description>
-            <name_ua>Парфуми La Vida Dulce 1ml.</name_ua>
-            <description_ua>Парфуми La Vida Dulce 1ml.</description_ua>
-            </offer>
         <offer id="48-12203" available="true">
                 <erp>48-12203</erp>
             <barcode>4028403122033</barcode>
@@ -22545,26 +22545,6 @@ Satisfyer Penguin Next Generation має 11 режимів стимуляції,
             <description>Вібратор PRETTY LOVE ANTHONY PURPLE 12 FUNCTION</description>
             <name_ua>Вібратор PRETTY LOVE ANTHONY PURPLE 12 FUNCTION</name_ua>
             <description_ua>Вібратор PRETTY LOVE ANTHONY PURPLE 12 FUNCTION</description_ua>
-            </offer>
-        <offer id="731-00050" available="true">
-                <erp>731-00050</erp>
-            <barcode>5903268071193</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/18197-lubrikant_h2o_anal_gel_1000ml</url>
-            <price>1016.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>159</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/731-00050.jpg</picture>
-            <name>Анальний гель на водній основі H2O Анальний гель 1000 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>LOVESTIM</vendor>
-            <model>Анальний гель на водній основі H2O Анальний гель 1000 мл</model>
-            <description>Ідеальне зволоження, забезпечить лубрикант H2O.Він приємний свіжий аромат, і ніжну текстуру на водній основіі, тому його можна використовувати для всіх анальних гаджетів, а також для презервативів.  Не залишає відчуття липкості. &lt;br /&gt;
-Ємкість 1000мл</description>
-            <name_ua>Анальний гель на водній основі H2O Анальний гель 1000 мл</name_ua>
-            <description_ua>Ідеальне зволоження, забезпечить лубрикант H2O.Він приємний свіжий аромат, і ніжну текстуру на водній основіі, тому його можна використовувати для всіх анальних гаджетів, а також для презервативів.  Не залишає відчуття липкості. &lt;br /&gt;
-Ємкість 1000мл</description_ua>
             </offer>
         <offer id="BI-040015BLUE" available="true">
                 <erp>BI-040015BLUE</erp>
@@ -24264,6 +24244,70 @@ ABS силікон&lt;br /&gt;
             <description>Набір вагінальних кульок Virgo purple</description>
             <name_ua>Набір вагінальних кульок Virgo purple</name_ua>
             <description_ua>Набір вагінальних кульок Virgo purple</description_ua>
+            </offer>
+        <offer id="73-4305439" available="true">
+                <erp>73-4305439</erp>
+            <barcode>4019514305439</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30317-lubrikant_satisfyer_men_warming</url>
+            <price>535.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>46</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3031764a7fb3b922cf.png</picture>
+            <name>Лубрикант Satisfyer Men Warming, 300 ml</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor>SATISFYER</vendor>
+            <model>Лубрикант Satisfyer Men Warming</model>
+            <description>Лубрикант Satisfyer Men Warming – це високоякісний інтимний гель, спеціально розроблений для чоловіків. Завдяки ефекту підігріву, цей лубрикант забезпечує додаткове задоволення і комфорт під час інтимних моментів. Упаковка об’ємом 300 мл ідеально підходить для тривалого використання.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Основні переваги:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+        1.        Ефект підігріву: Забезпечує приємне відчуття тепла, що підвищує задоволення і комфорт під час використання.&lt;br /&gt;&lt;br /&gt;
+        2.        Водна основа: Легко змивається водою, не залишає липких слідів або залишків. Сумісний з латексними презервативами та секс-іграшками.&lt;br /&gt;&lt;br /&gt;
+        3.        Тривале зволоження: Спеціально розроблена формула забезпечує довготривале зволоження, зменшуючи тертя і підвищуючи комфорт під час інтимних моментів.&lt;br /&gt;&lt;br /&gt;
+        4.        Гіпоалергенний: Підходить для чутливої шкіри, не містить агресивних хімічних речовин, штучних ароматизаторів або барвників.&lt;br /&gt;&lt;br /&gt;
+        5.        Великий об’єм: Упаковка 300 мл забезпечує тривале використання, роблячи його економічно вигідним вибором.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Нанесіть необхідну кількість лубриканта на інтимні зони або секс-іграшки перед початком інтимних моментів. Розподіліть рівномірно для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+        •        Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
+        •        Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
+        •        Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
+        •        Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Чому обирають Satisfyer Men Warming:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Лубрикант Satisfyer Men Warming – це ідеальний вибір для тих, хто шукає додаткового задоволення і комфорту під час інтимних моментів. Його ефект підігріву та водна основа забезпечують тривалий комфорт і зволоження, роблячи кожен момент максимально приємним і задовільним.</description>
+            <name_ua>Лубрикант Satisfyer Men Warming, 300 ml</name_ua>
+            <description_ua>Лубрикант Satisfyer Men Warming – це високоякісний інтимний гель, спеціально розроблений для чоловіків. Завдяки ефекту підігріву, цей лубрикант забезпечує додаткове задоволення і комфорт під час інтимних моментів. Упаковка об’ємом 300 мл ідеально підходить для тривалого використання.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Основні переваги:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+        1.        Ефект підігріву: Забезпечує приємне відчуття тепла, що підвищує задоволення і комфорт під час використання.&lt;br /&gt;&lt;br /&gt;
+        2.        Водна основа: Легко змивається водою, не залишає липких слідів або залишків. Сумісний з латексними презервативами та секс-іграшками.&lt;br /&gt;&lt;br /&gt;
+        3.        Тривале зволоження: Спеціально розроблена формула забезпечує довготривале зволоження, зменшуючи тертя і підвищуючи комфорт під час інтимних моментів.&lt;br /&gt;&lt;br /&gt;
+        4.        Гіпоалергенний: Підходить для чутливої шкіри, не містить агресивних хімічних речовин, штучних ароматизаторів або барвників.&lt;br /&gt;&lt;br /&gt;
+        5.        Великий об’єм: Упаковка 300 мл забезпечує тривале використання, роблячи його економічно вигідним вибором.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Нанесіть необхідну кількість лубриканта на інтимні зони або секс-іграшки перед початком інтимних моментів. Розподіліть рівномірно для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+        •        Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
+        •        Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
+        •        Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
+        •        Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Чому обирають Satisfyer Men Warming:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Лубрикант Satisfyer Men Warming – це ідеальний вибір для тих, хто шукає додаткового задоволення і комфорту під час інтимних моментів. Його ефект підігріву та водна основа забезпечують тривалий комфорт і зволоження, роблячи кожен момент максимально приємним і задовільним.</description_ua>
             </offer>
         <offer id="69-51751" available="true">
                 <erp>69-51751</erp>
@@ -33028,6 +33072,40 @@ IPX7 водонепроникний&lt;br /&gt;
 Діаметр 2,5 см&lt;br /&gt;
 Стильна упаковка у вигляді замшевого футляра</description_ua>
             </offer>
+        <offer id="64-00155" available="true">
+                <erp>64-00155</erp>
+            <barcode>5906233081975</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31859-analyna_probka_silikonova_ewellery_curved_plug__s</url>
+            <price>249.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>31</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_31855678b73a3c2563.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_678b73a2814d4.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_678b73a296d2b.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_678b73a2b43c9.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_678b73a2cbd66.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_678b73a2e641c.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_678b73a30a3d8.jpeg</picture>
+            <name>Анальна пробка силіконова Jewellery Curved PLUG- S</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Анальна пробка силіконова Jewellery Curved PLUG- S</model>
+            <description>Ексклюзивні анальні прикраси з силікону. Високоякісний силікон пестить оксамитовим дотиком і гарантує безпеку для вашого тіла. Пробка ідеально гладка і не викликає роздратування шкіри.&lt;br /&gt;
+Ідеально підходить для початківців і досвідчених любителів анальних ігор.&lt;br /&gt;
+Ковпачок має ідеальний контур, спеціальна анатомічна форма полегшує нанесення.&lt;br /&gt;
+Цибулинчаста форма забезпечує чудову стимуляцію. Водночас вузьке горлечко з ромбоподібною основою дозволить м’язам охопити та утримувати пробку на місці, запобігаючи розсмоктуванню.&lt;br /&gt;
+Загальна довжина 7,5 см&lt;br /&gt;
+Діаметр 2,5 см</description>
+            <name_ua>Анальна пробка силіконова Jewellery Curved PLUG- S</name_ua>
+            <description_ua>Ексклюзивні анальні прикраси з силікону. Високоякісний силікон пестить оксамитовим дотиком і гарантує безпеку для вашого тіла. Пробка ідеально гладка і не викликає роздратування шкіри.&lt;br /&gt;
+Ідеально підходить для початківців і досвідчених любителів анальних ігор.&lt;br /&gt;
+Ковпачок має ідеальний контур, спеціальна анатомічна форма полегшує нанесення.&lt;br /&gt;
+Цибулинчаста форма забезпечує чудову стимуляцію. Водночас вузьке горлечко з ромбоподібною основою дозволить м’язам охопити та утримувати пробку на місці, запобігаючи розсмоктуванню.&lt;br /&gt;
+Загальна довжина 7,5 см&lt;br /&gt;
+Діаметр 2,5 см</description_ua>
+            </offer>
         <offer id="BI-014861" available="true">
                 <erp>BI-014861</erp>
             <barcode>6959532326284</barcode>
@@ -34247,6 +34325,24 @@ Strawberry Boss of Toys - це ідеальний вибір для тих, хт
 &lt;br /&gt;
 Затримує еякуляцію від 10 до 20 хвилин. Цього достатньо, щоб довести партнера до оргазму.</description_ua>
             </offer>
+        <offer id="914-00035" available="true">
+                <erp>914-00035</erp>
+            <barcode>5903111016692</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2606-feromony_pink_love_15_ml_for_women</url>
+            <price>550.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>80</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/914-00035.jpg</picture>
+            <name>Парфуми Pink Love 15 ml for women</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>AURORA</vendor>
+            <model>Парфуми Pink Love 15 ml for women</model>
+            <description>Парфуми Pink Love 15 ml for women</description>
+            <name_ua>Парфуми Pink Love 15 ml for women</name_ua>
+            <description_ua>Парфуми Pink Love 15 ml for women</description_ua>
+            </offer>
         <offer id="35-30085" available="true">
                 <erp>35-30085</erp>
             <barcode>4019514305408</barcode>
@@ -35050,6 +35146,24 @@ AQUAglide Raspberry - це ідеальний вибір для тих, хто �
             <description>Реалістичний вібратор без мошонки. Виконаний в тілесному кольорі з високоякісного матеріалу, приємного на дотик. Загальна довжина: 22 см Зовнішній діаметр: 4 см Матеріал: TPR</description>
             <name_ua>Вібратор  Juicy Jelly Multispeed Skin</name_ua>
             <description_ua>Реалістичний вібратор без мошонки. Виконаний в тілесному кольорі з високоякісного матеріалу, приємного на дотик. Загальна довжина: 22 см Зовнішній діаметр: 4 см Матеріал: TPR</description_ua>
+            </offer>
+        <offer id="67-00076" available="true">
+                <erp>67-00076</erp>
+            <barcode>5903661801380</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/24880-vibrator__uicy_elly_multispeed_clear</url>
+            <price>427.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>143</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/67-00076.jpg</picture>
+            <name>Вібратор  Juicy Jelly Multispeed Clear</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Вібратор  Juicy Jelly Multispeed Clear</model>
+            <description>Вібратор  Juicy Jelly Multispeed Clear</description>
+            <name_ua>Вібратор  Juicy Jelly Multispeed Clear</name_ua>
+            <description_ua>Вібратор  Juicy Jelly Multispeed Clear</description_ua>
             </offer>
         <offer id="67-00080" available="true">
                 <erp>67-00080</erp>
@@ -35953,70 +36067,6 @@ Sensfeel™ for Him - це природний активний інгредіє�
             <description>Цукерки ментолові Mietowki after sex</description>
             <name_ua>Цукерки ментолові Mietowki after sex</name_ua>
             <description_ua>Цукерки ментолові Mietowki after sex</description_ua>
-            </offer>
-        <offer id="73-4305439" available="true">
-                <erp>73-4305439</erp>
-            <barcode>4019514305439</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30317-lubrikant_satisfyer_men_warming</url>
-            <price>535.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3031764a7fb3b922cf.png</picture>
-            <name>Лубрикант Satisfyer Men Warming, 300 ml</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>SATISFYER</vendor>
-            <model>Лубрикант Satisfyer Men Warming</model>
-            <description>Лубрикант Satisfyer Men Warming – це високоякісний інтимний гель, спеціально розроблений для чоловіків. Завдяки ефекту підігріву, цей лубрикант забезпечує додаткове задоволення і комфорт під час інтимних моментів. Упаковка об’ємом 300 мл ідеально підходить для тривалого використання.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Основні переваги:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-        1.        Ефект підігріву: Забезпечує приємне відчуття тепла, що підвищує задоволення і комфорт під час використання.&lt;br /&gt;&lt;br /&gt;
-        2.        Водна основа: Легко змивається водою, не залишає липких слідів або залишків. Сумісний з латексними презервативами та секс-іграшками.&lt;br /&gt;&lt;br /&gt;
-        3.        Тривале зволоження: Спеціально розроблена формула забезпечує довготривале зволоження, зменшуючи тертя і підвищуючи комфорт під час інтимних моментів.&lt;br /&gt;&lt;br /&gt;
-        4.        Гіпоалергенний: Підходить для чутливої шкіри, не містить агресивних хімічних речовин, штучних ароматизаторів або барвників.&lt;br /&gt;&lt;br /&gt;
-        5.        Великий об’єм: Упаковка 300 мл забезпечує тривале використання, роблячи його економічно вигідним вибором.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Нанесіть необхідну кількість лубриканта на інтимні зони або секс-іграшки перед початком інтимних моментів. Розподіліть рівномірно для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-        •        Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
-        •        Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
-        •        Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
-        •        Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Чому обирають Satisfyer Men Warming:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Лубрикант Satisfyer Men Warming – це ідеальний вибір для тих, хто шукає додаткового задоволення і комфорту під час інтимних моментів. Його ефект підігріву та водна основа забезпечують тривалий комфорт і зволоження, роблячи кожен момент максимально приємним і задовільним.</description>
-            <name_ua>Лубрикант Satisfyer Men Warming, 300 ml</name_ua>
-            <description_ua>Лубрикант Satisfyer Men Warming – це високоякісний інтимний гель, спеціально розроблений для чоловіків. Завдяки ефекту підігріву, цей лубрикант забезпечує додаткове задоволення і комфорт під час інтимних моментів. Упаковка об’ємом 300 мл ідеально підходить для тривалого використання.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Основні переваги:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-        1.        Ефект підігріву: Забезпечує приємне відчуття тепла, що підвищує задоволення і комфорт під час використання.&lt;br /&gt;&lt;br /&gt;
-        2.        Водна основа: Легко змивається водою, не залишає липких слідів або залишків. Сумісний з латексними презервативами та секс-іграшками.&lt;br /&gt;&lt;br /&gt;
-        3.        Тривале зволоження: Спеціально розроблена формула забезпечує довготривале зволоження, зменшуючи тертя і підвищуючи комфорт під час інтимних моментів.&lt;br /&gt;&lt;br /&gt;
-        4.        Гіпоалергенний: Підходить для чутливої шкіри, не містить агресивних хімічних речовин, штучних ароматизаторів або барвників.&lt;br /&gt;&lt;br /&gt;
-        5.        Великий об’єм: Упаковка 300 мл забезпечує тривале використання, роблячи його економічно вигідним вибором.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Нанесіть необхідну кількість лубриканта на інтимні зони або секс-іграшки перед початком інтимних моментів. Розподіліть рівномірно для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-        •        Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
-        •        Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
-        •        Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
-        •        Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Чому обирають Satisfyer Men Warming:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Лубрикант Satisfyer Men Warming – це ідеальний вибір для тих, хто шукає додаткового задоволення і комфорту під час інтимних моментів. Його ефект підігріву та водна основа забезпечують тривалий комфорт і зволоження, роблячи кожен момент максимально приємним і задовільним.</description_ua>
             </offer>
         <offer id="63-00070-1" available="true">
                 <erp>63-00070-1</erp>
@@ -37225,40 +37275,6 @@ VARIETY PACK - Variety Pack 1 містить 7 найбільш продаван
 Діаметр 2,8 см&lt;br /&gt;
 Стильна упаковка у вигляді замшевого футляра</description_ua>
             </offer>
-        <offer id="64-00155" available="true">
-                <erp>64-00155</erp>
-            <barcode>5906233081975</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31859-analyna_probka_silikonova_ewellery_curved_plug__s</url>
-            <price>249.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>31</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_31855678b73a3c2563.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_678b73a2814d4.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_678b73a296d2b.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_678b73a2b43c9.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_678b73a2cbd66.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_678b73a2e641c.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_678b73a30a3d8.jpeg</picture>
-            <name>Анальна пробка силіконова Jewellery Curved PLUG- S</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Анальна пробка силіконова Jewellery Curved PLUG- S</model>
-            <description>Ексклюзивні анальні прикраси з силікону. Високоякісний силікон пестить оксамитовим дотиком і гарантує безпеку для вашого тіла. Пробка ідеально гладка і не викликає роздратування шкіри.&lt;br /&gt;
-Ідеально підходить для початківців і досвідчених любителів анальних ігор.&lt;br /&gt;
-Ковпачок має ідеальний контур, спеціальна анатомічна форма полегшує нанесення.&lt;br /&gt;
-Цибулинчаста форма забезпечує чудову стимуляцію. Водночас вузьке горлечко з ромбоподібною основою дозволить м’язам охопити та утримувати пробку на місці, запобігаючи розсмоктуванню.&lt;br /&gt;
-Загальна довжина 7,5 см&lt;br /&gt;
-Діаметр 2,5 см</description>
-            <name_ua>Анальна пробка силіконова Jewellery Curved PLUG- S</name_ua>
-            <description_ua>Ексклюзивні анальні прикраси з силікону. Високоякісний силікон пестить оксамитовим дотиком і гарантує безпеку для вашого тіла. Пробка ідеально гладка і не викликає роздратування шкіри.&lt;br /&gt;
-Ідеально підходить для початківців і досвідчених любителів анальних ігор.&lt;br /&gt;
-Ковпачок має ідеальний контур, спеціальна анатомічна форма полегшує нанесення.&lt;br /&gt;
-Цибулинчаста форма забезпечує чудову стимуляцію. Водночас вузьке горлечко з ромбоподібною основою дозволить м’язам охопити та утримувати пробку на місці, запобігаючи розсмоктуванню.&lt;br /&gt;
-Загальна довжина 7,5 см&lt;br /&gt;
-Діаметр 2,5 см</description_ua>
-            </offer>
         <offer id="6603BW0751" available="true">
                 <erp>6603BW0751</erp>
             <barcode>6959532320947</barcode>
@@ -38289,24 +38305,6 @@ Satisfyer Pocket Panda: водонепроникний (IPX7) накладний
             <name_ua>Секс лялька Lalka -SINDY3D</name_ua>
             <description_ua>Sindy Doll- 3D - лялька кохання. Красива надувна лялька кохання з чарівним обличчям і стоячим положенням 168 см. Голова природного, гарного контуру, ненакачана, з великими миготливими очима (У положенні лежачи очі закриті, в положенні стоячи очі відкриті). М'які губи і натуральне волосся. Вона в натуральну величину, має красиві, великі груди. Любовні отвори виготовлені з дуже якісного м'якого матеріалу. Окремо прикріплене віброяйце з регульованою швидкістю пульсації. У комплект входить насос. Лялька відрізняється як функціональністю, так і естетичністю. Розміри упаковки: 40 см / 27 см / 16 см.</description_ua>
             </offer>
-        <offer id="914-00035" available="true">
-                <erp>914-00035</erp>
-            <barcode>5903111016692</barcode>
-            <quantity_in_stock>6</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2606-feromony_pink_love_15_ml_for_women</url>
-            <price>550.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>80</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/914-00035.jpg</picture>
-            <name>Парфуми Pink Love 15 ml for women</name>
-            <Отображать>Да</Отображать>
-            <stock>6</stock>
-            <vendor>AURORA</vendor>
-            <model>Парфуми Pink Love 15 ml for women</model>
-            <description>Парфуми Pink Love 15 ml for women</description>
-            <name_ua>Парфуми Pink Love 15 ml for women</name_ua>
-            <description_ua>Парфуми Pink Love 15 ml for women</description_ua>
-            </offer>
         <offer id="35-30081" available="true">
                 <erp>35-30081</erp>
             <barcode>4019514305200</barcode>
@@ -39123,24 +39121,6 @@ PRETTY LOVE ARVIN також є водонепроникною, що дозво�
             <description> Насадка для пеніса з рельєфом, що реалістично імітує вигляд полового члена. Аксесуар відрізняється великою, дуже різко окресленою головкою. Весь ствол дуже рельєфний, завдяки чому забезпечується висока ефективність аксесуара. Основа у формі мошонки. Матеріал – термопластична гума, очищена від фталатів та інших шкідливих домішок. Довжина гаджета 14 см, діаметр 4,5 см.</description>
             <name_ua>Насадка на пеніс BAILE Wolftooth Sleeve</name_ua>
             <description_ua> Насадка для пеніса з рельєфом, що реалістично імітує вигляд полового члена. Аксесуар відрізняється великою, дуже різко окресленою головкою. Весь ствол дуже рельєфний, завдяки чому забезпечується висока ефективність аксесуара. Основа у формі мошонки. Матеріал – термопластична гума, очищена від фталатів та інших шкідливих домішок. Довжина гаджета 14 см, діаметр 4,5 см.</description_ua>
-            </offer>
-        <offer id="67-00076" available="true">
-                <erp>67-00076</erp>
-            <barcode>5903661801380</barcode>
-            <quantity_in_stock>6</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/24880-vibrator__uicy_elly_multispeed_clear</url>
-            <price>427.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>143</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/67-00076.jpg</picture>
-            <name>Вібратор  Juicy Jelly Multispeed Clear</name>
-            <Отображать>Да</Отображать>
-            <stock>6</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Вібратор  Juicy Jelly Multispeed Clear</model>
-            <description>Вібратор  Juicy Jelly Multispeed Clear</description>
-            <name_ua>Вібратор  Juicy Jelly Multispeed Clear</name_ua>
-            <description_ua>Вібратор  Juicy Jelly Multispeed Clear</description_ua>
             </offer>
         <offer id="73-4306603" available="true">
                 <erp>73-4306603</erp>
@@ -41020,6 +41000,30 @@ JO All-in-One Sensual Massage Glide – це масажний ковзаючий
             <name_ua>Крем для ерекції MAXI MALE</name_ua>
             <description_ua>MAXI MALE – чоловічий інтимний крем, призначений для масажу та догляду за пенісом, а також для підтримки його в належному стані. Крем призначений для чоловіків, які відчувають дискомфорт через занадто малий розмір ерегованого пеніса, а також для тих, у кого ерекція триває занадто коротко. MAXI MALE також можуть використовувати всі чоловіки, які хочуть покращити комфорт і якість сексуального життя. Ефективний і доглянутий пеніс означає: легшу і швидшу ерекцію, тривалішу ерекцію.</description_ua>
             </offer>
+        <offer id="42-06239460000" available="true">
+                <erp>42-06239460000</erp>
+            <barcode>4024144623952</barcode>
+            <quantity_in_stock>7</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/3094-analyniy_gely_lubrikant_ust_glide_anal_200</url>
+            <price>395.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>159</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/42-06239460000.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68760f058d5d3.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68760f059eaf5.jpg</picture>
+            <name>Анальний Гель-лубрикант Just Glide Anal 200</name>
+            <Отображать>Да</Отображать>
+            <stock>7</stock>
+            <vendor>ORION</vendor>
+            <model>Анальний Гель-лубрикант Just Glide Anal 200</model>
+            <description>Продукт Just Glide Anal призначений для анального задоволення. Кришталево прозора змазка спеціально розроблена для чутливої області ануса. Він містить цінну формулу з 7 рослин і на 100% є веганом. Його формула на водній основі означає, що його можна використовувати з силіконовими іграшками. Гель легко миється. Безпечний для використання з латексними презервативами. Без запаху і смаку. Його також можна використовувати вагінально. Гінеколог &lt;br /&gt;
+&lt;br /&gt;
+Склад: вода, спирт денат, сорбіт, гідроксиетилцелюлоза, бензоат натрію, пантенол, лактат натрію, гліцерин, лимонна кислота, цитрусовий ауранцій, екстракт плодів дульцису (апельсина), екстракт фруктів Myristlica Fragrans (мускатний горіх), екстракт кермелю, екстракт цимбопогону, цитра. Citrus Reticulata (мандарин) Екстракт плодів, Citrus Paradisi (Грейпфрут) Екстракт плодів, Rosmarinus Officinalis (Розмарин) Екстракт листя.</description>
+            <name_ua>Анальний Гель-лубрикант Just Glide Anal 200</name_ua>
+            <description_ua>Продукт Just Glide Anal призначений для анального задоволення. Кришталево прозора змазка спеціально розроблена для чутливої області ануса. Він містить цінну формулу з 7 рослин і на 100% є веганом. Його формула на водній основі означає, що його можна використовувати з силіконовими іграшками. Гель легко миється. Безпечний для використання з латексними презервативами. Без запаху і смаку. Його також можна використовувати вагінально. Гінеколог &lt;br /&gt;
+&lt;br /&gt;
+Склад: вода, спирт денат, сорбіт, гідроксиетилцелюлоза, бензоат натрію, пантенол, лактат натрію, гліцерин, лимонна кислота, цитрусовий ауранцій, екстракт плодів дульцису (апельсина), екстракт фруктів Myristlica Fragrans (мускатний горіх), екстракт кермелю, екстракт цимбопогону, цитра. Citrus Reticulata (мандарин) Екстракт плодів, Citrus Paradisi (Грейпфрут) Екстракт плодів, Rosmarinus Officinalis (Розмарин) Екстракт листя.</description_ua>
+            </offer>
         <offer id="42-06203000000" available="true">
                 <erp>42-06203000000</erp>
             <barcode>4024144620302</barcode>
@@ -42749,30 +42753,6 @@ Dzięki zamkniętemu zakończeniu, Manga Vagina tworzy ekscytujący efekt ssania
             <description>Крем для жінок , а саме для догляду за інтимними місцями. Завдяки унікальній формулі ви будете відчувати більше задоволення від фізичного контакту.</description>
             <name_ua>Збуджуючий крем для жінок X-Delight</name_ua>
             <description_ua>Крем для жінок , а саме для догляду за інтимними місцями. Завдяки унікальній формулі ви будете відчувати більше задоволення від фізичного контакту.</description_ua>
-            </offer>
-        <offer id="42-06239460000" available="true">
-                <erp>42-06239460000</erp>
-            <barcode>4024144623952</barcode>
-            <quantity_in_stock>8</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/3094-analyniy_gely_lubrikant_ust_glide_anal_200</url>
-            <price>395.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>159</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-06239460000.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68760f058d5d3.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68760f059eaf5.jpg</picture>
-            <name>Анальний Гель-лубрикант Just Glide Anal 200</name>
-            <Отображать>Да</Отображать>
-            <stock>8</stock>
-            <vendor>ORION</vendor>
-            <model>Анальний Гель-лубрикант Just Glide Anal 200</model>
-            <description>Продукт Just Glide Anal призначений для анального задоволення. Кришталево прозора змазка спеціально розроблена для чутливої області ануса. Він містить цінну формулу з 7 рослин і на 100% є веганом. Його формула на водній основі означає, що його можна використовувати з силіконовими іграшками. Гель легко миється. Безпечний для використання з латексними презервативами. Без запаху і смаку. Його також можна використовувати вагінально. Гінеколог &lt;br /&gt;
-&lt;br /&gt;
-Склад: вода, спирт денат, сорбіт, гідроксиетилцелюлоза, бензоат натрію, пантенол, лактат натрію, гліцерин, лимонна кислота, цитрусовий ауранцій, екстракт плодів дульцису (апельсина), екстракт фруктів Myristlica Fragrans (мускатний горіх), екстракт кермелю, екстракт цимбопогону, цитра. Citrus Reticulata (мандарин) Екстракт плодів, Citrus Paradisi (Грейпфрут) Екстракт плодів, Rosmarinus Officinalis (Розмарин) Екстракт листя.</description>
-            <name_ua>Анальний Гель-лубрикант Just Glide Anal 200</name_ua>
-            <description_ua>Продукт Just Glide Anal призначений для анального задоволення. Кришталево прозора змазка спеціально розроблена для чутливої області ануса. Він містить цінну формулу з 7 рослин і на 100% є веганом. Його формула на водній основі означає, що його можна використовувати з силіконовими іграшками. Гель легко миється. Безпечний для використання з латексними презервативами. Без запаху і смаку. Його також можна використовувати вагінально. Гінеколог &lt;br /&gt;
-&lt;br /&gt;
-Склад: вода, спирт денат, сорбіт, гідроксиетилцелюлоза, бензоат натрію, пантенол, лактат натрію, гліцерин, лимонна кислота, цитрусовий ауранцій, екстракт плодів дульцису (апельсина), екстракт фруктів Myristlica Fragrans (мускатний горіх), екстракт кермелю, екстракт цимбопогону, цитра. Citrus Reticulata (мандарин) Екстракт плодів, Citrus Paradisi (Грейпфрут) Екстракт плодів, Rosmarinus Officinalis (Розмарин) Екстракт листя.</description_ua>
             </offer>
         <offer id="48-14314" available="true">
                 <erp>48-14314</erp>
@@ -44571,6 +44551,30 @@ AQUAglide Exotic - це ідеальний вибір для тих, хто хо
             <name_ua>Маска Love Mask Boss Series Fetish</name_ua>
             <description_ua>Ніжна, непереборна пестлива ручка! Інтимні моменти стають навмисними та веселішими з тизером. Хочете ви дражнити свого партнера або любителі БДСМ, ці пір'я - ідеальна іграшка для вас! Необхідний під час прелюдії та для стимулювання почуттів. Цей гаджет не може бути відсутнім у вашій спальні.</description_ua>
             </offer>
+        <offer id="BW-001064" available="true">
+                <erp>BW-001064</erp>
+            <barcode>6959532301021</barcode>
+            <quantity_in_stock>9</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/27974-bailewaves_of_pleasure_fantasy_vibes</url>
+            <price>293.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>143</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_2797462135391b6f62.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62135390732c9.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6213539084953.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_621353909042a.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_621353909be97.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62135390aab94.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62135390b65a8.png</picture>
+            <name>Вібратор BAILE Waves of pleasure fantasy vibes</name>
+            <Отображать>Да</Отображать>
+            <stock>9</stock>
+            <vendor />
+            <model>Вібратор BAILE Waves of pleasure fantasy vibes</model>
+            <description>Реалістичний вібратор з яскраво вираженою голівкою і венозної основою. Багатошвидкісні вібрації. Живлення 2AA Матеріал: ПВХ. Довжина - 23 см, діаметр - 3,9 см</description>
+            <name_ua>Вібратор BAILE Waves of pleasure fantasy vibes</name_ua>
+            <description_ua>Реалістичний вібратор з яскраво вираженою голівкою і венозної основою. Багатошвидкісні вібрації. Живлення 2AA Матеріал: ПВХ. Довжина - 23 см, діаметр - 3,9 см</description_ua>
+            </offer>
         <offer id="64-00065" available="true">
                 <erp>64-00065</erp>
             <barcode>5903661800826</barcode>
@@ -45463,30 +45467,6 @@ Super-Rutscher Anal - це надійний лубрикант, спеціаль
             <description>Вібратор  PRETTY LOVE Valentine USB 7 functions</description>
             <name_ua>Вібратор  PRETTY LOVE Valentine USB 7 functions</name_ua>
             <description_ua>Вібратор  PRETTY LOVE Valentine USB 7 functions</description_ua>
-            </offer>
-        <offer id="BW-001064" available="true">
-                <erp>BW-001064</erp>
-            <barcode>6959532301021</barcode>
-            <quantity_in_stock>10</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/27974-bailewaves_of_pleasure_fantasy_vibes</url>
-            <price>293.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>143</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_2797462135391b6f62.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62135390732c9.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6213539084953.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_621353909042a.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_621353909be97.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62135390aab94.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62135390b65a8.png</picture>
-            <name>Вібратор BAILE Waves of pleasure fantasy vibes</name>
-            <Отображать>Да</Отображать>
-            <stock>10</stock>
-            <vendor />
-            <model>Вібратор BAILE Waves of pleasure fantasy vibes</model>
-            <description>Реалістичний вібратор з яскраво вираженою голівкою і венозної основою. Багатошвидкісні вібрації. Живлення 2AA Матеріал: ПВХ. Довжина - 23 см, діаметр - 3,9 см</description>
-            <name_ua>Вібратор BAILE Waves of pleasure fantasy vibes</name_ua>
-            <description_ua>Реалістичний вібратор з яскраво вираженою голівкою і венозної основою. Багатошвидкісні вібрації. Живлення 2AA Матеріал: ПВХ. Довжина - 23 см, діаметр - 3,9 см</description_ua>
             </offer>
         <offer id="42-06257360000" available="true">
                 <erp>42-06257360000</erp>
@@ -47213,6 +47193,31 @@ AQUAglide Neutral - це універсальний лубрикант без з
             <name_ua>Вібратор PRETTY LOVE EDWARD 10 function vibrations</name_ua>
             <description_ua>Вібратор PRETTY LOVE EDWARD 10 function vibrations</description_ua>
             </offer>
+        <offer id="BW-001009R" available="true">
+                <erp>BW-001009R</erp>
+            <barcode>6959532326000</barcode>
+            <quantity_in_stock>12</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/28703-baile_bob_vibrating_sofy_skin_225_cm</url>
+            <price>252.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>143</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_287036312444ea06fc.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6312444d43d0d.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6312444d5ef78.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6312444d6cb6a.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6312444d79403.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6312444d84877.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6312444d90018.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6312444d9ae1b.jpg</picture>
+            <name>Вібратор BAILE BOB Vibrating Sofy Skin 22,5 cm</name>
+            <Отображать>Да</Отображать>
+            <stock>12</stock>
+            <vendor />
+            <model>Вібратор BAILE BOB Vibrating Sofy Skin 22,5 cm</model>
+            <description>Універсальний вібромасажер у тілесному  кольорі.Його реалістична форма дуже стимулює. Регульовані вібрації. Загальна довжина: 22 см. Максимальна довжина проникнення: 19 см. Діаметр: 4,2 см. Працює від 2 батарейок типу ААА. Склад: TPR, ABS</description>
+            <name_ua>Вібратор BAILE BOB Vibrating Sofy Skin 22,5 cm</name_ua>
+            <description_ua>Універсальний вібромасажер у тілесному  кольорі.Його реалістична форма дуже стимулює. Регульовані вібрації. Загальна довжина: 22 см. Максимальна довжина проникнення: 19 см. Діаметр: 4,2 см. Працює від 2 батарейок типу ААА. Склад: TPR, ABS</description_ua>
+            </offer>
         <offer id="67-00099" available="true">
                 <erp>67-00099</erp>
             <barcode>5903661805210</barcode>
@@ -47647,31 +47652,6 @@ Liberté Intimate Oil - це відмінний вибір для тих, хто
             <description_ua>Крем для посилення ерекції, який стимулює завдяки  поєднанню особливих інгредієнтів, особливо активної Acmella. Поєднання цих чотирьох активних інгредієнтів: таурину, акмели, женьшеню та гінкго білоба, забезпечує легшу та жорстку ерекцію, стимуляцію та відчуття збільшення пеніса.&lt;br /&gt;
 &lt;br /&gt;
 Склад:  вода, гліцерин, пропіленгліколь, цетеариловий спирт, етилгексилпальмітат, гліцерил стеарат, олія насіння геліантуса, стеарат Peg-100, таурин, поліакрилат натрію, феноксиетанол, бутиленгліколь, бутиленгліколь, гідроліколь, бутиленгліколь Олія, екстракт плодів стручкового перцю, екстракт кореня женьшеню, етилгексилгліцерин, динатрій едта, екстракт листя гінкго білоба, тридецет-6, Bht, бензоат натрію, ванілілбутил, сорбат калію, ізопентію едіолат, едіолат циопентію, едіолат циопентію Метабісульфіт</description_ua>
-            </offer>
-        <offer id="BW-001009R" available="true">
-                <erp>BW-001009R</erp>
-            <barcode>6959532326000</barcode>
-            <quantity_in_stock>13</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/28703-baile_bob_vibrating_sofy_skin_225_cm</url>
-            <price>252.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>143</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_287036312444ea06fc.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6312444d43d0d.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6312444d5ef78.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6312444d6cb6a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6312444d79403.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6312444d84877.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6312444d90018.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6312444d9ae1b.jpg</picture>
-            <name>Вібратор BAILE BOB Vibrating Sofy Skin 22,5 cm</name>
-            <Отображать>Да</Отображать>
-            <stock>13</stock>
-            <vendor />
-            <model>Вібратор BAILE BOB Vibrating Sofy Skin 22,5 cm</model>
-            <description>Універсальний вібромасажер у тілесному  кольорі.Його реалістична форма дуже стимулює. Регульовані вібрації. Загальна довжина: 22 см. Максимальна довжина проникнення: 19 см. Діаметр: 4,2 см. Працює від 2 батарейок типу ААА. Склад: TPR, ABS</description>
-            <name_ua>Вібратор BAILE BOB Vibrating Sofy Skin 22,5 cm</name_ua>
-            <description_ua>Універсальний вібромасажер у тілесному  кольорі.Його реалістична форма дуже стимулює. Регульовані вібрації. Загальна довжина: 22 см. Максимальна довжина проникнення: 19 см. Діаметр: 4,2 см. Працює від 2 батарейок типу ААА. Склад: TPR, ABS</description_ua>
             </offer>
         <offer id="42-06257010000" available="true">
                 <erp>42-06257010000</erp>
@@ -48582,6 +48562,29 @@ Virgin Tight - це відмінний вибір для тих, хто шука
 &lt;br /&gt;&lt;br /&gt;
 Virgin Tight - це відмінний вибір для тих, хто шукає крем для підвищення тонусу і еластичності інтимних зон. Його спеціально розроблена формула забезпечує комфорт і зменшує дискомфорт, підтримуючи природний баланс шкіри і покращуючи відчуття під час інтимних моментів.</description_ua>
             </offer>
+        <offer id="69-21074" available="true">
+                <erp>69-21074</erp>
+            <barcode>5600298351072</barcode>
+            <quantity_in_stock>16</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/16435-lubrikant_lube_tube_cool_150_ml</url>
+            <price>469.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>46</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/69-21074.jpg</picture>
+            <name>Водний лубрикант Orgie Lube Tube Cooling 150 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>16</stock>
+            <vendor>ORGIE COSMETICS</vendor>
+            <model>Водний лубрикант Orgie Lube Tube Cooling 150 мл</model>
+            <description>&lt;p&gt;Orgie Lube Tube Cooling - це водний лубрикант, створений для забезпечення максимального комфорту та задоволення під час інтимних моментів. Спеціальна формула з охолоджуючим ефектом надає унікальне відчуття свіжості і покращує якість інтимних контактів.&lt;br /&gt;&lt;br /&gt;Основні переваги:&lt;br /&gt;&lt;br /&gt;1. Охолоджуючий ефект: Лубрикант має спеціально розроблену формулу, яка забезпечує приємне охолодження, підвищуючи чутливість та інтенсивність відчуттів під час використання.&lt;br /&gt;2. Водна основа: Гель має водну основу, що забезпечує легке очищення та зручність використання. Не залишає жирних слідів і не викликає подразнень.&lt;br /&gt;3. Великий об’єм: Флакон об’ємом 150 мл забезпечує тривале використання, ідеально підходить для регулярного застосування.&lt;br /&gt;4. Підходить для чутливої шкіри: Не містить парабенів та ароматизаторів, що робить його безпечним для чутливої шкіри і знижує ризик алергічних реакцій.&lt;br /&gt;5. Сумісність з презервативами: Лубрикант можна використовувати разом з презервативами, що забезпечує додатковий комфорт та захист.&lt;br /&gt;&lt;br /&gt;Спосіб застосування:&lt;br /&gt;&lt;br /&gt;Нанесіть необхідну кількість лубриканта на бажану ділянку тіла або на секс-іграшку перед інтимними моментами. Лубрикант легко розподіляється і забезпечує тривале зволоження для комфортних відчуттів.&lt;br /&gt;&lt;br /&gt;Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;• Уникайте контакту з очима.&lt;br /&gt;• Зберігайте у недоступному для дітей місці.&lt;br /&gt;• Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;• Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;Чому обирають Orgie Lube Tube Cooling:&lt;br /&gt;&lt;br /&gt;Orgie Lube Tube Cooling - це ідеальний вибір для тих, хто шукає водний лубрикант з охолоджуючим ефектом. Завдяки його зволожуючим і охолоджуючим властивостям, ви зможете насолоджуватися кожним інтимним моментом, відчуваючи новий рівень задоволення і комфорту.&lt;/p&gt;</description>
+            <param name="Країна">Португалия</param>
+            <param name="Основа">Водна</param>
+            <param name="Місткість (мл)">150</param>
+            <param name="Марка/Лінія">Orgie</param>
+            <param name="Запах">Без запаха</param>
+            <name_ua>Водний лубрикант Orgie Lube Tube Cooling 150 мл</name_ua>
+            <description_ua>&lt;p&gt;Orgie Lube Tube Cooling - це водний лубрикант, створений для забезпечення максимального комфорту та задоволення під час інтимних моментів. Спеціальна формула з охолоджуючим ефектом надає унікальне відчуття свіжості і покращує якість інтимних контактів.&lt;br /&gt;&lt;br /&gt;Основні переваги:&lt;br /&gt;&lt;br /&gt;1. Охолоджуючий ефект: Лубрикант має спеціально розроблену формулу, яка забезпечує приємне охолодження, підвищуючи чутливість та інтенсивність відчуттів під час використання.&lt;br /&gt;2. Водна основа: Гель має водну основу, що забезпечує легке очищення та зручність використання. Не залишає жирних слідів і не викликає подразнень.&lt;br /&gt;3. Великий об’єм: Флакон об’ємом 150 мл забезпечує тривале використання, ідеально підходить для регулярного застосування.&lt;br /&gt;4. Підходить для чутливої шкіри: Не містить парабенів та ароматизаторів, що робить його безпечним для чутливої шкіри і знижує ризик алергічних реакцій.&lt;br /&gt;5. Сумісність з презервативами: Лубрикант можна використовувати разом з презервативами, що забезпечує додатковий комфорт та захист.&lt;br /&gt;&lt;br /&gt;Спосіб застосування:&lt;br /&gt;&lt;br /&gt;Нанесіть необхідну кількість лубриканта на бажану ділянку тіла або на секс-іграшку перед інтимними моментами. Лубрикант легко розподіляється і забезпечує тривале зволоження для комфортних відчуттів.&lt;br /&gt;&lt;br /&gt;Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;• Уникайте контакту з очима.&lt;br /&gt;• Зберігайте у недоступному для дітей місці.&lt;br /&gt;• Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;• Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;Чому обирають Orgie Lube Tube Cooling:&lt;br /&gt;&lt;br /&gt;Orgie Lube Tube Cooling - це ідеальний вибір для тих, хто шукає водний лубрикант з охолоджуючим ефектом. Завдяки його зволожуючим і охолоджуючим властивостям, ви зможете насолоджуватися кожним інтимним моментом, відчуваючи новий рівень задоволення і комфорту.&lt;/p&gt;</description_ua>
+            </offer>
         <offer id="26-00132" available="true">
                 <erp>26-00132</erp>
             <barcode>5903661802929</barcode>
@@ -48737,29 +48740,6 @@ JoyDivision BIOglide Safe - це відмінний вибір для тих, х
             <description>Tampony-Soft-Tampons normal  (10 одиниць) -  гігієнічні тампони, які легко застосовуються без ниточок, спеціально розроблені для максимального захисту та комфорту. Тампони розроблені відповідно до останніх знань гінекології для використання в сауні, під час спорту, плавання... а також для гігієни в інтимних стосунках. Тепер, завдяки анатомічній формі, віна полегшує введення, а наявність кільця забезпечує ще більш комфортне та безпечне його усунення.</description>
             <name_ua>Тампони Tampony-Soft-Tampons normal, box of 10</name_ua>
             <description_ua>Tampony-Soft-Tampons normal  (10 одиниць) -  гігієнічні тампони, які легко застосовуються без ниточок, спеціально розроблені для максимального захисту та комфорту. Тампони розроблені відповідно до останніх знань гінекології для використання в сауні, під час спорту, плавання... а також для гігієни в інтимних стосунках. Тепер, завдяки анатомічній формі, віна полегшує введення, а наявність кільця забезпечує ще більш комфортне та безпечне його усунення.</description_ua>
-            </offer>
-        <offer id="69-21074" available="true">
-                <erp>69-21074</erp>
-            <barcode>5600298351072</barcode>
-            <quantity_in_stock>17</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/16435-lubrikant_lube_tube_cool_150_ml</url>
-            <price>469.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/69-21074.jpg</picture>
-            <name>Водний лубрикант Orgie Lube Tube Cooling 150 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>17</stock>
-            <vendor>ORGIE COSMETICS</vendor>
-            <model>Водний лубрикант Orgie Lube Tube Cooling 150 мл</model>
-            <description>&lt;p&gt;Orgie Lube Tube Cooling - це водний лубрикант, створений для забезпечення максимального комфорту та задоволення під час інтимних моментів. Спеціальна формула з охолоджуючим ефектом надає унікальне відчуття свіжості і покращує якість інтимних контактів.&lt;br /&gt;&lt;br /&gt;Основні переваги:&lt;br /&gt;&lt;br /&gt;1. Охолоджуючий ефект: Лубрикант має спеціально розроблену формулу, яка забезпечує приємне охолодження, підвищуючи чутливість та інтенсивність відчуттів під час використання.&lt;br /&gt;2. Водна основа: Гель має водну основу, що забезпечує легке очищення та зручність використання. Не залишає жирних слідів і не викликає подразнень.&lt;br /&gt;3. Великий об’єм: Флакон об’ємом 150 мл забезпечує тривале використання, ідеально підходить для регулярного застосування.&lt;br /&gt;4. Підходить для чутливої шкіри: Не містить парабенів та ароматизаторів, що робить його безпечним для чутливої шкіри і знижує ризик алергічних реакцій.&lt;br /&gt;5. Сумісність з презервативами: Лубрикант можна використовувати разом з презервативами, що забезпечує додатковий комфорт та захист.&lt;br /&gt;&lt;br /&gt;Спосіб застосування:&lt;br /&gt;&lt;br /&gt;Нанесіть необхідну кількість лубриканта на бажану ділянку тіла або на секс-іграшку перед інтимними моментами. Лубрикант легко розподіляється і забезпечує тривале зволоження для комфортних відчуттів.&lt;br /&gt;&lt;br /&gt;Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;• Уникайте контакту з очима.&lt;br /&gt;• Зберігайте у недоступному для дітей місці.&lt;br /&gt;• Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;• Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;Чому обирають Orgie Lube Tube Cooling:&lt;br /&gt;&lt;br /&gt;Orgie Lube Tube Cooling - це ідеальний вибір для тих, хто шукає водний лубрикант з охолоджуючим ефектом. Завдяки його зволожуючим і охолоджуючим властивостям, ви зможете насолоджуватися кожним інтимним моментом, відчуваючи новий рівень задоволення і комфорту.&lt;/p&gt;</description>
-            <param name="Країна">Португалия</param>
-            <param name="Основа">Водна</param>
-            <param name="Місткість (мл)">150</param>
-            <param name="Марка/Лінія">Orgie</param>
-            <param name="Запах">Без запаха</param>
-            <name_ua>Водний лубрикант Orgie Lube Tube Cooling 150 мл</name_ua>
-            <description_ua>&lt;p&gt;Orgie Lube Tube Cooling - це водний лубрикант, створений для забезпечення максимального комфорту та задоволення під час інтимних моментів. Спеціальна формула з охолоджуючим ефектом надає унікальне відчуття свіжості і покращує якість інтимних контактів.&lt;br /&gt;&lt;br /&gt;Основні переваги:&lt;br /&gt;&lt;br /&gt;1. Охолоджуючий ефект: Лубрикант має спеціально розроблену формулу, яка забезпечує приємне охолодження, підвищуючи чутливість та інтенсивність відчуттів під час використання.&lt;br /&gt;2. Водна основа: Гель має водну основу, що забезпечує легке очищення та зручність використання. Не залишає жирних слідів і не викликає подразнень.&lt;br /&gt;3. Великий об’єм: Флакон об’ємом 150 мл забезпечує тривале використання, ідеально підходить для регулярного застосування.&lt;br /&gt;4. Підходить для чутливої шкіри: Не містить парабенів та ароматизаторів, що робить його безпечним для чутливої шкіри і знижує ризик алергічних реакцій.&lt;br /&gt;5. Сумісність з презервативами: Лубрикант можна використовувати разом з презервативами, що забезпечує додатковий комфорт та захист.&lt;br /&gt;&lt;br /&gt;Спосіб застосування:&lt;br /&gt;&lt;br /&gt;Нанесіть необхідну кількість лубриканта на бажану ділянку тіла або на секс-іграшку перед інтимними моментами. Лубрикант легко розподіляється і забезпечує тривале зволоження для комфортних відчуттів.&lt;br /&gt;&lt;br /&gt;Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;• Уникайте контакту з очима.&lt;br /&gt;• Зберігайте у недоступному для дітей місці.&lt;br /&gt;• Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;• Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;Чому обирають Orgie Lube Tube Cooling:&lt;br /&gt;&lt;br /&gt;Orgie Lube Tube Cooling - це ідеальний вибір для тих, хто шукає водний лубрикант з охолоджуючим ефектом. Завдяки його зволожуючим і охолоджуючим властивостям, ви зможете насолоджуватися кожним інтимним моментом, відчуваючи новий рівень задоволення і комфорту.&lt;/p&gt;</description_ua>
             </offer>
         <offer id="42-07004790000" available="true">
                 <erp>42-07004790000</erp>
