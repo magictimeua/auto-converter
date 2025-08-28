@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-08-28 17:00">
+<yml_catalog date="2025-08-28 18:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -30622,6 +30622,25 @@ Satisfyer Perfect Pair 2 — це ідеальне поєднання функц
             <name_ua>Секс лялька Lalka Krystyna</name_ua>
             <description_ua>Висота ляльки всього 156 сантиметрів, що відповідає зросту тендітної дівчини. Обличчя Krystyna відрізняється милим дизайном, а фігура - спокусливими параметрами, пишним бюстом і еротично розсунутими ніжками. Лялька виконана з   полівінілхлориду - це гладкий, приємний на дотик матеріал. Крім того, вона оснащена трьома функціональними робочими отворами - ротиком, анусом і піхвою.</description_ua>
             </offer>
+        <offer id="26-00011" available="true">
+                <erp>26-00011</erp>
+            <barcode>8466216000111</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2383-lalka_monika</url>
+            <price>818.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>70</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/26-00011.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66b47f651a3b8.jfif</picture>
+            <name>Секс лялька Lalka  Monika</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Секс лялька Lalka  Monika</model>
+            <description>Моніка - красива надувна любовна лялька з чарівним друкованим обличчям і стоячим положенням. Вона у натуральну величину, має груди і 3 спокусливі любовні отвори.</description>
+            <name_ua>Секс лялька Lalka  Monika</name_ua>
+            <description_ua>Моніка - красива надувна любовна лялька з чарівним друкованим обличчям і стоячим положенням. Вона у натуральну величину, має груди і 3 спокусливі любовні отвори.</description_ua>
+            </offer>
         <offer id="19-1203" available="true">
                 <erp>19-1203</erp>
             <barcode>3548960013014</barcode>
@@ -37063,25 +37082,6 @@ Zyra – ідеальний вибір для жінок, які шукають 
             <description>Кільце з вібрацією -Devol Cockring</description>
             <name_ua>Кільце з вібрацією -Devol Cockring</name_ua>
             <description_ua>Кільце з вібрацією -Devol Cockring</description_ua>
-            </offer>
-        <offer id="26-00011" available="true">
-                <erp>26-00011</erp>
-            <barcode>8466216000111</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2383-lalka_monika</url>
-            <price>818.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>70</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/26-00011.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66b47f651a3b8.jfif</picture>
-            <name>Секс лялька Lalka  Monika</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Секс лялька Lalka  Monika</model>
-            <description>Моніка - красива надувна любовна лялька з чарівним друкованим обличчям і стоячим положенням. Вона у натуральну величину, має груди і 3 спокусливі любовні отвори.</description>
-            <name_ua>Секс лялька Lalka  Monika</name_ua>
-            <description_ua>Моніка - красива надувна любовна лялька з чарівним друкованим обличчям і стоячим положенням. Вона у натуральну величину, має груди і 3 спокусливі любовні отвори.</description_ua>
             </offer>
         <offer id="19-1201" available="true">
                 <erp>19-1201</erp>
