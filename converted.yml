@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-08-28 15:00">
+<yml_catalog date="2025-08-28 16:15">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -1966,24 +1966,6 @@ H2O UNI Gel - це універсальний і надійний лубрика
             <name_ua>Вагінальні кульки Basic Loveballs Slb.</name_ua>
             <description_ua>Сріблясті вагінальні кульки з пластику високої якості. З'єднані між собою текстильним шнурочком, на кінці розташована петелька для зручного витягання. Ідеально підходять для вправи Кегеля, дають можливість підтримувати м'язи піхви в тонусі, надають їм пружності та еластичності. Діаметр - 3,5 см.</description_ua>
             </offer>
-        <offer id="914-00074" available="true">
-                <erp>914-00074</erp>
-            <barcode>5904906040076</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/13733-feromony_she_win_10ml_roll_on_dz</url>
-            <price>382.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>80</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/914-00074.jpg</picture>
-            <name>Парфуми SHE WIN 10ml roll-on DZ</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>AURORA</vendor>
-            <model>Парфуми SHE WIN 10ml roll-on DZ</model>
-            <description>Парфуми SHE WIN 10ml roll-on DZ</description>
-            <name_ua>Парфуми SHE WIN 10ml roll-on DZ</name_ua>
-            <description_ua>Парфуми SHE WIN 10ml roll-on DZ</description_ua>
-            </offer>
         <offer id="30-16901-X-SKIN" available="true">
                 <erp>30-16901-X-SKIN</erp>
             <barcode>8713221820730</barcode>
@@ -3197,6 +3179,30 @@ Hummer Munde 2в1 виготовлений з м'якого гіпоалерге
             <name_ua>Вібратор міні Cuties Mini rose</name_ua>
             <description_ua>Ніжно-рожевий міні-вібратор Cuties Mini, що перезаряджається, довжина 12.4 см, діаметр 3.3 см. Має 7 режимів вібрації Виконаний із ніжного силікону.Живлення - вбудований акумулятор.</description_ua>
             </offer>
+        <offer id="42-05954030000" available="true">
+                <erp>42-05954030000</erp>
+            <barcode>4024144608089</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/20340-rechargeable_prostate_stimulat</url>
+            <price>2000.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>148</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/42-05954030000.jpg</picture>
+            <name>Масажер простати Rechargeable Prostate Stimulat</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>ORION</vendor>
+            <model>Масажер простати Rechargeable Prostate Stimulat</model>
+            <description>Маленька радість для простати!&lt;br /&gt;
+Вібратор передміхурової залози з невеликою головкою і стимулятором промежини. Одночасно стимулює передміхурову залозу та промежину за допомогою 10 режимів інтенсивної вібрації. Наконечник є особливо гнучким, що робить його дуже легким. Захоплююча форма з яскраво вираженим наконечником і стимулюючими борозенками забезпечує додаткову стимуляцію.&lt;br /&gt;
+&lt;br /&gt;
+Повна довжина 16,1 см, глибина вставки 12,7 см, Ø 2,2-3,5 см. Силікон з PU покриттям, ABS.</description>
+            <name_ua>Масажер простати Rechargeable Prostate Stimulat</name_ua>
+            <description_ua>Маленька радість для простати!&lt;br /&gt;
+Вібратор передміхурової залози з невеликою головкою і стимулятором промежини. Одночасно стимулює передміхурову залозу та промежину за допомогою 10 режимів інтенсивної вібрації. Наконечник є особливо гнучким, що робить його дуже легким. Захоплююча форма з яскраво вираженим наконечником і стимулюючими борозенками забезпечує додаткову стимуляцію.&lt;br /&gt;
+&lt;br /&gt;
+Повна довжина 16,1 см, глибина вставки 12,7 см, Ø 2,2-3,5 см. Силікон з PU покриттям, ABS.</description_ua>
+            </offer>
         <offer id="42-05969220000" available="true">
                 <erp>42-05969220000</erp>
             <barcode>4024144632206</barcode>
@@ -4157,31 +4163,6 @@ Hummer Munde 2в1 виготовлений з м'якого гіпоалерге
             <description>Вібратор Ira G-Spot — це міні-вібратор із гарним дизайном, який має 10 різних потужних налаштувань вібрації. Вигнутий кінчик дозволяє легко знайти точку G. Виготовлений з м'якого силікону, ним можна керувати за допомогою кнопки. Довжина: 15,см Максимальний діаметр: 3,10</description>
             <name_ua>Вібратор PRETTY LOVE IRA 10 functions Pink</name_ua>
             <description_ua>Вібратор Ira G-Spot — це міні-вібратор із гарним дизайном, який має 10 різних потужних налаштувань вібрації. Вигнутий кінчик дозволяє легко знайти точку G. Виготовлений з м'якого силікону, ним можна керувати за допомогою кнопки. Довжина: 15,см Максимальний діаметр: 3,10</description_ua>
-            </offer>
-        <offer id="BI-210169" available="true">
-                <erp>BI-210169</erp>
-            <barcode>6959532320565</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/27962-erektsiyne_kilytse_z_vibratsiyu_pretty_love_osmond_vibrating</url>
-            <price>532.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>109</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_27962620a4bd8ace55.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_620a4bd442707.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_620a4bd45015d.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_620a4bd45edab.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_620a4bd46cb24.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_620a4bd477358.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_620a4bd4845ad.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_620a4bd48f387.png</picture>
-            <name>Ерекційне кільце з вібрацією Pretty Love osmond Vibrating</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor />
-            <model>Ерекційне кільце з вібрацією Pretty Love osmond Vibrating</model>
-            <description>Потрійнее вібруюче кільце - це гаджет, завдяки якому обидва партнери значно збагатять свій досвід під час зближення. Для чоловіків призначена основна функція кільця. Затискає пеніс, щоб швидко та ефективно покращити якість ерекції. І в цьому випадку у нас є три кільця! Це забезпечує кращу стабілізацію стимулятора, і також привабливе відчуття для чоловіків, завдяки можливості прикриття яєчок подвійним кільцем. Таке розміщення кільця також призводить до більш сильної та ефективнішої еякуляції. Вібраційна куля стимулює клітор. Іграшка виготовлена з безпечного для шкіри та приємного на дотик матеріалу.</description>
-            <name_ua>Ерекційне кільце з вібрацією Pretty Love osmond Vibrating</name_ua>
-            <description_ua>Потрійнее вібруюче кільце - це гаджет, завдяки якому обидва партнери значно збагатять свій досвід під час зближення. Для чоловіків призначена основна функція кільця. Затискає пеніс, щоб швидко та ефективно покращити якість ерекції. І в цьому випадку у нас є три кільця! Це забезпечує кращу стабілізацію стимулятора, і також привабливе відчуття для чоловіків, завдяки можливості прикриття яєчок подвійним кільцем. Таке розміщення кільця також призводить до більш сильної та ефективнішої еякуляції. Вібраційна куля стимулює клітор. Іграшка виготовлена з безпечного для шкіри та приємного на дотик матеріалу.</description_ua>
             </offer>
         <offer id="51-00756" available="true">
                 <erp>51-00756</erp>
@@ -6017,6 +5998,26 @@ Bijoux Indiscrets (Іспанія)</description_ua>
             <description>Наручники Printed Ankle Cuffs Old School Tattoo Style - Black</description>
             <name_ua>Наручники Printed Ankle Cuffs Old School Tattoo Style - Black</name_ua>
             <description_ua>Наручники Printed Ankle Cuffs Old School Tattoo Style - Black</description_ua>
+            </offer>
+        <offer id="37-3622" available="true">
+                <erp>37-3622</erp>
+            <barcode>8435097136226</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30214-ridkiy_vibrator_strong_liuid_vibrator_2_ml_</url>
+            <price>116.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>145</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/37-3622.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63f0ec836b0f0.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63f0ec8388433.png</picture>
+            <name>Рідкий вібратор STRONG LIQUID VIBRATOR 2 ML </name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor />
+            <model>Рідкий вібратор STRONG LIQUID VIBRATOR 2 ML </model>
+            <description>Рідкий вібратор STRONG LIQUID VIBRATOR 2 ML </description>
+            <name_ua>Рідкий вібратор STRONG LIQUID VIBRATOR 2 ML </name_ua>
+            <description_ua>Рідкий вібратор STRONG LIQUID VIBRATOR 2 ML </description_ua>
             </offer>
         <offer id="BM-009022" available="true">
                 <erp>BM-009022</erp>
@@ -8256,35 +8257,6 @@ Desirable Flirt збільшить темп еротичних ігор до м�
             <description>Білизна Frilles S/M</description>
             <name_ua>Білизна Frilles S/M</name_ua>
             <description_ua>Білизна Frilles S/M</description_ua>
-            </offer>
-        <offer id="731-00071" available="true">
-                <erp>731-00071</erp>
-            <barcode>5903268070462</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31340-prolongator_delay_stud_spray</url>
-            <price>343.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>40</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_313376690bad2e54ed.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6690bad0e3cca.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6690bad0f35fc.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6690bad10b32b.jpg</picture>
-            <name>Пролонгатор Delay Stud Spray</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>LOVESTIM</vendor>
-            <model>Пролонгатор Delay Stud Spray</model>
-            <description>Спрей діє практично відразу. Після нанесення ви відчуєте поколювання, це означає, що рідина починає діяти. Шпилька абсолютно безпечна для вашого партнера. Це не затримає її оргазм і не завадить оральній грі. Головне дочекатися, поки рідина вбереться.&lt;br /&gt;
-Ви можете використовувати його з презервативами та різними еротичними гаджетами.&lt;br /&gt;
-Рідина багата активними інгредієнтами, завдання яких - злегка знеболити пеніс.&lt;br /&gt;
-Коли ви наносите рідину на пеніс, він стане червонішим, і ви відчуєте поколювання. Всього через кілька хвилин рідина вбереться і трохи знизить чутливість пеніса до зовнішніх подразників. Поколювання є додатковим захистом від ранньої еякуляції. Його завдання настільки відволікти вас, що вам доведеться спробувати еякулювати.&lt;br /&gt;
-Правильно, коли ви використовуєте спрей STUD 100ml, ви повинні дуже постаратися, щоб еякулювати. Вам доведеться зосередитися, щоб це сталося.</description>
-            <name_ua>Пролонгатор Delay Stud Spray</name_ua>
-            <description_ua>Спрей діє практично відразу. Після нанесення ви відчуєте поколювання, це означає, що рідина починає діяти. Шпилька абсолютно безпечна для вашого партнера. Це не затримає її оргазм і не завадить оральній грі. Головне дочекатися, поки рідина вбереться.&lt;br /&gt;
-Ви можете використовувати його з презервативами та різними еротичними гаджетами.&lt;br /&gt;
-Рідина багата активними інгредієнтами, завдання яких - злегка знеболити пеніс.&lt;br /&gt;
-Коли ви наносите рідину на пеніс, він стане червонішим, і ви відчуєте поколювання. Всього через кілька хвилин рідина вбереться і трохи знизить чутливість пеніса до зовнішніх подразників. Поколювання є додатковим захистом від ранньої еякуляції. Його завдання настільки відволікти вас, що вам доведеться спробувати еякулювати.&lt;br /&gt;
-Правильно, коли ви використовуєте спрей STUD 100ml, ви повинні дуже постаратися, щоб еякулювати. Вам доведеться зосередитися, щоб це сталося.</description_ua>
             </offer>
         <offer id="90-570409" available="true">
                 <erp>90-570409</erp>
@@ -15068,30 +15040,6 @@ Satisfyer Men Classic – це більше, ніж мастурбатор. Це
             <name_ua>Вібратор Cuties Mini Вібратор green</name_ua>
             <description_ua>&lt;p&gt;Симпатичний кишеньковий вібростимулятор в яскравому кольорі та лаконічному дизайні. Головка збільшена та покрита ребристими виступами для більш яскравих відчуттів під час стимуляції. Ідеально підходить для ніжного масажу зони клітора, але також можна використовувати для інтимного масажу інших ерогенних точок. Функціонал іграшки багатий на 7 режимів вібрації, які легко регулюються кнопкою на ергономічному руків'ї. Довжина - 12,5 см, максимальний діаметр - 3 см.&lt;/p&gt;</description_ua>
             </offer>
-        <offer id="42-05954030000" available="true">
-                <erp>42-05954030000</erp>
-            <barcode>4024144608089</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/20340-rechargeable_prostate_stimulat</url>
-            <price>2000.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>148</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-05954030000.jpg</picture>
-            <name>Масажер простати Rechargeable Prostate Stimulat</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>ORION</vendor>
-            <model>Масажер простати Rechargeable Prostate Stimulat</model>
-            <description>Маленька радість для простати!&lt;br /&gt;
-Вібратор передміхурової залози з невеликою головкою і стимулятором промежини. Одночасно стимулює передміхурову залозу та промежину за допомогою 10 режимів інтенсивної вібрації. Наконечник є особливо гнучким, що робить його дуже легким. Захоплююча форма з яскраво вираженим наконечником і стимулюючими борозенками забезпечує додаткову стимуляцію.&lt;br /&gt;
-&lt;br /&gt;
-Повна довжина 16,1 см, глибина вставки 12,7 см, Ø 2,2-3,5 см. Силікон з PU покриттям, ABS.</description>
-            <name_ua>Масажер простати Rechargeable Prostate Stimulat</name_ua>
-            <description_ua>Маленька радість для простати!&lt;br /&gt;
-Вібратор передміхурової залози з невеликою головкою і стимулятором промежини. Одночасно стимулює передміхурову залозу та промежину за допомогою 10 режимів інтенсивної вібрації. Наконечник є особливо гнучким, що робить його дуже легким. Захоплююча форма з яскраво вираженим наконечником і стимулюючими борозенками забезпечує додаткову стимуляцію.&lt;br /&gt;
-&lt;br /&gt;
-Повна довжина 16,1 см, глибина вставки 12,7 см, Ø 2,2-3,5 см. Силікон з PU покриттям, ABS.</description_ua>
-            </offer>
         <offer id="42-05964340000" available="true">
                 <erp>42-05964340000</erp>
             <barcode>4024144609154</barcode>
@@ -15761,6 +15709,24 @@ Satisfyer Men Classic – це більше, ніж мастурбатор. Це
             <description>Масажер простати Rebel Naughty Finger Prostate Цей гнучкий вібратор простати, що нагадує палець, не тільки стимулює точку P і промежину, але також може побалувати точку G та клітор! Вібрації знімної вібропулі приносять хвилююче задоволення. Виготовлений з м'якого приємного силікону і має ергономічну посадку, вібратор також підходить для тривалого анального задоволення під час сексу. Загальна довжина 13,8 см, довжина вставки 10 см, від 1,7 см до 2,5 см. Вібропуля довжиною 8,8 см, Ø 1,8 см. Вага 80г. Силікон, ПУ, АБС. живлення 1 x AAA.</description>
             <name_ua>Масажер простати Rebel Naughty Finger Prostate</name_ua>
             <description_ua>Масажер простати Rebel Naughty Finger Prostate Цей гнучкий вібратор простати, що нагадує палець, не тільки стимулює точку P і промежину, але також може побалувати точку G та клітор! Вібрації знімної вібропулі приносять хвилююче задоволення. Виготовлений з м'якого приємного силікону і має ергономічну посадку, вібратор також підходить для тривалого анального задоволення під час сексу. Загальна довжина 13,8 см, довжина вставки 10 см, від 1,7 см до 2,5 см. Вібропуля довжиною 8,8 см, Ø 1,8 см. Вага 80г. Силікон, ПУ, АБС. живлення 1 x AAA.</description_ua>
+            </offer>
+        <offer id="63-00040" available="true">
+                <erp>63-00040</erp>
+            <barcode>6972775511040</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/27410-masazher_prostati_vibrator__silicone_massager_usb_7_function__pulsator__heating_black</url>
+            <price>2759.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>148</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/63-00040.jpg</picture>
+            <name>Масажер простати Вібратор  Silicone Massager USB 7 Function + Pulsator / Heating BLACK</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Масажер простати Вібратор  Silicone Massager USB 7 Function + Pulsator / Heating BLACK</model>
+            <description>Масажер простати Вібратор  Silicone Massager USB 7 Function + Pulsator / Heating BLACK</description>
+            <name_ua>Масажер простати Вібратор  Silicone Massager USB 7 Function + Pulsator / Heating BLACK</name_ua>
+            <description_ua>Масажер простати Вібратор  Silicone Massager USB 7 Function + Pulsator / Heating BLACK</description_ua>
             </offer>
         <offer id="18-4005508" available="true">
                 <erp>18-4005508</erp>
@@ -19577,6 +19543,52 @@ Bend it Rechargeable пропонує більше автономності, п�
 Вібратор для смоктання клітора має дві функції, забезпечуючи вам відчуття оргазму два в одному. Гнучкий вібратор вражає точку G з 12 різними частотами вібрації. Кліторальний стимулятор також має 4 різні налаштування всмоктування, щоб наблизити вас до оргазму.&lt;br /&gt;
 Його всмоктуюча головка обіймає ваш клітор, а стимулятор точки G у вашому тілі водночас залишає вас задоволеними. Відчуйте їх разом, щоб досягти найвищого оргазму. USB-кабель, що входить у комплект, гарантує, що вібратор забезпечує максимальне задоволення в будь-який час.</description_ua>
             </offer>
+        <offer id="BW-022099Z" available="true">
+                <erp>BW-022099Z</erp>
+            <barcode>6959532360769</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31624-strapon_z_vibro_harness_briefs_marion_universal_strap_on_harness_dildo_74</url>
+            <price>797.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>55</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3162166edb86528a39.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edb861642d5.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edb861a3706.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edb861e2668.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edb862269c1.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edb862693c0.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edb862a51bc.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edb862e2680.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edb86338f41.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edb8637711d.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edb863b1daa.gif</picture>
+            <name>Страпон з вібро HARNESS BRIEFS Marion, Universal Strap-On Harness, Dildo 7.4''</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Страпон з вібро HARNESS BRIEFS Marion, Universal Strap-On Harness, Dildo 7.4''</model>
+            <description>Візьміть під свій контроль і порадуйте свого партнера в ліжку за допомогою вібраційного фалоімітатора кролика з ременем від PRETTY LOVE!&lt;br /&gt;
+Ключові особливості:&lt;br /&gt;
+Регульовані нейлонові ремені: полегшує надягання та регулювання ремня на талії для ідеальної посадки.&lt;br /&gt;
+М'яка внутрішня підкладка: забезпечує комфорт шкіри під час носіння.&lt;br /&gt;
+Фалічна голова: створює відчуття задоволення під час вставлення.&lt;br /&gt;
+Текстура з прожилками: масажує внутрішні стінки для інтенсивного відчуття.&lt;br /&gt;
+Провідний пульт дистанційного керування: дозволяє активувати режими вібрації для подвійної стимуляції.&lt;br /&gt;
+Гнучкий матеріал TPE: приємний желеподібний для реалістичного враження.&lt;br /&gt;
+Водонепроникний дизайн: полегшує очищення після гри та дозволяє використовувати в різних умовах.&lt;br /&gt;
+Насолоджуйтесь напруженими моментами та подаруйте собі та своєму партнеру унікальні враження завдяки вібраційному страпону з функцією зайчика!</description>
+            <name_ua>Страпон з вібро HARNESS BRIEFS Marion, Universal Strap-On Harness, Dildo 7.4''</name_ua>
+            <description_ua>Візьміть під свій контроль і порадуйте свого партнера в ліжку за допомогою вібраційного фалоімітатора кролика з ременем від PRETTY LOVE!&lt;br /&gt;
+Ключові особливості:&lt;br /&gt;
+Регульовані нейлонові ремені: полегшує надягання та регулювання ремня на талії для ідеальної посадки.&lt;br /&gt;
+М'яка внутрішня підкладка: забезпечує комфорт шкіри під час носіння.&lt;br /&gt;
+Фалічна голова: створює відчуття задоволення під час вставлення.&lt;br /&gt;
+Текстура з прожилками: масажує внутрішні стінки для інтенсивного відчуття.&lt;br /&gt;
+Провідний пульт дистанційного керування: дозволяє активувати режими вібрації для подвійної стимуляції.&lt;br /&gt;
+Гнучкий матеріал TPE: приємний желеподібний для реалістичного враження.&lt;br /&gt;
+Водонепроникний дизайн: полегшує очищення після гри та дозволяє використовувати в різних умовах.&lt;br /&gt;
+Насолоджуйтесь напруженими моментами та подаруйте собі та своєму партнеру унікальні враження завдяки вібраційному страпону з функцією зайчика!</description_ua>
+            </offer>
         <offer id="BW-500041" available="true">
                 <erp>BW-500041</erp>
             <barcode>6959532336986</barcode>
@@ -20057,6 +20069,24 @@ Hare характеризується неймовірно потужними в
 Його неймовірні розміри порадують вас. Міцна основа присоски дозволяє прикріпити його до будь-якої рівної гладкої поверхні для веселої їзди без рук! Завдяки своєму естетичному дизайну, схожому на мотузку, цей м’язовий хлопчик точно вразить вас.&lt;br /&gt;
 Виготовлений із надм’якого двошарового силікону, вам сподобається природне відчуття на вашому тілі, неймовірно реалістична м’якість і міцна внутрішня частина, яка відчуває себе як справжня ерекція. У той час як його округла, реалістична головка та стрижень із прожилками піклуються про внутрішні справи, підстава з присоскою робить його ідеальним для гри без рук, з ременем або без нього.Загальна довжина 24,5 см&lt;br /&gt;
 Зовнішній діаметр 7,7 см</description_ua>
+            </offer>
+        <offer id="93-ES25594" available="true">
+                <erp>93-ES25594</erp>
+            <barcode>6427885013453</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31795-nashiynik_z_metalevim_kilytsem_bdsm_collar_with_large_metal_ring_o</url>
+            <price>474.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>95</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3179267584e0b59877.jpg</picture>
+            <name>Нашийник з металевим кільцем BDSM Collar with Large Metal Ring O</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor />
+            <model>Нашийник з металевим кільцем BDSM Collar with Large Metal Ring O</model>
+            <description>Нашийник з металевим кільцем BDSM Collar with Large Metal Ring O</description>
+            <name_ua>Нашийник з металевим кільцем BDSM Collar with Large Metal Ring O</name_ua>
+            <description_ua>Нашийник з металевим кільцем BDSM Collar with Large Metal Ring O</description_ua>
             </offer>
         <offer id="49-1232" available="true">
                 <erp>49-1232</erp>
@@ -24421,24 +24451,6 @@ Ultra Female Harness Strap-On - це універсальний продукт, 
             <name_ua>Вібромасажер Sweet Treat (Black/Gold)</name_ua>
             <description_ua>Мабуть, найсолодший з усіх стимуляторів клітора, Satisfyer Sweet Treat схожий на лід у рогу і має багато переваг: поворотні крила приведуть вас до небувалого, надзвичайно солодкого оргазму, стимулюючи ваш клітор. Приємно м’який силікон, зручний для шкіри, обіймає вашу оболонку і з великою відданістю дбає про ваше сексуальне задоволення, де б ви не були. Апетитна пластинка приємно лежить у вашій руці - за допомогою кнопок +/- ви можете комфортно керувати 10 захоплюючими рівнями вібрації, що складаються з 4 ритмів обертання та 3 швидкостей праворуч і ліворуч. Ширина: 56 мм Довжина: 104 мм Колір: рожевий / коричневий Підходить для: жінок Стимуляція: Кліторальна Водонепроникна: Так Акумулятор: Акумуляторна Матеріал: силікон, пластик ABS</description_ua>
             </offer>
-        <offer id="63-00040" available="true">
-                <erp>63-00040</erp>
-            <barcode>6972775511040</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/27410-masazher_prostati_vibrator__silicone_massager_usb_7_function__pulsator__heating_black</url>
-            <price>2759.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>148</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/63-00040.jpg</picture>
-            <name>Масажер простати Вібратор  Silicone Massager USB 7 Function + Pulsator / Heating BLACK</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Масажер простати Вібратор  Silicone Massager USB 7 Function + Pulsator / Heating BLACK</model>
-            <description>Масажер простати Вібратор  Silicone Massager USB 7 Function + Pulsator / Heating BLACK</description>
-            <name_ua>Масажер простати Вібратор  Silicone Massager USB 7 Function + Pulsator / Heating BLACK</name_ua>
-            <description_ua>Масажер простати Вібратор  Silicone Massager USB 7 Function + Pulsator / Heating BLACK</description_ua>
-            </offer>
         <offer id="18-4005799" available="true">
                 <erp>18-4005799</erp>
             <barcode>4061504005799</barcode>
@@ -26870,6 +26882,32 @@ USB-кабель в комплекті&lt;br /&gt;
             <name_ua>Прозорий мастурбатор вагіна PRETTY LOVE VACUUM CUP MASTURBATOR Stellar ABS TPR</name_ua>
             <description_ua>Насолоджуйтеся глибоким і задовольняючим задоволенням з цим мастурбатором. Ця фантастична чоловіча іграшка подарує вам відчуття набагато більше, ніж зазвичай. Ультрареалістичні точки входу та ребристі внутрішні рукави забезпечують ідеальний досвід проникнення, тоді як кульковий дизайн забезпечує максимальне відчуття. Насолоджуйтесь текстурованим внутрішнім каналом, доки не досягнете інтенсивного оргазмічного екстазу.</description_ua>
             </offer>
+        <offer id="BW-008120NY-1" available="true">
+                <erp>BW-008120NY-1</erp>
+            <barcode>6959532360356</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31229-faloimitator_pretty_love_romantic_rendezvous_luminous_suction_base</url>
+            <price>767.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>23</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3122666459dff79b25.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66459dfcd0ab5.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66459dfd33766.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66459dfd6e9b9.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66459dfda0d78.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66459dfdd2010.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66459dfe047b9.jpg</picture>
+            <name>Фалоімітатор PRETTY LOVE Romantic Rendezvous, Luminous Suction base</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Фалоімітатор PRETTY LOVE Romantic Rendezvous, Luminous Suction base</model>
+            <description>Цей фалоімітатор, що світиться, має кілька маленьких сяючих внутрішніх серцевин у формі кролика, які заряджаються на світлі для додаткової розваги та задоволення в темряві! Його реалістична велика ручка виготовлена з високоякісного силікону, безпечного для тіла. Він легко надягається, легко ковзає та ідеально адаптується до вашого тіла та рухів. Завдяки міцній присосці він міцно та надійно приклеюється до будь-якої гладкої поверхні для насолоди без використання рук. Завдяки присосці фалоімітатор також сумісний з ремінцями та джгутами!&lt;br /&gt;
+Миттєво очистіть улюбленим засобом для чищення іграшок і промийте теплою водою.</description>
+            <name_ua>Фалоімітатор PRETTY LOVE Romantic Rendezvous, Luminous Suction base</name_ua>
+            <description_ua>Цей фалоімітатор, що світиться, має кілька маленьких сяючих внутрішніх серцевин у формі кролика, які заряджаються на світлі для додаткової розваги та задоволення в темряві! Його реалістична велика ручка виготовлена з високоякісного силікону, безпечного для тіла. Він легко надягається, легко ковзає та ідеально адаптується до вашого тіла та рухів. Завдяки міцній присосці він міцно та надійно приклеюється до будь-якої гладкої поверхні для насолоди без використання рук. Завдяки присосці фалоімітатор також сумісний з ремінцями та джгутами!&lt;br /&gt;
+Миттєво очистіть улюбленим засобом для чищення іграшок і промийте теплою водою.</description_ua>
+            </offer>
         <offer id="BW-022035" available="true">
                 <erp>BW-022035</erp>
             <barcode>6959532307412</barcode>
@@ -27918,52 +27956,6 @@ G для Goddess 1: Водонепроникний (IPX7) кролячий ві�
             <name_ua>Ерекційне кільцеPRETTY LOVE Master rin, 12 licking settings</name_ua>
             <description_ua>Ерекційне кільцеPRETTY LOVE Master rin, 12 licking settings</description_ua>
             </offer>
-        <offer id="BW-022099Z" available="true">
-                <erp>BW-022099Z</erp>
-            <barcode>6959532360769</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31624-strapon_z_vibro_harness_briefs_marion_universal_strap_on_harness_dildo_74</url>
-            <price>797.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>55</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3162166edb86528a39.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edb861642d5.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edb861a3706.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edb861e2668.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edb862269c1.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edb862693c0.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edb862a51bc.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edb862e2680.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edb86338f41.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edb8637711d.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edb863b1daa.gif</picture>
-            <name>Страпон з вібро HARNESS BRIEFS Marion, Universal Strap-On Harness, Dildo 7.4''</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Страпон з вібро HARNESS BRIEFS Marion, Universal Strap-On Harness, Dildo 7.4''</model>
-            <description>Візьміть під свій контроль і порадуйте свого партнера в ліжку за допомогою вібраційного фалоімітатора кролика з ременем від PRETTY LOVE!&lt;br /&gt;
-Ключові особливості:&lt;br /&gt;
-Регульовані нейлонові ремені: полегшує надягання та регулювання ремня на талії для ідеальної посадки.&lt;br /&gt;
-М'яка внутрішня підкладка: забезпечує комфорт шкіри під час носіння.&lt;br /&gt;
-Фалічна голова: створює відчуття задоволення під час вставлення.&lt;br /&gt;
-Текстура з прожилками: масажує внутрішні стінки для інтенсивного відчуття.&lt;br /&gt;
-Провідний пульт дистанційного керування: дозволяє активувати режими вібрації для подвійної стимуляції.&lt;br /&gt;
-Гнучкий матеріал TPE: приємний желеподібний для реалістичного враження.&lt;br /&gt;
-Водонепроникний дизайн: полегшує очищення після гри та дозволяє використовувати в різних умовах.&lt;br /&gt;
-Насолоджуйтесь напруженими моментами та подаруйте собі та своєму партнеру унікальні враження завдяки вібраційному страпону з функцією зайчика!</description>
-            <name_ua>Страпон з вібро HARNESS BRIEFS Marion, Universal Strap-On Harness, Dildo 7.4''</name_ua>
-            <description_ua>Візьміть під свій контроль і порадуйте свого партнера в ліжку за допомогою вібраційного фалоімітатора кролика з ременем від PRETTY LOVE!&lt;br /&gt;
-Ключові особливості:&lt;br /&gt;
-Регульовані нейлонові ремені: полегшує надягання та регулювання ремня на талії для ідеальної посадки.&lt;br /&gt;
-М'яка внутрішня підкладка: забезпечує комфорт шкіри під час носіння.&lt;br /&gt;
-Фалічна голова: створює відчуття задоволення під час вставлення.&lt;br /&gt;
-Текстура з прожилками: масажує внутрішні стінки для інтенсивного відчуття.&lt;br /&gt;
-Провідний пульт дистанційного керування: дозволяє активувати режими вібрації для подвійної стимуляції.&lt;br /&gt;
-Гнучкий матеріал TPE: приємний желеподібний для реалістичного враження.&lt;br /&gt;
-Водонепроникний дизайн: полегшує очищення після гри та дозволяє використовувати в різних умовах.&lt;br /&gt;
-Насолоджуйтесь напруженими моментами та подаруйте собі та своєму партнеру унікальні враження завдяки вібраційному страпону з функцією зайчика!</description_ua>
-            </offer>
         <offer id="BW-500036-2" available="true">
                 <erp>BW-500036-2</erp>
             <barcode>6959532336979</barcode>
@@ -28540,24 +28532,6 @@ Wyprodukowano w Hiszpanii</description_ua>
 Просто експериментуйте з нею, знаходячи найкращі позиції, і розгойдуйте її вперед і назад, щоб отримати максимальне задоволення.&lt;br /&gt;
 Дуже легко чистити, ви можете промити канал прямо під проточною водою і витерти насухо.&lt;br /&gt;
 Використовуйте багато мастила, щоб полегшити вхід. Перший раз вона може здатися занадто тісною, еластичність підвищиться після декількох застосувань.</description_ua>
-            </offer>
-        <offer id="93-ES25594" available="true">
-                <erp>93-ES25594</erp>
-            <barcode>6427885013453</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31795-nashiynik_z_metalevim_kilytsem_bdsm_collar_with_large_metal_ring_o</url>
-            <price>474.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>95</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3179267584e0b59877.jpg</picture>
-            <name>Нашийник з металевим кільцем BDSM Collar with Large Metal Ring O</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor />
-            <model>Нашийник з металевим кільцем BDSM Collar with Large Metal Ring O</model>
-            <description>Нашийник з металевим кільцем BDSM Collar with Large Metal Ring O</description>
-            <name_ua>Нашийник з металевим кільцем BDSM Collar with Large Metal Ring O</name_ua>
-            <description_ua>Нашийник з металевим кільцем BDSM Collar with Large Metal Ring O</description_ua>
             </offer>
         <offer id="39-70002" available="true">
                 <erp>39-70002</erp>
@@ -29496,6 +29470,46 @@ IPX6 водонепроникний&lt;br /&gt;
             <name_ua>Анальна іграшка з вібро Kylin purple (with remote)</name_ua>
             <description_ua>Потужна знімна віброкуля з 9 функціями. Широка кругла основа для безпеки та комфорту. Конічний наконечник для легкого введення. Градуйовані зморшки покращують відчуття. Водонепроникний для ігор у ванній і душі, а також легке чищення.&lt;br /&gt;
 З пультом!Загальна довжина 114 мм Зовнішній діаметр 60 мм</description_ua>
+            </offer>
+        <offer id="69-17533" available="true">
+                <erp>69-17533</erp>
+            <barcode>5600742917533</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32063-zbudzhuyuchiy_gely_orgie_lube_tube_vibe___medium_pina_colada_100ml</url>
+            <price>667.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>46</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3205967fc17b924d58.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67fc17b7e60fe.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67fc17b8068a7.jpeg</picture>
+            <name>Збуджуючий гель ORGIE Lube Tube Vibe! - Medium Pina Colada 100ml</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor>ORGIE COSMETICS</vendor>
+            <model>Збуджуючий гель ORGIE Lube Tube Vibe! - Medium Pina Colada 100ml</model>
+            <description>Відкрийте для себе чуттєву насолоду з водянистим їстівним інтимним гелем з екзотичним смаком Піна Колада. Цей унікальний лубрикант забезпечує тривале ковзання та шовковисту нежирну текстуру, підвищуючи комфорт і посилюючи задоволення.&lt;br /&gt;
+Завдяки стимулюючому ефекту поколювання та ніжній вібрації (рівень 2) гель створює нові відчуття, ідеальні для масажу, прелюдії та інтимних моментів.&lt;br /&gt;
+Смак і запах Піна Колади – екзотичне задоволення від кожної миті близькості&lt;br /&gt;
+Ефект поколювання та ніжна вібрація – підсилює відчуття (рівень 2)&lt;br /&gt;
+Довготривала формула – забезпечує тривале задоволення та комфорт&lt;br /&gt;
+Нежирна, шовковиста консистенція - легко розподіляється і не залишає липкого шару&lt;br /&gt;
+Безпечний для шкіри та слизових оболонок – формула на водній основі, сумісна з презервативами та аксесуарами&lt;br /&gt;
+Чуттєвий досвід завдяки унікальній формулі&lt;br /&gt;
+Їстівний і ароматний - ідеальний для масажу і прелюдії&lt;br /&gt;
+Не містить масел і силіконів - легко змивається, не залишає плям&lt;br /&gt;
+Підходить для використання з презервативами та інтимними іграшками</description>
+            <name_ua>Збуджуючий гель ORGIE Lube Tube Vibe! - Medium Pina Colada 100ml</name_ua>
+            <description_ua>Відкрийте для себе чуттєву насолоду з водянистим їстівним інтимним гелем з екзотичним смаком Піна Колада. Цей унікальний лубрикант забезпечує тривале ковзання та шовковисту нежирну текстуру, підвищуючи комфорт і посилюючи задоволення.&lt;br /&gt;
+Завдяки стимулюючому ефекту поколювання та ніжній вібрації (рівень 2) гель створює нові відчуття, ідеальні для масажу, прелюдії та інтимних моментів.&lt;br /&gt;
+Смак і запах Піна Колади – екзотичне задоволення від кожної миті близькості&lt;br /&gt;
+Ефект поколювання та ніжна вібрація – підсилює відчуття (рівень 2)&lt;br /&gt;
+Довготривала формула – забезпечує тривале задоволення та комфорт&lt;br /&gt;
+Нежирна, шовковиста консистенція - легко розподіляється і не залишає липкого шару&lt;br /&gt;
+Безпечний для шкіри та слизових оболонок – формула на водній основі, сумісна з презервативами та аксесуарами&lt;br /&gt;
+Чуттєвий досвід завдяки унікальній формулі&lt;br /&gt;
+Їстівний і ароматний - ідеальний для масажу і прелюдії&lt;br /&gt;
+Не містить масел і силіконів - легко змивається, не залишає плям&lt;br /&gt;
+Підходить для використання з презервативами та інтимними іграшками</description_ua>
             </offer>
         <offer id="80-6040263" available="true">
                 <erp>80-6040263</erp>
@@ -31562,6 +31576,24 @@ AQUAglide Raspberry - це ідеальний вибір для тих, хто �
             <name_ua>Вібратор Realistixxxx Vibr.l</name_ua>
             <description_ua>Вібратор Realistixxxx Vibr.l</description_ua>
             </offer>
+        <offer id="914-00074" available="true">
+                <erp>914-00074</erp>
+            <barcode>5904906040076</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/13733-feromony_she_win_10ml_roll_on_dz</url>
+            <price>382.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>80</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/914-00074.jpg</picture>
+            <name>Парфуми SHE WIN 10ml roll-on DZ</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>AURORA</vendor>
+            <model>Парфуми SHE WIN 10ml roll-on DZ</model>
+            <description>Парфуми SHE WIN 10ml roll-on DZ</description>
+            <name_ua>Парфуми SHE WIN 10ml roll-on DZ</name_ua>
+            <description_ua>Парфуми SHE WIN 10ml roll-on DZ</description_ua>
+            </offer>
         <offer id="BI-014173-2" available="true">
                 <erp>BI-014173-2</erp>
             <barcode>6959532317176</barcode>
@@ -31952,6 +31984,24 @@ AQUAglide Raspberry - це ідеальний вибір для тих, хто �
             <description>Парфуми Smell Like 01 30ml.WOMEN</description>
             <name_ua>Парфуми Smell Like 01 30ml.WOMEN</name_ua>
             <description_ua>Парфуми Smell Like 01 30ml.WOMEN</description_ua>
+            </offer>
+        <offer id="33-00107" available="true">
+                <erp>33-00107</erp>
+            <barcode>5903661803667</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/16045-fetish_boss_series_leash</url>
+            <price>389.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>95</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/33-00107.jpg</picture>
+            <name>Повідець Fetish Boss Series Leash</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>FETISH BOSS SERIES</vendor>
+            <model>Повідець Fetish Boss Series Leash</model>
+            <description>Повідець Fetish Boss Series Leash</description>
+            <name_ua>Повідець Fetish Boss Series Leash</name_ua>
+            <description_ua>Повідець Fetish Boss Series Leash</description_ua>
             </offer>
         <offer id="68-PL0001" available="true">
                 <erp>68-PL0001</erp>
@@ -32726,6 +32776,24 @@ Magoon - гарантія приємних і захоплюючих момен�
             <description_ua>Гнучка насадка на пеніс, котра подовжує та має віброелемент. Має рельєфну текстуру , стимулятор клітора та анальний стимулятор. Довжина 13 см, діаметр 3,5см .&lt;br /&gt;
 </description_ua>
             </offer>
+        <offer id="BM-009199ZK" available="true">
+                <erp>BM-009199ZK</erp>
+            <barcode>6959532330137</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/24492-crazy_bull_vibrating_vagina_masturbator</url>
+            <price>837.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>52</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/BM-009199ZK.jpg</picture>
+            <name>Мастурбатор CRAZY BULL Vibrating Vagina Masturbator</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor />
+            <model>Мастурбатор CRAZY BULL Vibrating Vagina Masturbator</model>
+            <description>Мастурбатор CRAZY BULL Vibrating Vagina Masturbator</description>
+            <name_ua>Мастурбатор CRAZY BULL Vibrating Vagina Masturbator</name_ua>
+            <description_ua>Мастурбатор CRAZY BULL Vibrating Vagina Masturbator</description_ua>
+            </offer>
         <offer id="BM-009131Z-1" available="true">
                 <erp>BM-009131Z-1</erp>
             <barcode>6959532319569</barcode>
@@ -32930,6 +32998,24 @@ Magoon - гарантія приємних і захоплюючих момен�
             <description>Його зовнішній вигляд та ультрареалістичні детальні текстури ручної роботи ідеально відтворюють справжній пеніс. Його неймовірно сильні та різноманітні вібрації у 12 варіаціях забезпечують надзвичайне задоволення. Вібраційний фалоімітатор ідеально підходить для сольної гри і так само чудово підходить для прелюдії. Використовуваний матеріал дійсно представляє революцію в реалізмі, спеціальна суміш чудово імітує натуральну шкіру. Надзвичайно міцна присоска прилипає практично до будь-якої гладкої, плоскої поверхні. Регульований кут установки допоможе вибрати ідеальне положення. Насолоджуйтесь насолодою та керуйте іграшкою за допомогою дротового пульта дистанційного керування.</description>
             <name_ua>Вібратор  Mr. Perfect Vibration 12 functions</name_ua>
             <description_ua>Його зовнішній вигляд та ультрареалістичні детальні текстури ручної роботи ідеально відтворюють справжній пеніс. Його неймовірно сильні та різноманітні вібрації у 12 варіаціях забезпечують надзвичайне задоволення. Вібраційний фалоімітатор ідеально підходить для сольної гри і так само чудово підходить для прелюдії. Використовуваний матеріал дійсно представляє революцію в реалізмі, спеціальна суміш чудово імітує натуральну шкіру. Надзвичайно міцна присоска прилипає практично до будь-якої гладкої, плоскої поверхні. Регульований кут установки допоможе вибрати ідеальне положення. Насолоджуйтесь насолодою та керуйте іграшкою за допомогою дротового пульта дистанційного керування.</description_ua>
+            </offer>
+        <offer id="4-60121" available="true">
+                <erp>4-60121</erp>
+            <barcode>8433345601212</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/25115-liuid_vibrator__strawberry_10_ml</url>
+            <price>310.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>145</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/4-60121.jpg</picture>
+            <name>Рідкий вібратор Liquid Вібратор Strawberry 10 ml</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>CNEX</vendor>
+            <model>Рідкий вібратор Liquid Вібратор Strawberry 10 ml</model>
+            <description>Рідкий вібратор Liquid Вібратор Strawberry 10 ml</description>
+            <name_ua>Рідкий вібратор Liquid Вібратор Strawberry 10 ml</name_ua>
+            <description_ua>Рідкий вібратор Liquid Вібратор Strawberry 10 ml</description_ua>
             </offer>
         <offer id="21-00026" available="true">
                 <erp>21-00026</erp>
@@ -35110,32 +35196,6 @@ Blow Cox Masturbator Pleasure Pocket-White - це не тільки інстру
             <name_ua>Прозорий мастурбатор вагіна PRETTY LOVE VACUUM CUP MASTURBATOR Planet ABS TPR</name_ua>
             <description_ua>Насолоджуйтеся глибоким і задовольняючим задоволенням з цим мастурбатором. Ця фантастична чоловіча іграшка подарує вам відчуття набагато більше, ніж зазвичай. Ультрареалістичні точки входу та ребристі внутрішні рукави забезпечують ідеальний досвід проникнення, тоді як кульковий дизайн забезпечує максимальне відчуття. Насолоджуйтесь текстурованим внутрішнім каналом, доки не досягнете інтенсивного оргазмічного екстазу.</description_ua>
             </offer>
-        <offer id="BW-008120NY-1" available="true">
-                <erp>BW-008120NY-1</erp>
-            <barcode>6959532360356</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31229-faloimitator_pretty_love_romantic_rendezvous_luminous_suction_base</url>
-            <price>767.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>23</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3122666459dff79b25.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66459dfcd0ab5.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66459dfd33766.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66459dfd6e9b9.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66459dfda0d78.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66459dfdd2010.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66459dfe047b9.jpg</picture>
-            <name>Фалоімітатор PRETTY LOVE Romantic Rendezvous, Luminous Suction base</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Фалоімітатор PRETTY LOVE Romantic Rendezvous, Luminous Suction base</model>
-            <description>Цей фалоімітатор, що світиться, має кілька маленьких сяючих внутрішніх серцевин у формі кролика, які заряджаються на світлі для додаткової розваги та задоволення в темряві! Його реалістична велика ручка виготовлена з високоякісного силікону, безпечного для тіла. Він легко надягається, легко ковзає та ідеально адаптується до вашого тіла та рухів. Завдяки міцній присосці він міцно та надійно приклеюється до будь-якої гладкої поверхні для насолоди без використання рук. Завдяки присосці фалоімітатор також сумісний з ремінцями та джгутами!&lt;br /&gt;
-Миттєво очистіть улюбленим засобом для чищення іграшок і промийте теплою водою.</description>
-            <name_ua>Фалоімітатор PRETTY LOVE Romantic Rendezvous, Luminous Suction base</name_ua>
-            <description_ua>Цей фалоімітатор, що світиться, має кілька маленьких сяючих внутрішніх серцевин у формі кролика, які заряджаються на світлі для додаткової розваги та задоволення в темряві! Його реалістична велика ручка виготовлена з високоякісного силікону, безпечного для тіла. Він легко надягається, легко ковзає та ідеально адаптується до вашого тіла та рухів. Завдяки міцній присосці він міцно та надійно приклеюється до будь-якої гладкої поверхні для насолоди без використання рук. Завдяки присосці фалоімітатор також сумісний з ремінцями та джгутами!&lt;br /&gt;
-Миттєво очистіть улюбленим засобом для чищення іграшок і промийте теплою водою.</description_ua>
-            </offer>
         <offer id="16-25062" available="true">
                 <erp>16-25062</erp>
             <barcode />
@@ -35245,6 +35305,34 @@ Blow Cox Masturbator Pleasure Pocket-White - це не тільки інстру
             <description>Підготуйтеся до безпечного та чистого анального сексу та насолоджуйтесь ним за допомогою нашого анального душу. Насадку, розроблену таким чином, щоб ви вибирали глибину та відчуття свого спринцювання, можна зручно вставляти, а щедра груша містить достатню кількість води для ефективного очищення. Анальний душ з насадкою (довжина 7,5 см, 0,9 см). М'який м'яч насос наповнюється водою (ємність 224 мл) і починається веселощі!</description>
             <name_ua>Інтимний душ MR PLAY -ANAL DOUCHE BLKC (224 ml)</name_ua>
             <description_ua>Підготуйтеся до безпечного та чистого анального сексу та насолоджуйтесь ним за допомогою нашого анального душу. Насадку, розроблену таким чином, щоб ви вибирали глибину та відчуття свого спринцювання, можна зручно вставляти, а щедра груша містить достатню кількість води для ефективного очищення. Анальний душ з насадкою (довжина 7,5 см, 0,9 см). М'який м'яч насос наповнюється водою (ємність 224 мл) і починається веселощі!</description_ua>
+            </offer>
+        <offer id="96-035000" available="true">
+                <erp>96-035000</erp>
+            <barcode>2901000035000</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31429-vakuumniy_vibrator_leaf</url>
+            <price>2569.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>27</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3142666c79d1a60fa8.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66c79cf2d114e.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66c79cf2f2278.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66c79cf32a883.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66c79cf35cda0.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66c79cf38ec83.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66c79cf3bc3c6.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66c79d16e4376.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66c79d17a0a64.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66c79d18577c2.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66c79d1918b11.jpg</picture>
+            <name>Вакуумний вібратор Leaf</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>Caress</vendor>
+            <model>Вакуумний вібратор Leaf</model>
+            <description>Вакуумний вібратор Leaf</description>
+            <name_ua>Вакуумний вібратор Leaf</name_ua>
+            <description_ua>Вакуумний вібратор Leaf</description_ua>
             </offer>
         <offer id="22-00043" available="true">
                 <erp>22-00043</erp>
@@ -36269,46 +36357,6 @@ Apple Secret - це секрет, який варто завжди мати пі
 Приємний на дотик, як шовк - саме такими властивостями володіє медичний силікон, з якого створено це чудо насолоди.&lt;br /&gt;
 Зарядка відбувається через USB кабель. Загальна довжина 21,9 см</description_ua>
             </offer>
-        <offer id="69-17533" available="true">
-                <erp>69-17533</erp>
-            <barcode>5600742917533</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32063-zbudzhuyuchiy_gely_orgie_lube_tube_vibe___medium_pina_colada_100ml</url>
-            <price>667.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3205967fc17b924d58.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67fc17b7e60fe.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67fc17b8068a7.jpeg</picture>
-            <name>Збуджуючий гель ORGIE Lube Tube Vibe! - Medium Pina Colada 100ml</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>ORGIE COSMETICS</vendor>
-            <model>Збуджуючий гель ORGIE Lube Tube Vibe! - Medium Pina Colada 100ml</model>
-            <description>Відкрийте для себе чуттєву насолоду з водянистим їстівним інтимним гелем з екзотичним смаком Піна Колада. Цей унікальний лубрикант забезпечує тривале ковзання та шовковисту нежирну текстуру, підвищуючи комфорт і посилюючи задоволення.&lt;br /&gt;
-Завдяки стимулюючому ефекту поколювання та ніжній вібрації (рівень 2) гель створює нові відчуття, ідеальні для масажу, прелюдії та інтимних моментів.&lt;br /&gt;
-Смак і запах Піна Колади – екзотичне задоволення від кожної миті близькості&lt;br /&gt;
-Ефект поколювання та ніжна вібрація – підсилює відчуття (рівень 2)&lt;br /&gt;
-Довготривала формула – забезпечує тривале задоволення та комфорт&lt;br /&gt;
-Нежирна, шовковиста консистенція - легко розподіляється і не залишає липкого шару&lt;br /&gt;
-Безпечний для шкіри та слизових оболонок – формула на водній основі, сумісна з презервативами та аксесуарами&lt;br /&gt;
-Чуттєвий досвід завдяки унікальній формулі&lt;br /&gt;
-Їстівний і ароматний - ідеальний для масажу і прелюдії&lt;br /&gt;
-Не містить масел і силіконів - легко змивається, не залишає плям&lt;br /&gt;
-Підходить для використання з презервативами та інтимними іграшками</description>
-            <name_ua>Збуджуючий гель ORGIE Lube Tube Vibe! - Medium Pina Colada 100ml</name_ua>
-            <description_ua>Відкрийте для себе чуттєву насолоду з водянистим їстівним інтимним гелем з екзотичним смаком Піна Колада. Цей унікальний лубрикант забезпечує тривале ковзання та шовковисту нежирну текстуру, підвищуючи комфорт і посилюючи задоволення.&lt;br /&gt;
-Завдяки стимулюючому ефекту поколювання та ніжній вібрації (рівень 2) гель створює нові відчуття, ідеальні для масажу, прелюдії та інтимних моментів.&lt;br /&gt;
-Смак і запах Піна Колади – екзотичне задоволення від кожної миті близькості&lt;br /&gt;
-Ефект поколювання та ніжна вібрація – підсилює відчуття (рівень 2)&lt;br /&gt;
-Довготривала формула – забезпечує тривале задоволення та комфорт&lt;br /&gt;
-Нежирна, шовковиста консистенція - легко розподіляється і не залишає липкого шару&lt;br /&gt;
-Безпечний для шкіри та слизових оболонок – формула на водній основі, сумісна з презервативами та аксесуарами&lt;br /&gt;
-Чуттєвий досвід завдяки унікальній формулі&lt;br /&gt;
-Їстівний і ароматний - ідеальний для масажу і прелюдії&lt;br /&gt;
-Не містить масел і силіконів - легко змивається, не залишає плям&lt;br /&gt;
-Підходить для використання з презервативами та інтимними іграшками</description_ua>
-            </offer>
         <offer id="80-6040621" available="true">
                 <erp>80-6040621</erp>
             <barcode>3700436040621</barcode>
@@ -36347,6 +36395,28 @@ Apple Secret - це секрет, який варто завжди мати пі
 Дерматологічно перевірено&lt;br /&gt;
 ГЛІЦЕРИН, ПРОПІЛЕНГЛІКОЛЬ, АРОМАТ, САХАРИН НАТРІЮ, ЛИМОНЕН.&lt;br /&gt;
 Списки інгредієнтів регулярно оновлюються. Перед використанням прочитайте інформацію на упаковці.</description_ua>
+            </offer>
+        <offer id="20-KP07" available="true">
+                <erp>20-KP07</erp>
+            <barcode>8716718083625</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32082-trubochki_v_viglyadi_penisa_penis_drinking_straws_10_pcs</url>
+            <price>420.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>98</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3207868359287a4b3d.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6835928653eab.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6835928665f2d.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6835928671703.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_683592867d8b7.jpeg</picture>
+            <name>Трубочки в вигляді пеніса Penis Drinking Straws 10 pcs</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>POWER ESCORTS</vendor>
+            <model>Трубочки в вигляді пеніса Penis Drinking Straws 10 pcs</model>
+            <description>Трубочки в вигляді пеніса Penis Drinking Straws 10 pcs</description>
+            <name_ua>Трубочки в вигляді пеніса Penis Drinking Straws 10 pcs</name_ua>
+            <description_ua>Трубочки в вигляді пеніса Penis Drinking Straws 10 pcs</description_ua>
             </offer>
         <offer id="36-SLI172FLE" available="true">
                 <erp>36-SLI172FLE</erp>
@@ -37752,6 +37822,24 @@ Zyra – ідеальний вибір для жінок, які шукають 
             <name_ua>Насадка Super Dick Sleeve</name_ua>
             <description_ua>Насадка на пеніс виготовлена з приємного на дотик матеріалу. Забезпечить довгу і потужну ерекцію. Насадка гнучка і підійде до будь-якого розміру. Розміри: Довжина: 16 см, діаметр: 2 см (еластичний) Колір: Молочний Матеріал: TPR</description_ua>
             </offer>
+        <offer id="26-00076" available="true">
+                <erp>26-00076</erp>
+            <barcode>5903661802011</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/3701-masturbator_vagina_heart_of_love_34_function_usb</url>
+            <price>1273.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>110</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/26-00076.jpg</picture>
+            <name>Мастурбатор Vagina Heart Of Love 34 function USB</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Мастурбатор Vagina Heart Of Love 34 function USB</model>
+            <description>Мастурбатор (форма піхви). 2 потужні двигуни дозволяють регулювати масаж по всій довжині пеніса. 34 функції інтенсивної вібрації, пульсації та ескалації. М'який і реалістичний матеріал - кібершкіра, пестить своїм дотиком. Текстурована камера для додаткових відчуттів. Мастурбатор має звукові ефекти, які ще більше покращують атмосферу (жіночий звук у ейфорії :)).</description>
+            <name_ua>Мастурбатор Vagina Heart Of Love 34 function USB</name_ua>
+            <description_ua>Мастурбатор (форма піхви). 2 потужні двигуни дозволяють регулювати масаж по всій довжині пеніса. 34 функції інтенсивної вібрації, пульсації та ескалації. М'який і реалістичний матеріал - кібершкіра, пестить своїм дотиком. Текстурована камера для додаткових відчуттів. Мастурбатор має звукові ефекти, які ще більше покращують атмосферу (жіночий звук у ейфорії :)).</description_ua>
+            </offer>
         <offer id="42-05222280000" available="true">
                 <erp>42-05222280000</erp>
             <barcode>4024144522224</barcode>
@@ -38314,24 +38402,6 @@ Zyra – ідеальний вибір для жінок, які шукають 
 &lt;br /&gt;
 Довжина іграшки - 28.5 см, діаметр - 6.9 см.</description_ua>
             </offer>
-        <offer id="33-00107" available="true">
-                <erp>33-00107</erp>
-            <barcode>5903661803667</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/16045-fetish_boss_series_leash</url>
-            <price>389.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>95</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/33-00107.jpg</picture>
-            <name>Повідець Fetish Boss Series Leash</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>FETISH BOSS SERIES</vendor>
-            <model>Повідець Fetish Boss Series Leash</model>
-            <description>Повідець Fetish Boss Series Leash</description>
-            <name_ua>Повідець Fetish Boss Series Leash</name_ua>
-            <description_ua>Повідець Fetish Boss Series Leash</description_ua>
-            </offer>
         <offer id="68-MG0002" available="true">
                 <erp>68-MG0002</erp>
             <barcode>5600304015424</barcode>
@@ -38733,24 +38803,6 @@ Zyra – ідеальний вибір для жінок, які шукають 
             <description>Вібратор Pink Love Large</description>
             <name_ua>Вібратор Pink Love Large</name_ua>
             <description_ua>Вібратор Pink Love Large</description_ua>
-            </offer>
-        <offer id="BM-009199ZK" available="true">
-                <erp>BM-009199ZK</erp>
-            <barcode>6959532330137</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/24492-crazy_bull_vibrating_vagina_masturbator</url>
-            <price>837.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>52</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/BM-009199ZK.jpg</picture>
-            <name>Мастурбатор CRAZY BULL Vibrating Vagina Masturbator</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor />
-            <model>Мастурбатор CRAZY BULL Vibrating Vagina Masturbator</model>
-            <description>Мастурбатор CRAZY BULL Vibrating Vagina Masturbator</description>
-            <name_ua>Мастурбатор CRAZY BULL Vibrating Vagina Masturbator</name_ua>
-            <description_ua>Мастурбатор CRAZY BULL Vibrating Vagina Masturbator</description_ua>
             </offer>
         <offer id="BM-009158U" available="true">
                 <erp>BM-009158U</erp>
@@ -41068,34 +41120,6 @@ SD.Milky Lubricant Bio - це ідеальний вибір для тих, хт�
             <name_ua>Вібратор Caress Omny (green) </name_ua>
             <description_ua>Вібратор Caress Omny (green) </description_ua>
             </offer>
-        <offer id="96-035000" available="true">
-                <erp>96-035000</erp>
-            <barcode>2901000035000</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31429-vakuumniy_vibrator_leaf</url>
-            <price>2569.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>27</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3142666c79d1a60fa8.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66c79cf2d114e.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66c79cf2f2278.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66c79cf32a883.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66c79cf35cda0.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66c79cf38ec83.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66c79cf3bc3c6.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66c79d16e4376.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66c79d17a0a64.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66c79d18577c2.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66c79d1918b11.jpg</picture>
-            <name>Вакуумний вібратор Leaf</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>Caress</vendor>
-            <model>Вакуумний вібратор Leaf</model>
-            <description>Вакуумний вібратор Leaf</description>
-            <name_ua>Вакуумний вібратор Leaf</name_ua>
-            <description_ua>Вакуумний вібратор Leaf</description_ua>
-            </offer>
         <offer id="60-00055" available="true">
                 <erp>60-00055</erp>
             <barcode>5906233080671</barcode>
@@ -42140,28 +42164,6 @@ Barbara Bob — класичний вібратор, який поєднує в 
 &lt;br /&gt;
 Безпечний для використання з презервативами та всіма іграшками. Не містить силікону, воску та масла.</description_ua>
             </offer>
-        <offer id="20-KP07" available="true">
-                <erp>20-KP07</erp>
-            <barcode>8716718083625</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32082-trubochki_v_viglyadi_penisa_penis_drinking_straws_10_pcs</url>
-            <price>420.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>98</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3207868359287a4b3d.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6835928653eab.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6835928665f2d.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6835928671703.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_683592867d8b7.jpeg</picture>
-            <name>Трубочки в вигляді пеніса Penis Drinking Straws 10 pcs</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>POWER ESCORTS</vendor>
-            <model>Трубочки в вигляді пеніса Penis Drinking Straws 10 pcs</model>
-            <description>Трубочки в вигляді пеніса Penis Drinking Straws 10 pcs</description>
-            <name_ua>Трубочки в вигляді пеніса Penis Drinking Straws 10 pcs</name_ua>
-            <description_ua>Трубочки в вигляді пеніса Penis Drinking Straws 10 pcs</description_ua>
-            </offer>
         <offer id="52-00017" available="true">
                 <erp>52-00017</erp>
             <barcode>5903661805807</barcode>
@@ -42996,24 +42998,6 @@ Satisfyer Pocket Panda: водонепроникний (IPX7) накладний
             <name_ua>Мастурбатор Вагіна Кібер-шкіра Latarka Delidht</name_ua>
             <description_ua>Мастурбатор вагіна тілесного кольору. Виконаний з високоякісного гіпоалергенного матеріалу, безпечного для здоров'я та дуже еластичного і приємного на дотик. 9 функцій для інтенсивної вібрації, пульсації Присоска, що нагвинчується, прикріпить мастурбатор у зручному положенні до будь-якої гладкої поверхні. Присоска з кутовим поворотом. Зовнішній діаметр:  8,2 см. USB зарядк. Загальна довжина:  28 см</description_ua>
             </offer>
-        <offer id="26-00076" available="true">
-                <erp>26-00076</erp>
-            <barcode>5903661802011</barcode>
-            <quantity_in_stock>6</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/3701-masturbator_vagina_heart_of_love_34_function_usb</url>
-            <price>1273.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>110</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/26-00076.jpg</picture>
-            <name>Мастурбатор Vagina Heart Of Love 34 function USB</name>
-            <Отображать>Да</Отображать>
-            <stock>6</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Мастурбатор Vagina Heart Of Love 34 function USB</model>
-            <description>Мастурбатор (форма піхви). 2 потужні двигуни дозволяють регулювати масаж по всій довжині пеніса. 34 функції інтенсивної вібрації, пульсації та ескалації. М'який і реалістичний матеріал - кібершкіра, пестить своїм дотиком. Текстурована камера для додаткових відчуттів. Мастурбатор має звукові ефекти, які ще більше покращують атмосферу (жіночий звук у ейфорії :)).</description>
-            <name_ua>Мастурбатор Vagina Heart Of Love 34 function USB</name_ua>
-            <description_ua>Мастурбатор (форма піхви). 2 потужні двигуни дозволяють регулювати масаж по всій довжині пеніса. 34 функції інтенсивної вібрації, пульсації та ескалації. М'який і реалістичний матеріал - кібершкіра, пестить своїм дотиком. Текстурована камера для додаткових відчуттів. Мастурбатор має звукові ефекти, які ще більше покращують атмосферу (жіночий звук у ейфорії :)).</description_ua>
-            </offer>
         <offer id="42-05097790000" available="true">
                 <erp>42-05097790000</erp>
             <barcode>4024144513772</barcode>
@@ -43722,6 +43706,24 @@ Orgie Lube Tube Xtra - це відмінний вибір для тих, хто 
             <name_ua>Вібратор Mr. Perfect Vibration 12 functions</name_ua>
             <description_ua>&lt;p&gt;Реалістичний вібратор без мошонки з чітко окресленою та злегка звуженою головкою і текстурованим прямим стовбуром. Завдяки спеціальній системі фіксації, секс-іграшку можна розмістити на гладкій поверхні та задати необхідний кут нахилу для подальшої стимуляції. 12 режимів вібрації перемикаються за допомогою дротового пульта керування. Довжина - 26 см, діаметр - 4 см.&lt;/p&gt;</description_ua>
             </offer>
+        <offer id="4-60125" available="true">
+                <erp>4-60125</erp>
+            <barcode>8433345601250</barcode>
+            <quantity_in_stock>6</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/28352-ridkiy_vibrator_peach_10ml</url>
+            <price>315.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>145</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/4-60125.jpg</picture>
+            <name>Рідкий вібратор Peach 10ml</name>
+            <Отображать>Да</Отображать>
+            <stock>6</stock>
+            <vendor>CNEX</vendor>
+            <model>Рідкий вібратор Peach 10ml</model>
+            <description>Лубрикант з ефектом вібрації зі смаком персика. Він має натуральну формулу з активними рослинними інгредієнтами. Ефект може тривати від 15 до 20 хвилин. Характеристика.10мл., з дозатором. Не залишає слідів. Легко змивається. Без парабенів. Сумісний з іграшками та презервативами. </description>
+            <name_ua>Рідкий вібратор Peach 10ml</name_ua>
+            <description_ua>Лубрикант з ефектом вібрації зі смаком персика. Він має натуральну формулу з активними рослинними інгредієнтами. Ефект може тривати від 15 до 20 хвилин. Характеристика.10мл., з дозатором. Не залишає слідів. Легко змивається. Без парабенів. Сумісний з іграшками та презервативами. </description_ua>
+            </offer>
         <offer id="73-4306603" available="true">
                 <erp>73-4306603</erp>
             <barcode>4019514306603</barcode>
@@ -43867,6 +43869,34 @@ Orgie Lube Tube Xtra - це відмінний вибір для тих, хто 
             <description>Кільце може ефективно підвищити ерекцію і допомагає зупинити передчасну еякуляцію. Отримайте підтримку, необхідну для надпотужного оргазму, продовживши любовну гру. Виступи на кільці додатково стимулюють клітор. Кільце є гнучким і дуже добре підходить до окружності кожного члена.</description>
             <name_ua>Ерекційне кільце Ring Double Black</name_ua>
             <description_ua>Кільце може ефективно підвищити ерекцію і допомагає зупинити передчасну еякуляцію. Отримайте підтримку, необхідну для надпотужного оргазму, продовживши любовну гру. Виступи на кільці додатково стимулюють клітор. Кільце є гнучким і дуже добре підходить до окружності кожного члена.</description_ua>
+            </offer>
+        <offer id="BW-008040NR" available="true">
+                <erp>BW-008040NR</erp>
+            <barcode>6959532333152</barcode>
+            <quantity_in_stock>6</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/29160-falomtator_beautiful_johnson_92_dildo</url>
+            <price>571.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>22</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_29160619ce52f20bd2.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_619ce52d639e9.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_619ce52d71589.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_619ce52d82919.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_619ce52d8e7fb.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_619ce52d99e55.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_619ce52da5c25.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_619ce52db16a9.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_619ce52dbf283.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_619ce52dca4de.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65f03d4b83279.jpg</picture>
+            <name>Фалоімітатор Beautiful Johnson 9,2  Dildo</name>
+            <Отображать>Да</Отображать>
+            <stock>6</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Фалоімітатор Beautiful Johnson 9,2  Dildo</model>
+            <description>Фалоімітатор Beautiful Johnson - виконаний із еластичного і гнучкого TPR. Інтимна іграшка точно повторює анатомічну будову чоловічого фалоса , має яскраво виражену голівку, рельєф і вени. За допомогою міцної присоки, можна зафіксувати іграшку на будь-якій гладкій поверхні. Довжина - 23.4см, діаметр - 4,7см</description>
+            <name_ua>Фалоімітатор Beautiful Johnson 9,2  Dildo</name_ua>
+            <description_ua>Фалоімітатор Beautiful Johnson - виконаний із еластичного і гнучкого TPR. Інтимна іграшка точно повторює анатомічну будову чоловічого фалоса , має яскраво виражену голівку, рельєф і вени. За допомогою міцної присоки, можна зафіксувати іграшку на будь-якій гладкій поверхні. Довжина - 23.4см, діаметр - 4,7см</description_ua>
             </offer>
         <offer id="BI-040029-1" available="true">
                 <erp>BI-040029-1</erp>
@@ -46328,6 +46358,24 @@ AQUAglide Exotic - це ідеальний вибір для тих, хто хо
             <name_ua>Вібратор  CYCLONE-12function vibrator</name_ua>
             <description_ua>Хочете відчути надзвичайно хвилюючий і дуже чуттєвий досвід? Ось щось особливе, щоб розпочати ваші гострі нічні розваги! Буде приємно і ніжно, а може, ви віддаєте перевагу неслухняним іграм? Або, може, приємний ляпас на початку і ... солодка ласка на десерт? У цій любовній грі є не один сексуальний сценарій ... Сьогодні ви напишете свій! Як це працює? О, так: - двосторонній аксесуар, що спонукає до пікантного задоволення, - грайливий дизайн - з одного боку жорсткий серцевий удар, вишитий м’яким, приємним на дотик матеріалом - він заспокоює навіть гострі відчуття! - з іншого боку, ніжне пір’я для лоскотання - тонке задоволення - гаджет із міцних, приємних на дотик матеріалів (50% пера, 10% пластику, 10% поліестеру, 30% поліуретану)</description_ua>
             </offer>
+        <offer id="42-05218840000" available="true">
+                <erp>42-05218840000</erp>
+            <barcode>4024144523740</barcode>
+            <quantity_in_stock>7</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/3640-erektsiyne_kilytse_black_silicone_ring</url>
+            <price>234.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>45</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/42-05218840000.jpg</picture>
+            <name>Ерекційна петля на пеніс Black Silicone Ring</name>
+            <Отображать>Да</Отображать>
+            <stock>7</stock>
+            <vendor>ORION</vendor>
+            <model>Ерекційна петля на пеніс Black Silicone Ring</model>
+            <description>Ерекційна петля на пеніс Black Silicone Ring</description>
+            <name_ua>Ерекційна петля на пеніс Black Silicone Ring</name_ua>
+            <description_ua>Ерекційна петля на пеніс Black Silicone Ring</description_ua>
+            </offer>
         <offer id="42-06219860000" available="true">
                 <erp>42-06219860000</erp>
             <barcode>4024144621989</barcode>
@@ -46764,24 +46812,6 @@ AQUAglide Exotic - це ідеальний вибір для тих, хто хо
             <name_ua>Масажна свічка Massage Candle Sparkling Strawberry 30ml</name_ua>
             <description_ua>Масажна свічка Massage Candle Sparkling Strawberry 30ml</description_ua>
             </offer>
-        <offer id="4-60125" available="true">
-                <erp>4-60125</erp>
-            <barcode>8433345601250</barcode>
-            <quantity_in_stock>7</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/28352-ridkiy_vibrator_peach_10ml</url>
-            <price>315.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>145</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/4-60125.jpg</picture>
-            <name>Рідкий вібратор Peach 10ml</name>
-            <Отображать>Да</Отображать>
-            <stock>7</stock>
-            <vendor>CNEX</vendor>
-            <model>Рідкий вібратор Peach 10ml</model>
-            <description>Лубрикант з ефектом вібрації зі смаком персика. Він має натуральну формулу з активними рослинними інгредієнтами. Ефект може тривати від 15 до 20 хвилин. Характеристика.10мл., з дозатором. Не залишає слідів. Легко змивається. Без парабенів. Сумісний з іграшками та презервативами. </description>
-            <name_ua>Рідкий вібратор Peach 10ml</name_ua>
-            <description_ua>Лубрикант з ефектом вібрації зі смаком персика. Він має натуральну формулу з активними рослинними інгредієнтами. Ефект може тривати від 15 до 20 хвилин. Характеристика.10мл., з дозатором. Не залишає слідів. Легко змивається. Без парабенів. Сумісний з іграшками та презервативами. </description_ua>
-            </offer>
         <offer id="BW-001009R" available="true">
                 <erp>BW-001009R</erp>
             <barcode>6959532326000</barcode>
@@ -46908,34 +46938,6 @@ AQUAglide Exotic - це ідеальний вибір для тих, хто хо
             <description>Насадка прозора з фігурними вусиками для посиленої стимуляції. Дуже еластичний матеріал Довжина: 14,5 см</description>
             <name_ua>Насадка на член Stymulator-Penis Sleeve</name_ua>
             <description_ua>Насадка прозора з фігурними вусиками для посиленої стимуляції. Дуже еластичний матеріал Довжина: 14,5 см</description_ua>
-            </offer>
-        <offer id="BW-008040NR" available="true">
-                <erp>BW-008040NR</erp>
-            <barcode>6959532333152</barcode>
-            <quantity_in_stock>7</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29160-falomtator_beautiful_johnson_92_dildo</url>
-            <price>571.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>22</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_29160619ce52f20bd2.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_619ce52d639e9.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_619ce52d71589.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_619ce52d82919.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_619ce52d8e7fb.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_619ce52d99e55.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_619ce52da5c25.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_619ce52db16a9.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_619ce52dbf283.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_619ce52dca4de.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65f03d4b83279.jpg</picture>
-            <name>Фалоімітатор Beautiful Johnson 9,2  Dildo</name>
-            <Отображать>Да</Отображать>
-            <stock>7</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Фалоімітатор Beautiful Johnson 9,2  Dildo</model>
-            <description>Фалоімітатор Beautiful Johnson - виконаний із еластичного і гнучкого TPR. Інтимна іграшка точно повторює анатомічну будову чоловічого фалоса , має яскраво виражену голівку, рельєф і вени. За допомогою міцної присоки, можна зафіксувати іграшку на будь-якій гладкій поверхні. Довжина - 23.4см, діаметр - 4,7см</description>
-            <name_ua>Фалоімітатор Beautiful Johnson 9,2  Dildo</name_ua>
-            <description_ua>Фалоімітатор Beautiful Johnson - виконаний із еластичного і гнучкого TPR. Інтимна іграшка точно повторює анатомічну будову чоловічого фалоса , має яскраво виражену голівку, рельєф і вени. За допомогою міцної присоки, можна зафіксувати іграшку на будь-якій гладкій поверхні. Довжина - 23.4см, діаметр - 4,7см</description_ua>
             </offer>
         <offer id="26-00144" available="true">
                 <erp>26-00144</erp>
@@ -48752,24 +48754,6 @@ Dzięki zamkniętemu zakończeniu, Manga Vagina tworzy ekscytujący efekt ssania
 &lt;br /&gt;&lt;br /&gt;
 Масажна олійка WARMup Strawberry з ароматом полуниці та зігріваючим ефектом – це ідеальний вибір для тих, хто шукає якісний засіб для релаксації та зволоження шкіри під час масажу. Її ароматерапевтичний ефект та зволожуюча дія забезпечують максимальний комфорт та задоволення під час використання. Дозвольте собі та своєму партнерові насолодитися теплими та приємними моментами з масажною олійкою WARMup Strawberry.</description_ua>
             </offer>
-        <offer id="42-05218840000" available="true">
-                <erp>42-05218840000</erp>
-            <barcode>4024144523740</barcode>
-            <quantity_in_stock>8</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/3640-erektsiyne_kilytse_black_silicone_ring</url>
-            <price>234.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>45</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-05218840000.jpg</picture>
-            <name>Ерекційна петля на пеніс Black Silicone Ring</name>
-            <Отображать>Да</Отображать>
-            <stock>8</stock>
-            <vendor>ORION</vendor>
-            <model>Ерекційна петля на пеніс Black Silicone Ring</model>
-            <description>Ерекційна петля на пеніс Black Silicone Ring</description>
-            <name_ua>Ерекційна петля на пеніс Black Silicone Ring</name_ua>
-            <description_ua>Ерекційна петля на пеніс Black Silicone Ring</description_ua>
-            </offer>
         <offer id="48-11791" available="true">
                 <erp>48-11791</erp>
             <barcode>4028403117916</barcode>
@@ -50333,32 +50317,6 @@ BULL WARRIOR – відчуйте силу та поділіться насол�
             <name_ua>Насадка Rebel Dick-Вібратор </name_ua>
             <description_ua>Виготовлена з м’якого гелю TPR, накладка має ребра зовні та стимулюючі вкладки всередині. У ковпачка є додатковий отвір, який є кільцем для яєчок, завдяки якому воно не буде зісковзувати самостійно під час статевого акту. Чорне, прозоре розширення приносить моєму партнеру велике задоволення. Ви доведете її до нескінченних оргазмів, вона дуже еластична і буде підлаштовуватися під кожного члена. Подовжувач багаторазовий і підходить як презерватив.</description_ua>
             </offer>
-        <offer id="BI-014194" available="true">
-                <erp>BI-014194</erp>
-            <barcode>6959532312119</barcode>
-            <quantity_in_stock>9</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/13875-pretty_love_beck_10_function</url>
-            <price>410.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>102</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_1387561e4140c85a26.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140ab7a28.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140ac5a2f.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140ad465a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140ae1674.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140aec21b.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140b047c8.jpg</picture>
-            <name>Вібратор Pretty Love Beck</name>
-            <Отображать>Да</Отображать>
-            <stock>9</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Вібратор Pretty Love Beck</model>
-            <description>Сучасний багатофункціональний тонкий міні-вібромасажер. Усередині масажера вбудований двигун, вібрація від якого з однаковою силою поширюється по всій довжині. Вібратор фіолетового кольору включає 10 функції вібрації.  Зроблений з гладкого, шовковистого матеріалу, дуже приємного на дотик. Загальна довжина стимулятора – 12 см, діаметр - 2,1 см&lt;br /&gt;
-</description>
-            <name_ua>Вібратор Pretty Love Beck</name_ua>
-            <description_ua>Сучасний багатофункціональний тонкий міні-вібромасажер. Усередині масажера вбудований двигун, вібрація від якого з однаковою силою поширюється по всій довжині. Вібратор фіолетового кольору включає 10 функції вібрації.  Зроблений з гладкого, шовковистого матеріалу, дуже приємного на дотик. Загальна довжина стимулятора – 12 см, діаметр - 2,1 см&lt;br /&gt;
-</description_ua>
-            </offer>
         <offer id="BI-014243" available="true">
                 <erp>BI-014243</erp>
             <barcode>6959532312744</barcode>
@@ -51626,6 +51584,32 @@ ORGASM MAX для жінок призначений для значної під
             <name_ua>Збуджуючі капсули дляя чоловіків OrgasmMax for Men</name_ua>
             <description_ua>Orgasm Max for Men - це продукт, який впливає на швидку, сильну і тривалу ерекцію, а також на сильний і тривалий оргазм, підвищення потенції і сексуальної активності, а також можливість багаторазового оргазму.</description_ua>
             </offer>
+        <offer id="BI-014194" available="true">
+                <erp>BI-014194</erp>
+            <barcode>6959532312119</barcode>
+            <quantity_in_stock>10</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/13875-pretty_love_beck_10_function</url>
+            <price>410.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>102</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_1387561e4140c85a26.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140ab7a28.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140ac5a2f.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140ad465a.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140ae1674.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140aec21b.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140b047c8.jpg</picture>
+            <name>Вібратор Pretty Love Beck</name>
+            <Отображать>Да</Отображать>
+            <stock>10</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Вібратор Pretty Love Beck</model>
+            <description>Сучасний багатофункціональний тонкий міні-вібромасажер. Усередині масажера вбудований двигун, вібрація від якого з однаковою силою поширюється по всій довжині. Вібратор фіолетового кольору включає 10 функції вібрації.  Зроблений з гладкого, шовковистого матеріалу, дуже приємного на дотик. Загальна довжина стимулятора – 12 см, діаметр - 2,1 см&lt;br /&gt;
+</description>
+            <name_ua>Вібратор Pretty Love Beck</name_ua>
+            <description_ua>Сучасний багатофункціональний тонкий міні-вібромасажер. Усередині масажера вбудований двигун, вібрація від якого з однаковою силою поширюється по всій довжині. Вібратор фіолетового кольору включає 10 функції вібрації.  Зроблений з гладкого, шовковистого матеріалу, дуже приємного на дотик. Загальна довжина стимулятора – 12 см, діаметр - 2,1 см&lt;br /&gt;
+</description_ua>
+            </offer>
         <offer id="64-00035" available="true">
                 <erp>64-00035</erp>
             <barcode>5903661800512</barcode>
@@ -51807,6 +51791,27 @@ ORGASM MAX для жінок призначений для значної під
             <description>Насадка на пеніс BAILE Big Man</description>
             <name_ua>Насадка на пеніс BAILE Big Man</name_ua>
             <description_ua>Насадка на пеніс BAILE Big Man</description_ua>
+            </offer>
+        <offer id="67-00072" available="true">
+                <erp>67-00072</erp>
+            <barcode>5903661801700</barcode>
+            <quantity_in_stock>10</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/24890-vibrator__real_skin_black</url>
+            <price>265.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>143</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/67-00072.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_673649ddab486.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_673649dde9230.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_673649de2a4b8.png</picture>
+            <name>Вібратор  Real Skin Black</name>
+            <Отображать>Да</Отображать>
+            <stock>10</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Вібратор  Real Skin Black</model>
+            <description>Його зовнішній вигляд та надреалістичні детальні текстури ручної роботи ідеально відображають справжній пеніс. Його неймовірно сильні та різноманітні обертання з регульованою швидкістю та напрямком забезпечують надзвичайне задоволення. Одночасно ви можете контролювати швидкість вібрації яєчок, що ідеально підходить для стимуляції клітора або промежини. Ідеальна іграшка, що виділяється з натовпу, з унікальною комбінацією обертання та вібрації. Обертовий та вібруючий фалоімітатор ідеально підходить для сольної гри та так само чудово підходить для прелюдії. Використовуваний матеріал дійсно представляє революцію в реальному світі, спеціальна суміш ідеально імітує натуральну шкіру. Надзвичайно міцна присоска прилипає практично до будь-якої гладкої, плоскої поверхні. Регульований кут допоможе вам вибрати ідеальне положення. Насолоджуйтесь насолодою та керуйте іграшкою за допомогою дротового пульта дистанційного керування.</description>
+            <name_ua>Вібратор  Real Skin Black</name_ua>
+            <description_ua>Його зовнішній вигляд та надреалістичні детальні текстури ручної роботи ідеально відображають справжній пеніс. Його неймовірно сильні та різноманітні обертання з регульованою швидкістю та напрямком забезпечують надзвичайне задоволення. Одночасно ви можете контролювати швидкість вібрації яєчок, що ідеально підходить для стимуляції клітора або промежини. Ідеальна іграшка, що виділяється з натовпу, з унікальною комбінацією обертання та вібрації. Обертовий та вібруючий фалоімітатор ідеально підходить для сольної гри та так само чудово підходить для прелюдії. Використовуваний матеріал дійсно представляє революцію в реальному світі, спеціальна суміш ідеально імітує натуральну шкіру. Надзвичайно міцна присоска прилипає практично до будь-якої гладкої, плоскої поверхні. Регульований кут допоможе вам вибрати ідеальне положення. Насолоджуйтесь насолодою та керуйте іграшкою за допомогою дротового пульта дистанційного керування.</description_ua>
             </offer>
         <offer id="61-00030" available="true">
                 <erp>61-00030</erp>
@@ -53556,27 +53561,6 @@ Anal Just Glide характеризується високоякісним ре
             <description_ua>Вібраційний ручний мастурбатор. У злегка гнучкому, стисливому корпусі міститься дуже мякий мастурбатор, якого можна легко дістати з корпусу, та при потребі очистити іграшку додатковим засобом. Вагіна виглядає дуже реалістично, що неодмінно додасть вашій уяві та азарту. Вона оснащений пультом дистанційного керування та багатошвидкісною вібрацією для отримання маси задоволення. Не містить фталатів і латексу, а матеріал гіпоалергенний, не викликає роздратування або алергії. Різна вібрація забезпечить вам дивовижні відчуття і численні оргазми. Ідеально підходить для сольної гри або вишуканої прелюдії з партнером. Продукт слід використовувати разом із зволожуючими гелями на водній основі Загальна довжина пристрою: 22,2 см , Довжина внутрішня 18 см. Зовнішній діаметр: 8,6 см&lt;br /&gt;
 </description_ua>
             </offer>
-        <offer id="67-00072" available="true">
-                <erp>67-00072</erp>
-            <barcode>5903661801700</barcode>
-            <quantity_in_stock>11</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/24890-vibrator__real_skin_black</url>
-            <price>265.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>143</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/67-00072.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_673649ddab486.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_673649dde9230.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_673649de2a4b8.png</picture>
-            <name>Вібратор  Real Skin Black</name>
-            <Отображать>Да</Отображать>
-            <stock>11</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Вібратор  Real Skin Black</model>
-            <description>Його зовнішній вигляд та надреалістичні детальні текстури ручної роботи ідеально відображають справжній пеніс. Його неймовірно сильні та різноманітні обертання з регульованою швидкістю та напрямком забезпечують надзвичайне задоволення. Одночасно ви можете контролювати швидкість вібрації яєчок, що ідеально підходить для стимуляції клітора або промежини. Ідеальна іграшка, що виділяється з натовпу, з унікальною комбінацією обертання та вібрації. Обертовий та вібруючий фалоімітатор ідеально підходить для сольної гри та так само чудово підходить для прелюдії. Використовуваний матеріал дійсно представляє революцію в реальному світі, спеціальна суміш ідеально імітує натуральну шкіру. Надзвичайно міцна присоска прилипає практично до будь-якої гладкої, плоскої поверхні. Регульований кут допоможе вам вибрати ідеальне положення. Насолоджуйтесь насолодою та керуйте іграшкою за допомогою дротового пульта дистанційного керування.</description>
-            <name_ua>Вібратор  Real Skin Black</name_ua>
-            <description_ua>Його зовнішній вигляд та надреалістичні детальні текстури ручної роботи ідеально відображають справжній пеніс. Його неймовірно сильні та різноманітні обертання з регульованою швидкістю та напрямком забезпечують надзвичайне задоволення. Одночасно ви можете контролювати швидкість вібрації яєчок, що ідеально підходить для стимуляції клітора або промежини. Ідеальна іграшка, що виділяється з натовпу, з унікальною комбінацією обертання та вібрації. Обертовий та вібруючий фалоімітатор ідеально підходить для сольної гри та так само чудово підходить для прелюдії. Використовуваний матеріал дійсно представляє революцію в реальному світі, спеціальна суміш ідеально імітує натуральну шкіру. Надзвичайно міцна присоска прилипає практично до будь-якої гладкої, плоскої поверхні. Регульований кут допоможе вам вибрати ідеальне положення. Насолоджуйтесь насолодою та керуйте іграшкою за допомогою дротового пульта дистанційного керування.</description_ua>
-            </offer>
         <offer id="67-00082" available="true">
                 <erp>67-00082</erp>
             <barcode>5903661800222</barcode>
@@ -55272,6 +55256,24 @@ Orgie Lube Tube Nature - це ідеальний вибір для тих, хт�
 &lt;br /&gt;&lt;br /&gt;
 Лубрикант оральний Orgie Flavored Intimate Gel Strawberry – це ідеальний вибір для тих, хто шукає якісний і приємний зволожуючий засіб для інтимних моментів. Його аромат і смак полуниці додають особливого задоволення, а водна основа забезпечує тривалий комфорт і безпеку під час використання. Дозвольте собі та своєму партнерові насолодитися новими відчуттями з лубрикантом Orgie Flavored Intimate Gel Strawberry.</description_ua>
             </offer>
+        <offer id="64-00019" available="true">
+                <erp>64-00019</erp>
+            <barcode>5903661800352</barcode>
+            <quantity_in_stock>13</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/28922-analyna_probka___awellery_gold_plugred</url>
+            <price>372.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>31</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/64-00019.jpg</picture>
+            <name>Анальна пробка  -Jawellery Gold PLUGRed</name>
+            <Отображать>Да</Отображать>
+            <stock>13</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Анальна пробка  -Jawellery Gold PLUGRed</model>
+            <description>Виключні аналітичні прикраси з нержавіючої столиці. Високоякісна нержавіюча стійка гарантує безпеку вашого тіла. Пробка ідеально гладка, без гостричних країн та не підпорядкована шкірі. Ідеально підходить для новачків та досвідчених улюблених аналогічних гри. Виготовлення з металу дозволяє нам охороняти або нагрівати його, щоб покращити відновлення. Гарний діамант, прикріплений до основ, елегантний та чутливий. Ідеально профільована, спеціально анатомічна форма полегшує нанесення. Цибулінна форма чудово стимулює. Вузька шия з алмазною основою, навпаки, дозволить м'яз оберігатися та підтримувати пробку на місці. Загальна довжина 7 см. Діаметр 2,7 см. Стильна упаковка у вигляді замшевого чола.</description>
+            <name_ua>Анальна пробка  -Jawellery Gold PLUGRed</name_ua>
+            <description_ua>Виключні аналітичні прикраси з нержавіючої столиці. Високоякісна нержавіюча стійка гарантує безпеку вашого тіла. Пробка ідеально гладка, без гостричних країн та не підпорядкована шкірі. Ідеально підходить для новачків та досвідчених улюблених аналогічних гри. Виготовлення з металу дозволяє нам охороняти або нагрівати його, щоб покращити відновлення. Гарний діамант, прикріплений до основ, елегантний та чутливий. Ідеально профільована, спеціально анатомічна форма полегшує нанесення. Цибулінна форма чудово стимулює. Вузька шия з алмазною основою, навпаки, дозволить м'яз оберігатися та підтримувати пробку на місці. Загальна довжина 7 см. Діаметр 2,7 см. Стильна упаковка у вигляді замшевого чола.</description_ua>
+            </offer>
         <offer id="67-00064" available="true">
                 <erp>67-00064</erp>
             <barcode>5903661801656</barcode>
@@ -55798,24 +55800,6 @@ Orgie Lube Tube Nature - це ідеальний вибір для тих, хт�
             <name_ua>Вібратор  Juicy Jelly Multispeed Pink</name_ua>
             <description_ua>Реалістичні деталі, чітко позначені голова і вени. Плавний контроль вібрації. Ваші моменти стануть більш пристрасними. Гнучкий і приємний на дотик матеріал. Надзвичайно сильна вібрація з регульованою швидкістю для інтенсивного насолоди. Вібратор ідеально підходить для сольної гри, а також чудово підходить для прелюдії. Загальна довжина: 22 см. Зовнішній діаметр: 4 см. Матеріал: TPR. Джерело живлення: 2 x AA Додаткова інформація: Регульована швидкість вібрації</description_ua>
             </offer>
-        <offer id="64-00019" available="true">
-                <erp>64-00019</erp>
-            <barcode>5903661800352</barcode>
-            <quantity_in_stock>14</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/28922-analyna_probka___awellery_gold_plugred</url>
-            <price>372.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>31</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/64-00019.jpg</picture>
-            <name>Анальна пробка  -Jawellery Gold PLUGRed</name>
-            <Отображать>Да</Отображать>
-            <stock>14</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Анальна пробка  -Jawellery Gold PLUGRed</model>
-            <description>Виключні аналітичні прикраси з нержавіючої столиці. Високоякісна нержавіюча стійка гарантує безпеку вашого тіла. Пробка ідеально гладка, без гостричних країн та не підпорядкована шкірі. Ідеально підходить для новачків та досвідчених улюблених аналогічних гри. Виготовлення з металу дозволяє нам охороняти або нагрівати його, щоб покращити відновлення. Гарний діамант, прикріплений до основ, елегантний та чутливий. Ідеально профільована, спеціально анатомічна форма полегшує нанесення. Цибулінна форма чудово стимулює. Вузька шия з алмазною основою, навпаки, дозволить м'яз оберігатися та підтримувати пробку на місці. Загальна довжина 7 см. Діаметр 2,7 см. Стильна упаковка у вигляді замшевого чола.</description>
-            <name_ua>Анальна пробка  -Jawellery Gold PLUGRed</name_ua>
-            <description_ua>Виключні аналітичні прикраси з нержавіючої столиці. Високоякісна нержавіюча стійка гарантує безпеку вашого тіла. Пробка ідеально гладка, без гостричних країн та не підпорядкована шкірі. Ідеально підходить для новачків та досвідчених улюблених аналогічних гри. Виготовлення з металу дозволяє нам охороняти або нагрівати його, щоб покращити відновлення. Гарний діамант, прикріплений до основ, елегантний та чутливий. Ідеально профільована, спеціально анатомічна форма полегшує нанесення. Цибулінна форма чудово стимулює. Вузька шия з алмазною основою, навпаки, дозволить м'яз оберігатися та підтримувати пробку на місці. Загальна довжина 7 см. Діаметр 2,7 см. Стильна упаковка у вигляді замшевого чола.</description_ua>
-            </offer>
         <offer id="64-00021" available="true">
                 <erp>64-00021</erp>
             <barcode>5903661800376</barcode>
@@ -56100,6 +56084,70 @@ Just Glide Premium Anal - це ідеальний вибір для тих, хт
 Товщина: 0,075 мм.&lt;br /&gt;
 Склад:&lt;br /&gt;
 Натуральний каучуковий латекс, силіконове мастило.</description_ua>
+            </offer>
+        <offer id="2-00103" available="true">
+                <erp>2-00103</erp>
+            <barcode>8718546544781</barcode>
+            <quantity_in_stock>15</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2156-gely_lubrikant_na_vodniy_osnovi_strawberry_boss_of_toys_100_ml</url>
+            <price>308.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>46</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/2-00103.jpg</picture>
+            <name>Гель-лубрикант на водній основі Strawberry Boss of Toys 100 ml.</name>
+            <Отображать>Да</Отображать>
+            <stock>15</stock>
+            <vendor>COBECO</vendor>
+            <model>Гель-лубрикант на водній основі Strawberry Boss of Toys 100 ml.</model>
+            <description>Strawberry Boss of Toys - це високоякісний лубрикант на водній основі, що забезпечує ніжне і тривале зволоження для комфортних і приємних інтимних моментів. Завдяки приємному ароматизованому запаху полуниці, цей гель додає романтичну нотку в ваші інтимні ігри.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Основні переваги:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+	1.	Аромат полуниці: Лубрикант має приємний аромат полуниці, що робить інтимні моменти більш чуттєвими та смачними.&lt;br /&gt;&lt;br /&gt;
+	2.	Водна основа: Гель має водну основу, що забезпечує легке очищення і сумісність з латексними презервативами та секс-іграшками.&lt;br /&gt;&lt;br /&gt;
+	3.	Ніжна текстура: Strawberry Boss of Toys має легку текстуру, яка забезпечує плавне ковзання та тривале зволоження, знижуючи тертя і забезпечуючи комфорт.&lt;br /&gt;&lt;br /&gt;
+	4.	Універсальність: Підходить для всіх типів шкіри, не містить агресивних компонентів і ароматизаторів, що робить його підходящим для чутливої шкіри.&lt;br /&gt;&lt;br /&gt;
+	5.	Зручний об’єм: Флакон об’ємом 100 мл є ідеальним для домашнього використання і забезпечує достатню кількість продукту для регулярного застосування.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Нанесіть необхідну кількість гелю на інтимну ділянку тіла або на секс-іграшку перед початком інтимних моментів. Легко розподіліть і насолоджуйтеся комфортом та ароматом. Після використання промийте зони, на які був нанесений гель, водою.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+	•	Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
+	•	Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
+	•	Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
+	•	Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Чому обирають Strawberry Boss of Toys:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Strawberry Boss of Toys - це ідеальний вибір для тих, хто шукає лубрикант на водній основі з приємним ароматом полуниці. Його ніжна текстура і ароматичні властивості додають задоволення і комфорт в інтимні моменти, роблячи їх ще більш чуттєвими та приємними.</description>
+            <name_ua>Гель-лубрикант на водній основі Strawberry Boss of Toys 100 ml.</name_ua>
+            <description_ua>Strawberry Boss of Toys - це високоякісний лубрикант на водній основі, що забезпечує ніжне і тривале зволоження для комфортних і приємних інтимних моментів. Завдяки приємному ароматизованому запаху полуниці, цей гель додає романтичну нотку в ваші інтимні ігри.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Основні переваги:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+	1.	Аромат полуниці: Лубрикант має приємний аромат полуниці, що робить інтимні моменти більш чуттєвими та смачними.&lt;br /&gt;&lt;br /&gt;
+	2.	Водна основа: Гель має водну основу, що забезпечує легке очищення і сумісність з латексними презервативами та секс-іграшками.&lt;br /&gt;&lt;br /&gt;
+	3.	Ніжна текстура: Strawberry Boss of Toys має легку текстуру, яка забезпечує плавне ковзання та тривале зволоження, знижуючи тертя і забезпечуючи комфорт.&lt;br /&gt;&lt;br /&gt;
+	4.	Універсальність: Підходить для всіх типів шкіри, не містить агресивних компонентів і ароматизаторів, що робить його підходящим для чутливої шкіри.&lt;br /&gt;&lt;br /&gt;
+	5.	Зручний об’єм: Флакон об’ємом 100 мл є ідеальним для домашнього використання і забезпечує достатню кількість продукту для регулярного застосування.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Нанесіть необхідну кількість гелю на інтимну ділянку тіла або на секс-іграшку перед початком інтимних моментів. Легко розподіліть і насолоджуйтеся комфортом та ароматом. Після використання промийте зони, на які був нанесений гель, водою.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+	•	Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
+	•	Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
+	•	Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
+	•	Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Чому обирають Strawberry Boss of Toys:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Strawberry Boss of Toys - це ідеальний вибір для тих, хто шукає лубрикант на водній основі з приємним ароматом полуниці. Його ніжна текстура і ароматичні властивості додають задоволення і комфорт в інтимні моменти, роблячи їх ще більш чуттєвими та приємними.</description_ua>
             </offer>
         <offer id="19-31062" available="true">
                 <erp>19-31062</erp>
@@ -56715,70 +56763,6 @@ USB перезаряджається&lt;br /&gt;
             <description_ua>Унікальний дизайн цих презервативів має ремінці, які допомагають надійно розгортатися на шкірі, забезпечуючи щільне та зручне прилягання, підвищуючи інтимну близькість без шкоди для безпеки. Виготовлені з гіпоалергенного матеріалу без латексу, презервативи EXS PULL забезпечують ледь відчутний дотик, що прискорює відчуття для обох партнерів. Попередньо змащені формулою на основі силікону, вони сприяють гладкому ковзанню, ідеально підходять для вагінального, орального та анального статевого акту.&lt;br /&gt;
 Без запаху чи смаку гуми, ці презервативи пропонують стриманий та приємний досвід без відволікаючих запахів чи смаків. Сумісні з усіма мастилами на водній або силіконовій основі, вони задовольняють різноманітні переваги та бажання.&lt;br /&gt;
 З огляду на безпеку та задоволення, усі презервативи EXS проходять суворе тестування на відповідність європейським стандартам.</description_ua>
-            </offer>
-        <offer id="2-00103" available="true">
-                <erp>2-00103</erp>
-            <barcode>8718546544781</barcode>
-            <quantity_in_stock>16</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2156-gely_lubrikant_na_vodniy_osnovi_strawberry_boss_of_toys_100_ml</url>
-            <price>308.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/2-00103.jpg</picture>
-            <name>Гель-лубрикант на водній основі Strawberry Boss of Toys 100 ml.</name>
-            <Отображать>Да</Отображать>
-            <stock>16</stock>
-            <vendor>COBECO</vendor>
-            <model>Гель-лубрикант на водній основі Strawberry Boss of Toys 100 ml.</model>
-            <description>Strawberry Boss of Toys - це високоякісний лубрикант на водній основі, що забезпечує ніжне і тривале зволоження для комфортних і приємних інтимних моментів. Завдяки приємному ароматизованому запаху полуниці, цей гель додає романтичну нотку в ваші інтимні ігри.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Основні переваги:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-	1.	Аромат полуниці: Лубрикант має приємний аромат полуниці, що робить інтимні моменти більш чуттєвими та смачними.&lt;br /&gt;&lt;br /&gt;
-	2.	Водна основа: Гель має водну основу, що забезпечує легке очищення і сумісність з латексними презервативами та секс-іграшками.&lt;br /&gt;&lt;br /&gt;
-	3.	Ніжна текстура: Strawberry Boss of Toys має легку текстуру, яка забезпечує плавне ковзання та тривале зволоження, знижуючи тертя і забезпечуючи комфорт.&lt;br /&gt;&lt;br /&gt;
-	4.	Універсальність: Підходить для всіх типів шкіри, не містить агресивних компонентів і ароматизаторів, що робить його підходящим для чутливої шкіри.&lt;br /&gt;&lt;br /&gt;
-	5.	Зручний об’єм: Флакон об’ємом 100 мл є ідеальним для домашнього використання і забезпечує достатню кількість продукту для регулярного застосування.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Нанесіть необхідну кількість гелю на інтимну ділянку тіла або на секс-іграшку перед початком інтимних моментів. Легко розподіліть і насолоджуйтеся комфортом та ароматом. Після використання промийте зони, на які був нанесений гель, водою.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-	•	Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
-	•	Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
-	•	Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
-	•	Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Чому обирають Strawberry Boss of Toys:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Strawberry Boss of Toys - це ідеальний вибір для тих, хто шукає лубрикант на водній основі з приємним ароматом полуниці. Його ніжна текстура і ароматичні властивості додають задоволення і комфорт в інтимні моменти, роблячи їх ще більш чуттєвими та приємними.</description>
-            <name_ua>Гель-лубрикант на водній основі Strawberry Boss of Toys 100 ml.</name_ua>
-            <description_ua>Strawberry Boss of Toys - це високоякісний лубрикант на водній основі, що забезпечує ніжне і тривале зволоження для комфортних і приємних інтимних моментів. Завдяки приємному ароматизованому запаху полуниці, цей гель додає романтичну нотку в ваші інтимні ігри.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Основні переваги:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-	1.	Аромат полуниці: Лубрикант має приємний аромат полуниці, що робить інтимні моменти більш чуттєвими та смачними.&lt;br /&gt;&lt;br /&gt;
-	2.	Водна основа: Гель має водну основу, що забезпечує легке очищення і сумісність з латексними презервативами та секс-іграшками.&lt;br /&gt;&lt;br /&gt;
-	3.	Ніжна текстура: Strawberry Boss of Toys має легку текстуру, яка забезпечує плавне ковзання та тривале зволоження, знижуючи тертя і забезпечуючи комфорт.&lt;br /&gt;&lt;br /&gt;
-	4.	Універсальність: Підходить для всіх типів шкіри, не містить агресивних компонентів і ароматизаторів, що робить його підходящим для чутливої шкіри.&lt;br /&gt;&lt;br /&gt;
-	5.	Зручний об’єм: Флакон об’ємом 100 мл є ідеальним для домашнього використання і забезпечує достатню кількість продукту для регулярного застосування.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Нанесіть необхідну кількість гелю на інтимну ділянку тіла або на секс-іграшку перед початком інтимних моментів. Легко розподіліть і насолоджуйтеся комфортом та ароматом. Після використання промийте зони, на які був нанесений гель, водою.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-	•	Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
-	•	Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
-	•	Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
-	•	Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Чому обирають Strawberry Boss of Toys:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Strawberry Boss of Toys - це ідеальний вибір для тих, хто шукає лубрикант на водній основі з приємним ароматом полуниці. Його ніжна текстура і ароматичні властивості додають задоволення і комфорт в інтимні моменти, роблячи їх ще більш чуттєвими та приємними.</description_ua>
             </offer>
         <offer id="19-31321" available="true">
                 <erp>19-31321</erp>
@@ -58717,7 +58701,7 @@ Kissable Arousal Intimat</description_ua>
         <offer id="90-800067" available="true">
                 <erp>90-800067</erp>
             <barcode>347922800067</barcode>
-            <quantity_in_stock>31</quantity_in_stock>
+            <quantity_in_stock>30</quantity_in_stock>
             <url>http://blissclub.com.ua/product/30374-lubrikant_lubrix_200_ml</url>
             <price>467.00</price>
             <currencyId>UAH</currencyId>
@@ -58726,7 +58710,7 @@ Kissable Arousal Intimat</description_ua>
             <picture>https://blissclub.com.ua/images/product_variants/product_6411c0b42822c.jpg</picture>
             <name>Лубрикант Lubrix, 200 мл</name>
             <Отображать>Да</Отображать>
-            <stock>31</stock>
+            <stock>30</stock>
             <vendor />
             <model>Лубрикант Lubrix, 200 мл</model>
             <description>Lubrix-високоякісний гель-лубрикант для жінок на водно-гліцериновій основі, створений за спец. Забезпечує тривале легке ковзання під час статевого акту. . Попередньо дзвоніть і живіть, підходячи до будь-якого типу шкіри. Він не відчуває втрати здатності, не залишає плям на одязі та післябійній білизні, не містить парабенів. Не зачіпайте первісне і окреме, можна використовувати для анального сексу. Сумісний із різноманітними секс-іграшками та презервативами, легко змішується водою. Об'єм 200 мл.</description>
@@ -58817,6 +58801,24 @@ Kissable Arousal Intimat</description_ua>
 &lt;br /&gt;&lt;br /&gt;
 Лубрикант на водно-силіконовій основі Just Glide Performance – це ідеальний вибір для тих, хто шукає ефективний і тривалий зволожуючий засіб для інтимних моментів. Його водно-силіконова основа забезпечує тривале зволоження і комфорт, роблячи кожен момент особливим і захопливим. Великий об’єм дозволяє мати лубрикант тривалий час під рукою, забезпечуючи готовність до інтимних моментів у будь-який час.</description_ua>
             </offer>
+        <offer id="64-00008" available="true">
+                <erp>64-00008</erp>
+            <barcode>5903661800239</barcode>
+            <quantity_in_stock>35</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/14897-analyna_probka__ewellery_silver_plugpink</url>
+            <price>295.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>31</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/64-00008.jpg</picture>
+            <name>Анальна пробка Jewellery Silver PLUGPink</name>
+            <Отображать>Да</Отображать>
+            <stock>35</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Анальна пробка Jewellery Silver PLUGPink</model>
+            <description>Ексклюзивні анальні прикраси з високоякісної нержавіючої сталі гарантують безпеку вашого тіла. Пробка ідеально гладка, без гострих країв і не подразнює шкіру. Ідеально підходить для новачків і досвідчених любителів анальних ігор. Виготовлений з металу дає нам можливість охолодити або зігріти його, щоб покращити враження. Гарний діамант, прикріплений до основи, елегантний і чуттєвий. Пробка ідеально профільована, особлива анатомічна форма полегшує нанесення. Цибулинна форма чудово стимулює. З іншого боку, вузьке горлечко з ромбовою основою дозволить м’язам обгортатися і утримувати пробку на місці, запобігаючи поглинанню.</description>
+            <name_ua>Анальна пробка Jewellery Silver PLUGPink</name_ua>
+            <description_ua>Ексклюзивні анальні прикраси з високоякісної нержавіючої сталі гарантують безпеку вашого тіла. Пробка ідеально гладка, без гострих країв і не подразнює шкіру. Ідеально підходить для новачків і досвідчених любителів анальних ігор. Виготовлений з металу дає нам можливість охолодити або зігріти його, щоб покращити враження. Гарний діамант, прикріплений до основи, елегантний і чуттєвий. Пробка ідеально профільована, особлива анатомічна форма полегшує нанесення. Цибулинна форма чудово стимулює. З іншого боку, вузьке горлечко з ромбовою основою дозволить м’язам обгортатися і утримувати пробку на місці, запобігаючи поглинанню.</description_ua>
+            </offer>
         <offer id="42-07000880000" available="true">
                 <erp>42-07000880000</erp>
             <barcode>4029811224777</barcode>
@@ -58905,24 +58907,6 @@ BIOglide Neutral - це ідеальний вибір для тих, хто шу
 Чому обирають BIOglide Neutral:&lt;br /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;br /&gt;
 BIOglide Neutral - це ідеальний вибір для тих, хто шукає простий і ефективний лубрикант без ароматизаторів і кольорів. Його водна основа і нейтральний склад забезпечують комфорт і зволоження, роблячи інтимні моменти більш приємними.</description_ua>
-            </offer>
-        <offer id="64-00008" available="true">
-                <erp>64-00008</erp>
-            <barcode>5903661800239</barcode>
-            <quantity_in_stock>36</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/14897-analyna_probka__ewellery_silver_plugpink</url>
-            <price>295.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>31</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/64-00008.jpg</picture>
-            <name>Анальна пробка Jewellery Silver PLUGPink</name>
-            <Отображать>Да</Отображать>
-            <stock>36</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Анальна пробка Jewellery Silver PLUGPink</model>
-            <description>Ексклюзивні анальні прикраси з високоякісної нержавіючої сталі гарантують безпеку вашого тіла. Пробка ідеально гладка, без гострих країв і не подразнює шкіру. Ідеально підходить для новачків і досвідчених любителів анальних ігор. Виготовлений з металу дає нам можливість охолодити або зігріти його, щоб покращити враження. Гарний діамант, прикріплений до основи, елегантний і чуттєвий. Пробка ідеально профільована, особлива анатомічна форма полегшує нанесення. Цибулинна форма чудово стимулює. З іншого боку, вузьке горлечко з ромбовою основою дозволить м’язам обгортатися і утримувати пробку на місці, запобігаючи поглинанню.</description>
-            <name_ua>Анальна пробка Jewellery Silver PLUGPink</name_ua>
-            <description_ua>Ексклюзивні анальні прикраси з високоякісної нержавіючої сталі гарантують безпеку вашого тіла. Пробка ідеально гладка, без гострих країв і не подразнює шкіру. Ідеально підходить для новачків і досвідчених любителів анальних ігор. Виготовлений з металу дає нам можливість охолодити або зігріти його, щоб покращити враження. Гарний діамант, прикріплений до основи, елегантний і чуттєвий. Пробка ідеально профільована, особлива анатомічна форма полегшує нанесення. Цибулинна форма чудово стимулює. З іншого боку, вузьке горлечко з ромбовою основою дозволить м’язам обгортатися і утримувати пробку на місці, запобігаючи поглинанню.</description_ua>
             </offer>
         <offer id="90-826158-1" available="true">
                 <erp>90-826158-1</erp>
