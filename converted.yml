@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-09-13 19:00">
+<yml_catalog date="2025-09-13 19:45">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -53341,9 +53341,8 @@ Just Glide Strawberry - це відмінний вибір для тих, хто
             <price>51.00</price>
             <currencyId>UAH</currencyId>
             <categoryId>124</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3237668c5558709070.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68c55586127d0.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68c5558624cbb.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3237668c5993db36c7.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68c5993cac3f1.webp</picture>
             <name>Тампони -Soft Tampons normal Professional 1 шт</name>
             <Отображать>Да</Отображать>
             <stock>20</stock>
