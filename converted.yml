@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-09-13 14:00">
+<yml_catalog date="2025-09-13 15:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -53411,15 +53411,17 @@ Just Glide Strawberry - це відмінний вибір для тих, хто
             <price>51.00</price>
             <currencyId>UAH</currencyId>
             <categoryId>124</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/48-12210-1.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3237668c5558709070.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68c55586127d0.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68c5558624cbb.png</picture>
             <name>Тампони -Soft Tampons normal Professional 1 шт</name>
             <Отображать>Да</Отображать>
             <stock>20</stock>
             <vendor>JOYDIVISION</vendor>
             <model>Тампони -Soft Tampons normal Professional 1 шт</model>
-            <description>Тампони Soft-Tampons normal -це тампони для жінок, які ведуть активний спосіб життя. Тампони виготовлені з комфортного та екологічного матеріалу. Легко адаптуються під форму тіла , тому вони зовсім не відчуваються в середині. 1 шт.</description>
+            <description>&lt;p&gt;Тампони Soft-Tampons normal -це тампони для жінок, які ведуть активний спосіб життя. Тампони виготовлені з комфортного та екологічного матеріалу. Легко адаптуються під форму тіла , тому вони зовсім не відчуваються в середині. 1 шт.&lt;/p&gt;</description>
             <name_ua>Тампони -Soft Tampons normal Professional 1 шт</name_ua>
-            <description_ua>Тампони Soft-Tampons normal -це тампони для жінок, які ведуть активний спосіб життя. Тампони виготовлені з комфортного та екологічного матеріалу. Легко адаптуються під форму тіла , тому вони зовсім не відчуваються в середині. 1 шт.</description_ua>
+            <description_ua>&lt;p&gt;Тампони Soft-Tampons normal -це тампони для жінок, які ведуть активний спосіб життя. Тампони виготовлені з комфортного та екологічного матеріалу. Легко адаптуються під форму тіла , тому вони зовсім не відчуваються в середині. 1 шт.&lt;/p&gt;</description_ua>
             </offer>
         <offer id="74-1056" available="true">
                 <erp>74-1056</erp>
@@ -54315,15 +54317,16 @@ Kissable Arousal Intimat</description_ua>
             <price>25.00</price>
             <currencyId>UAH</currencyId>
             <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/40-11920-01-1.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3237768c554cd90e7c.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68c554cc760f6.png</picture>
             <name>Лубриканти Pjur Woman Nude гель 2мл</name>
             <Отображать>Да</Отображать>
             <stock>65</stock>
             <vendor>PJUR</vendor>
             <model>Лубриканти Pjur Woman Nude гель 2мл</model>
-            <description>Гель на водній основі Pjur Women Nude не містить добавок, не містить консервантів, гліцерину та парабенів. Як і вся продукція Pjur, не містить жиру  і парфумів. Pjur Woman Nude був спеціально розроблений для ніжної та чутливої шкіри жінок, і в той же час абсолютно без запаху і смаку. саше 2 мл.</description>
+            <description>&lt;p&gt;Гель на водній основі Pjur Women Nude не містить добавок, не містить консервантів, гліцерину та парабенів. Як і вся продукція Pjur, не містить жиру і парфумів. Pjur Woman Nude був спеціально розроблений для ніжної та чутливої шкіри жінок, і в той же час абсолютно без запаху і смаку. саше 2 мл.&lt;/p&gt;</description>
             <name_ua>Лубриканти Pjur Woman Nude гель 2мл</name_ua>
-            <description_ua>Гель на водній основі Pjur Women Nude не містить добавок, не містить консервантів, гліцерину та парабенів. Як і вся продукція Pjur, не містить жиру  і парфумів. Pjur Woman Nude був спеціально розроблений для ніжної та чутливої шкіри жінок, і в той же час абсолютно без запаху і смаку. саше 2 мл.</description_ua>
+            <description_ua>&lt;p&gt;Гель на водній основі Pjur Women Nude не містить добавок, не містить консервантів, гліцерину та парабенів. Як і вся продукція Pjur, не містить жиру і парфумів. Pjur Woman Nude був спеціально розроблений для ніжної та чутливої шкіри жінок, і в той же час абсолютно без запаху і смаку. саше 2 мл.&lt;/p&gt;</description_ua>
             </offer>
         <offer id="11-50125" available="true">
                 <erp>11-50125</erp>
