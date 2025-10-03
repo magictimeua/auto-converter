@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-10-03 10:45">
+<yml_catalog date="2025-10-03 11:45">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -43583,24 +43583,6 @@ JO All-in-One Sensual Massage Glide – це масажний ковзаючий
             <name_ua>Вібропуля PRETTY LOVE DAWN, 12 function</name_ua>
             <description_ua>Вібропуля PRETTY LOVE DAWN, 12 function</description_ua>
             </offer>
-        <offer id="BI-014412" available="true">
-                <erp>BI-014412</erp>
-            <barcode>6959532316919</barcode>
-            <quantity_in_stock>6</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/13938-pretty_love_alston_usb_12_function</url>
-            <price>1201.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>143</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/BI-014412.jpg</picture>
-            <name>Вібратор PRETTY LOVE ALSTON, USB, 12 function</name>
-            <Отображать>Да</Отображать>
-            <stock>6</stock>
-            <vendor />
-            <model>Вібратор PRETTY LOVE ALSTON, USB, 12 function</model>
-            <description>Вагінальний вібраційний масажер, злегка зігнутий за допомогою стимулятора клітора. Оснащений безшумним двигуном з 7 режимами вібрації. Він стійкий до вологи, що робить його привабливим для душу. Ще один цікавий факт: набір обертових кульок у вібромасажному стовбурі приємно стимулюється пробудженням зони G-точки, а 4 функції обертання дозволять вам знайти найбільш захоплюючу установку.</description>
-            <name_ua>Вібратор PRETTY LOVE ALSTON, USB, 12 function</name_ua>
-            <description_ua>Вагінальний вібраційний масажер, злегка зігнутий за допомогою стимулятора клітора. Оснащений безшумним двигуном з 7 режимами вібрації. Він стійкий до вологи, що робить його привабливим для душу. Ще один цікавий факт: набір обертових кульок у вібромасажному стовбурі приємно стимулюється пробудженням зони G-точки, а 4 функції обертання дозволять вам знайти найбільш захоплюючу установку.</description_ua>
-            </offer>
         <offer id="BI-014490-1" available="true">
                 <erp>BI-014490-1</erp>
             <barcode>6959532320893</barcode>
@@ -46869,6 +46851,24 @@ Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Simmondsia C
             <description>Вібростимулятор PRETTY LOVE AVERY, 30 function</description>
             <name_ua>Вібростимулятор PRETTY LOVE AVERY, 30 function</name_ua>
             <description_ua>Вібростимулятор PRETTY LOVE AVERY, 30 function</description_ua>
+            </offer>
+        <offer id="BI-014412" available="true">
+                <erp>BI-014412</erp>
+            <barcode>6959532316919</barcode>
+            <quantity_in_stock>7</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/13938-pretty_love_alston_usb_12_function</url>
+            <price>1201.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>143</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/BI-014412.jpg</picture>
+            <name>Вібратор PRETTY LOVE ALSTON, USB, 12 function</name>
+            <Отображать>Да</Отображать>
+            <stock>7</stock>
+            <vendor />
+            <model>Вібратор PRETTY LOVE ALSTON, USB, 12 function</model>
+            <description>Вагінальний вібраційний масажер, злегка зігнутий за допомогою стимулятора клітора. Оснащений безшумним двигуном з 7 режимами вібрації. Він стійкий до вологи, що робить його привабливим для душу. Ще один цікавий факт: набір обертових кульок у вібромасажному стовбурі приємно стимулюється пробудженням зони G-точки, а 4 функції обертання дозволять вам знайти найбільш захоплюючу установку.</description>
+            <name_ua>Вібратор PRETTY LOVE ALSTON, USB, 12 function</name_ua>
+            <description_ua>Вагінальний вібраційний масажер, злегка зігнутий за допомогою стимулятора клітора. Оснащений безшумним двигуном з 7 режимами вібрації. Він стійкий до вологи, що робить його привабливим для душу. Ще один цікавий факт: набір обертових кульок у вібромасажному стовбурі приємно стимулюється пробудженням зони G-точки, а 4 функції обертання дозволять вам знайти найбільш захоплюючу установку.</description_ua>
             </offer>
         <offer id="BI-014490-2" available="true">
                 <erp>BI-014490-2</erp>
