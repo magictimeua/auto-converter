@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-10-06 13:45">
+<yml_catalog date="2025-10-06 15:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -1710,24 +1710,6 @@ Super Rutscher - це ідеальний лубрикант для тих, хт�
             <name_ua>Білизна  Student kostium 4-czA™A›ciowy  S/M</name_ua>
             <description_ua>Білизна  Student kostium 4-czA™A›ciowy  S/M</description_ua>
             </offer>
-        <offer id="19-3024" available="true">
-                <erp>19-3024</erp>
-            <barcode>3548960030240</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/5933-lubrikant_perfect_breast</url>
-            <price>489.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>101</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/19-3024.jpg</picture>
-            <name>Крем по догляду за грудми  Perfect Breast</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>RUF</vendor>
-            <model>Крем по догляду за грудми  Perfect Breast</model>
-            <description>Perfect Breast – це косметичне молочко для грудей із зволожуючим і тонізуючим ефектом (діючи на поверхневі шари епідермісу). Цей нежирний крем допомагає підтримувати пружність і тонус шкіри. Рослинні екстракти в цьому кремі в поєднанні з гідролізованим еластином настійно рекомендуються для збереження ніжної шкіри грудей, а також її округлості. Квіткова вода гамамелісу та олія солодкого мигдалю мають очищаючі, протизапальні, заспокійливі та зволожуючі властивості. Екстракт хмелю тонізує та відновлює ніжну шкіру. 125 мл</description>
-            <name_ua>Крем по догляду за грудми  Perfect Breast</name_ua>
-            <description_ua>Perfect Breast – це косметичне молочко для грудей із зволожуючим і тонізуючим ефектом (діючи на поверхневі шари епідермісу). Цей нежирний крем допомагає підтримувати пружність і тонус шкіри. Рослинні екстракти в цьому кремі в поєднанні з гідролізованим еластином настійно рекомендуються для збереження ніжної шкіри грудей, а також її округлості. Квіткова вода гамамелісу та олія солодкого мигдалю мають очищаючі, протизапальні, заспокійливі та зволожуючі властивості. Екстракт хмелю тонізує та відновлює ніжну шкіру. 125 мл</description_ua>
-            </offer>
         <offer id="43-TLB03137" available="true">
                 <erp>43-TLB03137</erp>
             <barcode />
@@ -2573,6 +2555,24 @@ BIOglide Lubricant and Massage Oil - це ідеальний вибір для �
 - регульовані бретелі&lt;br /&gt;
 - приємний на дотик еластичний матеріал (85% поліамід, 15% еластан)</description_ua>
             </offer>
+        <offer id="59-00004" available="true">
+                <erp>59-00004</erp>
+            <barcode>5903661803742</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/14641-lalkacow_matylda</url>
+            <price>787.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>70</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/59-00004.jpg</picture>
+            <name>Секс лялька Lalka COW Matylda</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Секс лялька Lalka COW Matylda</model>
+            <description>Міні -надувна лялька Matylda - це смішний гаджет для дівич -вечора, Дня Святого Валентина тощо. За допомогою цієї іграшки можна зробити когось, особливо знайомого чоловіка справжнім атракціоном. Висота 50 см. Все зроблено з латексу. Лялька для еротичних і не тільки ігор, відмінних від інших. Весела мультиплікаційна тварина для накачування, з любовним отвором у спині. Ми рекомендуємо подарунок чоловікам з почуттям гумору.</description>
+            <name_ua>Секс лялька Lalka COW Matylda</name_ua>
+            <description_ua>Міні -надувна лялька Matylda - це смішний гаджет для дівич -вечора, Дня Святого Валентина тощо. За допомогою цієї іграшки можна зробити когось, особливо знайомого чоловіка справжнім атракціоном. Висота 50 см. Все зроблено з латексу. Лялька для еротичних і не тільки ігор, відмінних від інших. Весела мультиплікаційна тварина для накачування, з любовним отвором у спині. Ми рекомендуємо подарунок чоловікам з почуттям гумору.</description_ua>
+            </offer>
         <offer id="22-00003" available="true">
                 <erp>22-00003</erp>
             <barcode>5903661801847</barcode>
@@ -3377,25 +3377,6 @@ Satisfyer Pro 4 Couples – це інноваційна іграшка, яка �
             <name_ua>Затискачі для сосків Nipple Clamps No.10 Fetish Boss Series</name_ua>
             <description_ua>Міцні металеві пінцети, вкриті м'яким гумовим захистом. Зусилля притиску можна регулювати поворотом верхньої частини зажиму. Вага: 28г. Загальна довжина 39,5 см.</description_ua>
             </offer>
-        <offer id="42-07401520000" available="true">
-                <erp>42-07401520000</erp>
-            <barcode>4024144740154</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/18869-karti_gralyni__gry_strip_poker</url>
-            <price>305.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>92</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_188696177d5524ab3c.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6177d550867bd.jpg</picture>
-            <name>Карти гральні  Gry-Strip Poker</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>ORION</vendor>
-            <model>Карти гральні  Gry-Strip Poker</model>
-            <description>54 покерні карти. Матеріал: картон. Вага: 66 г </description>
-            <name_ua>Карти гральні  Gry-Strip Poker</name_ua>
-            <description_ua>54 покерні карти. Матеріал: картон. Вага: 66 г </description_ua>
-            </offer>
         <offer id="32-00052" available="true">
                 <erp>32-00052</erp>
             <barcode>5905669259637</barcode>
@@ -3538,24 +3519,6 @@ Satisfyer Pro 4 Couples – це інноваційна іграшка, яка �
             <description>Лялька надувна з 3D обличчям і вібрацією. Лялька має 3D обличчя, світле волосся, вії та великі груди. 3 любовні отвори, в комплекті віброяйце., яке можна вставити у будь-який отвір.  Тесса — лялька в натуральну величину, зростом 1,57 метра.</description>
             <name_ua>Надувна лялька Swallowing Doll Tessa Q.</name_ua>
             <description_ua>Лялька надувна з 3D обличчям і вібрацією. Лялька має 3D обличчя, світле волосся, вії та великі груди. 3 любовні отвори, в комплекті віброяйце., яке можна вставити у будь-який отвір.  Тесса — лялька в натуральну величину, зростом 1,57 метра.</description_ua>
-            </offer>
-        <offer id="42-05162010000" available="true">
-                <erp>42-05162010000</erp>
-            <barcode>4024144516209</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/19711-anna_swedish_sex_doll</url>
-            <price>2051.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>70</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-05162010000.jpg</picture>
-            <name>Секс лялька Anna Swedish Sex Doll</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>ORION</vendor>
-            <model>Секс лялька Anna Swedish Sex Doll</model>
-            <description>Для жорсткої ерекції! Гнучке та прозоре кільце для півня з молочно -білого силікону.</description>
-            <name_ua>Секс лялька Anna Swedish Sex Doll</name_ua>
-            <description_ua>Для жорсткої ерекції! Гнучке та прозоре кільце для півня з молочно -білого силікону.</description_ua>
             </offer>
         <offer id="42-05234700000" available="true">
                 <erp>42-05234700000</erp>
@@ -15347,24 +15310,6 @@ AQUAglide Cherry - це ідеальний вибір для тих, хто шу
 Загальна довжина 21,3 см, робоча довжина 13,5 см, максимальний діаметр 3,5 см, довжина клітора 6,8 см, діаметр 2,6 см.&lt;br /&gt;
 Зарядка йде від USB (в комплекті), також є сумка для зберігання.</description_ua>
             </offer>
-        <offer id="59-00004" available="true">
-                <erp>59-00004</erp>
-            <barcode>5903661803742</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/14641-lalkacow_matylda</url>
-            <price>787.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>70</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/59-00004.jpg</picture>
-            <name>Секс лялька Lalka COW Matylda</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Секс лялька Lalka COW Matylda</model>
-            <description>Міні -надувна лялька Matylda - це смішний гаджет для дівич -вечора, Дня Святого Валентина тощо. За допомогою цієї іграшки можна зробити когось, особливо знайомого чоловіка справжнім атракціоном. Висота 50 см. Все зроблено з латексу. Лялька для еротичних і не тільки ігор, відмінних від інших. Весела мультиплікаційна тварина для накачування, з любовним отвором у спині. Ми рекомендуємо подарунок чоловікам з почуттям гумору.</description>
-            <name_ua>Секс лялька Lalka COW Matylda</name_ua>
-            <description_ua>Міні -надувна лялька Matylda - це смішний гаджет для дівич -вечора, Дня Святого Валентина тощо. За допомогою цієї іграшки можна зробити когось, особливо знайомого чоловіка справжнім атракціоном. Висота 50 см. Все зроблено з латексу. Лялька для еротичних і не тільки ігор, відмінних від інших. Весела мультиплікаційна тварина для накачування, з любовним отвором у спині. Ми рекомендуємо подарунок чоловікам з почуттям гумору.</description_ua>
-            </offer>
         <offer id="22-00016" available="true">
                 <erp>22-00016</erp>
             <barcode>6970130920520</barcode>
@@ -16944,6 +16889,35 @@ Satisfyer Men Classic – це більше, ніж мастурбатор. Це
             <description>Подвійні фалоімітатори пропонують реалістичні деталі, оригінальний дизайн головки пеніса та текстури вен. Спеціально розроблений для гри в парі або соло. Супер гнучкий матеріал з подвійними фалоімітаторами пропонує реалістичні деталі, оригінальний дизайн головки пеніса та текстури вен. Спеціально розроблений для гри в парі або соло. Супер гнучкий матеріал. Цей подвійний донг можна використовувати з гелем на водній основі для збільшення стимуляції. лисиці. Ці подвійні фалоімітатори можна використовувати з гелем на водній основі для збільшення стимуляції. Загальна довжина 33,5 см, діаметр 3,6 см</description>
             <name_ua>Фалоімітатор Flexible Double Dong Red</name_ua>
             <description_ua>Подвійні фалоімітатори пропонують реалістичні деталі, оригінальний дизайн головки пеніса та текстури вен. Спеціально розроблений для гри в парі або соло. Супер гнучкий матеріал з подвійними фалоімітаторами пропонує реалістичні деталі, оригінальний дизайн головки пеніса та текстури вен. Спеціально розроблений для гри в парі або соло. Супер гнучкий матеріал. Цей подвійний донг можна використовувати з гелем на водній основі для збільшення стимуляції. лисиці. Ці подвійні фалоімітатори можна використовувати з гелем на водній основі для збільшення стимуляції. Загальна довжина 33,5 см, діаметр 3,6 см</description_ua>
+            </offer>
+        <offer id="BW-008083" available="true">
+                <erp>BW-008083</erp>
+            <barcode>6959532318371</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/25087-baile__temptation_bigger_man_multispeed</url>
+            <price>757.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>18</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/BW-008083.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65b8d302d5794.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65b8d302eb4f1.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65b8d30308189.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65b8d30316db6.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65b8d30325f10.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65b8d30335adf.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65b8d30349a33.jpeg</picture>
+            <name>Вібратор BAILE  Temptation Bigger Man, Multispeed</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor />
+            <model>Вібратор BAILE  Temptation Bigger Man, Multispeed</model>
+            <description>Цей гарячий чоловічок має ідеально сформований фалоімітатор із вібруючим і обертовим пенісом. Ви можете покласти його на спину на будь-яку плоску поверхню, щоб торкнутися його скульптурних м’язів грудей, коли ви будете на ньому із задоволенням. Спробуйте з вашою улюбленою мастилом на водній основі, щоб отримати додатковий досвід на вологих умовах.&lt;br /&gt;
+Мастурбатор: 19 см х 17,5 см&lt;br /&gt;
+Пеніс: 13 см х 3,5 см</description>
+            <name_ua>Вібратор BAILE  Temptation Bigger Man, Multispeed</name_ua>
+            <description_ua>Цей гарячий чоловічок має ідеально сформований фалоімітатор із вібруючим і обертовим пенісом. Ви можете покласти його на спину на будь-яку плоску поверхню, щоб торкнутися його скульптурних м’язів грудей, коли ви будете на ньому із задоволенням. Спробуйте з вашою улюбленою мастилом на водній основі, щоб отримати додатковий досвід на вологих умовах.&lt;br /&gt;
+Мастурбатор: 19 см х 17,5 см&lt;br /&gt;
+Пеніс: 13 см х 3,5 см</description_ua>
             </offer>
         <offer id="BI-014765" available="true">
                 <erp>BI-014765</erp>
@@ -21080,6 +21054,70 @@ Sex Swing In Door - це чудовий інструмент, який допо�
             <description>Еротичні відкриті стринги з бусинками Pearlove figi czarne XS/S</description>
             <name_ua>Еротичні відкриті стринги з бусинками Pearlove figi czarne XS/S</name_ua>
             <description_ua>Еротичні відкриті стринги з бусинками Pearlove figi czarne XS/S</description_ua>
+            </offer>
+        <offer id="26-00191" available="true">
+                <erp>26-00191</erp>
+            <barcode>5906233081586</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31646-vibrator_luxe_usb_9_functions_of_vibration_and_tapping</url>
+            <price>1815.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>18</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_316436719655cafd82.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6719655af2e6b.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6719655b1c950.jpeg</picture>
+            <name>Вібратор Luxe USB 9 functions of vibration and tapping</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Вібратор Luxe USB 9 functions of vibration and tapping</model>
+            <description>Luxe – вібратор преміум-класу, який підніме ваш досвід на абсолютно новий рівень. Оснащений 9 функціями вібрації та стимулюючого постукування, він розроблений, щоб забезпечити інтенсивне та різноманітне задоволення.&lt;br /&gt;
+Від тонких пульсацій до глибоких вібрацій, Luxe пропонує широкий спектр налаштувань, які ідеально відповідають вашим бажанням. Інноваційна функція постукування додає грі унікальний ритм, забезпечуючи глибшу та чуттєвішу стимуляцію.&lt;br /&gt;
+Заряджаючись через USB, він завжди буде готовий надати вам унікальний досвід – коли завгодно. Його елегантний сучасний дизайн та інтуїтивно зрозуміле керування роблять цей вібратор ідеальним вибором для тих, хто шукає розкішного задоволення та найвищої якості.</description>
+            <name_ua>Вібратор Luxe USB 9 functions of vibration and tapping</name_ua>
+            <description_ua>Luxe – вібратор преміум-класу, який підніме ваш досвід на абсолютно новий рівень. Оснащений 9 функціями вібрації та стимулюючого постукування, він розроблений, щоб забезпечити інтенсивне та різноманітне задоволення.&lt;br /&gt;
+Від тонких пульсацій до глибоких вібрацій, Luxe пропонує широкий спектр налаштувань, які ідеально відповідають вашим бажанням. Інноваційна функція постукування додає грі унікальний ритм, забезпечуючи глибшу та чуттєвішу стимуляцію.&lt;br /&gt;
+Заряджаючись через USB, він завжди буде готовий надати вам унікальний досвід – коли завгодно. Його елегантний сучасний дизайн та інтуїтивно зрозуміле керування роблять цей вібратор ідеальним вибором для тих, хто шукає розкішного задоволення та найвищої якості.</description_ua>
+            </offer>
+        <offer id="26-00192" available="true">
+                <erp>26-00192</erp>
+            <barcode>5906233081593</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31647-vibrator_corse_usb_36_functions_of_vibration_and_tapping</url>
+            <price>1915.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>18</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_316446719daaf98c5c.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6719daacb8b34.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6719daace62a0.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6719daad10bfc.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6719daad286f2.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6719daad46734.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6719daad65a02.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6719daad7d56d.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6719daada05d4.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6719daadc7747.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6719daade8a4d.jpeg</picture>
+            <name>Вібратор Corse USB 36 functions of vibration and tapping</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Вібратор Corse USB 36 functions of vibration and tapping</model>
+            <description>Corse – wyjątkowy wibrator, który łączy elegancję z niezrównanymi możliwościami stymulacji. Wykonany z wysokiej jakości silikonu oraz ABS, zapewnia delikatność w dotyku i trwałość, jakiej oczekujesz od akcesoriów klasy premium.&lt;br /&gt;
+&lt;br /&gt;
+Zachwyć się 36 unikalnymi funkcjami wibracji i stymulującego tappingu, które pozwalają na nieograniczoną personalizację doznań. Od subtelnych, pulsujących fal po intensywne, rytmiczne stukania, Corse dostosowuje się do Twoich pragnień, oferując pełne spektrum przyjemności. Idealny zarówno do łagodnej, jak i głębokiej stymulacji, ten wibrator gwarantuje niezapomniane chwile.&lt;br /&gt;
+&lt;br /&gt;
+Ładowanie przez USB sprawia, że jest zawsze gotowy do Corse – унікальний вібратор, який поєднує в собі елегантність з неперевершеними можливостями стимуляції. Виготовлений із високоякісного силікону та АБС-пластику, він забезпечує м’якість на дотик і довговічність, яких ви очікуєте від аксесуарів преміум-класу.&lt;br /&gt;
+Будьте вражені 36 унікальними функціями вібрації та стимулюючого постукування, які дозволяють необмежену персоналізацію. Від тонких, пульсуючих хвиль до інтенсивних, ритмічних постукувань, Corse адаптується до ваших бажань, пропонуючи повний спектр задоволення. Ідеально підходить як для ніжної, так і для глибокої стимуляції, цей вібратор гарантує незабутні моменти.&lt;br /&gt;
+Зарядка через USB робить його завжди готовим до роботи, а його стильний і ергономічний дизайн забезпечує комфорт використання навіть під час найтриваліших сесій. Незалежно від того, чи досліджуєте ви свої бажання самостійно чи з партнером, Corse є ключем до інтенсивного та розкішного задоволення.</description>
+            <name_ua>Вібратор Corse USB 36 functions of vibration and tapping</name_ua>
+            <description_ua>Corse – wyjątkowy wibrator, który łączy elegancję z niezrównanymi możliwościami stymulacji. Wykonany z wysokiej jakości silikonu oraz ABS, zapewnia delikatność w dotyku i trwałość, jakiej oczekujesz od akcesoriów klasy premium.&lt;br /&gt;
+&lt;br /&gt;
+Zachwyć się 36 unikalnymi funkcjami wibracji i stymulującego tappingu, które pozwalają na nieograniczoną personalizację doznań. Od subtelnych, pulsujących fal po intensywne, rytmiczne stukania, Corse dostosowuje się do Twoich pragnień, oferując pełne spektrum przyjemności. Idealny zarówno do łagodnej, jak i głębokiej stymulacji, ten wibrator gwarantuje niezapomniane chwile.&lt;br /&gt;
+&lt;br /&gt;
+Ładowanie przez USB sprawia, że jest zawsze gotowy do Corse – унікальний вібратор, який поєднує в собі елегантність з неперевершеними можливостями стимуляції. Виготовлений із високоякісного силікону та АБС-пластику, він забезпечує м’якість на дотик і довговічність, яких ви очікуєте від аксесуарів преміум-класу.&lt;br /&gt;
+Будьте вражені 36 унікальними функціями вібрації та стимулюючого постукування, які дозволяють необмежену персоналізацію. Від тонких, пульсуючих хвиль до інтенсивних, ритмічних постукувань, Corse адаптується до ваших бажань, пропонуючи повний спектр задоволення. Ідеально підходить як для ніжної, так і для глибокої стимуляції, цей вібратор гарантує незабутні моменти.&lt;br /&gt;
+Зарядка через USB робить його завжди готовим до роботи, а його стильний і ергономічний дизайн забезпечує комфорт використання навіть під час найтриваліших сесій. Незалежно від того, чи досліджуєте ви свої бажання самостійно чи з партнером, Corse є ключем до інтенсивного та розкішного задоволення.</description_ua>
             </offer>
         <offer id="42-22141134051" available="true">
                 <erp>42-22141134051</erp>
@@ -26109,35 +26147,6 @@ Magoon - гарантія приємних і захоплюючих момен�
             <name_ua>Мастурбатор PRETTY LOVE HEDY WHITE </name_ua>
             <description_ua>Мастурбатор виготовлений з надм'якого, реалістичного матеріалу. Без вібрації. Всередині мастурбатора є текстури, які масажують і стимулюють. Завдяки присосці, що замикається, ви можете регулювати кут і насолоджуватися неймовірним задоволенням </description_ua>
             </offer>
-        <offer id="BW-008083" available="true">
-                <erp>BW-008083</erp>
-            <barcode>6959532318371</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/25087-baile__temptation_bigger_man_multispeed</url>
-            <price>757.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>18</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/BW-008083.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65b8d302d5794.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65b8d302eb4f1.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65b8d30308189.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65b8d30316db6.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65b8d30325f10.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65b8d30335adf.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65b8d30349a33.jpeg</picture>
-            <name>Вібратор BAILE  Temptation Bigger Man, Multispeed</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor />
-            <model>Вібратор BAILE  Temptation Bigger Man, Multispeed</model>
-            <description>Цей гарячий чоловічок має ідеально сформований фалоімітатор із вібруючим і обертовим пенісом. Ви можете покласти його на спину на будь-яку плоску поверхню, щоб торкнутися його скульптурних м’язів грудей, коли ви будете на ньому із задоволенням. Спробуйте з вашою улюбленою мастилом на водній основі, щоб отримати додатковий досвід на вологих умовах.&lt;br /&gt;
-Мастурбатор: 19 см х 17,5 см&lt;br /&gt;
-Пеніс: 13 см х 3,5 см</description>
-            <name_ua>Вібратор BAILE  Temptation Bigger Man, Multispeed</name_ua>
-            <description_ua>Цей гарячий чоловічок має ідеально сформований фалоімітатор із вібруючим і обертовим пенісом. Ви можете покласти його на спину на будь-яку плоску поверхню, щоб торкнутися його скульптурних м’язів грудей, коли ви будете на ньому із задоволенням. Спробуйте з вашою улюбленою мастилом на водній основі, щоб отримати додатковий досвід на вологих умовах.&lt;br /&gt;
-Мастурбатор: 19 см х 17,5 см&lt;br /&gt;
-Пеніс: 13 см х 3,5 см</description_ua>
-            </offer>
         <offer id="MC08-2" available="true">
                 <erp>MC08-2</erp>
             <barcode>5903661803070</barcode>
@@ -29856,70 +29865,6 @@ G для Goddess 1: Водонепроникний (IPX7) кролячий ві�
 - Оксамитовий силікон - матеріал з шовковистою гладкістю, який підвищує задоволення та комфорт.&lt;br /&gt;
 - Додатковий язичок - унікальна конструкція, яка підсилює стимуляцію і забезпечує багаторазовий оргазм.&lt;br /&gt;
 Цей вібратор є ідеальним доповненням до спальні для пар, які бажають інтенсивного, чуттєвого та повного вібрації задоволення. Це ідеальне рішення для тих, хто шукає незабутніх, чуттєвих вражень.</description_ua>
-            </offer>
-        <offer id="26-00191" available="true">
-                <erp>26-00191</erp>
-            <barcode>5906233081586</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31646-vibrator_luxe_usb_9_functions_of_vibration_and_tapping</url>
-            <price>1815.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>18</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_316436719655cafd82.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6719655af2e6b.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6719655b1c950.jpeg</picture>
-            <name>Вібратор Luxe USB 9 functions of vibration and tapping</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Вібратор Luxe USB 9 functions of vibration and tapping</model>
-            <description>Luxe – вібратор преміум-класу, який підніме ваш досвід на абсолютно новий рівень. Оснащений 9 функціями вібрації та стимулюючого постукування, він розроблений, щоб забезпечити інтенсивне та різноманітне задоволення.&lt;br /&gt;
-Від тонких пульсацій до глибоких вібрацій, Luxe пропонує широкий спектр налаштувань, які ідеально відповідають вашим бажанням. Інноваційна функція постукування додає грі унікальний ритм, забезпечуючи глибшу та чуттєвішу стимуляцію.&lt;br /&gt;
-Заряджаючись через USB, він завжди буде готовий надати вам унікальний досвід – коли завгодно. Його елегантний сучасний дизайн та інтуїтивно зрозуміле керування роблять цей вібратор ідеальним вибором для тих, хто шукає розкішного задоволення та найвищої якості.</description>
-            <name_ua>Вібратор Luxe USB 9 functions of vibration and tapping</name_ua>
-            <description_ua>Luxe – вібратор преміум-класу, який підніме ваш досвід на абсолютно новий рівень. Оснащений 9 функціями вібрації та стимулюючого постукування, він розроблений, щоб забезпечити інтенсивне та різноманітне задоволення.&lt;br /&gt;
-Від тонких пульсацій до глибоких вібрацій, Luxe пропонує широкий спектр налаштувань, які ідеально відповідають вашим бажанням. Інноваційна функція постукування додає грі унікальний ритм, забезпечуючи глибшу та чуттєвішу стимуляцію.&lt;br /&gt;
-Заряджаючись через USB, він завжди буде готовий надати вам унікальний досвід – коли завгодно. Його елегантний сучасний дизайн та інтуїтивно зрозуміле керування роблять цей вібратор ідеальним вибором для тих, хто шукає розкішного задоволення та найвищої якості.</description_ua>
-            </offer>
-        <offer id="26-00192" available="true">
-                <erp>26-00192</erp>
-            <barcode>5906233081593</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31647-vibrator_corse_usb_36_functions_of_vibration_and_tapping</url>
-            <price>1915.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>18</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_316446719daaf98c5c.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6719daacb8b34.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6719daace62a0.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6719daad10bfc.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6719daad286f2.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6719daad46734.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6719daad65a02.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6719daad7d56d.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6719daada05d4.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6719daadc7747.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6719daade8a4d.jpeg</picture>
-            <name>Вібратор Corse USB 36 functions of vibration and tapping</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Вібратор Corse USB 36 functions of vibration and tapping</model>
-            <description>Corse – wyjątkowy wibrator, który łączy elegancję z niezrównanymi możliwościami stymulacji. Wykonany z wysokiej jakości silikonu oraz ABS, zapewnia delikatność w dotyku i trwałość, jakiej oczekujesz od akcesoriów klasy premium.&lt;br /&gt;
-&lt;br /&gt;
-Zachwyć się 36 unikalnymi funkcjami wibracji i stymulującego tappingu, które pozwalają na nieograniczoną personalizację doznań. Od subtelnych, pulsujących fal po intensywne, rytmiczne stukania, Corse dostosowuje się do Twoich pragnień, oferując pełne spektrum przyjemności. Idealny zarówno do łagodnej, jak i głębokiej stymulacji, ten wibrator gwarantuje niezapomniane chwile.&lt;br /&gt;
-&lt;br /&gt;
-Ładowanie przez USB sprawia, że jest zawsze gotowy do Corse – унікальний вібратор, який поєднує в собі елегантність з неперевершеними можливостями стимуляції. Виготовлений із високоякісного силікону та АБС-пластику, він забезпечує м’якість на дотик і довговічність, яких ви очікуєте від аксесуарів преміум-класу.&lt;br /&gt;
-Будьте вражені 36 унікальними функціями вібрації та стимулюючого постукування, які дозволяють необмежену персоналізацію. Від тонких, пульсуючих хвиль до інтенсивних, ритмічних постукувань, Corse адаптується до ваших бажань, пропонуючи повний спектр задоволення. Ідеально підходить як для ніжної, так і для глибокої стимуляції, цей вібратор гарантує незабутні моменти.&lt;br /&gt;
-Зарядка через USB робить його завжди готовим до роботи, а його стильний і ергономічний дизайн забезпечує комфорт використання навіть під час найтриваліших сесій. Незалежно від того, чи досліджуєте ви свої бажання самостійно чи з партнером, Corse є ключем до інтенсивного та розкішного задоволення.</description>
-            <name_ua>Вібратор Corse USB 36 functions of vibration and tapping</name_ua>
-            <description_ua>Corse – wyjątkowy wibrator, który łączy elegancję z niezrównanymi możliwościami stymulacji. Wykonany z wysokiej jakości silikonu oraz ABS, zapewnia delikatność w dotyku i trwałość, jakiej oczekujesz od akcesoriów klasy premium.&lt;br /&gt;
-&lt;br /&gt;
-Zachwyć się 36 unikalnymi funkcjami wibracji i stymulującego tappingu, które pozwalają na nieograniczoną personalizację doznań. Od subtelnych, pulsujących fal po intensywne, rytmiczne stukania, Corse dostosowuje się do Twoich pragnień, oferując pełne spektrum przyjemności. Idealny zarówno do łagodnej, jak i głębokiej stymulacji, ten wibrator gwarantuje niezapomniane chwile.&lt;br /&gt;
-&lt;br /&gt;
-Ładowanie przez USB sprawia, że jest zawsze gotowy do Corse – унікальний вібратор, який поєднує в собі елегантність з неперевершеними можливостями стимуляції. Виготовлений із високоякісного силікону та АБС-пластику, він забезпечує м’якість на дотик і довговічність, яких ви очікуєте від аксесуарів преміум-класу.&lt;br /&gt;
-Будьте вражені 36 унікальними функціями вібрації та стимулюючого постукування, які дозволяють необмежену персоналізацію. Від тонких, пульсуючих хвиль до інтенсивних, ритмічних постукувань, Corse адаптується до ваших бажань, пропонуючи повний спектр задоволення. Ідеально підходить як для ніжної, так і для глибокої стимуляції, цей вібратор гарантує незабутні моменти.&lt;br /&gt;
-Зарядка через USB робить його завжди готовим до роботи, а його стильний і ергономічний дизайн забезпечує комфорт використання навіть під час найтриваліших сесій. Незалежно від того, чи досліджуєте ви свої бажання самостійно чи з партнером, Corse є ключем до інтенсивного та розкішного задоволення.</description_ua>
             </offer>
         <offer id="36-CP.1154" available="true">
                 <erp>36-CP.1154</erp>
@@ -43978,6 +43923,30 @@ JO All-in-One Sensual Massage Glide – це масажний ковзаючий
             <name_ua>Лубрикант Intt Coffee Massage Gel 30ml</name_ua>
             <description_ua>&lt;p&gt;Intt Coffee Massage Gel 30 мл - це компактний лубрикант на водній основі з ароматом кави, який також може використовуватися як масажний гель. Його формула забезпечує зволоження і зменшення тертя, а також додає приємний кавовий аромат, що створює особливу атмосферу під час інтимних моментів і масажу.&lt;br /&gt;&lt;br /&gt;Основні переваги:&lt;br /&gt;&lt;br /&gt;1. Аромат кави: Лубрикант має насичений аромат кави, який додає особливого настрою та розслаблення під час використання.&lt;br /&gt;2. Водна основа: Має водну основу, що робить його сумісним з латексними презервативами і секс-іграшками. Легко змивається водою.&lt;br /&gt;3. Зволоження і комфорт: Забезпечує тривале зволоження, зменшуючи тертя і підвищуючи комфорт під час інтимних моментів.&lt;br /&gt;4. Компактний об’єм: Флакон об’ємом 30 мл ідеально підходить для подорожей або для використання в невеликих дозах, забезпечуючи зручність у застосуванні.&lt;br /&gt;&lt;br /&gt;Спосіб застосування:&lt;br /&gt;&lt;br /&gt;Нанесіть невелику кількість гелю на інтимні зони, секс-іграшки або на шкіру для масажу. Рівномірно розподіліть і насолоджуйтеся зволоженням і ароматом кави.&lt;br /&gt;&lt;br /&gt;Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;• Уникайте контакту з очима.&lt;br /&gt;• Зберігайте у недоступному для дітей місці.&lt;br /&gt;• Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;• Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;Чому обирають Intt Coffee Massage Gel 30 мл:&lt;br /&gt;&lt;br /&gt;Intt Coffee Massage Gel 30 мл - це ідеальний вибір для тих, хто шукає зручний і ароматизований лубрикант, який також може використовуватися для масажу. Його водна формула забезпечує комфортне зволоження, а компактний об’єм робить його зручним для використання в будь-яких умовах.&lt;/p&gt;</description_ua>
             </offer>
+        <offer id="69-21234" available="true">
+                <erp>69-21234</erp>
+            <barcode>5600298351195</barcode>
+            <quantity_in_stock>6</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/18192-prolongator_xtra_time_delay_gel</url>
+            <price>687.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>40</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/69-21234.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_684f015c9392e.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_684f015ca5aee.webp</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_684f015cd6e0d.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_684f015cecac2.png</picture>
+            <name>Пролонгатор Orgie  Xtra Time delay gel</name>
+            <Отображать>Да</Отображать>
+            <stock>6</stock>
+            <vendor>ORGIE COSMETICS</vendor>
+            <model>Пролонгатор Orgie  Xtra Time delay gel</model>
+            <description>Гель для затримки еякуляції містить натуральні активні інгредієнти, які знижують чутливість статевого члена. Завдяки унікальній формулі Xtra Time подовжує час статевого акту, забезпечуючи більше задоволення для обох партнерів. &lt;br /&gt;
+Склад: Аква, спирт, гліцерин, пропіленгліколь, полісорбат 20, натрій поліакрилатцет-6, карбомер, парфуми, олія листя менти арвенсіс, гідрогенізований полідецен, феноксиетанол, стирол / акрилат кополімер, амінометилпропанол</description>
+            <name_ua>Пролонгатор Orgie  Xtra Time delay gel</name_ua>
+            <description_ua>Гель для затримки еякуляції містить натуральні активні інгредієнти, які знижують чутливість статевого члена. Завдяки унікальній формулі Xtra Time подовжує час статевого акту, забезпечуючи більше задоволення для обох партнерів. &lt;br /&gt;
+Склад: Аква, спирт, гліцерин, пропіленгліколь, полісорбат 20, натрій поліакрилатцет-6, карбомер, парфуми, олія листя менти арвенсіс, гідрогенізований полідецен, феноксиетанол, стирол / акрилат кополімер, амінометилпропанол</description_ua>
+            </offer>
         <offer id="731-00050" available="true">
                 <erp>731-00050</erp>
             <barcode>5903268071193</barcode>
@@ -47019,30 +46988,6 @@ Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Simmondsia C
             <description>Цей вібратор забезпечує неймовірно приємну стимуляцію, поєднуючи надінтенсивні вібрації з продуманою формою. Виготовлений з високоякісного силікону з полірованою пластиковою основою, цей вібратор є плавним, вишуканим та має 12 потужних вібраційних режимів. Це так мило, що сяє блакитне світло, таке чудове та блискуче.</description>
             <name_ua>PRETTY LOVE SAMPSON Purple 12 function vibrations</name_ua>
             <description_ua>Цей вібратор забезпечує неймовірно приємну стимуляцію, поєднуючи надінтенсивні вібрації з продуманою формою. Виготовлений з високоякісного силікону з полірованою пластиковою основою, цей вібратор є плавним, вишуканим та має 12 потужних вібраційних режимів. Це так мило, що сяє блакитне світло, таке чудове та блискуче.</description_ua>
-            </offer>
-        <offer id="69-21234" available="true">
-                <erp>69-21234</erp>
-            <barcode>5600298351195</barcode>
-            <quantity_in_stock>7</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/18192-prolongator_xtra_time_delay_gel</url>
-            <price>687.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>40</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/69-21234.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_684f015c9392e.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_684f015ca5aee.webp</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_684f015cd6e0d.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_684f015cecac2.png</picture>
-            <name>Пролонгатор Orgie  Xtra Time delay gel</name>
-            <Отображать>Да</Отображать>
-            <stock>7</stock>
-            <vendor>ORGIE COSMETICS</vendor>
-            <model>Пролонгатор Orgie  Xtra Time delay gel</model>
-            <description>Гель для затримки еякуляції містить натуральні активні інгредієнти, які знижують чутливість статевого члена. Завдяки унікальній формулі Xtra Time подовжує час статевого акту, забезпечуючи більше задоволення для обох партнерів. &lt;br /&gt;
-Склад: Аква, спирт, гліцерин, пропіленгліколь, полісорбат 20, натрій поліакрилатцет-6, карбомер, парфуми, олія листя менти арвенсіс, гідрогенізований полідецен, феноксиетанол, стирол / акрилат кополімер, амінометилпропанол</description>
-            <name_ua>Пролонгатор Orgie  Xtra Time delay gel</name_ua>
-            <description_ua>Гель для затримки еякуляції містить натуральні активні інгредієнти, які знижують чутливість статевого члена. Завдяки унікальній формулі Xtra Time подовжує час статевого акту, забезпечуючи більше задоволення для обох партнерів. &lt;br /&gt;
-Склад: Аква, спирт, гліцерин, пропіленгліколь, полісорбат 20, натрій поліакрилатцет-6, карбомер, парфуми, олія листя менти арвенсіс, гідрогенізований полідецен, феноксиетанол, стирол / акрилат кополімер, амінометилпропанол</description_ua>
             </offer>
         <offer id="42-05348200000" available="true">
                 <erp>42-05348200000</erp>
@@ -54943,6 +54888,28 @@ Plaisir Secret став синонімом косметики найвищої �
 Склад (INCI):&lt;br /&gt;
 Вода, гідрогенізований гідролізат крохмалю, гідроксиетилцелюлоза, лактат натрію, бензоат натрію, ароматизатор, сахарин, бензиловий спирт, лімонен, хлорид натрію, молочна кислота.</description_ua>
             </offer>
+        <offer id="19-1071" available="true">
+                <erp>19-1071</erp>
+            <barcode>3548960010716</barcode>
+            <quantity_in_stock>13</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2316-krapli_love_drops_20_ml</url>
+            <price>432.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>43</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/19-1071.jpg</picture>
+            <name>Краплі Love Drops, 20 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>13</stock>
+            <vendor>RUF</vendor>
+            <model>Краплі Love Drops, 20 мл</model>
+            <description>Love Drops, потужний та ефективний афродизіак у краплі для жінок та панів, особливо стимулюючий стан. Прогресивний препарат, який допомагає збільшити чутливість до сексуальних стимулів, як у станівісності Він стимулює почуття, розширює задоволення та посилює оргазм, що дозволяє отримати ще більше задоволення. Загалом кілька крапель, доданих у будь -який напій, достатньо, щоб побачити його фантастичний. Краплі збуджують апетит до сексу.</description>
+            <param name="Країна">Франція</param>
+            <param name="Для кого">Для двох</param>
+            <param name="Місткість (мл)">20</param>
+            <param name="Марка/Лінія">Ruf</param>
+            <name_ua>Краплі Love Drops, 20 мл</name_ua>
+            <description_ua>Love Drops, потужний та ефективний афродизіак у краплі для жінок та панів, особливо стимулюючий стан. Прогресивний препарат, який допомагає збільшити чутливість до сексуальних стимулів, як у станівісності Він стимулює почуття, розширює задоволення та посилює оргазм, що дозволяє отримати ще більше задоволення. Загалом кілька крапель, доданих у будь -який напій, достатньо, щоб побачити його фантастичний. Краплі збуджують апетит до сексу.</description_ua>
+            </offer>
         <offer id="19-31063" available="true">
                 <erp>19-31063</erp>
             <barcode>3548968310634</barcode>
@@ -56089,28 +56056,6 @@ Plaisir Secret став синонімом косметики найвищої �
             <description>Парфуми Miyoshi Miyagi Next "X" 2,4 ml Femme</description>
             <name_ua>Парфуми Miyoshi Miyagi Next X 2,4 ml Femme</name_ua>
             <description_ua>Парфуми Miyoshi Miyagi Next "X" 2,4 ml Femme</description_ua>
-            </offer>
-        <offer id="19-1071" available="true">
-                <erp>19-1071</erp>
-            <barcode>3548960010716</barcode>
-            <quantity_in_stock>15</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2316-krapli_love_drops_20_ml</url>
-            <price>432.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>43</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/19-1071.jpg</picture>
-            <name>Краплі Love Drops, 20 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>15</stock>
-            <vendor>RUF</vendor>
-            <model>Краплі Love Drops, 20 мл</model>
-            <description>Love Drops, потужний та ефективний афродизіак у краплі для жінок та панів, особливо стимулюючий стан. Прогресивний препарат, який допомагає збільшити чутливість до сексуальних стимулів, як у станівісності Він стимулює почуття, розширює задоволення та посилює оргазм, що дозволяє отримати ще більше задоволення. Загалом кілька крапель, доданих у будь -який напій, достатньо, щоб побачити його фантастичний. Краплі збуджують апетит до сексу.</description>
-            <param name="Країна">Франція</param>
-            <param name="Для кого">Для двох</param>
-            <param name="Місткість (мл)">20</param>
-            <param name="Марка/Лінія">Ruf</param>
-            <name_ua>Краплі Love Drops, 20 мл</name_ua>
-            <description_ua>Love Drops, потужний та ефективний афродизіак у краплі для жінок та панів, особливо стимулюючий стан. Прогресивний препарат, який допомагає збільшити чутливість до сексуальних стимулів, як у станівісності Він стимулює почуття, розширює задоволення та посилює оргазм, що дозволяє отримати ще більше задоволення. Загалом кілька крапель, доданих у будь -який напій, достатньо, щоб побачити його фантастичний. Краплі збуджують апетит до сексу.</description_ua>
             </offer>
         <offer id="19-3055" available="true">
                 <erp>19-3055</erp>
