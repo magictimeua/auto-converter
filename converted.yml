@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-10-08 12:00">
+<yml_catalog date="2025-10-08 12:45">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -1301,6 +1301,25 @@ Super Rutscher - це ідеальний лубрикант для тих, хт�
             <description_ua>Ніжна малинова атласна маска з урізноманітнює ваше сексуальне життя і привнесе в неї нотку заборонності&lt;br /&gt;
 &lt;br /&gt;
 Матеріал: 95% поліестер, 5% спандекс. Колір: Малиновий. Розмір: S / M. Виробник: Obsessive.</description_ua>
+            </offer>
+        <offer id="50-64412131" available="true">
+                <erp>50-64412131</erp>
+            <barcode>5906733329331</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/3623-bilizna__poczochy_cienkie_clasic_erotica_calze_lux_czerwone_sm</url>
+            <price>535.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>62</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_362361c9a341df146.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_61c9a34104347.png</picture>
+            <name>Панчохи EROTICA CALZE LUX Czerwone S/M</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>GABRIELLA</vendor>
+            <model>Панчохи EROTICA CALZE LUX Czerwone S/M</model>
+            <description>Панчохи EROTICA CALZE LUX Czerwone S/M</description>
+            <name_ua>Панчохи EROTICA CALZE LUX Czerwone S/M</name_ua>
+            <description_ua>Панчохи EROTICA CALZE LUX Czerwone S/M</description_ua>
             </offer>
         <offer id="19-4002" available="true">
                 <erp>19-4002</erp>
