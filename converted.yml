@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-10-09 12:00">
+<yml_catalog date="2025-10-09 13:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -1507,6 +1507,24 @@ Super Rutscher - це ідеальний лубрикант для тих, хт�
             <description>Два маленьких двигуна: один у робочій частині та один у кліторному відростку - одночасно впливатимуть на найбільш чутливу зону. Довжина - 20 см. Робоча довжина - 10 см. Кліторний відросток - 6,5 см. Діаметр - 3,3 см. 10 режимів вібрації.</description>
             <name_ua>Кляп BK Knebel Silikon r.</name_ua>
             <description_ua>Два маленьких двигуна: один у робочій частині та один у кліторному відростку - одночасно впливатимуть на найбільш чутливу зону. Довжина - 20 см. Робоча довжина - 10 см. Кліторний відросток - 6,5 см. Діаметр - 3,3 см. 10 режимів вібрації.</description_ua>
+            </offer>
+        <offer id="40-12630-01" available="true">
+                <erp>40-12630-01</erp>
+            <barcode>827160111151</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/3797-lubrikant_pur_med_soft_glide_100ml</url>
+            <price>1057.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>158</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/40-12630-01.jpg</picture>
+            <name>Лубрикант Pjur MED Soft glide 100ml</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>PJUR</vendor>
+            <model>Лубрикант Pjur MED Soft glide 100ml</model>
+            <description>Cиліконова формула pjur med SOFT glide, спеціально розроблена для дуже сухої та чутливої слизової оболонки в області геніталій. Концентрована високоякісна силіконова формула, збагачена олією жожоба, забезпечує чудове та надзвичайно довготривале гладке змащування та м’яку шкіру. Масло жожоба підвищує пружність шкіри, володіє розгладжуючими і заспокійливими властивостями. Ємкість 100мл</description>
+            <name_ua>Лубрикант Pjur MED Soft glide 100ml</name_ua>
+            <description_ua>Cиліконова формула pjur med SOFT glide, спеціально розроблена для дуже сухої та чутливої слизової оболонки в області геніталій. Концентрована високоякісна силіконова формула, збагачена олією жожоба, забезпечує чудове та надзвичайно довготривале гладке змащування та м’яку шкіру. Масло жожоба підвищує пружність шкіри, володіє розгладжуючими і заспокійливими властивостями. Ємкість 100мл</description_ua>
             </offer>
         <offer id="42-06232960000" available="true">
                 <erp>42-06232960000</erp>
@@ -3717,24 +3735,6 @@ Satisfyer Pro 4 Couples – це інноваційна іграшка, яка �
             <name_ua>Трусики Lace String Pearls black L</name_ua>
             <description_ua>Захоплююче і спокусливе водночас! Красива підтяжка без промежини з рядом перлин над промежиною. До пояса і з надзвичайно широким мереживним поясом. Ремені підтяжки регулюються і знімаються. Без панчох. 90% поліамід, 10% спандекс.</description_ua>
             </offer>
-        <offer id="42-25100301611" available="true">
-                <erp>42-25100301611</erp>
-            <barcode>4024144044290</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/22278-crotchless_tights_black_2</url>
-            <price>415.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>62</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-25100301611.jpg</picture>
-            <name>Crotchless Tights black 2</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>ORION</vendor>
-            <model>Crotchless Tights black 2</model>
-            <description>Оксамитові м’які, блискучі колготки -підтяжки з привабливо відкритою зоною промежини. Струнна частина непрозора. 20 деньє. 89% поліамід, 11% спандекс.</description>
-            <name_ua>Crotchless Tights black 2</name_ua>
-            <description_ua>Оксамитові м’які, блискучі колготки -підтяжки з привабливо відкритою зоною промежини. Струнна частина непрозора. 20 деньє. 89% поліамід, 11% спандекс.</description_ua>
-            </offer>
         <offer id="42-26424251041" available="true">
                 <erp>42-26424251041</erp>
             <barcode>4024144444526</barcode>
@@ -5107,32 +5107,6 @@ Satisfyer Pro 4 Couples – це інноваційна іграшка, яка �
 Довжина: 14 см.&lt;br /&gt;
 Ширина: 6.8 см.&lt;br /&gt;
 Діаметр отвору розтягується.</description_ua>
-            </offer>
-        <offer id="BI-014796" available="true">
-                <erp>BI-014796</erp>
-            <barcode>6959532325720</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29410-vaginalyni_kulyki_pretty_love__kegel_ball_iii</url>
-            <price>511.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>142</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_2941061f3d564dbd80.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61f3d561d29c7.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61f3d561e0cf8.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61f3d561ed2c3.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61f3d56203e9e.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61f3d5620f100.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61f3d5621a3f0.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61f3d56225658.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61f3d56232144.png</picture>
-            <name>Вагінальні кульки PRETTY LOVE -KEGEL BALL III</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Вагінальні кульки PRETTY LOVE -KEGEL BALL III</model>
-            <description>Вагінальні кульки PrettyLove Kegel Ball III мають вельми оригінальну конструкцію – елементи з'єднуються між собою еластичним шнурком та розташовуються на різних його кінцях. Кожна куля має всередині рухливий центр тяжкості, що посилює відчуття при еротичних маніпуляціях. Крім того, кульки відрізняються за масою – вага одного становить 50 г, другого 30 г. Аксесуар дуже ефективний при вправах системою Кегеля і дозволяє за короткий час зміцнити вагінальну мускулатуру. Розміри 18,6 х 3,3 см., Довжина перемички 12 см.</description>
-            <name_ua>Вагінальні кульки PRETTY LOVE -KEGEL BALL III</name_ua>
-            <description_ua>Вагінальні кульки PrettyLove Kegel Ball III мають вельми оригінальну конструкцію – елементи з'єднуються між собою еластичним шнурком та розташовуються на різних його кінцях. Кожна куля має всередині рухливий центр тяжкості, що посилює відчуття при еротичних маніпуляціях. Крім того, кульки відрізняються за масою – вага одного становить 50 г, другого 30 г. Аксесуар дуже ефективний при вправах системою Кегеля і дозволяє за короткий час зміцнити вагінальну мускулатуру. Розміри 18,6 х 3,3 см., Довжина перемички 12 см.</description_ua>
             </offer>
         <offer id="BI-014832-1" available="true">
                 <erp>BI-014832-1</erp>
@@ -13904,24 +13878,6 @@ Just with PheroStrong Man від PheroStrong втілює ідеальну га�
             <name_ua>Мастурбатор Vagina Heart Of Love 34 function USB</name_ua>
             <description_ua>Мастурбатор (форма піхви). 2 потужні двигуни дозволяють регулювати масаж по всій довжині пеніса. 34 функції інтенсивної вібрації, пульсації та ескалації. М'який і реалістичний матеріал - кібершкіра, пестить своїм дотиком. Текстурована камера для додаткових відчуттів. Мастурбатор має звукові ефекти, які ще більше покращують атмосферу (жіночий звук у ейфорії :)).</description_ua>
             </offer>
-        <offer id="40-12630-01" available="true">
-                <erp>40-12630-01</erp>
-            <barcode>827160111151</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/3797-lubrikant_pur_med_soft_glide_100ml</url>
-            <price>1057.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>158</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/40-12630-01.jpg</picture>
-            <name>Лубрикант Pjur MED Soft glide 100ml</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>PJUR</vendor>
-            <model>Лубрикант Pjur MED Soft glide 100ml</model>
-            <description>Cиліконова формула pjur med SOFT glide, спеціально розроблена для дуже сухої та чутливої слизової оболонки в області геніталій. Концентрована високоякісна силіконова формула, збагачена олією жожоба, забезпечує чудове та надзвичайно довготривале гладке змащування та м’яку шкіру. Масло жожоба підвищує пружність шкіри, володіє розгладжуючими і заспокійливими властивостями. Ємкість 100мл</description>
-            <name_ua>Лубрикант Pjur MED Soft glide 100ml</name_ua>
-            <description_ua>Cиліконова формула pjur med SOFT glide, спеціально розроблена для дуже сухої та чутливої слизової оболонки в області геніталій. Концентрована високоякісна силіконова формула, збагачена олією жожоба, забезпечує чудове та надзвичайно довготривале гладке змащування та м’яку шкіру. Масло жожоба підвищує пружність шкіри, володіє розгладжуючими і заспокійливими властивостями. Ємкість 100мл</description_ua>
-            </offer>
         <offer id="42-05199440000" available="true">
                 <erp>42-05199440000</erp>
             <barcode>4024144520978</barcode>
@@ -20557,6 +20513,25 @@ Bend it Rechargeable пропонує більше автономності, п�
 Нота серця: жасмин, ладан&lt;br /&gt;
 Базові ноти: сандалове дерево, ваніль&lt;br /&gt;
 Створений для сильних і впевнених у собі жінок, які хочуть виразити свою індивідуальність і елегантність. Феромон PheroStrong Your Choice for Women - це данина жіночій силі, винахідливості та рішучості, які залишаються непохитними в динамічному та мінливому світі.</description_ua>
+            </offer>
+        <offer id="50-22634126" available="true">
+                <erp>50-22634126</erp>
+            <barcode>5906733321083</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31493-panchohi_calze_cher_czarne_ml</url>
+            <price>287.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>62</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3149066ed8900dc1f6.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66ed88ffe6b68.jpeg</picture>
+            <name>Панчохи Calze Cher Czarne M/L</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor>GABRIELLA</vendor>
+            <model>Панчохи Calze Cher Czarne M/L</model>
+            <description>Панчохи Calze Cher Czarne M/L</description>
+            <name_ua>Панчохи Calze Cher Czarne M/L</name_ua>
+            <description_ua>Панчохи Calze Cher Czarne M/L</description_ua>
             </offer>
         <offer id="BI-014220-A3" available="true">
                 <erp>BI-014220-A3</erp>
@@ -29223,25 +29198,6 @@ USB перезаряджається</description_ua>
             <name_ua>Кляп у вигляді фалоса Silicone Penis Ball Gag Blue</name_ua>
             <description_ua>Відчуйте захоплюючу зустріч із TABOOM Silicone Penis Ball Gag. Силіконова кулька і регульований ремінь забезпечують комфорт і легке регулювання. Носячи кляп, ви можете використовувати свій пеніс, щоб дражнити свого партнера та посилювати відчуття фізичного збудження. Підсилюйте хвилювання, оскільки воно посилює відчуття безпорадності та зменшує мову, створюючи інтенсивні та захоплюючі враження. Будьте готові до визвольної подорожі з цим високоякісним кляпом. Розмір упаковки 22 х 10 х 5,4 см</description_ua>
             </offer>
-        <offer id="50-22634126" available="true">
-                <erp>50-22634126</erp>
-            <barcode>5906733321083</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31493-panchohi_calze_cher_czarne_ml</url>
-            <price>287.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>62</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3149066ed8900dc1f6.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed88ffe6b68.jpeg</picture>
-            <name>Панчохи Calze Cher Czarne M/L</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>GABRIELLA</vendor>
-            <model>Панчохи Calze Cher Czarne M/L</model>
-            <description>Панчохи Calze Cher Czarne M/L</description>
-            <name_ua>Панчохи Calze Cher Czarne M/L</name_ua>
-            <description_ua>Панчохи Calze Cher Czarne M/L</description_ua>
-            </offer>
         <offer id="54-6439" available="true">
                 <erp>54-6439</erp>
             <barcode>5903661806439</barcode>
@@ -32243,6 +32199,24 @@ Bullet вібратор, «кролячі вушка» та виступи дл�
 &lt;br /&gt;
 Обов'язково зволожуйте скляну пробку мастилами, щоб її проникнення було легким та приємним.</description_ua>
             </offer>
+        <offer id="42-05108660000" available="true">
+                <erp>42-05108660000</erp>
+            <barcode>4024144518111</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2943-erektsiyni_kilytsya_silicone_cock_ring_3</url>
+            <price>386.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>37</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/42-05108660000.jpg</picture>
+            <name>Ерекційні кільця Silicone cock ring 3</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>ORION</vendor>
+            <model>Ерекційні кільця Silicone cock ring 3</model>
+            <description>Три чорних кільця для тривалої ерекції. Внутрішній діаметр 5 см, 4,2 см і 3,2 см. Матеріал: силікон.</description>
+            <name_ua>Ерекційні кільця Silicone cock ring 3</name_ua>
+            <description_ua>Три чорних кільця для тривалої ерекції. Внутрішній діаметр 5 см, 4,2 см і 3,2 см. Матеріал: силікон.</description_ua>
+            </offer>
         <offer id="42-05170890000" available="true">
                 <erp>42-05170890000</erp>
             <barcode>4024144517084</barcode>
@@ -34227,6 +34201,24 @@ Pjur Back Door Regenerating Anal Glide підходить для викорис�
 Акумулятор: батарея&lt;br /&gt;
 Водонепроникний: Так&lt;br /&gt;
 Висота: 57,4 мм</description_ua>
+            </offer>
+        <offer id="67-00087" available="true">
+                <erp>67-00087</erp>
+            <barcode>5903661802998</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/24876-analyniy_lantsyuzhokelly_anal_10_beads_blue</url>
+            <price>131.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>32</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/67-00087.jpg</picture>
+            <name>Анальний ланцюжокJelly Anal 10 Beads Blue</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Анальний ланцюжокJelly Anal 10 Beads Blue</model>
+            <description>Анальний ланцюжокJelly Anal 10 Beads Blue</description>
+            <name_ua>Анальний ланцюжокJelly Anal 10 Beads Blue</name_ua>
+            <description_ua>Анальний ланцюжокJelly Anal 10 Beads Blue</description_ua>
             </offer>
         <offer id="67-00072" available="true">
                 <erp>67-00072</erp>
@@ -38085,24 +38077,6 @@ Helianthus Annuus (Sunflower) Seed Oil, Glycine Soja (Soybean) Oil, Simmondsia C
             <name_ua>Вібратор  реалістичний Вібратор  NS Big Vibe</name_ua>
             <description_ua>Потужний, дуже натуралістичний вібратор Nature Skin Big Vibe. Прямий, злегка нахилений ствол має рельєфну фактуру з великою кількістю жилок, що рівномірно покривають поверхню аксесуара. При виготовленні фалоса використана кібершкіра – сучасний, ультрареалістичний матеріал, майже невідмінний на дотик живого людського тіла. Для живлення використовуються 2 шт АА, які слід придбати додатково. Довжина 23 см, діаметр 4,5 см</description_ua>
             </offer>
-        <offer id="42-05108660000" available="true">
-                <erp>42-05108660000</erp>
-            <barcode>4024144518111</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2943-erektsiyni_kilytsya_silicone_cock_ring_3</url>
-            <price>386.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>37</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-05108660000.jpg</picture>
-            <name>Ерекційні кільця Silicone cock ring 3</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>ORION</vendor>
-            <model>Ерекційні кільця Silicone cock ring 3</model>
-            <description>Три чорних кільця для тривалої ерекції. Внутрішній діаметр 5 см, 4,2 см і 3,2 см. Матеріал: силікон.</description>
-            <name_ua>Ерекційні кільця Silicone cock ring 3</name_ua>
-            <description_ua>Три чорних кільця для тривалої ерекції. Внутрішній діаметр 5 см, 4,2 см і 3,2 см. Матеріал: силікон.</description_ua>
-            </offer>
         <offer id="42-05217520000" available="true">
                 <erp>42-05217520000</erp>
             <barcode>4024144523658</barcode>
@@ -39536,24 +39510,6 @@ Satisfyer Double Classic має 10 режимів вібрації та стим
             <description>Віброяйце Vibrating Silicone Love EGG USB 10 Function / Heating / Voice Control</description>
             <name_ua>Віброяйце Vibrating Silicone Love EGG USB 10 Function / Heating / Voice Control</name_ua>
             <description_ua>Віброяйце Vibrating Silicone Love EGG USB 10 Function / Heating / Voice Control</description_ua>
-            </offer>
-        <offer id="67-00087" available="true">
-                <erp>67-00087</erp>
-            <barcode>5903661802998</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/24876-analyniy_lantsyuzhokelly_anal_10_beads_blue</url>
-            <price>131.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>32</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/67-00087.jpg</picture>
-            <name>Анальний ланцюжокJelly Anal 10 Beads Blue</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Анальний ланцюжокJelly Anal 10 Beads Blue</model>
-            <description>Анальний ланцюжокJelly Anal 10 Beads Blue</description>
-            <name_ua>Анальний ланцюжокJelly Anal 10 Beads Blue</name_ua>
-            <description_ua>Анальний ланцюжокJelly Anal 10 Beads Blue</description_ua>
             </offer>
         <offer id="67-00081" available="true">
                 <erp>67-00081</erp>
@@ -54339,6 +54295,28 @@ Plaisir Secret став синонімом косметики найвищої �
             <name_ua>Крем Penimax 50 ML</name_ua>
             <description_ua>Крем для ерекції Penimax. Відтепер ви можете надзвичайно простим та ефективним способом відновити та навіть покращити свою еротичну життєву силу. Крем для чоловіків, призначений для вирішення інтимних проблем чоловіків різного віку. Він посилює сексуальне збудження.</description_ua>
             </offer>
+        <offer id="19-3055" available="true">
+                <erp>19-3055</erp>
+            <barcode>3548960030554</barcode>
+            <quantity_in_stock>14</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2638-lubrikant_x_strong</url>
+            <price>374.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>41</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/19-3055.jpg</picture>
+            <name>Спрей для посилення ерекції X Strong Penis Power 15 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>14</stock>
+            <vendor>RUF</vendor>
+            <model>Спрей для посилення ерекції X Strong Penis Power 15 мл</model>
+            <description>Спрей, створений для чоловіків, які не відчувають повного сексуального задоволення через занадто слабку або занадто коротку ерекцію. Це збільшує приплив крові до статевого члена, що робить пеніс більш твердим.&lt;br /&gt;
+&lt;br /&gt;
+Інгредієнти:   вода, гліцерин, ізопропіловий спирт, пропіленгліколь, гідрогенізована касторова олія PEG 40, саліцилат гліколю, феноксиетанол, метилпарабен, етилпарабен, пропілпарабен, бутилпарабен, ізобутилпарабен, імідазолідініл, імідазолідиніл, імідазолідиніл, імідазолідініл, ізреазол. ., Лімонен, Ліналол.</description>
+            <name_ua>Спрей для посилення ерекції X Strong Penis Power 15 мл</name_ua>
+            <description_ua>Спрей, створений для чоловіків, які не відчувають повного сексуального задоволення через занадто слабку або занадто коротку ерекцію. Це збільшує приплив крові до статевого члена, що робить пеніс більш твердим.&lt;br /&gt;
+&lt;br /&gt;
+Інгредієнти:   вода, гліцерин, ізопропіловий спирт, пропіленгліколь, гідрогенізована касторова олія PEG 40, саліцилат гліколю, феноксиетанол, метилпарабен, етилпарабен, пропілпарабен, бутилпарабен, ізобутилпарабен, імідазолідініл, імідазолідиніл, імідазолідиніл, імідазолідініл, ізреазол. ., Лімонен, Ліналол.</description_ua>
+            </offer>
         <offer id="731-00002" available="true">
                 <erp>731-00002</erp>
             <barcode>5903268070073</barcode>
@@ -54831,28 +54809,6 @@ Plaisir Secret став синонімом косметики найвищої �
 Тривала стійкість&lt;br /&gt;
 ідходить для інтимних моментів&lt;br /&gt;
 </description_ua>
-            </offer>
-        <offer id="19-3055" available="true">
-                <erp>19-3055</erp>
-            <barcode>3548960030554</barcode>
-            <quantity_in_stock>15</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2638-lubrikant_x_strong</url>
-            <price>374.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>41</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/19-3055.jpg</picture>
-            <name>Спрей для посилення ерекції X Strong Penis Power 15 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>15</stock>
-            <vendor>RUF</vendor>
-            <model>Спрей для посилення ерекції X Strong Penis Power 15 мл</model>
-            <description>Спрей, створений для чоловіків, які не відчувають повного сексуального задоволення через занадто слабку або занадто коротку ерекцію. Це збільшує приплив крові до статевого члена, що робить пеніс більш твердим.&lt;br /&gt;
-&lt;br /&gt;
-Інгредієнти:   вода, гліцерин, ізопропіловий спирт, пропіленгліколь, гідрогенізована касторова олія PEG 40, саліцилат гліколю, феноксиетанол, метилпарабен, етилпарабен, пропілпарабен, бутилпарабен, ізобутилпарабен, імідазолідініл, імідазолідиніл, імідазолідиніл, імідазолідініл, ізреазол. ., Лімонен, Ліналол.</description>
-            <name_ua>Спрей для посилення ерекції X Strong Penis Power 15 мл</name_ua>
-            <description_ua>Спрей, створений для чоловіків, які не відчувають повного сексуального задоволення через занадто слабку або занадто коротку ерекцію. Це збільшує приплив крові до статевого члена, що робить пеніс більш твердим.&lt;br /&gt;
-&lt;br /&gt;
-Інгредієнти:   вода, гліцерин, ізопропіловий спирт, пропіленгліколь, гідрогенізована касторова олія PEG 40, саліцилат гліколю, феноксиетанол, метилпарабен, етилпарабен, пропілпарабен, бутилпарабен, ізобутилпарабен, імідазолідініл, імідазолідиніл, імідазолідиніл, імідазолідініл, ізреазол. ., Лімонен, Ліналол.</description_ua>
             </offer>
         <offer id="19-2061" available="true">
                 <erp>19-2061</erp>
