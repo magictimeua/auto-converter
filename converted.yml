@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-10-13 14:00">
+<yml_catalog date="2025-10-13 15:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -39151,19 +39151,19 @@ Satisfyer Double Classic має 10 режимів вібрації та стим
                 <erp>BI-014702</erp>
             <barcode>6959532324181</barcode>
             <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/17923-pretty_love_ira_10_functions_purple</url>
+            <url>http://blissclub.com.ua/product/17923-vbrator_dlya_stimulyac_tochki_g_pretty_love_ira_1_purple</url>
             <price>565.00</price>
             <currencyId>UAH</currencyId>
-            <categoryId>0</categoryId>
+            <categoryId>19</categoryId>
             <picture>https://blissclub.com.ua/images/product_variants/BI-014702.jpg</picture>
-            <name>PRETTY LOVE IRA 10 functions Purple</name>
+            <name>Вібратор для стимуляції точки G PRETTY LOVE IRA 1 Purple</name>
             <Отображать>Да</Отображать>
             <stock>5</stock>
-            <vendor />
+            <vendor>PRETTY LOVE/BAILE</vendor>
             <model>PRETTY LOVE IRA 10 functions Purple</model>
-            <description>Цей вібратор такий же приємний, як і його повнолітні родичі, і фантастичний для початківців. Плавний та тонкий вібратор для початківців є улюбленим з багатьох причин. Його реалістична голова має 12 функцій вібрації та 3 функції натискання для чудової, сексуальної та шовковистої атмосфери, залишаючи вас повністю задоволеними протягом усієї ночі.</description>
-            <name_ua>PRETTY LOVE IRA 10 functions Purple</name_ua>
-            <description_ua>Цей вібратор такий же приємний, як і його повнолітні родичі, і фантастичний для початківців. Плавний та тонкий вібратор для початківців є улюбленим з багатьох причин. Його реалістична голова має 12 функцій вібрації та 3 функції натискання для чудової, сексуальної та шовковистої атмосфери, залишаючи вас повністю задоволеними протягом усієї ночі.</description_ua>
+            <description>&lt;p&gt;Елегантний вібратор із медичного силікону, створений для задоволення різних жіночих потреб. Має 10 функцій вібрації, які дозволяють обрати ідеальний ритм для кожного настрою. Ергономічна форма забезпечує комфортне використання, а спеціально вигнута голівка точно стимулює точку G, даруючи інтенсивні, нові відчуття. М’який, приємний на дотик матеріал та стильний дизайн роблять цю іграшку не лише ефективною, а й естетичною.&lt;/p&gt;</description>
+            <name_ua>Вібратор для стимуляції точки G PRETTY LOVE IRA 1 Purple</name_ua>
+            <description_ua>&lt;p&gt;Елегантний вібратор із медичного силікону, створений для задоволення різних жіночих потреб. Має 10 функцій вібрації, які дозволяють обрати ідеальний ритм для кожного настрою. Ергономічна форма забезпечує комфортне використання, а спеціально вигнута голівка точно стимулює точку G, даруючи інтенсивні, нові відчуття. М’який, приємний на дотик матеріал та стильний дизайн роблять цю іграшку не лише ефективною, а й естетичною.&lt;/p&gt;</description_ua>
             </offer>
         <offer id="BI-014706-1" available="true">
                 <erp>BI-014706-1</erp>
