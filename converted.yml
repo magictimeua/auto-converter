@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-11-10 15:15">
+<yml_catalog date="2025-11-10 16:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -6554,6 +6554,29 @@ Satisfyer Endless Joy Multi Vibrator постачається з кабелем 
             <name_ua>Вібратор з подвійною стимуляцїєю Spark pink</name_ua>
             <description_ua>Вібратор з подвійною стимуляцїєю Spark pink</description_ua>
             </offer>
+        <offer id="BI-210164" available="true">
+                <erp>BI-210164</erp>
+            <barcode>6959532320855</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30582-oralyniy_vibrostimulyator_pretty_love__elsa</url>
+            <price>779.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>14</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3058264b4fb901e8e8.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64b4fb8d44de1.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64b4fb8d56fae.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64b4fb8d69494.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64b4fb8d7b1c4.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64b4fb8d8c064.jpg</picture>
+            <name>Оральний вібростимулятор PRETTY LOVE -ELSA</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Оральний вібростимулятор PRETTY LOVE -ELSA</model>
+            <description>Оральний вібростимулятор PRETTY LOVE -ELSA</description>
+            <name_ua>Оральний вібростимулятор PRETTY LOVE -ELSA</name_ua>
+            <description_ua>Оральний вібростимулятор PRETTY LOVE -ELSA</description_ua>
+            </offer>
         <offer id="69-51546" available="true">
                 <erp>69-51546</erp>
             <barcode>5600298351546</barcode>
@@ -11640,6 +11663,31 @@ Just with PheroStrong Man від PheroStrong втілює ідеальну га�
             <name_ua>Набір вагінальних кульок SET 3 STAGE KEGEL BALL PINK</name_ua>
             <description_ua>Набір містить світло-рожеву кулю вагою 29 грамів, рожеву кулю вагою 40 грамів та темно-рожеву кулю вагою 48 грамів. Регулярне використання цих м'ячів має вирішальне значення для підтримки здоров'я м'язів тазового дна.&lt;br /&gt;
 Набір містить прості інструкції з вправ, які можна виконувати вдома або під наглядом терапевта. Ці гнучкі внутрішні вагінальні м'ячики дозволяють ефективно зміцнювати та підтримувати м'язи тазового дна, дозволяючи вам повною мірою насолоджуватися своєю жіночністю.</description_ua>
+            </offer>
+        <offer id="6-3016" available="true">
+                <erp>6-3016</erp>
+            <barcode>5906233083016</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32397-parfumi_miyoshi_miyagi_next_x24_ml_homme</url>
+            <price>347.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>81</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3239368d3f1df75989.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d3f1de0ba0d.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d3f1de1f176.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d3f1de354f2.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d3f1de50ccb.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d3f1de6645a.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d3f1de7b699.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d3f1de8ed59.png</picture>
+            <name>Парфуми Miyoshi Miyagi Next X2,4 ml Homme</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>WPJ</vendor>
+            <model>Парфуми Miyoshi Miyagi Next X2,4 ml Homme</model>
+            <description>Парфуми Miyoshi Miyagi Next "X"2,4 ml Homme</description>
+            <name_ua>Парфуми Miyoshi Miyagi Next X2,4 ml Homme</name_ua>
+            <description_ua>Парфуми Miyoshi Miyagi Next "X"2,4 ml Homme</description_ua>
             </offer>
         <offer id="95-03618" available="true">
                 <erp>95-03618</erp>
@@ -17976,29 +18024,6 @@ ABS силікон&lt;br /&gt;
             <name_ua>Вібростимулятор PRETTY LOVE - GEMMA</name_ua>
             <description_ua>Вібростимулятор PRETTY LOVE - GEMMA</description_ua>
             </offer>
-        <offer id="BI-210164" available="true">
-                <erp>BI-210164</erp>
-            <barcode>6959532320855</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30582-oralyniy_vibrostimulyator_pretty_love__elsa</url>
-            <price>779.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>14</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3058264b4fb901e8e8.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64b4fb8d44de1.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64b4fb8d56fae.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64b4fb8d69494.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64b4fb8d7b1c4.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64b4fb8d8c064.jpg</picture>
-            <name>Оральний вібростимулятор PRETTY LOVE -ELSA</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Оральний вібростимулятор PRETTY LOVE -ELSA</model>
-            <description>Оральний вібростимулятор PRETTY LOVE -ELSA</description>
-            <name_ua>Оральний вібростимулятор PRETTY LOVE -ELSA</name_ua>
-            <description_ua>Оральний вібростимулятор PRETTY LOVE -ELSA</description_ua>
-            </offer>
         <offer id="BM-00900T73Z" available="true">
                 <erp>BM-00900T73Z</erp>
             <barcode>6959532333930</barcode>
@@ -18395,29 +18420,6 @@ ABS силікон&lt;br /&gt;
             <description>Універсальний вібромасажер в чорному кольорі з великою круглою головкою. Розкішний аксесуар з продуманими до дрібниць деталями, анатомічними вигинами, плавними формами та неймовірно м'яким оксамитовим покриттям. Підходить як для комплексного масажу усього тіла, так і для стимуляції ерогенних зон. Багатогранний функціонал іграшки включає 60 варіацій роботи (6 рівнів інтенсивності, 10 ритмів), які можна легко комбінувати між собою за допомогою кнопок на корпусі. Довжина - 30,4 см, діаметр - 5,8 см.</description>
             <name_ua>Вібромасажер Satisfyer Planet Wand-er black + rosegold</name_ua>
             <description_ua>Універсальний вібромасажер в чорному кольорі з великою круглою головкою. Розкішний аксесуар з продуманими до дрібниць деталями, анатомічними вигинами, плавними формами та неймовірно м'яким оксамитовим покриттям. Підходить як для комплексного масажу усього тіла, так і для стимуляції ерогенних зон. Багатогранний функціонал іграшки включає 60 варіацій роботи (6 рівнів інтенсивності, 10 ритмів), які можна легко комбінувати між собою за допомогою кнопок на корпусі. Довжина - 30,4 см, діаметр - 5,8 см.</description_ua>
-            </offer>
-        <offer id="731-00115" available="true">
-                <erp>731-00115</erp>
-            <barcode>5903268074323</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30959-gely_dlya_fistingu_medtime__fisting_gel_g5_150_ml</url>
-            <price>493.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>159</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3095665d1ca717970f.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d1ca705a5ef.jpeg</picture>
-            <name>Гель для фістингу MedTime / Fisting Gel G5 150 ml</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>LOVESTIM</vendor>
-            <model>Лубрикант для фістингу MedTime Fisting Gel G5, 150 мл</model>
-            <description>&lt;p&gt;MedTime Fisting Gel G5 - це спеціалізований лубрикант, створений для забезпечення максимального комфорту і безпеки під час фістингу. Завдяки своїй густій текстурі та спеціально розробленій формулі, цей гель зменшує тертя і покращує чутливість, що робить інтимні моменти більш приємними і комфортними.&lt;br /&gt;&lt;br /&gt;Основні переваги:&lt;br /&gt;&lt;br /&gt;1. Густа консистенція: Гель має густу і насичену текстуру, що забезпечує тривале зволоження і плавне ковзання, необхідне для фістингу.&lt;br /&gt;2. Спеціально розроблена формула: Fisting Gel G5 розроблений для зменшення тертя і запобігання дискомфорту, що забезпечує безболісний і комфортний досвід.&lt;br /&gt;3. Великий об’єм: Флакон об’ємом 150 мл є економічним і довговічним рішенням для регулярного використання.&lt;br /&gt;4. Сумісний з латексними виробами: Гель має водну основу, тому його можна безпечно використовувати разом з латексними презервативами і іншими латексними виробами.&lt;br /&gt;5. Легкість у використанні: Гель легко наноситься і рівномірно розподіляється по шкірі, що забезпечує зручність і комфорт під час фістингу.&lt;br /&gt;&lt;br /&gt;Спосіб застосування:&lt;br /&gt;&lt;br /&gt;Нанесіть необхідну кількість гелю на інтимну ділянку або на секс-іграшку перед фістингом. Рівномірно розподіліть для досягнення оптимального зволоження і комфорту. Після використання промийте зони, на які був нанесений гель, водою.&lt;br /&gt;&lt;br /&gt;Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;• Уникайте контакту з очима.&lt;br /&gt;• Зберігайте у недоступному для дітей місці.&lt;br /&gt;• Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;• Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;Чому обирають MedTime Fisting Gel G5:&lt;br /&gt;&lt;br /&gt;MedTime Fisting Gel G5 - це відмінний вибір для тих, хто шукає ефективний і комфортний гель для фістингу. Його густа текстура і спеціальна формула забезпечують тривале зволоження і комфорт, що робить кожен інтимний момент більш приємним і безпечним.&lt;/p&gt;</description>
-            <param name="Смак">Без смаку</param>
-            <param name="Місткість (мл)">150</param>
-            <param name="Запах">Без запаха</param>
-            <param name="Їстівний">Ні</param>
-            <name_ua>Гель для фістингу MedTime / Fisting Gel G5 150 ml</name_ua>
-            <description_ua>&lt;p&gt;MedTime Fisting Gel G5 - це спеціалізований лубрикант, створений для забезпечення максимального комфорту і безпеки під час фістингу. Завдяки своїй густій текстурі та спеціально розробленій формулі, цей гель зменшує тертя і покращує чутливість, що робить інтимні моменти більш приємними і комфортними.&lt;br /&gt;&lt;br /&gt;Основні переваги:&lt;br /&gt;&lt;br /&gt;1. Густа консистенція: Гель має густу і насичену текстуру, що забезпечує тривале зволоження і плавне ковзання, необхідне для фістингу.&lt;br /&gt;2. Спеціально розроблена формула: Fisting Gel G5 розроблений для зменшення тертя і запобігання дискомфорту, що забезпечує безболісний і комфортний досвід.&lt;br /&gt;3. Великий об’єм: Флакон об’ємом 150 мл є економічним і довговічним рішенням для регулярного використання.&lt;br /&gt;4. Сумісний з латексними виробами: Гель має водну основу, тому його можна безпечно використовувати разом з латексними презервативами і іншими латексними виробами.&lt;br /&gt;5. Легкість у використанні: Гель легко наноситься і рівномірно розподіляється по шкірі, що забезпечує зручність і комфорт під час фістингу.&lt;br /&gt;&lt;br /&gt;Спосіб застосування:&lt;br /&gt;&lt;br /&gt;Нанесіть необхідну кількість гелю на інтимну ділянку або на секс-іграшку перед фістингом. Рівномірно розподіліть для досягнення оптимального зволоження і комфорту. Після використання промийте зони, на які був нанесений гель, водою.&lt;br /&gt;&lt;br /&gt;Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;• Уникайте контакту з очима.&lt;br /&gt;• Зберігайте у недоступному для дітей місці.&lt;br /&gt;• Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;• Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;Чому обирають MedTime Fisting Gel G5:&lt;br /&gt;&lt;br /&gt;MedTime Fisting Gel G5 - це відмінний вибір для тих, хто шукає ефективний і комфортний гель для фістингу. Його густа текстура і спеціальна формула забезпечують тривале зволоження і комфорт, що робить кожен інтимний момент більш приємним і безпечним.&lt;/p&gt;</description_ua>
             </offer>
         <offer id="BW-500007" available="true">
                 <erp>BW-500007</erp>
@@ -21781,6 +21783,50 @@ Dodaj odrobinę lubrykantu na bazie wody do realistycznego otworu Manga Vagina, 
 Kanał wewnętrzny z teksturą pokrytą wypustkami został zaprojektowany tak, aby stymulować i masować członek przy każdym ruchu. Poruszaj się tam i z powrotem, pozwalając szczegółowemu designowi doprowadzić Cię do potężnego orgazmu.&lt;br /&gt;
 &lt;br /&gt;
 Dzięki zamkniętemu zakończeniu, Manga Vagina tworzy ekscytujący efekt ssania, potęgując doznania i wydłużając przyjemność, co sprawia, że każda chwila jest niezapomniana.</description_ua>
+            </offer>
+        <offer id="12-EXSGlow 3" available="true">
+                <erp>12-EXSGlow 3</erp>
+            <barcode>5027701002978</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32209-prezervativi_3_szt_exs_glow</url>
+            <price>182.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_32205688345f829eaa.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_688345f5f13e2.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_688345f687e0d.jpeg</picture>
+            <name>Презервативи 3 SZT EXS Glow</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor>EXS</vendor>
+            <model>Презервативи 3 SZT EXS Glow</model>
+            <description>Освітіть ніч та додайте гостроти веселощам з презервативами EXS Glow-in-the-Dark. Вони поєднують класичний захист з унікальним сяючим ефектом, який здивує та розважить під час інтимних моментів. Вони гарантують ефективний захист від інфекцій, що передаються статевим шляхом (ІПСШ) (включаючи ВІЛ), та небажаної вагітності, а також забезпечують унікальний візуальний досвід.&lt;br /&gt;
+Виготовлені з високоякісного натурального латексу, з прямими стінками та резервуарним наконечником, вони легко вставляються та зручні в носінні. Завдяки силіконовому мастилу вони забезпечують плавне ковзання та підходять для вагінального, орального та анального сексу.&lt;br /&gt;
+Світіння в темряві – вау-фактор під час статевого акту&lt;br /&gt;
+Преміальний натуральний каучуковий латекс&lt;br /&gt;
+Прямі стінки та анатомічний кінчик&lt;br /&gt;
+Попередньо змащений – лубрикант на силіконовій основі (без сперміцидних добавок)&lt;br /&gt;
+Безпечний для використання з лубрикантами на водній основі та силіконовими&lt;br /&gt;
+Веганський, схвалений PETA&lt;br /&gt;
+Сертифікований CE, без спирту, мінімальний термін придатності 3 роки&lt;br /&gt;
+Ширина: 53 мм&lt;br /&gt;
+Довжина: 190 мм&lt;br /&gt;
+Товщина: 0,075 мм&lt;br /&gt;
+Склад:Натуральний каучуковий латекс, силіконовий лубрикант</description>
+            <name_ua>Презервативи 3 SZT EXS Glow</name_ua>
+            <description_ua>Освітіть ніч та додайте гостроти веселощам з презервативами EXS Glow-in-the-Dark. Вони поєднують класичний захист з унікальним сяючим ефектом, який здивує та розважить під час інтимних моментів. Вони гарантують ефективний захист від інфекцій, що передаються статевим шляхом (ІПСШ) (включаючи ВІЛ), та небажаної вагітності, а також забезпечують унікальний візуальний досвід.&lt;br /&gt;
+Виготовлені з високоякісного натурального латексу, з прямими стінками та резервуарним наконечником, вони легко вставляються та зручні в носінні. Завдяки силіконовому мастилу вони забезпечують плавне ковзання та підходять для вагінального, орального та анального сексу.&lt;br /&gt;
+Світіння в темряві – вау-фактор під час статевого акту&lt;br /&gt;
+Преміальний натуральний каучуковий латекс&lt;br /&gt;
+Прямі стінки та анатомічний кінчик&lt;br /&gt;
+Попередньо змащений – лубрикант на силіконовій основі (без сперміцидних добавок)&lt;br /&gt;
+Безпечний для використання з лубрикантами на водній основі та силіконовими&lt;br /&gt;
+Веганський, схвалений PETA&lt;br /&gt;
+Сертифікований CE, без спирту, мінімальний термін придатності 3 роки&lt;br /&gt;
+Ширина: 53 мм&lt;br /&gt;
+Довжина: 190 мм&lt;br /&gt;
+Товщина: 0,075 мм&lt;br /&gt;
+Склад:Натуральний каучуковий латекс, силіконовий лубрикант</description_ua>
             </offer>
         <offer id="36-AMR001BLKOS" available="true">
                 <erp>36-AMR001BLKOS</erp>
@@ -29902,50 +29948,6 @@ USB-акумулятор&lt;br /&gt;
             <description>Вiбратор 10.5" REAL SOFTEE VIBRATING DILDO</description>
             <name_ua>Вiбратор 10.5 REAL SOFTEE VIBRATING DILDO</name_ua>
             <description_ua>Вiбратор 10.5" REAL SOFTEE VIBRATING DILDO</description_ua>
-            </offer>
-        <offer id="12-EXSGlow 3" available="true">
-                <erp>12-EXSGlow 3</erp>
-            <barcode>5027701002978</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32209-prezervativi_3_szt_exs_glow</url>
-            <price>182.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>96</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_32205688345f829eaa.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_688345f5f13e2.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_688345f687e0d.jpeg</picture>
-            <name>Презервативи 3 SZT EXS Glow</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>EXS</vendor>
-            <model>Презервативи 3 SZT EXS Glow</model>
-            <description>Освітіть ніч та додайте гостроти веселощам з презервативами EXS Glow-in-the-Dark. Вони поєднують класичний захист з унікальним сяючим ефектом, який здивує та розважить під час інтимних моментів. Вони гарантують ефективний захист від інфекцій, що передаються статевим шляхом (ІПСШ) (включаючи ВІЛ), та небажаної вагітності, а також забезпечують унікальний візуальний досвід.&lt;br /&gt;
-Виготовлені з високоякісного натурального латексу, з прямими стінками та резервуарним наконечником, вони легко вставляються та зручні в носінні. Завдяки силіконовому мастилу вони забезпечують плавне ковзання та підходять для вагінального, орального та анального сексу.&lt;br /&gt;
-Світіння в темряві – вау-фактор під час статевого акту&lt;br /&gt;
-Преміальний натуральний каучуковий латекс&lt;br /&gt;
-Прямі стінки та анатомічний кінчик&lt;br /&gt;
-Попередньо змащений – лубрикант на силіконовій основі (без сперміцидних добавок)&lt;br /&gt;
-Безпечний для використання з лубрикантами на водній основі та силіконовими&lt;br /&gt;
-Веганський, схвалений PETA&lt;br /&gt;
-Сертифікований CE, без спирту, мінімальний термін придатності 3 роки&lt;br /&gt;
-Ширина: 53 мм&lt;br /&gt;
-Довжина: 190 мм&lt;br /&gt;
-Товщина: 0,075 мм&lt;br /&gt;
-Склад:Натуральний каучуковий латекс, силіконовий лубрикант</description>
-            <name_ua>Презервативи 3 SZT EXS Glow</name_ua>
-            <description_ua>Освітіть ніч та додайте гостроти веселощам з презервативами EXS Glow-in-the-Dark. Вони поєднують класичний захист з унікальним сяючим ефектом, який здивує та розважить під час інтимних моментів. Вони гарантують ефективний захист від інфекцій, що передаються статевим шляхом (ІПСШ) (включаючи ВІЛ), та небажаної вагітності, а також забезпечують унікальний візуальний досвід.&lt;br /&gt;
-Виготовлені з високоякісного натурального латексу, з прямими стінками та резервуарним наконечником, вони легко вставляються та зручні в носінні. Завдяки силіконовому мастилу вони забезпечують плавне ковзання та підходять для вагінального, орального та анального сексу.&lt;br /&gt;
-Світіння в темряві – вау-фактор під час статевого акту&lt;br /&gt;
-Преміальний натуральний каучуковий латекс&lt;br /&gt;
-Прямі стінки та анатомічний кінчик&lt;br /&gt;
-Попередньо змащений – лубрикант на силіконовій основі (без сперміцидних добавок)&lt;br /&gt;
-Безпечний для використання з лубрикантами на водній основі та силіконовими&lt;br /&gt;
-Веганський, схвалений PETA&lt;br /&gt;
-Сертифікований CE, без спирту, мінімальний термін придатності 3 роки&lt;br /&gt;
-Ширина: 53 мм&lt;br /&gt;
-Довжина: 190 мм&lt;br /&gt;
-Товщина: 0,075 мм&lt;br /&gt;
-Склад:Натуральний каучуковий латекс, силіконовий лубрикант</description_ua>
             </offer>
         <offer id="26-00212" available="true">
                 <erp>26-00212</erp>
@@ -42583,31 +42585,6 @@ pjur TOY GLIDE – ідеальний вибір для тих, хто хоче 
             <name_ua>Великий анальний фалоімітатор Large Slim Dildo</name_ua>
             <description_ua>Великий анальний фалоімітатор тілесного кольору, виготовлений з реалістичного матеріалу T-Skin. Ідеальний баланс м'якості та гнучкості створений для зручного використання під час анального сексу. Виріб візуально імітує натуральний пеніс завдяки своїй обтічній головці та прямому стрижню. Спеціальна канавка біля основи дозволяє надійно закріпити фалоімітатор до ануса. Широкий отвір запобігає мимовільному введенню! Великий тонкий фалоімітатор підходить як для початківців, так і для досвідчених користувачів. Загальна довжина: 16,5 см Зовнішній діаметр: 4,8 см</description_ua>
             </offer>
-        <offer id="6-3016" available="true">
-                <erp>6-3016</erp>
-            <barcode>5906233083016</barcode>
-            <quantity_in_stock>6</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32397-parfumi_miyoshi_miyagi_next_x24_ml_homme</url>
-            <price>347.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>81</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3239368d3f1df75989.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68d3f1de0ba0d.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68d3f1de1f176.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68d3f1de354f2.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68d3f1de50ccb.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68d3f1de6645a.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68d3f1de7b699.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68d3f1de8ed59.png</picture>
-            <name>Парфуми Miyoshi Miyagi Next X2,4 ml Homme</name>
-            <Отображать>Да</Отображать>
-            <stock>6</stock>
-            <vendor>WPJ</vendor>
-            <model>Парфуми Miyoshi Miyagi Next X2,4 ml Homme</model>
-            <description>Парфуми Miyoshi Miyagi Next "X"2,4 ml Homme</description>
-            <name_ua>Парфуми Miyoshi Miyagi Next X2,4 ml Homme</name_ua>
-            <description_ua>Парфуми Miyoshi Miyagi Next "X"2,4 ml Homme</description_ua>
-            </offer>
         <offer id="95-03732" available="true">
                 <erp>95-03732</erp>
             <barcode>6934439723732</barcode>
@@ -45187,6 +45164,29 @@ LoveToy Easy Strap-On Set 8.5” — ідеальний набір для пар
             <description_ua>Крем, який стимулює і підвищує чутливість інтимних зон у жінок.&lt;br /&gt;
 Ємкість: 30 мл</description_ua>
             </offer>
+        <offer id="19-31322" available="true">
+                <erp>19-31322</erp>
+            <barcode>3548968313222</barcode>
+            <quantity_in_stock>8</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2453-lubrikant_vagina_gluckscreme_30_ml</url>
+            <price>388.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>42</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_24536363c5ee8480c.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6363c5ed569ff.png</picture>
+            <name>Вагінальний крем для звуження і стимуляції Vagina Gluckscream  30 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>8</stock>
+            <vendor>RUF</vendor>
+            <model>Вагінальний крем для звуження і стимуляції Vagina Gluckscream  30 мл</model>
+            <description>Стимулюючий крем для жінок. Чудовий крем з ефектом зміцнення та підвищення чутливості. Завдяки інгредієнтам, що входять до складу крему, стимулюються ерогенні зони клітора, що робить оргазм більш повним і сильним. Крем також можна використовувати для анального статевого акту.&lt;br /&gt;
+&lt;br /&gt;
+Ємкість: 30 мл.</description>
+            <name_ua>Вагінальний крем для звуження і стимуляції Vagina Gluckscream  30 мл</name_ua>
+            <description_ua>Стимулюючий крем для жінок. Чудовий крем з ефектом зміцнення та підвищення чутливості. Завдяки інгредієнтам, що входять до складу крему, стимулюються ерогенні зони клітора, що робить оргазм більш повним і сильним. Крем також можна використовувати для анального статевого акту.&lt;br /&gt;
+&lt;br /&gt;
+Ємкість: 30 мл.</description_ua>
+            </offer>
         <offer id="19-3055" available="true">
                 <erp>19-3055</erp>
             <barcode>3548960030554</barcode>
@@ -46552,29 +46552,6 @@ Lovetoy X-Basic Bullet Long — мінімалістичний, стильний
             <description_ua>Інтимний крем для жінок, який звужує і підвищує чутливість інтимних частин жінки. Рекомендується жінкам з порушеннями оргазму або зниженим задоволенням під час статевого акту. Застосування крему полягає в тому, щоб стимулювати інтимні зони та зробити їх більш чутливими. М’яке втирання крему в ерогенні зони допоможе посилити бажання жінки.&lt;br /&gt;
 &lt;br /&gt;
 Інгредієнти:  вода, гліцерин, пропіленгліколь, диметикон, феноксиетанол, триетаноламін, карбомер, екстракт насіння Trigonella Foenum Graecum, екстракт кореня Zinziber Officinale, олія кори кориці камфори, Acrylates/C10-Camphora Cross, Acrylates / C10kylthylxyte, 10-30 Олія, гераніол, лімонен, ліналоол.</description_ua>
-            </offer>
-        <offer id="19-31322" available="true">
-                <erp>19-31322</erp>
-            <barcode>3548968313222</barcode>
-            <quantity_in_stock>9</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2453-lubrikant_vagina_gluckscreme_30_ml</url>
-            <price>388.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>42</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_24536363c5ee8480c.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6363c5ed569ff.png</picture>
-            <name>Вагінальний крем для звуження і стимуляції Vagina Gluckscream  30 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>9</stock>
-            <vendor>RUF</vendor>
-            <model>Вагінальний крем для звуження і стимуляції Vagina Gluckscream  30 мл</model>
-            <description>Стимулюючий крем для жінок. Чудовий крем з ефектом зміцнення та підвищення чутливості. Завдяки інгредієнтам, що входять до складу крему, стимулюються ерогенні зони клітора, що робить оргазм більш повним і сильним. Крем також можна використовувати для анального статевого акту.&lt;br /&gt;
-&lt;br /&gt;
-Ємкість: 30 мл.</description>
-            <name_ua>Вагінальний крем для звуження і стимуляції Vagina Gluckscream  30 мл</name_ua>
-            <description_ua>Стимулюючий крем для жінок. Чудовий крем з ефектом зміцнення та підвищення чутливості. Завдяки інгредієнтам, що входять до складу крему, стимулюються ерогенні зони клітора, що робить оргазм більш повним і сильним. Крем також можна використовувати для анального статевого акту.&lt;br /&gt;
-&lt;br /&gt;
-Ємкість: 30 мл.</description_ua>
             </offer>
         <offer id="731-00002" available="true">
                 <erp>731-00002</erp>
