@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-11-13 15:15">
+<yml_catalog date="2025-11-13 18:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
     <url>http://blissclub.com.ua/</url>
-    <eurate>49.05</eurate>
+    <eurate>49.20</eurate>
     <currencies>
             <currency id="UAH" rate="1" />
         </currencies>
@@ -4699,6 +4699,42 @@ Magoon – запорука приємних і захоплюючих моме�
             <name_ua>Білизна Peonesia body L/XL</name_ua>
             <description_ua>Білизна Peonesia body L/XL</description_ua>
             </offer>
+        <offer id="64-00017" available="true">
+                <erp>64-00017</erp>
+            <barcode>5903661800338</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/28920-analyna_probka___awellery_gold_plugpink</url>
+            <price>386.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>31</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/64-00017.jpg</picture>
+            <name>Анальна пробка - Jawellery Gold PLUGPink</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Анальна пробка - Jawellery Gold PLUGPink</model>
+            <description>Красива анальна прикраса золотистого кольору з медичної сталі Boss Series Jewellery. При основі оснащена рожевим декоративним каменем.  Довжина проникнення 5 см (всього 7 см), діаметр до 2,7 см. </description>
+            <name_ua>Анальна пробка - Jawellery Gold PLUGPink</name_ua>
+            <description_ua>Красива анальна прикраса золотистого кольору з медичної сталі Boss Series Jewellery. При основі оснащена рожевим декоративним каменем.  Довжина проникнення 5 см (всього 7 см), діаметр до 2,7 см. </description_ua>
+            </offer>
+        <offer id="64-00019" available="true">
+                <erp>64-00019</erp>
+            <barcode>5903661800352</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/28922-analyna_probka___awellery_gold_plugred</url>
+            <price>386.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>31</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/64-00019.jpg</picture>
+            <name>Анальна пробка  -Jawellery Gold PLUGRed</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Анальна пробка  -Jawellery Gold PLUGRed</model>
+            <description>Виключні аналітичні прикраси з нержавіючої столиці. Високоякісна нержавіюча стійка гарантує безпеку вашого тіла. Пробка ідеально гладка, без гостричних країн та не підпорядкована шкірі. Ідеально підходить для новачків та досвідчених улюблених аналогічних гри. Виготовлення з металу дозволяє нам охороняти або нагрівати його, щоб покращити відновлення. Гарний діамант, прикріплений до основ, елегантний та чутливий. Ідеально профільована, спеціально анатомічна форма полегшує нанесення. Цибулінна форма чудово стимулює. Вузька шия з алмазною основою, навпаки, дозволить м'яз оберігатися та підтримувати пробку на місці. Загальна довжина 7 см. Діаметр 2,7 см. Стильна упаковка у вигляді замшевого чола.</description>
+            <name_ua>Анальна пробка  -Jawellery Gold PLUGRed</name_ua>
+            <description_ua>Виключні аналітичні прикраси з нержавіючої столиці. Високоякісна нержавіюча стійка гарантує безпеку вашого тіла. Пробка ідеально гладка, без гостричних країн та не підпорядкована шкірі. Ідеально підходить для новачків та досвідчених улюблених аналогічних гри. Виготовлення з металу дозволяє нам охороняти або нагрівати його, щоб покращити відновлення. Гарний діамант, прикріплений до основ, елегантний та чутливий. Ідеально профільована, спеціально анатомічна форма полегшує нанесення. Цибулінна форма чудово стимулює. Вузька шия з алмазною основою, навпаки, дозволить м'яз оберігатися та підтримувати пробку на місці. Загальна довжина 7 см. Діаметр 2,7 см. Стильна упаковка у вигляді замшевого чола.</description_ua>
+            </offer>
         <offer id="64-00053" available="true">
                 <erp>64-00053</erp>
             <barcode>5903661800703</barcode>
@@ -6210,6 +6246,71 @@ Double Fun сильно стимулює обох партнерів під ча
 &lt;br /&gt;
 Матеріал TPR, вібрує, обертається, озвучує, затягує та стискає, регульована температура, 4 батарейки типу АА, колір: рожевий</description_ua>
             </offer>
+        <offer id="8-5810" available="true">
+                <erp>8-5810</erp>
+            <barcode>8411134135810</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30254-masazhniy_gely_control_thai_passion_200_ml</url>
+            <price>508.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>49</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3025463efbaddbc724.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63efbadc16e6e.png</picture>
+            <name>Масажний гель CONTROL THAI PASSION, 200 ML</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor />
+            <model>Масажний гель CONTROL THAI PASSION 200 ML</model>
+            <description>Масажний гель CONTROL THAI PASSION – це вишуканий засіб, який поєднує в собі розкішний аромат тайських квітів та інтенсивну зволожуючу дію. З об’ємом 200 мл, цей гель ідеально підходить для створення розслаблюючих і чуттєвих моментів масажу.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Основні переваги:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+	1.	Розкішний аромат: Гель має аромат тайських квітів, який створює атмосферу розслаблення і екзотичної насолоди.&lt;br /&gt;&lt;br /&gt;
+	2.	Інтенсивне зволоження: Завдяки спеціально розробленій формулі, гель інтенсивно зволожує шкіру, залишаючи її м’якою та гладкою на дотик.&lt;br /&gt;&lt;br /&gt;
+	3.	Ніжна текстура: Легка і ніжна текстура гелю забезпечує легке ковзання рук під час масажу, сприяючи максимальному комфорту.&lt;br /&gt;&lt;br /&gt;
+	4.	Натуральні інгредієнти: Виготовлений з натуральних компонентів, без парабенів і штучних добавок, що робить його безпечним для всіх типів шкіри.&lt;br /&gt;&lt;br /&gt;
+	5.	Великий об’єм: Флакон 200 мл забезпечує достатню кількість гелю для багаторазового використання.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Нанесіть необхідну кількість гелю на долоні, розітріть їх для активації аромату, і потім рівномірно розподіліть гель по шкірі, масажуючи обрані ділянки тіла. Використовуйте повільні, м’які рухи для досягнення максимального розслаблення та комфорту.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+	•	Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
+	•	Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
+	•	Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
+	•	Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Чому обирають масажний гель CONTROL THAI PASSION:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Масажний гель CONTROL THAI PASSION – це ідеальний вибір для тих, хто шукає засіб для створення незабутніх масажних моментів. Його зволожуючі властивості, приємний аромат і ніжна текстура забезпечують максимальний комфорт і задоволення, роблячи кожен масаж особливим. Подаруйте собі та своєму партнерові чуттєві моменти з цим вишуканим масажним гелем.</description>
+            <name_ua>Масажний гель CONTROL THAI PASSION, 200 ML</name_ua>
+            <description_ua>Масажний гель CONTROL THAI PASSION – це вишуканий засіб, який поєднує в собі розкішний аромат тайських квітів та інтенсивну зволожуючу дію. З об’ємом 200 мл, цей гель ідеально підходить для створення розслаблюючих і чуттєвих моментів масажу.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Основні переваги:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+	1.	Розкішний аромат: Гель має аромат тайських квітів, який створює атмосферу розслаблення і екзотичної насолоди.&lt;br /&gt;&lt;br /&gt;
+	2.	Інтенсивне зволоження: Завдяки спеціально розробленій формулі, гель інтенсивно зволожує шкіру, залишаючи її м’якою та гладкою на дотик.&lt;br /&gt;&lt;br /&gt;
+	3.	Ніжна текстура: Легка і ніжна текстура гелю забезпечує легке ковзання рук під час масажу, сприяючи максимальному комфорту.&lt;br /&gt;&lt;br /&gt;
+	4.	Натуральні інгредієнти: Виготовлений з натуральних компонентів, без парабенів і штучних добавок, що робить його безпечним для всіх типів шкіри.&lt;br /&gt;&lt;br /&gt;
+	5.	Великий об’єм: Флакон 200 мл забезпечує достатню кількість гелю для багаторазового використання.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Нанесіть необхідну кількість гелю на долоні, розітріть їх для активації аромату, і потім рівномірно розподіліть гель по шкірі, масажуючи обрані ділянки тіла. Використовуйте повільні, м’які рухи для досягнення максимального розслаблення та комфорту.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+	•	Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
+	•	Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
+	•	Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
+	•	Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Чому обирають масажний гель CONTROL THAI PASSION:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Масажний гель CONTROL THAI PASSION – це ідеальний вибір для тих, хто шукає засіб для створення незабутніх масажних моментів. Його зволожуючі властивості, приємний аромат і ніжна текстура забезпечують максимальний комфорт і задоволення, роблячи кожен масаж особливим. Подаруйте собі та своєму партнерові чуттєві моменти з цим вишуканим масажним гелем.</description_ua>
+            </offer>
         <offer id="60-00040" available="true">
                 <erp>60-00040</erp>
             <barcode>5903661808044</barcode>
@@ -6584,6 +6685,45 @@ Satisfyer Endless Joy Multi Vibrator постачається з кабелем 
             <name_ua>Вібратор Bella,36 funkcji, USB Purple</name_ua>
             <description_ua>Вібратор Bella,36 funkcji, USB Purple</description_ua>
             </offer>
+        <offer id="8-9832" available="true">
+                <erp>8-9832</erp>
+            <barcode>8058664099832</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30647-lubrikant_na_vodniy_osnovi_control_chocolate_75_ml</url>
+            <price>580.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>46</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3064764c4f75749600.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6875566bb9c4d.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6875566bcd9c0.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6875566bdd02b.jpg</picture>
+            <name>Лубрикант на водній основі Control Chocolate 75 ml</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor />
+            <model>Лубрикант на водній основі Control Chocolate 75 ml</model>
+            <description>Лубрикант з алоє CONTROL ALOE 75 ML піклується про вас: освіжаючі та пом’якшувальні властивості алое разом із змащуючою дією гелю роблять його хорошим помічником у разі вагінальної сухості та в ті моменти, коли ви хочете надати свіжості, чуттєвості і делікатний дотик до ваших стосунків. Лубрикант з алое з натуральним екстрактом алое - це фізіологічний продукт. Не жирний, не залишає плям і сумісний із використанням презервативів.&lt;br /&gt;
+&lt;br /&gt;
+Технічна інформація:&lt;br /&gt;
+&lt;br /&gt;
+Ємність: 75 мл&lt;br /&gt;
+Склад: на водній основі, без цукру.&lt;br /&gt;
+Колір: Прозорий&lt;br /&gt;
+Аромат: жасмин&lt;br /&gt;
+Характеристики: Лубрикант і пом'якшувач&lt;br /&gt;
+Зроблено в Італії</description>
+            <name_ua>Лубрикант на водній основі Control Chocolate 75 ml</name_ua>
+            <description_ua>Лубрикант з алоє CONTROL ALOE 75 ML піклується про вас: освіжаючі та пом’якшувальні властивості алое разом із змащуючою дією гелю роблять його хорошим помічником у разі вагінальної сухості та в ті моменти, коли ви хочете надати свіжості, чуттєвості і делікатний дотик до ваших стосунків. Лубрикант з алое з натуральним екстрактом алое - це фізіологічний продукт. Не жирний, не залишає плям і сумісний із використанням презервативів.&lt;br /&gt;
+&lt;br /&gt;
+Технічна інформація:&lt;br /&gt;
+&lt;br /&gt;
+Ємність: 75 мл&lt;br /&gt;
+Склад: на водній основі, без цукру.&lt;br /&gt;
+Колір: Прозорий&lt;br /&gt;
+Аромат: жасмин&lt;br /&gt;
+Характеристики: Лубрикант і пом'якшувач&lt;br /&gt;
+Зроблено в Італії</description_ua>
+            </offer>
         <offer id="BI-014957" available="true">
                 <erp>BI-014957</erp>
             <barcode>6959532327205</barcode>
@@ -6726,6 +6866,31 @@ Satisfyer Endless Joy Multi Vibrator постачається з кабелем 
             <description>Презервативи MY.SIZE 60 mm 10шт</description>
             <name_ua>Презервативи MY.SIZE 60 mm 10шт</name_ua>
             <description_ua>Презервативи MY.SIZE 60 mm 10шт</description_ua>
+            </offer>
+        <offer id="66-LV352033" available="true">
+                <erp>66-LV352033</erp>
+            <barcode>6970260902267</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30756-masturbator_vagina_streetgirls_13</url>
+            <price>4521.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>156</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_307536528eafd5e9f0.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6528eaf8079bf.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6528eaf823194.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6528eaf83c3a0.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6528eaf853d7f.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6528eaf86d5f1.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6528eaf88d359.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6528eaf89ff77.jpg</picture>
+            <name>Мастурбатор вагiна Streetgirl's #13</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>LOVETOYS</vendor>
+            <model>Мастурбатор вагiна Streetgirl's #13</model>
+            <description>Мастурбатор вагiна Streetgirl's #13</description>
+            <name_ua>Мастурбатор вагiна Streetgirl's #13</name_ua>
+            <description_ua>Мастурбатор вагiна Streetgirl's #13</description_ua>
             </offer>
         <offer id="37-3651" available="true">
                 <erp>37-3651</erp>
@@ -7007,6 +7172,26 @@ USB-кабель для зарядки в комплекті&lt;br /&gt;
             <description>Плаття Dress Flock Print L</description>
             <name_ua>Плаття Dress Flock Print L</name_ua>
             <description_ua>Плаття Dress Flock Print L</description_ua>
+            </offer>
+        <offer id="94-KC-00019" available="true">
+                <erp>94-KC-00019</erp>
+            <barcode />
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30944-kaydani_chervoni_shkira___zvichayni</url>
+            <price>1378.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>64</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3094165c29f1c8527e.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65c29f1ae8d71.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65c29f1b41b1f.jpg</picture>
+            <name>Кайдани червоні шкіра - звичайні</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor />
+            <model>Кайдани червоні шкіра - звичайні</model>
+            <description>Кайдани червоні шкіра - звичайні</description>
+            <name_ua>Кайдани червоні шкіра - звичайні</name_ua>
+            <description_ua>Кайдани червоні шкіра - звичайні</description_ua>
             </offer>
         <offer id="40-13420-01" available="true">
                 <erp>40-13420-01</erp>
@@ -9756,6 +9941,63 @@ IPX7 водонепроникний&lt;br /&gt;
 Водонепроникний і легко чиститься&lt;br /&gt;
 Додайте в кошик і відкрийте нові рівні задоволення вже сьогодні! Насолоджуйтеся дворічною гарантією та безпечним використанням.</description_ua>
             </offer>
+        <offer id="39-70330" available="true">
+                <erp>39-70330</erp>
+            <barcode>5906647270330</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31820-avtomatichniy_masturbator_erospace_mens_play_b2</url>
+            <price>4306.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>110</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3181767581a274a679.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67581a2527d97.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67581a253b229.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67581a254dc5a.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67581a255dded.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67581a256ecd2.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67581a258181c.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67581a259441a.jpg</picture>
+            <name>Автоматичний мастурбатор EROSPACE MEN'S PLAY B2</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>EROSPACE</vendor>
+            <model>Автоматичний мастурбатор EROSPACE MEN'S PLAY B2</model>
+            <description>Наш автоматичний чоловічий мастурбатор пропонує 5 потужних функцій обертання та ковзання (вгору та вниз) і 4 функції всмоктування, які посилюють відчуття. Внутрішня підкладка виготовлена з кібершкіри, що забезпечує реалістичні враження, а міцна конструкція гарантує тривале використання.&lt;br /&gt;
+Безпечний для шкіри матеріал, який не викликає роздратування та алергії. Водонепроникність IPX7 дозволяє використовувати його в різних умовах, а сучасні технології роблять його ідеальним інструментом для посилення вашого задоволення.&lt;br /&gt;
+Заряджайте мастурбатор за допомогою USB-кабелю, що додається, вибирайте інтенсивність функцій: обертання, ковзання та/або всмоктування та насолоджуйтесь реалістичними відчуттями.&lt;br /&gt;
+Виріб легко чистити. Після використання розберіть складні елементи, потім вимийте їх теплою водою з м’яким милом, ретельно висушіть і знову зберіть. Зберігати в сухому, чистому місці&lt;br /&gt;
+5 функцій обертання та подачі&lt;br /&gt;
+4 функції всмоктування&lt;br /&gt;
+Матеріал: використовувана частина: Cyberskin, корпус: ABS, ПК&lt;br /&gt;
+Довжина: 29,7 см&lt;br /&gt;
+Довжина корисної частини: 14 см&lt;br /&gt;
+Ширина: 9,2 см&lt;br /&gt;
+Вага: 897 г&lt;br /&gt;
+Час роботи після повної зарядки: 50 хвилин, час зарядки: 1,5 години&lt;br /&gt;
+Вбудований акумулятор&lt;br /&gt;
+USB зарядка&lt;br /&gt;
+Інтенсивні відчуття завдяки функції всмоктування та зворотно-поступальному та обертальному руху&lt;br /&gt;
+Матеріал, безпечний для шкіри, забезпечує реалістичне враження&lt;br /&gt;
+Водонепроникний і легко чиститься</description>
+            <name_ua>Автоматичний мастурбатор EROSPACE MEN'S PLAY B2</name_ua>
+            <description_ua>Наш автоматичний чоловічий мастурбатор пропонує 5 потужних функцій обертання та ковзання (вгору та вниз) і 4 функції всмоктування, які посилюють відчуття. Внутрішня підкладка виготовлена з кібершкіри, що забезпечує реалістичні враження, а міцна конструкція гарантує тривале використання.&lt;br /&gt;
+Безпечний для шкіри матеріал, який не викликає роздратування та алергії. Водонепроникність IPX7 дозволяє використовувати його в різних умовах, а сучасні технології роблять його ідеальним інструментом для посилення вашого задоволення.&lt;br /&gt;
+Заряджайте мастурбатор за допомогою USB-кабелю, що додається, вибирайте інтенсивність функцій: обертання, ковзання та/або всмоктування та насолоджуйтесь реалістичними відчуттями.&lt;br /&gt;
+Виріб легко чистити. Після використання розберіть складні елементи, потім вимийте їх теплою водою з м’яким милом, ретельно висушіть і знову зберіть. Зберігати в сухому, чистому місці&lt;br /&gt;
+5 функцій обертання та подачі&lt;br /&gt;
+4 функції всмоктування&lt;br /&gt;
+Матеріал: використовувана частина: Cyberskin, корпус: ABS, ПК&lt;br /&gt;
+Довжина: 29,7 см&lt;br /&gt;
+Довжина корисної частини: 14 см&lt;br /&gt;
+Ширина: 9,2 см&lt;br /&gt;
+Вага: 897 г&lt;br /&gt;
+Час роботи після повної зарядки: 50 хвилин, час зарядки: 1,5 години&lt;br /&gt;
+Вбудований акумулятор&lt;br /&gt;
+USB зарядка&lt;br /&gt;
+Інтенсивні відчуття завдяки функції всмоктування та зворотно-поступальному та обертальному руху&lt;br /&gt;
+Матеріал, безпечний для шкіри, забезпечує реалістичне враження&lt;br /&gt;
+Водонепроникний і легко чиститься</description_ua>
+            </offer>
         <offer id="39-70446" available="true">
                 <erp>39-70446</erp>
             <barcode>5906647270446</barcode>
@@ -11777,6 +12019,113 @@ Just with PheroStrong Man від PheroStrong втілює ідеальну га�
 Розмір упаковки: 30 × 18,5 × 15,5 см&lt;br /&gt;
 &lt;br /&gt;
 Функції: подвійний вхід (вагіна та анус), реалістична текстура, додатковий вібратор</description_ua>
+            </offer>
+        <offer id="BW-022104P" available="true">
+                <erp>BW-022104P</erp>
+            <barcode>6959532337716</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35429-realistichniy_strapon_iz_funktsiyu_eyakulyatsi_pretty_love_kython_tilesniy</url>
+            <price>742.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>55</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_354256900b10394639.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6900b101d37a9.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6900b101e6bad.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6900b102068fd.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6900b1021e1d3.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6900b1023320f.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6900b10248ab5.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6900b1026230a.png</picture>
+            <name>Реалістичний страпон із функцією еякуляції Pretty Love Kython (тілесний)</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Реалістичний страпон із функцією еякуляції Pretty Love Kython (тілесний)</model>
+            <description>Насолоджуйтесь реалістичними відчуттями та новими форматами гри з Pretty Love Kython — страпоном із функцією еякуляції, створеним для пар, які прагнуть яскравих емоцій і повної взаємної насолоди.&lt;br /&gt;
+&lt;br /&gt;
+Дилдо має натуральну форму з чітко промальованими венами та реалістичною голівкою. Його м’який матеріал TPR, що імітує людську шкіру, забезпечує природні тактильні відчуття. Завдяки спеціальній системі squirting, можна імітувати ефект еякуляції для ще більш автентичної гри.&lt;br /&gt;
+&lt;br /&gt;
+Регульована упряж із міцними ремінцями гарантує стабільне положення і комфорт під час використання, легко підлаштовується під будь-який розмір талії.&lt;br /&gt;
+&lt;br /&gt;
+Основні переваги:&lt;br /&gt;
+&lt;br /&gt;
+✅ Реалістичний дизайн із детальним рельєфом та природною формою&lt;br /&gt;
+&lt;br /&gt;
+✅ Функція squirting — ефект еякуляції для ще більш реалістичних відчуттів&lt;br /&gt;
+&lt;br /&gt;
+✅ М’який, еластичний і приємний на дотик матеріал TPR&lt;br /&gt;
+&lt;br /&gt;
+✅ Регульована упряж — підходить для більшості типів фігури&lt;br /&gt;
+&lt;br /&gt;
+✅ Можна використовувати з упряжжю або окремо&lt;br /&gt;
+&lt;br /&gt;
+✅ Безпечний для шкіри, без фталатів&lt;br /&gt;
+&lt;br /&gt;
+Характеристики:&lt;br /&gt;
+&lt;br /&gt;
+Загальна довжина дилдо: 21,5 см&lt;br /&gt;
+&lt;br /&gt;
+Робоча довжина: 19 см&lt;br /&gt;
+&lt;br /&gt;
+Діаметр: 4–4,5 см&lt;br /&gt;
+&lt;br /&gt;
+Діаметр отвору упряжі: 9 см&lt;br /&gt;
+&lt;br /&gt;
+Матеріали: TPR, ABS, PU, нейлон&lt;br /&gt;
+&lt;br /&gt;
+Колір: тілесний&lt;br /&gt;
+&lt;br /&gt;
+Вага: 0,23 кг&lt;br /&gt;
+&lt;br /&gt;
+Виробник: Pretty Love / Baile&lt;br /&gt;
+&lt;br /&gt;
+Як використовувати:&lt;br /&gt;
+Перед грою нанесіть лубрикант на водній основі. За потреби заповніть резервуар для squirting-функції рідиною, закріпіть дилдо в упряжі та відрегулюйте ремінці під свій розмір. Після використання ретельно промийте теплою водою з м’яким милом або спеціальним очищувачем і висушіть.&lt;br /&gt;
+&lt;br /&gt;
+Pretty Love Kython — реалістичний страпон, який поєднує потужну стимуляцію, натуральні відчуття та ефект справжнього контакту.</description>
+            <name_ua>Реалістичний страпон із функцією еякуляції Pretty Love Kython (тілесний)</name_ua>
+            <description_ua>Насолоджуйтесь реалістичними відчуттями та новими форматами гри з Pretty Love Kython — страпоном із функцією еякуляції, створеним для пар, які прагнуть яскравих емоцій і повної взаємної насолоди.&lt;br /&gt;
+&lt;br /&gt;
+Дилдо має натуральну форму з чітко промальованими венами та реалістичною голівкою. Його м’який матеріал TPR, що імітує людську шкіру, забезпечує природні тактильні відчуття. Завдяки спеціальній системі squirting, можна імітувати ефект еякуляції для ще більш автентичної гри.&lt;br /&gt;
+&lt;br /&gt;
+Регульована упряж із міцними ремінцями гарантує стабільне положення і комфорт під час використання, легко підлаштовується під будь-який розмір талії.&lt;br /&gt;
+&lt;br /&gt;
+Основні переваги:&lt;br /&gt;
+&lt;br /&gt;
+✅ Реалістичний дизайн із детальним рельєфом та природною формою&lt;br /&gt;
+&lt;br /&gt;
+✅ Функція squirting — ефект еякуляції для ще більш реалістичних відчуттів&lt;br /&gt;
+&lt;br /&gt;
+✅ М’який, еластичний і приємний на дотик матеріал TPR&lt;br /&gt;
+&lt;br /&gt;
+✅ Регульована упряж — підходить для більшості типів фігури&lt;br /&gt;
+&lt;br /&gt;
+✅ Можна використовувати з упряжжю або окремо&lt;br /&gt;
+&lt;br /&gt;
+✅ Безпечний для шкіри, без фталатів&lt;br /&gt;
+&lt;br /&gt;
+Характеристики:&lt;br /&gt;
+&lt;br /&gt;
+Загальна довжина дилдо: 21,5 см&lt;br /&gt;
+&lt;br /&gt;
+Робоча довжина: 19 см&lt;br /&gt;
+&lt;br /&gt;
+Діаметр: 4–4,5 см&lt;br /&gt;
+&lt;br /&gt;
+Діаметр отвору упряжі: 9 см&lt;br /&gt;
+&lt;br /&gt;
+Матеріали: TPR, ABS, PU, нейлон&lt;br /&gt;
+&lt;br /&gt;
+Колір: тілесний&lt;br /&gt;
+&lt;br /&gt;
+Вага: 0,23 кг&lt;br /&gt;
+&lt;br /&gt;
+Виробник: Pretty Love / Baile&lt;br /&gt;
+&lt;br /&gt;
+Як використовувати:&lt;br /&gt;
+Перед грою нанесіть лубрикант на водній основі. За потреби заповніть резервуар для squirting-функції рідиною, закріпіть дилдо в упряжі та відрегулюйте ремінці під свій розмір. Після використання ретельно промийте теплою водою з м’яким милом або спеціальним очищувачем і висушіть.&lt;br /&gt;
+&lt;br /&gt;
+Pretty Love Kython — реалістичний страпон, який поєднує потужну стимуляцію, натуральні відчуття та ефект справжнього контакту.</description_ua>
             </offer>
         <offer id="BW-500055-2" available="true">
                 <erp>BW-500055-2</erp>
@@ -14334,6 +14683,31 @@ Satisfyer Penguin Next Generation має 11 режимів стимуляції,
             <name_ua>Вібратор з клітеральною стимуляцією Pretty Love Grace Purple</name_ua>
             <description_ua>Виготовлений з високоякісного матеріалу, він має подвійний, двомоторний (один у верхній частині вібратора, один у кліторальному стимулі), гнучкий вібратор із кліторальним стимулом спеціальної форми, який також можна використовувати для стимуляції точка g. Має 12 режимів вібрації. Режими перемикаються за допомогою кнопки на основі іграшки. Працює від USB-кабелю (у комплекті). Має низький рівень шуму. Характеристики: загальна довжина – 16,5 см, робоча довжина – 12 см, максимальний діаметр – 3,3 см, довжина відростка – 7 см, діаметр відростка – 2,5 см. </description_ua>
             </offer>
+        <offer id="BI-014706-1" available="true">
+                <erp>BI-014706-1</erp>
+            <barcode>6959532324143</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/17927-pretty_love_peter_lila_30_function_vibrations</url>
+            <price>656.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>19</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_1792763124b2edb0e7.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63124b2998bff.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63124b29acfbd.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63124b29bad18.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63124b29c87cd.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63124b29d6d70.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63124b29e656a.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63124b29f2d5c.jpg</picture>
+            <name>ВІбратор PRETTY LOVE PETER Lila 30 function vibrations</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor />
+            <model>ВІбратор PRETTY LOVE PETER Lila 30 function vibrations</model>
+            <description>Світло-рожевий вібратор має злегка нахилений стовбур із реалістичною грибоподібною головкою, під якою знаходиться хвилястий рельєф. Збоку розташований еластичний кліторальний стимулятор, схожий на язичок. Гаджет підтримує цілих 30 програм вібрації та пульсації. Для живлення необхідні 2 батареї типу ААА. Довжина 19,2 см, діаметр 3,1 см. Матеріал – медичний силікон.</description>
+            <name_ua>ВІбратор PRETTY LOVE PETER Lila 30 function vibrations</name_ua>
+            <description_ua>Світло-рожевий вібратор має злегка нахилений стовбур із реалістичною грибоподібною головкою, під якою знаходиться хвилястий рельєф. Збоку розташований еластичний кліторальний стимулятор, схожий на язичок. Гаджет підтримує цілих 30 програм вібрації та пульсації. Для живлення необхідні 2 батареї типу ААА. Довжина 19,2 см, діаметр 3,1 см. Матеріал – медичний силікон.</description_ua>
+            </offer>
         <offer id="BI-014720" available="true">
                 <erp>BI-014720</erp>
             <barcode>6959532324549</barcode>
@@ -16871,85 +17245,6 @@ ABS силікон&lt;br /&gt;
             <name_ua>Гель Intt Strawberry Kissable Massage Gel</name_ua>
             <description_ua>&lt;p&gt;Intt Strawberry Kissable Massage Gel - це ароматний гель для масажу, який поєднує приємний аромат свіжої полуниці з ніжною текстурою для комфортного та чуттєвого масажу. Спеціально розроблений для створення романтичної атмосфери, цей гель не тільки розслаблює, але й забезпечує відчуття приємного зволоження та комфорту.&lt;br /&gt;&lt;br /&gt;Основні переваги:&lt;br /&gt;&lt;br /&gt;1. Аромат полуниці: Гель має смачний аромат свіжої полуниці, який створює романтичну та приємну атмосферу під час масажу.&lt;br /&gt;2. Кислотність: Завдяки особливій формулі, гель має легку текстуру, яка легко розподіляється по шкірі і швидко всмоктується, не залишаючи жирних слідів.&lt;br /&gt;3. Підходить для всіх типів шкіри: Гель безпечний для використання на чутливій шкірі, не містить агресивних компонентів і забезпечує комфортний масаж.&lt;br /&gt;4. Відмінний для романтичних вечорів: Інтенсивний аромат і приємна текстура роблять цей гель ідеальним для створення романтичних та чуттєвих моментів.&lt;br /&gt;5. Легкість у використанні: Гель легко наноситься і розподіляється по шкірі, що робить масаж більш ефективним і приємним.&lt;br /&gt;&lt;br /&gt;Спосіб застосування:&lt;br /&gt;&lt;br /&gt;Нанесіть необхідну кількість гелю на бажану ділянку шкіри або на руки і рівномірно розподіліть по поверхні. Масажуйте м’яко до повного всмоктування для досягнення найкращого ефекту.&lt;br /&gt;&lt;br /&gt;Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;• Уникайте контакту з очима.&lt;br /&gt;• Зберігайте у недоступному для дітей місці.&lt;br /&gt;• Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;• Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;Чому обирають Intt Strawberry Kissable Massage Gel:&lt;br /&gt;&lt;br /&gt;Intt Strawberry Kissable Massage Gel - це чудовий вибір для тих, хто хоче насолоджуватися приємним масажем з ароматом полуниці. Його ніжна текстура і захоплюючий аромат створюють ідеальні умови для романтичного і розслаблюючого досвіду.&lt;/p&gt;</description_ua>
             </offer>
-        <offer id="8-9825" available="true">
-                <erp>8-9825</erp>
-            <barcode>8058664099825</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30229-silikonoviy_gely_control_infinity_75_ml</url>
-            <price>791.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>158</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3022963efba0591910.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63efba046ecb8.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63efba049f842.jpeg</picture>
-            <name>Силіконовий гель CONTROL INFINITY 75 ML</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor />
-            <model>Силіконовий гель CONTROL INFINITY 75 ML</model>
-            <description>Lub Infinity — це довготривалий лубрикант на 100% силіконовій основі, який супроводжує моменти задоволення з усім необхідним комфортом і без перерв.&lt;br /&gt;
-&lt;br /&gt;
-Чуттєвий і м’який на дотик, має змащувальний ефект, він сприяє легкому проникненню, роблячи чуттєвий досвід більш плавним, а задоволення більш інтенсивним.&lt;br /&gt;
-&lt;br /&gt;
-Технічна інформація:&lt;br /&gt;
-&lt;br /&gt;
-Формат: 75 мл&lt;br /&gt;
-Склад: на основі силікону, без цукру&lt;br /&gt;
-Прозорий колір&lt;br /&gt;
-Аромат: нейтральний&lt;br /&gt;
-Властивості: лубрикант і пом'якшувач, довготривале і екстра змащення&lt;br /&gt;
-Зроблено в Італії</description>
-            <name_ua>Силіконовий гель CONTROL INFINITY 75 ML</name_ua>
-            <description_ua>Lub Infinity — це довготривалий лубрикант на 100% силіконовій основі, який супроводжує моменти задоволення з усім необхідним комфортом і без перерв.&lt;br /&gt;
-&lt;br /&gt;
-Чуттєвий і м’який на дотик, має змащувальний ефект, він сприяє легкому проникненню, роблячи чуттєвий досвід більш плавним, а задоволення більш інтенсивним.&lt;br /&gt;
-&lt;br /&gt;
-Технічна інформація:&lt;br /&gt;
-&lt;br /&gt;
-Формат: 75 мл&lt;br /&gt;
-Склад: на основі силікону, без цукру&lt;br /&gt;
-Прозорий колір&lt;br /&gt;
-Аромат: нейтральний&lt;br /&gt;
-Властивості: лубрикант і пом'якшувач, довготривале і екстра змащення&lt;br /&gt;
-Зроблено в Італії</description_ua>
-            </offer>
-        <offer id="8-9504" available="true">
-                <erp>8-9504</erp>
-            <barcode>8058664099504</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30230-lubrikant_na_vodniy_osnovi_z_alo_control_aloe_75_ml</url>
-            <price>580.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3023063efba5bcb2de.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63efba5ab060f.png</picture>
-            <name>Лубрикант на водній основі з алоє CONTROL ALOE 75 ML</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor />
-            <model>Лубрикант на водній основі з алоє CONTROL ALOE 75 ML</model>
-            <description>Лубрикант з алоє CONTROL ALOE 75 ML піклується про вас: освіжаючі та пом’якшувальні властивості алое разом із змащуючою дією гелю роблять його хорошим помічником у разі вагінальної сухості та в ті моменти, коли ви хочете надати свіжості, чуттєвості і делікатний дотик до ваших стосунків. Лубрикант з алое з натуральним екстрактом алое - це фізіологічний продукт. Не жирний, не залишає плям і сумісний із використанням презервативів.&lt;br /&gt;
-&lt;br /&gt;
-Технічна інформація:&lt;br /&gt;
-&lt;br /&gt;
-Ємність: 75 мл&lt;br /&gt;
-Склад: на водній основі, без цукру.&lt;br /&gt;
-Колір: Прозорий&lt;br /&gt;
-Аромат: жасмин&lt;br /&gt;
-Характеристики: Лубрикант і пом'якшувач&lt;br /&gt;
-Зроблено в Італії</description>
-            <name_ua>Лубрикант на водній основі з алоє CONTROL ALOE 75 ML</name_ua>
-            <description_ua>Лубрикант з алоє CONTROL ALOE 75 ML піклується про вас: освіжаючі та пом’якшувальні властивості алое разом із змащуючою дією гелю роблять його хорошим помічником у разі вагінальної сухості та в ті моменти, коли ви хочете надати свіжості, чуттєвості і делікатний дотик до ваших стосунків. Лубрикант з алое з натуральним екстрактом алое - це фізіологічний продукт. Не жирний, не залишає плям і сумісний із використанням презервативів.&lt;br /&gt;
-&lt;br /&gt;
-Технічна інформація:&lt;br /&gt;
-&lt;br /&gt;
-Ємність: 75 мл&lt;br /&gt;
-Склад: на водній основі, без цукру.&lt;br /&gt;
-Колір: Прозорий&lt;br /&gt;
-Аромат: жасмин&lt;br /&gt;
-Характеристики: Лубрикант і пом'якшувач&lt;br /&gt;
-Зроблено в Італії</description_ua>
-            </offer>
         <offer id="84-990391" available="true">
                 <erp>84-990391</erp>
             <barcode>5904986990391</barcode>
@@ -17715,31 +18010,6 @@ ABS силікон&lt;br /&gt;
             <description>Віброкуля Pleasure Kiss Vibrating Bullet</description>
             <name_ua>Віброкуля Pleasure Kiss Vibrating Bullet</name_ua>
             <description_ua>Віброкуля Pleasure Kiss Vibrating Bullet</description_ua>
-            </offer>
-        <offer id="66-LV352033" available="true">
-                <erp>66-LV352033</erp>
-            <barcode>6970260902267</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30756-masturbator_vagina_streetgirls_13</url>
-            <price>4521.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>156</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_307536528eafd5e9f0.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6528eaf8079bf.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6528eaf823194.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6528eaf83c3a0.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6528eaf853d7f.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6528eaf86d5f1.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6528eaf88d359.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6528eaf89ff77.jpg</picture>
-            <name>Мастурбатор вагiна Streetgirl's #13</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>LOVETOYS</vendor>
-            <model>Мастурбатор вагiна Streetgirl's #13</model>
-            <description>Мастурбатор вагiна Streetgirl's #13</description>
-            <name_ua>Мастурбатор вагiна Streetgirl's #13</name_ua>
-            <description_ua>Мастурбатор вагiна Streetgirl's #13</description_ua>
             </offer>
         <offer id="63-00044" available="true">
                 <erp>63-00044</erp>
@@ -19873,63 +20143,6 @@ Satisfyer Love Birds Vary захоплює гладкою формою та пр
             <description>Спокусливий, великий, реалістичний вібруючий фалоімітатор TPR має чуттєву, м’яку та гнучку текстуру, яка справжня угода в руці та ще більше задоволення в спальні! Ідеально підходить для вагінального або анального проникнення, цей спокусливий фалоімітатор має приблизно 8 дюймів вставного стрижня та гнучкі кульки на основі всмоктування для стабільності. Покатайтеся на цьому поганому хлопчику без рук, поклавши його на ремінь безпеки, а потім увімкніть вібруючий картридж для додаткової стимуляції.</description>
             <name_ua>Страпон з вібро BAILE ULTRA PASSIONATE HARNESS</name_ua>
             <description_ua>Спокусливий, великий, реалістичний вібруючий фалоімітатор TPR має чуттєву, м’яку та гнучку текстуру, яка справжня угода в руці та ще більше задоволення в спальні! Ідеально підходить для вагінального або анального проникнення, цей спокусливий фалоімітатор має приблизно 8 дюймів вставного стрижня та гнучкі кульки на основі всмоктування для стабільності. Покатайтеся на цьому поганому хлопчику без рук, поклавши його на ремінь безпеки, а потім увімкніть вібруючий картридж для додаткової стимуляції.</description_ua>
-            </offer>
-        <offer id="39-70330" available="true">
-                <erp>39-70330</erp>
-            <barcode>5906647270330</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31820-avtomatichniy_masturbator_erospace_mens_play_b2</url>
-            <price>4306.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>110</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3181767581a274a679.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67581a2527d97.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67581a253b229.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67581a254dc5a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67581a255dded.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67581a256ecd2.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67581a258181c.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67581a259441a.jpg</picture>
-            <name>Автоматичний мастурбатор EROSPACE MEN'S PLAY B2</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>EROSPACE</vendor>
-            <model>Автоматичний мастурбатор EROSPACE MEN'S PLAY B2</model>
-            <description>Наш автоматичний чоловічий мастурбатор пропонує 5 потужних функцій обертання та ковзання (вгору та вниз) і 4 функції всмоктування, які посилюють відчуття. Внутрішня підкладка виготовлена з кібершкіри, що забезпечує реалістичні враження, а міцна конструкція гарантує тривале використання.&lt;br /&gt;
-Безпечний для шкіри матеріал, який не викликає роздратування та алергії. Водонепроникність IPX7 дозволяє використовувати його в різних умовах, а сучасні технології роблять його ідеальним інструментом для посилення вашого задоволення.&lt;br /&gt;
-Заряджайте мастурбатор за допомогою USB-кабелю, що додається, вибирайте інтенсивність функцій: обертання, ковзання та/або всмоктування та насолоджуйтесь реалістичними відчуттями.&lt;br /&gt;
-Виріб легко чистити. Після використання розберіть складні елементи, потім вимийте їх теплою водою з м’яким милом, ретельно висушіть і знову зберіть. Зберігати в сухому, чистому місці&lt;br /&gt;
-5 функцій обертання та подачі&lt;br /&gt;
-4 функції всмоктування&lt;br /&gt;
-Матеріал: використовувана частина: Cyberskin, корпус: ABS, ПК&lt;br /&gt;
-Довжина: 29,7 см&lt;br /&gt;
-Довжина корисної частини: 14 см&lt;br /&gt;
-Ширина: 9,2 см&lt;br /&gt;
-Вага: 897 г&lt;br /&gt;
-Час роботи після повної зарядки: 50 хвилин, час зарядки: 1,5 години&lt;br /&gt;
-Вбудований акумулятор&lt;br /&gt;
-USB зарядка&lt;br /&gt;
-Інтенсивні відчуття завдяки функції всмоктування та зворотно-поступальному та обертальному руху&lt;br /&gt;
-Матеріал, безпечний для шкіри, забезпечує реалістичне враження&lt;br /&gt;
-Водонепроникний і легко чиститься</description>
-            <name_ua>Автоматичний мастурбатор EROSPACE MEN'S PLAY B2</name_ua>
-            <description_ua>Наш автоматичний чоловічий мастурбатор пропонує 5 потужних функцій обертання та ковзання (вгору та вниз) і 4 функції всмоктування, які посилюють відчуття. Внутрішня підкладка виготовлена з кібершкіри, що забезпечує реалістичні враження, а міцна конструкція гарантує тривале використання.&lt;br /&gt;
-Безпечний для шкіри матеріал, який не викликає роздратування та алергії. Водонепроникність IPX7 дозволяє використовувати його в різних умовах, а сучасні технології роблять його ідеальним інструментом для посилення вашого задоволення.&lt;br /&gt;
-Заряджайте мастурбатор за допомогою USB-кабелю, що додається, вибирайте інтенсивність функцій: обертання, ковзання та/або всмоктування та насолоджуйтесь реалістичними відчуттями.&lt;br /&gt;
-Виріб легко чистити. Після використання розберіть складні елементи, потім вимийте їх теплою водою з м’яким милом, ретельно висушіть і знову зберіть. Зберігати в сухому, чистому місці&lt;br /&gt;
-5 функцій обертання та подачі&lt;br /&gt;
-4 функції всмоктування&lt;br /&gt;
-Матеріал: використовувана частина: Cyberskin, корпус: ABS, ПК&lt;br /&gt;
-Довжина: 29,7 см&lt;br /&gt;
-Довжина корисної частини: 14 см&lt;br /&gt;
-Ширина: 9,2 см&lt;br /&gt;
-Вага: 897 г&lt;br /&gt;
-Час роботи після повної зарядки: 50 хвилин, час зарядки: 1,5 години&lt;br /&gt;
-Вбудований акумулятор&lt;br /&gt;
-USB зарядка&lt;br /&gt;
-Інтенсивні відчуття завдяки функції всмоктування та зворотно-поступальному та обертальному руху&lt;br /&gt;
-Матеріал, безпечний для шкіри, забезпечує реалістичне враження&lt;br /&gt;
-Водонепроникний і легко чиститься</description_ua>
             </offer>
         <offer id="39-70408" available="true">
                 <erp>39-70408</erp>
@@ -23638,31 +23851,6 @@ Pretty Love Dejon — це гармонійне поєднання потужн�
             <name_ua>Вібратор PRETTY LOVE MICK Pink 10 function vibrations</name_ua>
             <description_ua>Насолоджуйтесь нескінченними ночами неймовірного задоволення з цим 30-функційним вібратором із вигнутою точкою G. Ця іграшка виготовлена ​​з високоякісного силікону з м'яким дотиком, який забезпечує інтенсивну стимуляцію всіх точок задоволення. Як тільки ви закінчите, ви будете відчувати відчай у пошуках нового, але не хвилюйтесь, завдяки 30 різним режимам вібрації ви можете працювати всю ніч.</description_ua>
             </offer>
-        <offer id="BI-014706-1" available="true">
-                <erp>BI-014706-1</erp>
-            <barcode>6959532324143</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/17927-pretty_love_peter_lila_30_function_vibrations</url>
-            <price>656.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>19</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_1792763124b2edb0e7.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63124b2998bff.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63124b29acfbd.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63124b29bad18.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63124b29c87cd.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63124b29d6d70.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63124b29e656a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63124b29f2d5c.jpg</picture>
-            <name>ВІбратор PRETTY LOVE PETER Lila 30 function vibrations</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor />
-            <model>ВІбратор PRETTY LOVE PETER Lila 30 function vibrations</model>
-            <description>Світло-рожевий вібратор має злегка нахилений стовбур із реалістичною грибоподібною головкою, під якою знаходиться хвилястий рельєф. Збоку розташований еластичний кліторальний стимулятор, схожий на язичок. Гаджет підтримує цілих 30 програм вібрації та пульсації. Для живлення необхідні 2 батареї типу ААА. Довжина 19,2 см, діаметр 3,1 см. Матеріал – медичний силікон.</description>
-            <name_ua>ВІбратор PRETTY LOVE PETER Lila 30 function vibrations</name_ua>
-            <description_ua>Світло-рожевий вібратор має злегка нахилений стовбур із реалістичною грибоподібною головкою, під якою знаходиться хвилястий рельєф. Збоку розташований еластичний кліторальний стимулятор, схожий на язичок. Гаджет підтримує цілих 30 програм вібрації та пульсації. Для живлення необхідні 2 батареї типу ААА. Довжина 19,2 см, діаметр 3,1 см. Матеріал – медичний силікон.</description_ua>
-            </offer>
         <offer id="BW-022019" available="true">
                 <erp>BW-022019</erp>
             <barcode>6959532311730</barcode>
@@ -25690,6 +25878,85 @@ Secret Play Hot Effect Strawberry with Cream - це відмінний вибі�
             <description>Наручники блакитні Esposas Marabu Azul</description>
             <name_ua>Наручники блакитні Esposas Marabu Azul</name_ua>
             <description_ua>Наручники блакитні Esposas Marabu Azul</description_ua>
+            </offer>
+        <offer id="8-9825" available="true">
+                <erp>8-9825</erp>
+            <barcode>8058664099825</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30229-silikonoviy_gely_control_infinity_75_ml</url>
+            <price>791.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>158</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3022963efba0591910.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63efba046ecb8.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63efba049f842.jpeg</picture>
+            <name>Силіконовий гель CONTROL INFINITY 75 ML</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor />
+            <model>Силіконовий гель CONTROL INFINITY 75 ML</model>
+            <description>Lub Infinity — це довготривалий лубрикант на 100% силіконовій основі, який супроводжує моменти задоволення з усім необхідним комфортом і без перерв.&lt;br /&gt;
+&lt;br /&gt;
+Чуттєвий і м’який на дотик, має змащувальний ефект, він сприяє легкому проникненню, роблячи чуттєвий досвід більш плавним, а задоволення більш інтенсивним.&lt;br /&gt;
+&lt;br /&gt;
+Технічна інформація:&lt;br /&gt;
+&lt;br /&gt;
+Формат: 75 мл&lt;br /&gt;
+Склад: на основі силікону, без цукру&lt;br /&gt;
+Прозорий колір&lt;br /&gt;
+Аромат: нейтральний&lt;br /&gt;
+Властивості: лубрикант і пом'якшувач, довготривале і екстра змащення&lt;br /&gt;
+Зроблено в Італії</description>
+            <name_ua>Силіконовий гель CONTROL INFINITY 75 ML</name_ua>
+            <description_ua>Lub Infinity — це довготривалий лубрикант на 100% силіконовій основі, який супроводжує моменти задоволення з усім необхідним комфортом і без перерв.&lt;br /&gt;
+&lt;br /&gt;
+Чуттєвий і м’який на дотик, має змащувальний ефект, він сприяє легкому проникненню, роблячи чуттєвий досвід більш плавним, а задоволення більш інтенсивним.&lt;br /&gt;
+&lt;br /&gt;
+Технічна інформація:&lt;br /&gt;
+&lt;br /&gt;
+Формат: 75 мл&lt;br /&gt;
+Склад: на основі силікону, без цукру&lt;br /&gt;
+Прозорий колір&lt;br /&gt;
+Аромат: нейтральний&lt;br /&gt;
+Властивості: лубрикант і пом'якшувач, довготривале і екстра змащення&lt;br /&gt;
+Зроблено в Італії</description_ua>
+            </offer>
+        <offer id="8-9504" available="true">
+                <erp>8-9504</erp>
+            <barcode>8058664099504</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30230-lubrikant_na_vodniy_osnovi_z_alo_control_aloe_75_ml</url>
+            <price>580.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>46</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3023063efba5bcb2de.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63efba5ab060f.png</picture>
+            <name>Лубрикант на водній основі з алоє CONTROL ALOE 75 ML</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor />
+            <model>Лубрикант на водній основі з алоє CONTROL ALOE 75 ML</model>
+            <description>Лубрикант з алоє CONTROL ALOE 75 ML піклується про вас: освіжаючі та пом’якшувальні властивості алое разом із змащуючою дією гелю роблять його хорошим помічником у разі вагінальної сухості та в ті моменти, коли ви хочете надати свіжості, чуттєвості і делікатний дотик до ваших стосунків. Лубрикант з алое з натуральним екстрактом алое - це фізіологічний продукт. Не жирний, не залишає плям і сумісний із використанням презервативів.&lt;br /&gt;
+&lt;br /&gt;
+Технічна інформація:&lt;br /&gt;
+&lt;br /&gt;
+Ємність: 75 мл&lt;br /&gt;
+Склад: на водній основі, без цукру.&lt;br /&gt;
+Колір: Прозорий&lt;br /&gt;
+Аромат: жасмин&lt;br /&gt;
+Характеристики: Лубрикант і пом'якшувач&lt;br /&gt;
+Зроблено в Італії</description>
+            <name_ua>Лубрикант на водній основі з алоє CONTROL ALOE 75 ML</name_ua>
+            <description_ua>Лубрикант з алоє CONTROL ALOE 75 ML піклується про вас: освіжаючі та пом’якшувальні властивості алое разом із змащуючою дією гелю роблять його хорошим помічником у разі вагінальної сухості та в ті моменти, коли ви хочете надати свіжості, чуттєвості і делікатний дотик до ваших стосунків. Лубрикант з алое з натуральним екстрактом алое - це фізіологічний продукт. Не жирний, не залишає плям і сумісний із використанням презервативів.&lt;br /&gt;
+&lt;br /&gt;
+Технічна інформація:&lt;br /&gt;
+&lt;br /&gt;
+Ємність: 75 мл&lt;br /&gt;
+Склад: на водній основі, без цукру.&lt;br /&gt;
+Колір: Прозорий&lt;br /&gt;
+Аромат: жасмин&lt;br /&gt;
+Характеристики: Лубрикант і пом'якшувач&lt;br /&gt;
+Зроблено в Італії</description_ua>
             </offer>
         <offer id="42-05568310000" available="true">
                 <erp>42-05568310000</erp>
@@ -39812,6 +40079,28 @@ Pherluxe BLACK - подарує вам чуттєвість, пристраст�
             <name_ua>Вібратор PRETTY LOVE CENTAUR </name_ua>
             <description_ua>Приголомшливий вібромасажер із різноманітними режимами вібрації. Вібратор гнучкий і вигнутий на кінці для стимуляції точки G. Має 30 режимів безшумної вібрації, які перемикаються за допомогою кнопки на основі. Перемикайтеся між швидкостями та пульсаціями одним натисканням кнопки. Живлення  2XAAA. Розмір: діаметр  3,2 см, довжина  20,6 см</description_ua>
             </offer>
+        <offer id="BW-010026" available="true">
+                <erp>BW-010026</erp>
+            <barcode>6959532301762</barcode>
+            <quantity_in_stock>6</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30046-strapon_ultra_passionate_harness</url>
+            <price>473.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>34</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_300466385f5159f6e7.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6385f5295a2a3.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6385f5296c1a6.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6385f52979834.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6385f52988260.jpg</picture>
+            <name>Страпон ULTRA PASSIONATE HARNESS</name>
+            <Отображать>Да</Отображать>
+            <stock>6</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Страпон ULTRA PASSIONATE HARNESS</model>
+            <description>Страпон ULTRA PASSIONATE HARNESS</description>
+            <name_ua>Страпон ULTRA PASSIONATE HARNESS</name_ua>
+            <description_ua>Страпон ULTRA PASSIONATE HARNESS</description_ua>
+            </offer>
         <offer id="BI-014927" available="true">
                 <erp>BI-014927</erp>
             <barcode>6959532326727</barcode>
@@ -41671,6 +41960,30 @@ Just Glide Toylube - це відмінний вибір для тих, хто ш
 Довжина, см: 9,5  Діаметр, см: 3,1  Матеріал: силікон.&lt;br /&gt;
 </description_ua>
             </offer>
+        <offer id="64-00011" available="true">
+                <erp>64-00011</erp>
+            <barcode>5903661800277</barcode>
+            <quantity_in_stock>7</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/14900-analyna_probka___ewellery_silver_pluggreen</url>
+            <price>300.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>31</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/64-00011.jpg</picture>
+            <name>Анальна пробка Jewellery Silver PLUGGreen</name>
+            <Отображать>Да</Отображать>
+            <stock>7</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Анальна пробка Jewellery Silver PLUGGreen</model>
+            <description>Ексклюзивні анальні прикраси з високоякісної нержавіючої сталі гарантують безпеку вашого тіла. Пробка ідеально гладка, без гострих країв і не подразнює шкіру. Ідеально підходить для новачків і досвідчених любителів анальних ігор. Виготовлений з металу дає нам можливість охолодити або зігріти його, щоб покращити враження. Гарний діамант, прикріплений до основи, елегантний і чуттєвий. Пробка ідеально профільована, особлива анатомічна форма полегшує нанесення. Цибулинна форма чудово стимулює. З іншого боку, вузьке горлечко з ромбовою основою дозволить м’язам обгортатися і утримувати пробку на місці, запобігаючи поглинанню.&lt;br /&gt;
+Загальна довжина 7 см.&lt;br /&gt;
+Діаметр 2,7 см.&lt;br /&gt;
+Стильна упаковка у вигляді замшевого чохла.</description>
+            <name_ua>Анальна пробка Jewellery Silver PLUGGreen</name_ua>
+            <description_ua>Ексклюзивні анальні прикраси з високоякісної нержавіючої сталі гарантують безпеку вашого тіла. Пробка ідеально гладка, без гострих країв і не подразнює шкіру. Ідеально підходить для новачків і досвідчених любителів анальних ігор. Виготовлений з металу дає нам можливість охолодити або зігріти його, щоб покращити враження. Гарний діамант, прикріплений до основи, елегантний і чуттєвий. Пробка ідеально профільована, особлива анатомічна форма полегшує нанесення. Цибулинна форма чудово стимулює. З іншого боку, вузьке горлечко з ромбовою основою дозволить м’язам обгортатися і утримувати пробку на місці, запобігаючи поглинанню.&lt;br /&gt;
+Загальна довжина 7 см.&lt;br /&gt;
+Діаметр 2,7 см.&lt;br /&gt;
+Стильна упаковка у вигляді замшевого чохла.</description_ua>
+            </offer>
         <offer id="64-00035" available="true">
                 <erp>64-00035</erp>
             <barcode>5903661800512</barcode>
@@ -42371,28 +42684,6 @@ Just Glide Toylube - це відмінний вибір для тих, хто ш
             <description>Реалістичний фалоімітатор Sliding Skin Dual Layer Dong-  на присосці. Іграшка виконана з високоякісного матеріалу, на дотик максимально наближеному до ніжної шкіри полового члена. Ви вразитеся подібності Soft Dildo з пенісом. Вібратор має дуже значні розміри і зможе звести з розуму навіть найдосвідченіших і найвибагливіших осіб. Ви зможете насолоджуватися знову і знову його реалістичною голівкою і опуклими венами. довжина	17.5 см, діаметр, см:	3.7</description>
             <name_ua>Фалоімітатор 7'' Sliding Skin Dual Layer Dong – Black</name_ua>
             <description_ua>Реалістичний фалоімітатор Sliding Skin Dual Layer Dong-  на присосці. Іграшка виконана з високоякісного матеріалу, на дотик максимально наближеному до ніжної шкіри полового члена. Ви вразитеся подібності Soft Dildo з пенісом. Вібратор має дуже значні розміри і зможе звести з розуму навіть найдосвідченіших і найвибагливіших осіб. Ви зможете насолоджуватися знову і знову його реалістичною голівкою і опуклими венами. довжина	17.5 см, діаметр, см:	3.7</description_ua>
-            </offer>
-        <offer id="BW-010026" available="true">
-                <erp>BW-010026</erp>
-            <barcode>6959532301762</barcode>
-            <quantity_in_stock>7</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30046-strapon_ultra_passionate_harness</url>
-            <price>473.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>34</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_300466385f5159f6e7.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6385f5295a2a3.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6385f5296c1a6.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6385f52979834.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6385f52988260.jpg</picture>
-            <name>Страпон ULTRA PASSIONATE HARNESS</name>
-            <Отображать>Да</Отображать>
-            <stock>7</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Страпон ULTRA PASSIONATE HARNESS</model>
-            <description>Страпон ULTRA PASSIONATE HARNESS</description>
-            <name_ua>Страпон ULTRA PASSIONATE HARNESS</name_ua>
-            <description_ua>Страпон ULTRA PASSIONATE HARNESS</description_ua>
             </offer>
         <offer id="66-LV320103" available="true">
                 <erp>66-LV320103</erp>
@@ -43586,30 +43877,6 @@ LoveToy Easy Strap-On Set 8.5” — ідеальний набір для пар
             <description>Ерекційне кільце PRETTY LOVE ETHEL vibration</description>
             <name_ua>Ерекційне кільце PRETTY LOVE ETHEL vibration</name_ua>
             <description_ua>Ерекційне кільце PRETTY LOVE ETHEL vibration</description_ua>
-            </offer>
-        <offer id="64-00011" available="true">
-                <erp>64-00011</erp>
-            <barcode>5903661800277</barcode>
-            <quantity_in_stock>8</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/14900-analyna_probka___ewellery_silver_pluggreen</url>
-            <price>300.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>31</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/64-00011.jpg</picture>
-            <name>Анальна пробка Jewellery Silver PLUGGreen</name>
-            <Отображать>Да</Отображать>
-            <stock>8</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Анальна пробка Jewellery Silver PLUGGreen</model>
-            <description>Ексклюзивні анальні прикраси з високоякісної нержавіючої сталі гарантують безпеку вашого тіла. Пробка ідеально гладка, без гострих країв і не подразнює шкіру. Ідеально підходить для новачків і досвідчених любителів анальних ігор. Виготовлений з металу дає нам можливість охолодити або зігріти його, щоб покращити враження. Гарний діамант, прикріплений до основи, елегантний і чуттєвий. Пробка ідеально профільована, особлива анатомічна форма полегшує нанесення. Цибулинна форма чудово стимулює. З іншого боку, вузьке горлечко з ромбовою основою дозволить м’язам обгортатися і утримувати пробку на місці, запобігаючи поглинанню.&lt;br /&gt;
-Загальна довжина 7 см.&lt;br /&gt;
-Діаметр 2,7 см.&lt;br /&gt;
-Стильна упаковка у вигляді замшевого чохла.</description>
-            <name_ua>Анальна пробка Jewellery Silver PLUGGreen</name_ua>
-            <description_ua>Ексклюзивні анальні прикраси з високоякісної нержавіючої сталі гарантують безпеку вашого тіла. Пробка ідеально гладка, без гострих країв і не подразнює шкіру. Ідеально підходить для новачків і досвідчених любителів анальних ігор. Виготовлений з металу дає нам можливість охолодити або зігріти його, щоб покращити враження. Гарний діамант, прикріплений до основи, елегантний і чуттєвий. Пробка ідеально профільована, особлива анатомічна форма полегшує нанесення. Цибулинна форма чудово стимулює. З іншого боку, вузьке горлечко з ромбовою основою дозволить м’язам обгортатися і утримувати пробку на місці, запобігаючи поглинанню.&lt;br /&gt;
-Загальна довжина 7 см.&lt;br /&gt;
-Діаметр 2,7 см.&lt;br /&gt;
-Стильна упаковка у вигляді замшевого чохла.</description_ua>
             </offer>
         <offer id="63-00018" available="true">
                 <erp>63-00018</erp>
@@ -47487,6 +47754,24 @@ Plaisir Secret став синонімом косметики найвищої �
             <name_ua>Збуджуючі краплі APHRODICT LOVE DROPS 20 ml</name_ua>
             <description_ua>Універсальні збуджуючі каплі.. Водний екстракт сухих рослин, насіння вівса, корінь кориці, корінь імбиру, м'ята перцева 16 мг, стручковий перець. Властивості цих рослин позитивно впливають на сексуальну функцію чоловіків та жінок. Об'єм - 20 мл.</description_ua>
             </offer>
+        <offer id="19-2091" available="true">
+                <erp>19-2091</erp>
+            <barcode>3548960020913</barcode>
+            <quantity_in_stock>12</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2423-feromony_taboo_euivoue_for_them_new_50_ml</url>
+            <price>684.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>81</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/19-2091.jpg</picture>
+            <name>Парфуми TABOO EQUIVOQUE FOR THEM NEW 50 ml</name>
+            <Отображать>Да</Отображать>
+            <stock>12</stock>
+            <vendor>RUF</vendor>
+            <model>Парфуми TABOO EQUIVOQUE FOR THEM NEW 50 ml</model>
+            <description>Парфуми для жінок. Приємний і енергійний аромат, який розвивається і змінює тон з часом після розпилення на тіло. Ємність 50 мл</description>
+            <name_ua>Парфуми TABOO EQUIVOQUE FOR THEM NEW 50 ml</name_ua>
+            <description_ua>Парфуми для жінок. Приємний і енергійний аромат, який розвивається і змінює тон з часом після розпилення на тіло. Ємність 50 мл</description_ua>
+            </offer>
         <offer id="42-05330090000" available="true">
                 <erp>42-05330090000</erp>
             <barcode>4024144543885</barcode>
@@ -47969,24 +48254,6 @@ ORGASM MAX для жінок призначений для значної під
             <name_ua>Парфуми TABOO FOR HIM 50 ML</name_ua>
             <description_ua>Taboo Libertin використовується не тільки як сексуальний атрактант (аттрактант), але і під час повсякденних зустрічей і розмов, де є можливість контакту з іншою людиною. Taboo Libertin є результатом багаторічних досліджень людських феромонів. Він містить найактивніші феромони в ідеальних пропорціях, в яких їх виробляє людський організм. При щоденному використанні, як і стандартний косметичний засіб, він може впливати на навколишнє середовище (на протилежну стать), що може сприймати вас більш позитивно та дружньо. Taboo Libertin може підвищити ступінь довіри і зробити людей навколо вас більш відкритими, бажаючими бути поруч з вами і ставитися до вас з повагою. Taboo Libertin може бути корисним як під час вирішення важливих справ в офісах, банках, під час важливої розмови, так і під час вечірнього відпочинку в клубі. Taboo Libertin також є пропозицією для людей, які хочуть привнести більше пристрасті та любові до їхніх стосунків. Незалежно від того, знайомі ви один одного 2 місяці чи 20 років, ви можете знову закохатися, як і раніше. Тепер все у ваших руках...</description_ua>
             </offer>
-        <offer id="19-2091" available="true">
-                <erp>19-2091</erp>
-            <barcode>3548960020913</barcode>
-            <quantity_in_stock>13</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2423-feromony_taboo_euivoue_for_them_new_50_ml</url>
-            <price>684.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>81</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/19-2091.jpg</picture>
-            <name>Парфуми TABOO EQUIVOQUE FOR THEM NEW 50 ml</name>
-            <Отображать>Да</Отображать>
-            <stock>13</stock>
-            <vendor>RUF</vendor>
-            <model>Парфуми TABOO EQUIVOQUE FOR THEM NEW 50 ml</model>
-            <description>Парфуми для жінок. Приємний і енергійний аромат, який розвивається і змінює тон з часом після розпилення на тіло. Ємність 50 мл</description>
-            <name_ua>Парфуми TABOO EQUIVOQUE FOR THEM NEW 50 ml</name_ua>
-            <description_ua>Парфуми для жінок. Приємний і енергійний аромат, який розвивається і змінює тон з часом після розпилення на тіло. Ємність 50 мл</description_ua>
-            </offer>
         <offer id="19-3001" available="true">
                 <erp>19-3001</erp>
             <barcode>3548960030011</barcode>
@@ -48113,6 +48380,26 @@ ORGASM MAX для жінок призначений для значної під
             <description>Унікальний стимулятор у поєднанні з пульсаціями. З одного боку, використовуйте його як масажер з 7 унікальними режимами вібрації. Інша сторона пропонує абсолютно нове відчуття завдяки унікальному приводу - він пульсує вперед -назад (7 функцій). Унікальна технологія забезпечує інтенсивні відчуття, максимально наближені до природних. Повне задоволення на кожному рівні "пульсації". Управління іграшкою здійснюється однією кнопкою. Швидке подвійне натискання дозволяє перемикатись між вібрацією та пульсацією. Кожне окреме натискання перемикає між вібруючими або пульсуючими функціями. Масажер виготовлений з високоякісного м’якого силікону, який вібрує або пульсує, відтворюючи реалістичні рухи партнера. Заряджайте за допомогою кабелю USB (входить в комплект). Водонепроникний</description>
             <name_ua>Віброяйце Vibrating Silicone Love EGG USB 10 Function / Heating / Voice Control</name_ua>
             <description_ua>Унікальний стимулятор у поєднанні з пульсаціями. З одного боку, використовуйте його як масажер з 7 унікальними режимами вібрації. Інша сторона пропонує абсолютно нове відчуття завдяки унікальному приводу - він пульсує вперед -назад (7 функцій). Унікальна технологія забезпечує інтенсивні відчуття, максимально наближені до природних. Повне задоволення на кожному рівні "пульсації". Управління іграшкою здійснюється однією кнопкою. Швидке подвійне натискання дозволяє перемикатись між вібрацією та пульсацією. Кожне окреме натискання перемикає між вібруючими або пульсуючими функціями. Масажер виготовлений з високоякісного м’якого силікону, який вібрує або пульсує, відтворюючи реалістичні рухи партнера. Заряджайте за допомогою кабелю USB (входить в комплект). Водонепроникний</description_ua>
+            </offer>
+        <offer id="42-06214390000" available="true">
+                <erp>42-06214390000</erp>
+            <barcode>4024144621439</barcode>
+            <quantity_in_stock>13</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/18996-penis_xxl_creme200ml</url>
+            <price>970.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>101</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/42-06214390000.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6851bbea812a5.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6851bbea8c6da.png</picture>
+            <name>Penis-XXL-Creme200ml</name>
+            <Отображать>Да</Отображать>
+            <stock>13</stock>
+            <vendor>ORION</vendor>
+            <model>Penis-XXL-Creme200ml</model>
+            <description>Penis-XXL-Creme200ml</description>
+            <name_ua>Penis-XXL-Creme200ml</name_ua>
+            <description_ua>Penis-XXL-Creme200ml</description_ua>
             </offer>
         <offer id="64-00107" available="true">
                 <erp>64-00107</erp>
@@ -48337,26 +48624,6 @@ Virgin Tight - це відмінний вибір для тих, хто шука
             <description>Найпопулярніша лінійка гелів для догляду за тілом та еротичних ігор. Натуральна формула з чистим рослинним гліцерином забезпечує додаткове зволоження та тривале змащування. Захищає та заспокоює суху шкіру. Особливо підходить для чутливих слизових оболонок.</description>
             <name_ua>Лубрикант pjur MED Natural glide 100ml-waterbased</name_ua>
             <description_ua>Найпопулярніша лінійка гелів для догляду за тілом та еротичних ігор. Натуральна формула з чистим рослинним гліцерином забезпечує додаткове зволоження та тривале змащування. Захищає та заспокоює суху шкіру. Особливо підходить для чутливих слизових оболонок.</description_ua>
-            </offer>
-        <offer id="42-06214390000" available="true">
-                <erp>42-06214390000</erp>
-            <barcode>4024144621439</barcode>
-            <quantity_in_stock>14</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/18996-penis_xxl_creme200ml</url>
-            <price>970.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>101</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-06214390000.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6851bbea812a5.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6851bbea8c6da.png</picture>
-            <name>Penis-XXL-Creme200ml</name>
-            <Отображать>Да</Отображать>
-            <stock>14</stock>
-            <vendor>ORION</vendor>
-            <model>Penis-XXL-Creme200ml</model>
-            <description>Penis-XXL-Creme200ml</description>
-            <name_ua>Penis-XXL-Creme200ml</name_ua>
-            <description_ua>Penis-XXL-Creme200ml</description_ua>
             </offer>
         <offer id="42-07004790000" available="true">
                 <erp>42-07004790000</erp>
@@ -49619,7 +49886,7 @@ Kissable Arousal Intimat</description_ua>
         <offer id="11-90265" available="true">
                 <erp>11-90265</erp>
             <barcode>4019514902652</barcode>
-            <quantity_in_stock>21</quantity_in_stock>
+            <quantity_in_stock>20</quantity_in_stock>
             <url>http://blissclub.com.ua/product/31051-masazhna_oliyka_sensual_care_chuttviy_doglyad_100_ml</url>
             <price>312.00</price>
             <currencyId>UAH</currencyId>
@@ -49628,7 +49895,7 @@ Kissable Arousal Intimat</description_ua>
             <picture>https://blissclub.com.ua/images/product_variants/product_66040b35a9a6e.jpg</picture>
             <name>Масажна олійка Amor Sensual Care чуттєвий догляд, 100 мл</name>
             <Отображать>Да</Отображать>
-            <stock>21</stock>
+            <stock>20</stock>
             <vendor>AMOR</vendor>
             <model>Масажна олійка Amor Sensual Care чуттєвий догляд, 100 мл</model>
             <description>Масажна олійка Amor Sensual Care з чуттєвим доглядом – це ідеальний вибір для тих, хто хоче додати своїм масажним сесіям нотку романтики та інтимності. Завдяки об’єму 100 мл, ця олійка забезпечує достатню кількість продукту для багаторазового використання, дозволяючи вам насолоджуватися її перевагами протягом тривалого часу.&lt;br /&gt;&lt;br /&gt;
@@ -50181,7 +50448,7 @@ ONE Glowing Pleasures — коли хочеться безпечно, кайфо
         <offer id="42-06101940000" available="true">
                 <erp>42-06101940000</erp>
             <barcode>4024144610198</barcode>
-            <quantity_in_stock>61</quantity_in_stock>
+            <quantity_in_stock>59</quantity_in_stock>
             <url>http://blissclub.com.ua/product/3091-gely_lubrikantl_ust_glide_20_ml</url>
             <price>98.00</price>
             <currencyId>UAH</currencyId>
@@ -50190,7 +50457,7 @@ ONE Glowing Pleasures — коли хочеться безпечно, кайфо
             <picture>https://blissclub.com.ua/images/product_variants/product_6176ca621365c.jpg</picture>
             <name>Лубрикант Just Glide на водній основі, 20 мл</name>
             <Отображать>Да</Отображать>
-            <stock>61</stock>
+            <stock>59</stock>
             <vendor>ORION</vendor>
             <model>Лубрикант Just Glide на водній основі, 20 мл</model>
             <description>Продукт Just Glide призначений для зволоження інтимних частин під час статевого акту. Кришталево чиста змазка створена спеціально для чутливих інтимних зон. Він містить цінну формулу з 7 рослин і на 100% є веганом. Його формула на водній основі означає, що його можна використовувати з силіконовими іграшками. Гель легко змивається. Безпечний для використання з латексними презервативами. Без запаху і смаку. Також можна використовувати анально. Гінеколог &lt;br /&gt;
