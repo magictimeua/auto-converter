@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-11-15 15:00">
+<yml_catalog date="2025-11-15 17:45">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -5133,29 +5133,6 @@ Double Fun сильно стимулює обох партнерів під ча
             <description>Пояс до панчіх Loventy pas do ponczoch S/M</description>
             <name_ua>Пояс до панчіх Loventy pas do ponczoch S/M</name_ua>
             <description_ua>Пояс до панчіх Loventy pas do ponczoch S/M</description_ua>
-            </offer>
-        <offer id="60-00038" available="true">
-                <erp>60-00038</erp>
-            <barcode>5903661805425</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29612-masturbator_passion_cup_vagina_06</url>
-            <price>317.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>52</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_2961262bda59f72454.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62bda59d68acc.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62bda59d8a0f2.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62bda59da71c0.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62bda59dbffcf.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62bda59dd88d9.png</picture>
-            <name>Мастурбатор Passion Cup Vagina 06</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor />
-            <model>Мастурбатор Passion Cup Vagina 06</model>
-            <description>Мастурбатор Passion Cup Vagina 06</description>
-            <name_ua>Мастурбатор Passion Cup Vagina 06</name_ua>
-            <description_ua>Мастурбатор Passion Cup Vagina 06</description_ua>
             </offer>
         <offer id="74-8114" available="true">
                 <erp>74-8114</erp>
@@ -16055,6 +16032,29 @@ PheroStrong представляє новий аромат для жінок: On
 Базові ноти: ветивер&lt;br /&gt;
 PheroStrong представляє новий аромат для жінок: Only, який віддає данину найсміливішій стороні нашої особистості. Єдиний поки що найспокусливіший аромат PheroStrong - перед ним неможливо встояти.</description_ua>
             </offer>
+        <offer id="60-00038" available="true">
+                <erp>60-00038</erp>
+            <barcode>5903661805425</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/29612-masturbator_passion_cup_vagina_06</url>
+            <price>317.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>52</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_2961262bda59f72454.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62bda59d68acc.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62bda59d8a0f2.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62bda59da71c0.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62bda59dbffcf.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62bda59dd88d9.png</picture>
+            <name>Мастурбатор Passion Cup Vagina 06</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor />
+            <model>Мастурбатор Passion Cup Vagina 06</model>
+            <description>Мастурбатор Passion Cup Vagina 06</description>
+            <name_ua>Мастурбатор Passion Cup Vagina 06</name_ua>
+            <description_ua>Мастурбатор Passion Cup Vagina 06</description_ua>
+            </offer>
         <offer id="BI-014447" available="true">
                 <erp>BI-014447</erp>
             <barcode>6959532318449</barcode>
@@ -17722,6 +17722,24 @@ ABS силікон&lt;br /&gt;
             <description>Вібратор PRETTY LOVE - Kane, 7 vibration functions 7 tapping functions</description>
             <name_ua>Вібратор PRETTY LOVE - Kane, 7 vibration functions 7 tapping functions</name_ua>
             <description_ua>Вібратор PRETTY LOVE - Kane, 7 vibration functions 7 tapping functions</description_ua>
+            </offer>
+        <offer id="11-60359" available="true">
+                <erp>11-60359</erp>
+            <barcode>1100060359</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31034-prezervativi_vibratissimo_xx__l_fruit_color_55_mm_50_sht</url>
+            <price>890.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3103166004bb367ca8.png</picture>
+            <name>Презервативи Amor Vibratissimo XX ... L Fruit Color, 55 мм, 50 шт</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor>AMOR</vendor>
+            <model>Презервативи Amor Vibratissimo XX ... L Fruit Color, 55 мм, 50 шт</model>
+            <description>Презервативи Amor Vibratissimo XX ... L Fruit Color, 55 мм, 50 шт</description>
+            <name_ua>Презервативи Amor Vibratissimo XX ... L Fruit Color, 55 мм, 50 шт</name_ua>
+            <description_ua>Презервативи Amor Vibratissimo XX ... L Fruit Color, 55 мм, 50 шт</description_ua>
             </offer>
         <offer id="42-054010030000" available="true">
                 <erp>42-054010030000</erp>
@@ -26156,24 +26174,6 @@ Satisfyer Hot Lover має 11 режимів вібрації та пульса�
             <name_ua>Презервативи Amor Strong, 12 шт</name_ua>
             <description_ua>Презервативи Amor Strong, 12 шт</description_ua>
             </offer>
-        <offer id="11-60359" available="true">
-                <erp>11-60359</erp>
-            <barcode>1100060359</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31034-prezervativi_vibratissimo_xx__l_fruit_color_55_mm_50_sht</url>
-            <price>890.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>96</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3103166004bb367ca8.png</picture>
-            <name>Презервативи Amor Vibratissimo XX ... L Fruit Color, 55 мм, 50 шт</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>AMOR</vendor>
-            <model>Презервативи Amor Vibratissimo XX ... L Fruit Color, 55 мм, 50 шт</model>
-            <description>Презервативи Amor Vibratissimo XX ... L Fruit Color, 55 мм, 50 шт</description>
-            <name_ua>Презервативи Amor Vibratissimo XX ... L Fruit Color, 55 мм, 50 шт</name_ua>
-            <description_ua>Презервативи Amor Vibratissimo XX ... L Fruit Color, 55 мм, 50 шт</description_ua>
-            </offer>
         <offer id="94-BL-00042" available="true">
                 <erp>94-BL-00042</erp>
             <barcode />
@@ -27448,6 +27448,54 @@ VARIETY PACK - Variety Pack 1 містить 7 найбільш продаван
 Безпечний для тіла медичний силікон&lt;br /&gt;
 Легко чиститься і водонепроникний&lt;br /&gt;
 Додайте в кошик і подбайте про своє здоров'я Kegel вже сьогодні! Насолоджуйтеся дворічною гарантією та безпечним використанням.</description_ua>
+            </offer>
+        <offer id="39-70323" available="true">
+                <erp>39-70323</erp>
+            <barcode>5906647270323</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31819-avtomatichniy_masturbator_erospace_mens_play_b1</url>
+            <price>4225.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>110</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_31816675819702914c.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6758196e01380.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6758196e17c18.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6758196e2bd4b.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6758196e4d054.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6758196e71dac.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6758196e87104.jpg</picture>
+            <name>Автоматичний мастурбатор EROSPACE MEN'S PLAY B1</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor>EROSPACE</vendor>
+            <model>Автоматичний мастурбатор EROSPACE MEN'S PLAY B1</model>
+            <description>Наш сучасний чоловічий мастурбатор пропонує 7 потужних функцій обертання та ковзання (вгору та вниз), що забезпечує реалістичні відчуття, схожі на справжній секс. Завдяки складаним елементам його легко чистити, а внутрішня вставка з кібершкіри робить використання надзвичайно приємним і реалістичним.&lt;br /&gt;
+Виготовлений з безпечного для шкіри матеріалу, який не викликає роздратування та алергії. Водостійкість IPX7 дозволяє використовувати в різних умовах, а міцна конструкція забезпечує тривале використання.&lt;br /&gt;
+Заряджайте мастурбатор за допомогою USB-кабелю, що додається, виберіть одну з 7 функцій обертання та ковзання та насолоджуйтесь реалістичними відчуттями.&lt;br /&gt;
+Виріб легко чистити. Після використання розберіть складні елементи, потім вимийте їх теплою водою з м’яким милом, ретельно висушіть і знову зберіть. Зберігати в сухому, чистому місці.&lt;br /&gt;
+7 функцій обертання та подачі&lt;br /&gt;
+Матеріал: зношувана частина: Cyberleather, корпус: ABS, PU&lt;br /&gt;
+Довжина: 27 см&lt;br /&gt;
+Ширина: 9,5 см&lt;br /&gt;
+Внутрішній діаметр вставки: 3 см&lt;br /&gt;
+Вага: 792 г&lt;br /&gt;
+Час роботи після повної зарядки 1,5 години, час зарядки 2 години.&lt;br /&gt;
+Вбудований акумулятор&lt;br /&gt;
+USB зарядка</description>
+            <name_ua>Автоматичний мастурбатор EROSPACE MEN'S PLAY B1</name_ua>
+            <description_ua>Наш сучасний чоловічий мастурбатор пропонує 7 потужних функцій обертання та ковзання (вгору та вниз), що забезпечує реалістичні відчуття, схожі на справжній секс. Завдяки складаним елементам його легко чистити, а внутрішня вставка з кібершкіри робить використання надзвичайно приємним і реалістичним.&lt;br /&gt;
+Виготовлений з безпечного для шкіри матеріалу, який не викликає роздратування та алергії. Водостійкість IPX7 дозволяє використовувати в різних умовах, а міцна конструкція забезпечує тривале використання.&lt;br /&gt;
+Заряджайте мастурбатор за допомогою USB-кабелю, що додається, виберіть одну з 7 функцій обертання та ковзання та насолоджуйтесь реалістичними відчуттями.&lt;br /&gt;
+Виріб легко чистити. Після використання розберіть складні елементи, потім вимийте їх теплою водою з м’яким милом, ретельно висушіть і знову зберіть. Зберігати в сухому, чистому місці.&lt;br /&gt;
+7 функцій обертання та подачі&lt;br /&gt;
+Матеріал: зношувана частина: Cyberleather, корпус: ABS, PU&lt;br /&gt;
+Довжина: 27 см&lt;br /&gt;
+Ширина: 9,5 см&lt;br /&gt;
+Внутрішній діаметр вставки: 3 см&lt;br /&gt;
+Вага: 792 г&lt;br /&gt;
+Час роботи після повної зарядки 1,5 години, час зарядки 2 години.&lt;br /&gt;
+Вбудований акумулятор&lt;br /&gt;
+USB зарядка</description_ua>
             </offer>
         <offer id="64-00147" available="true">
                 <erp>64-00147</erp>
@@ -33049,54 +33097,6 @@ Fetish Lace Mask — ідеальний аксесуар для любителі
 Поступове натискання для посилення відчуттів&lt;br /&gt;
 Безпечний для шкіри матеріал&lt;br /&gt;
 Надійна якість виготовлення</description_ua>
-            </offer>
-        <offer id="39-70323" available="true">
-                <erp>39-70323</erp>
-            <barcode>5906647270323</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31819-avtomatichniy_masturbator_erospace_mens_play_b1</url>
-            <price>4225.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>110</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_31816675819702914c.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6758196e01380.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6758196e17c18.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6758196e2bd4b.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6758196e4d054.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6758196e71dac.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6758196e87104.jpg</picture>
-            <name>Автоматичний мастурбатор EROSPACE MEN'S PLAY B1</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>EROSPACE</vendor>
-            <model>Автоматичний мастурбатор EROSPACE MEN'S PLAY B1</model>
-            <description>Наш сучасний чоловічий мастурбатор пропонує 7 потужних функцій обертання та ковзання (вгору та вниз), що забезпечує реалістичні відчуття, схожі на справжній секс. Завдяки складаним елементам його легко чистити, а внутрішня вставка з кібершкіри робить використання надзвичайно приємним і реалістичним.&lt;br /&gt;
-Виготовлений з безпечного для шкіри матеріалу, який не викликає роздратування та алергії. Водостійкість IPX7 дозволяє використовувати в різних умовах, а міцна конструкція забезпечує тривале використання.&lt;br /&gt;
-Заряджайте мастурбатор за допомогою USB-кабелю, що додається, виберіть одну з 7 функцій обертання та ковзання та насолоджуйтесь реалістичними відчуттями.&lt;br /&gt;
-Виріб легко чистити. Після використання розберіть складні елементи, потім вимийте їх теплою водою з м’яким милом, ретельно висушіть і знову зберіть. Зберігати в сухому, чистому місці.&lt;br /&gt;
-7 функцій обертання та подачі&lt;br /&gt;
-Матеріал: зношувана частина: Cyberleather, корпус: ABS, PU&lt;br /&gt;
-Довжина: 27 см&lt;br /&gt;
-Ширина: 9,5 см&lt;br /&gt;
-Внутрішній діаметр вставки: 3 см&lt;br /&gt;
-Вага: 792 г&lt;br /&gt;
-Час роботи після повної зарядки 1,5 години, час зарядки 2 години.&lt;br /&gt;
-Вбудований акумулятор&lt;br /&gt;
-USB зарядка</description>
-            <name_ua>Автоматичний мастурбатор EROSPACE MEN'S PLAY B1</name_ua>
-            <description_ua>Наш сучасний чоловічий мастурбатор пропонує 7 потужних функцій обертання та ковзання (вгору та вниз), що забезпечує реалістичні відчуття, схожі на справжній секс. Завдяки складаним елементам його легко чистити, а внутрішня вставка з кібершкіри робить використання надзвичайно приємним і реалістичним.&lt;br /&gt;
-Виготовлений з безпечного для шкіри матеріалу, який не викликає роздратування та алергії. Водостійкість IPX7 дозволяє використовувати в різних умовах, а міцна конструкція забезпечує тривале використання.&lt;br /&gt;
-Заряджайте мастурбатор за допомогою USB-кабелю, що додається, виберіть одну з 7 функцій обертання та ковзання та насолоджуйтесь реалістичними відчуттями.&lt;br /&gt;
-Виріб легко чистити. Після використання розберіть складні елементи, потім вимийте їх теплою водою з м’яким милом, ретельно висушіть і знову зберіть. Зберігати в сухому, чистому місці.&lt;br /&gt;
-7 функцій обертання та подачі&lt;br /&gt;
-Матеріал: зношувана частина: Cyberleather, корпус: ABS, PU&lt;br /&gt;
-Довжина: 27 см&lt;br /&gt;
-Ширина: 9,5 см&lt;br /&gt;
-Внутрішній діаметр вставки: 3 см&lt;br /&gt;
-Вага: 792 г&lt;br /&gt;
-Час роботи після повної зарядки 1,5 години, час зарядки 2 години.&lt;br /&gt;
-Вбудований акумулятор&lt;br /&gt;
-USB зарядка</description_ua>
             </offer>
         <offer id="39-70347" available="true">
                 <erp>39-70347</erp>
@@ -46046,6 +46046,32 @@ JoyDivision BIOglide Safe - це відмінний вибір для тих, х
             <name_ua>Насадка на пеніс PRETTY LOVE - SLOANE PENIS SLEEVE </name_ua>
             <description_ua>Насадка на пеніс PRETTY LOVE - SLOANE PENIS SLEEVE </description_ua>
             </offer>
+        <offer id="26-00158" available="true">
+                <erp>26-00158</erp>
+            <barcode>5903661806989</barcode>
+            <quantity_in_stock>10</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30614-viibrator_hannah_usb_pink</url>
+            <price>1431.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>18</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3061464c2b7b9f06e5.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b70c1c7.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b75d77b.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b798abe.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b7d3ad0.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b804d3a.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b84cc2e.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b87de25.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b8b0a6d.jpeg</picture>
+            <name>Віібратор Hannah USB Pink</name>
+            <Отображать>Да</Отображать>
+            <stock>10</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Віібратор Hannah USB Pink</model>
+            <description>Віібратор Hannah USB Pink</description>
+            <name_ua>Віібратор Hannah USB Pink</name_ua>
+            <description_ua>Віібратор Hannah USB Pink</description_ua>
+            </offer>
         <offer id="26-00160" available="true">
                 <erp>26-00160</erp>
             <barcode>5903661807016</barcode>
@@ -46797,32 +46823,6 @@ ORGASM MAX для жінок призначений для значної під
 Чому обирають Optimizer Blowjob Gel Vanilla:&lt;br /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;br /&gt;
 Лубрикант оральний Optimizer Blowjob Gel Vanilla – це ідеальний вибір для тих, хто шукає якісний і приємний зволожуючий засіб для інтимних моментів. Його аромат і смак ванілі додають особливого задоволення, а водна основа забезпечує тривалий комфорт і безпеку під час використання. Дозвольте собі та своєму партнерові насолодитися новими відчуттями з лубрикантом Optimizer Blowjob Gel Vanilla.</description_ua>
-            </offer>
-        <offer id="26-00158" available="true">
-                <erp>26-00158</erp>
-            <barcode>5903661806989</barcode>
-            <quantity_in_stock>11</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30614-viibrator_hannah_usb_pink</url>
-            <price>1431.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>18</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3061464c2b7b9f06e5.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b70c1c7.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b75d77b.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b798abe.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b7d3ad0.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b804d3a.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b84cc2e.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b87de25.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b8b0a6d.jpeg</picture>
-            <name>Віібратор Hannah USB Pink</name>
-            <Отображать>Да</Отображать>
-            <stock>11</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Віібратор Hannah USB Pink</model>
-            <description>Віібратор Hannah USB Pink</description>
-            <name_ua>Віібратор Hannah USB Pink</name_ua>
-            <description_ua>Віібратор Hannah USB Pink</description_ua>
             </offer>
         <offer id="68-PHE0001" available="true">
                 <erp>68-PHE0001</erp>
