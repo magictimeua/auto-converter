@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-11-19 15:15">
+<yml_catalog date="2025-11-19 16:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -8436,25 +8436,6 @@ G-подібна насадка, з потовщеною головкою і н�
             <description>Панчохи Calze Cher Beżowe S/M</description>
             <name_ua>Панчохи Calze Cher Beżowe S/M</name_ua>
             <description_ua>Панчохи Calze Cher Beżowe S/M</description_ua>
-            </offer>
-        <offer id="50-22634126" available="true">
-                <erp>50-22634126</erp>
-            <barcode>5906733321083</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31493-panchohi_calze_cher_czarne_ml</url>
-            <price>298.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>62</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3149066ed8900dc1f6.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed88ffe6b68.jpeg</picture>
-            <name>Панчохи Calze Cher Czarne M/L</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>GABRIELLA</vendor>
-            <model>Панчохи Calze Cher Czarne M/L</model>
-            <description>Панчохи Calze Cher Czarne M/L</description>
-            <name_ua>Панчохи Calze Cher Czarne M/L</name_ua>
-            <description_ua>Панчохи Calze Cher Czarne M/L</description_ua>
             </offer>
         <offer id="56-4012" available="true">
                 <erp>56-4012</erp>
@@ -20242,6 +20223,47 @@ USB-C – швидка зарядка (кабель не входить).&lt;br 
 Це означає стовідсоткове задоволення від покупки у нас.&lt;br /&gt;
 Подивіться самі, і ви побачите, що ви захочете мати їх постійно.</description_ua>
             </offer>
+        <offer id="90-570406" available="true">
+                <erp>90-570406</erp>
+            <barcode>3479225704067</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31944-maska_vid_fetish_adustable_bunny_mask</url>
+            <price>1299.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>86</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3194067b4f3241813a.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f322c4d7a.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f322d9486.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f322ede15.jpeg</picture>
+            <name>Маска від FETISH ADJUSTABLE BUNNY MASK</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor>CONCORDE PRO</vendor>
+            <model>Маска від FETISH ADJUSTABLE BUNNY MASK</model>
+            <description>Тут ми представляємо вам унікальну маску кролика від нашого шановного постачальника, бренду Fetish Tentation, яка обов’язково оживить будь-який одяг і збагатить вашу колекцію фетишів.&lt;br /&gt;
+Ця маска - не просто елемент одягу, це есенція фантазії та спокуси. Виготовлена з високоякісного шкірозамінника, декорована оксамитовою підкладкою, випромінює розкіш і загадковість. Його подвійне регулювання забезпечує не тільки ідеальну посадку, але й комфорт під час інтенсивних відчуттів.&lt;br /&gt;
+Унікальним елементом маски є кролячі вушка, які додають шарму та чуттєвості. Все це акуратно з’єднане металевими заклепками, що надає йому не тільки довговічності, але й промислового шарму.&lt;br /&gt;
+Маска закриває значну частину обличчя, додаючи ауру таємничості та інтриги. Завдяки регульованому обхвату від 50 до 63 см і ремінцю з 13 отворами на голові ідеально підходить для різних розмірів голови.&lt;br /&gt;
+&lt;br /&gt;
+Параметри:&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Fetish Tentation&lt;br /&gt;
+Матеріали: шкірозамінник, підкладка оксамит&lt;br /&gt;
+Діаметр: 310 мм&lt;br /&gt;
+Вага: 135 грам</description>
+            <name_ua>Маска від FETISH ADJUSTABLE BUNNY MASK</name_ua>
+            <description_ua>Тут ми представляємо вам унікальну маску кролика від нашого шановного постачальника, бренду Fetish Tentation, яка обов’язково оживить будь-який одяг і збагатить вашу колекцію фетишів.&lt;br /&gt;
+Ця маска - не просто елемент одягу, це есенція фантазії та спокуси. Виготовлена з високоякісного шкірозамінника, декорована оксамитовою підкладкою, випромінює розкіш і загадковість. Його подвійне регулювання забезпечує не тільки ідеальну посадку, але й комфорт під час інтенсивних відчуттів.&lt;br /&gt;
+Унікальним елементом маски є кролячі вушка, які додають шарму та чуттєвості. Все це акуратно з’єднане металевими заклепками, що надає йому не тільки довговічності, але й промислового шарму.&lt;br /&gt;
+Маска закриває значну частину обличчя, додаючи ауру таємничості та інтриги. Завдяки регульованому обхвату від 50 до 63 см і ремінцю з 13 отворами на голові ідеально підходить для різних розмірів голови.&lt;br /&gt;
+&lt;br /&gt;
+Параметри:&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Fetish Tentation&lt;br /&gt;
+Матеріали: шкірозамінник, підкладка оксамит&lt;br /&gt;
+Діаметр: 310 мм&lt;br /&gt;
+Вага: 135 грам</description_ua>
+            </offer>
         <offer id="CN-102060873" available="true">
                 <erp>CN-102060873</erp>
             <barcode>759746608734</barcode>
@@ -27411,47 +27433,6 @@ USB зарядка</description_ua>
 Носити їх - це не тільки задоволення, але й спосіб привнести в свій стиль трохи розкоші та чуттєвості.&lt;br /&gt;
 Хочете побачити, як унікально вони можуть виглядати на вас? Не чекай!</description_ua>
             </offer>
-        <offer id="90-570406" available="true">
-                <erp>90-570406</erp>
-            <barcode>3479225704067</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31944-maska_vid_fetish_adustable_bunny_mask</url>
-            <price>1299.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>86</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3194067b4f3241813a.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f322c4d7a.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f322d9486.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f322ede15.jpeg</picture>
-            <name>Маска від FETISH ADJUSTABLE BUNNY MASK</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>CONCORDE PRO</vendor>
-            <model>Маска від FETISH ADJUSTABLE BUNNY MASK</model>
-            <description>Тут ми представляємо вам унікальну маску кролика від нашого шановного постачальника, бренду Fetish Tentation, яка обов’язково оживить будь-який одяг і збагатить вашу колекцію фетишів.&lt;br /&gt;
-Ця маска - не просто елемент одягу, це есенція фантазії та спокуси. Виготовлена з високоякісного шкірозамінника, декорована оксамитовою підкладкою, випромінює розкіш і загадковість. Його подвійне регулювання забезпечує не тільки ідеальну посадку, але й комфорт під час інтенсивних відчуттів.&lt;br /&gt;
-Унікальним елементом маски є кролячі вушка, які додають шарму та чуттєвості. Все це акуратно з’єднане металевими заклепками, що надає йому не тільки довговічності, але й промислового шарму.&lt;br /&gt;
-Маска закриває значну частину обличчя, додаючи ауру таємничості та інтриги. Завдяки регульованому обхвату від 50 до 63 см і ремінцю з 13 отворами на голові ідеально підходить для різних розмірів голови.&lt;br /&gt;
-&lt;br /&gt;
-Параметри:&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Fetish Tentation&lt;br /&gt;
-Матеріали: шкірозамінник, підкладка оксамит&lt;br /&gt;
-Діаметр: 310 мм&lt;br /&gt;
-Вага: 135 грам</description>
-            <name_ua>Маска від FETISH ADJUSTABLE BUNNY MASK</name_ua>
-            <description_ua>Тут ми представляємо вам унікальну маску кролика від нашого шановного постачальника, бренду Fetish Tentation, яка обов’язково оживить будь-який одяг і збагатить вашу колекцію фетишів.&lt;br /&gt;
-Ця маска - не просто елемент одягу, це есенція фантазії та спокуси. Виготовлена з високоякісного шкірозамінника, декорована оксамитовою підкладкою, випромінює розкіш і загадковість. Його подвійне регулювання забезпечує не тільки ідеальну посадку, але й комфорт під час інтенсивних відчуттів.&lt;br /&gt;
-Унікальним елементом маски є кролячі вушка, які додають шарму та чуттєвості. Все це акуратно з’єднане металевими заклепками, що надає йому не тільки довговічності, але й промислового шарму.&lt;br /&gt;
-Маска закриває значну частину обличчя, додаючи ауру таємничості та інтриги. Завдяки регульованому обхвату від 50 до 63 см і ремінцю з 13 отворами на голові ідеально підходить для різних розмірів голови.&lt;br /&gt;
-&lt;br /&gt;
-Параметри:&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Fetish Tentation&lt;br /&gt;
-Матеріали: шкірозамінник, підкладка оксамит&lt;br /&gt;
-Діаметр: 310 мм&lt;br /&gt;
-Вага: 135 грам</description_ua>
-            </offer>
         <offer id="90-826065" available="true">
                 <erp>90-826065</erp>
             <barcode>3479228260652</barcode>
@@ -30562,6 +30543,24 @@ Sweet Smile Rechargeable Butt Plug — елегантна, потужна та �
             <name_ua>Вібронасадка на палець Satisfyer High Fly, червона</name_ua>
             <description_ua>Вібратор на палець анатомічної форми з еластичними крильцями. High Flyподарує  різноманітні способи стимулювання обох партнерів, але його також можна чудово використовувати поодинці. Виготовлений з медичного силікону стимулятор має гладку, приємну на дотик поверхню. У комплекті: смарт-вібратор, USB-шнур для заряджання, пульт д/в, докладний посібник з експлуатації. Розмір:6,5 х 5 см</description_ua>
             </offer>
+        <offer id="64-00080" available="true">
+                <erp>64-00080</erp>
+            <barcode>5903661800970</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/28962-analyna_probka___awellery_red_silikon_plug_smallblue_diamond</url>
+            <price>298.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>31</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/64-00080.jpg</picture>
+            <name>Анальна пробка B - Series HeavyFun Jawellery Red, силіконова, малого розміру, синій діамант</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Анальна пробка B - Series HeavyFun Jawellery Red, силіконова, малого розміру, синій діамант</model>
+            <description>Анальна пробка з кольоровим кристалом виготовлена з високоякісного медичного силікону, який абсолютно безпечний для шкіри. Він дуже приємний на дотик і не викликає роздратування. Завдяки ніжній формі і відповідним розмірам, його можуть використовувати як новачки, так і досвідчені любителі анальної гри. Загальна довжина 7 см. Діаметр 2,7 см. Стильна упаковка у вигляді замшевого футляра. </description>
+            <name_ua>Анальна пробка B - Series HeavyFun Jawellery Red, силіконова, малого розміру, синій діамант</name_ua>
+            <description_ua>Анальна пробка з кольоровим кристалом виготовлена з високоякісного медичного силікону, який абсолютно безпечний для шкіри. Він дуже приємний на дотик і не викликає роздратування. Завдяки ніжній формі і відповідним розмірам, його можуть використовувати як новачки, так і досвідчені любителі анальної гри. Загальна довжина 7 см. Діаметр 2,7 см. Стильна упаковка у вигляді замшевого футляра. </description_ua>
+            </offer>
         <offer id="64-00109" available="true">
                 <erp>64-00109</erp>
             <barcode />
@@ -31236,6 +31235,26 @@ Satisfyer Hot Lover має 11 режимів вібрації та пульса�
             <description>Реалістичний вібратор без мошонки Real Softee Vibrating Dildo 7,8" виконаний з матеріалу 100% soft cyber skin. Дуже приємний на дотик і порівняємо за тактильними відчуттями з натуральним ерогованим чоловічим пенісом. Гладка головка реального розміру зробить проникнення ніжним і комфортним, рельєфний ствол забезпечить додаткову стимуляцію стінок піхви. 10 функцій вібрації.  Довжина - 19,3 см, діаметр - 3,7 см.</description>
             <name_ua>Вібратор DILDO 8'' REAL FEEL</name_ua>
             <description_ua>Реалістичний вібратор без мошонки Real Softee Vibrating Dildo 7,8" виконаний з матеріалу 100% soft cyber skin. Дуже приємний на дотик і порівняємо за тактильними відчуттями з натуральним ерогованим чоловічим пенісом. Гладка головка реального розміру зробить проникнення ніжним і комфортним, рельєфний ствол забезпечить додаткову стимуляцію стінок піхви. 10 функцій вібрації.  Довжина - 19,3 см, діаметр - 3,7 см.</description_ua>
+            </offer>
+        <offer id="66-LV761005" available="true">
+                <erp>66-LV761005</erp>
+            <barcode>6970260906036</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30100-bondazh_na_penis_ta_moshonku_tstyle_leather_cockring_with_ball</url>
+            <price>304.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>37</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3010063c51c0e107ec.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63c51c04954c5.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63c51c051bc30.jpg</picture>
+            <name>Бондаж на пеніс та мошонку TSTYLE LEATHER COCKRING WITH BALL</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor />
+            <model>Бондаж на пеніс та мошонку TSTYLE LEATHER COCKRING WITH BALL</model>
+            <description>Бондаж на пеніс та мошонку TSTYLE LEATHER COCKRING WITH BALL</description>
+            <name_ua>Бондаж на пеніс та мошонку TSTYLE LEATHER COCKRING WITH BALL</name_ua>
+            <description_ua>Бондаж на пеніс та мошонку TSTYLE LEATHER COCKRING WITH BALL</description_ua>
             </offer>
         <offer id="BM-009173" available="true">
                 <erp>BM-009173</erp>
@@ -35347,24 +35366,6 @@ PRETTY LOVE ARVIN також є водонепроникною, що дозво�
             <name_ua>Анальна пробка B - Series HeavyFun Jawellery Silver, чорна</name_ua>
             <description_ua>Ексклюзивні анальні прикраси з нержавіючої сталі. Високоякісна нержавіюча сталь гарантує безпеку вашого тіла. Анальна пробка ідеально гладка, позбавлена ​​гострих країв, не викликає подразнення шкіри. Ідеально підходить для новачків та досвідчених любителів анальної гри. Виготовлений з металу дає нам можливість охолодити або нагріти його для покращення досвіду. Красивий діамант, прикріплений до основи, елегантний і дарує чуттєвість. Анальний отвір має ідеальну форму, особлива анатомічна форма полегшує нанесення. Цибулинна форма прекрасно стимулює. На відміну від цього, вузька шия з алмазною основою дозволить м’язам обернутися і утримувати пробку в потрібному місці, запобігаючи всмоктуванню. Загальна довжина 9,5 см. Діаметр 3 см. Стильна упаковка у вигляді замшевого чохла.</description_ua>
             </offer>
-        <offer id="64-00080" available="true">
-                <erp>64-00080</erp>
-            <barcode>5903661800970</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/28962-analyna_probka___awellery_red_silikon_plug_smallblue_diamond</url>
-            <price>298.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>31</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/64-00080.jpg</picture>
-            <name>Анальна пробка B - Series HeavyFun Jawellery Red, силіконова, малого розміру, синій діамант</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Анальна пробка B - Series HeavyFun Jawellery Red, силіконова, малого розміру, синій діамант</model>
-            <description>Анальна пробка з кольоровим кристалом виготовлена з високоякісного медичного силікону, який абсолютно безпечний для шкіри. Він дуже приємний на дотик і не викликає роздратування. Завдяки ніжній формі і відповідним розмірам, його можуть використовувати як новачки, так і досвідчені любителі анальної гри. Загальна довжина 7 см. Діаметр 2,7 см. Стильна упаковка у вигляді замшевого футляра. </description>
-            <name_ua>Анальна пробка B - Series HeavyFun Jawellery Red, силіконова, малого розміру, синій діамант</name_ua>
-            <description_ua>Анальна пробка з кольоровим кристалом виготовлена з високоякісного медичного силікону, який абсолютно безпечний для шкіри. Він дуже приємний на дотик і не викликає роздратування. Завдяки ніжній формі і відповідним розмірам, його можуть використовувати як новачки, так і досвідчені любителі анальної гри. Загальна довжина 7 см. Діаметр 2,7 см. Стильна упаковка у вигляді замшевого футляра. </description_ua>
-            </offer>
         <offer id="64-00081" available="true">
                 <erp>64-00081</erp>
             <barcode>5903661800987</barcode>
@@ -36006,26 +36007,6 @@ ABS TPR&lt;br /&gt;
 Підходить для веганів&lt;br /&gt;
 100% натуральний</description_ua>
             </offer>
-        <offer id="66-LV761005" available="true">
-                <erp>66-LV761005</erp>
-            <barcode>6970260906036</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30100-bondazh_na_penis_ta_moshonku_tstyle_leather_cockring_with_ball</url>
-            <price>304.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>37</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3010063c51c0e107ec.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63c51c04954c5.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63c51c051bc30.jpg</picture>
-            <name>Бондаж на пеніс та мошонку TSTYLE LEATHER COCKRING WITH BALL</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor />
-            <model>Бондаж на пеніс та мошонку TSTYLE LEATHER COCKRING WITH BALL</model>
-            <description>Бондаж на пеніс та мошонку TSTYLE LEATHER COCKRING WITH BALL</description>
-            <name_ua>Бондаж на пеніс та мошонку TSTYLE LEATHER COCKRING WITH BALL</name_ua>
-            <description_ua>Бондаж на пеніс та мошонку TSTYLE LEATHER COCKRING WITH BALL</description_ua>
-            </offer>
         <offer id="66-LVFT-001A-03R" available="true">
                 <erp>66-LVFT-001A-03R</erp>
             <barcode>6970260905978</barcode>
@@ -36617,32 +36598,6 @@ Sensfeel™ for Him - це природний активний інгредіє�
             <description_ua>Якщо ви хочете дослідити свої найпотаємніші куточки або відкрити для себе задоволення, приховані глибоко у вашому тілі - передайте привіт анальному вібратору Van від Pretty Love.&lt;br /&gt;
 Ідеально підходить як для самостійного дослідження, так і для гри з партнером. Відкрийте для себе вібрацію, що тремтить коліна під час кожної зустрічі, завдяки її опуклим намистинам і потужним 10 режимам вібрації. Виготовлений з силікону з гігієнічною поверхнею. Додайте трохи мастила на водній основі, щоб насолодитися ідеальним ковзанням. Зручна ручка полегшує використання, а функція USB-зарядки забезпечує швидку та зручну стимуляцію, де б ви не були.&lt;br /&gt;
 Готові до подорожі в країну незабутніх вражень? Цей елегантний анальний вібратор чекає на вас!</description_ua>
-            </offer>
-        <offer id="68-VIB0011" available="true">
-                <erp>68-VIB0011</erp>
-            <barcode>5600781416257</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31264-ridkiy_vibrator_intt_vibration_caipirinha_z_aromatom_kaypiriny_15ml</url>
-            <price>912.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>145</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3126166640a37b5e78.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66640a36960ed.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66640a36ab937.jpeg</picture>
-            <name>РІдкий вібратор Intt Vibration CAIPIRINHA з ароматом кайпіріньї 15мл</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>INTT COSMETICS</vendor>
-            <model>РІдкий вібратор Intt Vibration CAIPIRINHA з ароматом кайпіріньї 15мл</model>
-            <description> Гель з ефектом поколювання зі смаком. меду 15 мл&lt;br /&gt;
-Вібраційний гель! Vibration CAIPIRINHA  розроблений на основі амазонських рослин з чудовим ароматом кайпірінь. Надає поколювання, пульсуючий і зігріваючий ефект.  Продукт призначений для обох статей. Ефект від гелю триває не менше 30 хвилин. Добре працює з еротичними гаджетами, для анально-вагінального проникнення або орального сексу.&lt;br /&gt;
-&lt;br /&gt;
-Склад:  вода (вода), гліцерин, ароматизатор, гідрокситилцелюлоза, екстракт акмелії олеацери, сахарин натрію, бензоат натрію, BHT.</description>
-            <name_ua>РІдкий вібратор Intt Vibration CAIPIRINHA з ароматом кайпіріньї 15мл</name_ua>
-            <description_ua> Гель з ефектом поколювання зі смаком. меду 15 мл&lt;br /&gt;
-Вібраційний гель! Vibration CAIPIRINHA  розроблений на основі амазонських рослин з чудовим ароматом кайпірінь. Надає поколювання, пульсуючий і зігріваючий ефект.  Продукт призначений для обох статей. Ефект від гелю триває не менше 30 хвилин. Добре працює з еротичними гаджетами, для анально-вагінального проникнення або орального сексу.&lt;br /&gt;
-&lt;br /&gt;
-Склад:  вода (вода), гліцерин, ароматизатор, гідрокситилцелюлоза, екстракт акмелії олеацери, сахарин натрію, бензоат натрію, BHT.</description_ua>
             </offer>
         <offer id="BI-300011" available="true">
                 <erp>BI-300011</erp>
@@ -38200,6 +38155,27 @@ OLO RedSilver мають високу теплопровідність, швид
             <name_ua>Спрей для орального сексу ORGIE WOW BLOWJOB SPRAY, 10 МЛ</name_ua>
             <description_ua>&lt;p&gt;Спрей для орального сексу ORGIE WOW BLOWJOB SPRAY, 10 мл - це спеціалізований продукт, розроблений для підвищення задоволення під час оральних ласк. Цей спрей допомагає створити приємні відчуття, роблячи процес ще більш привабливим і комфортним.&lt;br /&gt;&lt;br /&gt;Основні переваги:&lt;br /&gt;&lt;br /&gt;1. Смакові нотки: Спрей має привабливий смак, що робить оральний секс більш смачним і веселим.&lt;br /&gt;2. Знеболюючий ефект: Формула спрею допомагає зменшити чутливість, що дозволяє насолоджуватися глибокими оральними ласками без дискомфорту.&lt;br /&gt;3. Безпечний склад: Виготовлено з якісних гіпоалергенних інгредієнтів, які не подразнюють чутливу шкіру.&lt;br /&gt;4. Легка текстура: Спрей легко наноситься і швидко вбирається, забезпечуючи комфорт і задоволення без залишку липкості.&lt;br /&gt;5. Компактний розмір: Упаковка об’ємом 10 мл ідеально підходить для подорожей та легкого зберігання.&lt;br /&gt;&lt;br /&gt;Спосіб застосування:&lt;br /&gt;&lt;br /&gt;Струсіть флакон перед використанням. Нанесіть невелику кількість спрею на шкіру або частини тіла партнера перед початком оральних ласк. &lt;br /&gt;&lt;br /&gt;Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;- Уникайте контакту з очима.&lt;br /&gt;- Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;- Зберігайте в недоступному для дітей місці.&lt;br /&gt;- Зберігайте при кімнатній температурі, подалі від прямих сонячних променів.&lt;br /&gt;&lt;br /&gt;Чому обирають ORGIE WOW BLOWJOB SPRAY:&lt;br /&gt;&lt;br /&gt;Спрей для орального сексу ORGIE WOW BLOWJOB SPRAY - це чудовий вибір для тих, хто хоче підвищити якість своїх оральних ласок. Його смачний аромат і зручна текстура перетворять ваші інтимні моменти на справжнє задоволення.&lt;/p&gt;</description_ua>
             </offer>
+        <offer id="69-51409" available="true">
+                <erp>69-51409</erp>
+            <barcode>5600298351409</barcode>
+            <quantity_in_stock>6</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/16439-lubrikant_analyniy_greek_kiss_50_ml</url>
+            <price>812.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>159</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/69-51409.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68755895532d0.webp</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_687558955ae05.webp</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_687558955ec3f.webp</picture>
+            <name>Лубрикант анальний Orgie Greek kiss, 50ml</name>
+            <Отображать>Да</Отображать>
+            <stock>6</stock>
+            <vendor>ORGIE COSMETICS</vendor>
+            <model>Лубрикант анальний Orgie Greek Kiss, 50 мл</model>
+            <description>&lt;p&gt;Лубрикант анальний Orgie Greek Kiss – це інтимний гель на водній основі, спеціально розроблений для анального сексу. Завдяки своїй унікальній формулі, цей лубрикант забезпечує тривале зволоження і комфорт, роблячи інтимні моменти приємними і безпечними. Об’єм 50 мл робить його зручним для використання вдома або в подорожах.&lt;br /&gt;&lt;br /&gt;Основні переваги:&lt;br /&gt;&lt;br /&gt;1. Водна основа: Легко змивається водою, не залишає липких слідів і не викликає подразнень. Сумісний з латексними презервативами та різними секс-іграшками.&lt;br /&gt;2. Формула для анального застосування: Спеціально розроблена для анального сексу, забезпечуючи тривале зволоження і додатковий комфорт.&lt;br /&gt;3. Гіпоалергенний: Не містить агресивних хімічних речовин, штучних ароматизаторів або барвників, що робить його безпечним для чутливої шкіри.&lt;br /&gt;4. Тривале зволоження: Забезпечує тривале зволоження, зменшуючи тертя і підвищуючи комфорт під час анального сексу.&lt;br /&gt;5. Компактний об’єм: Зручний для використання вдома або в подорожах завдяки своєму компактному розміру.&lt;br /&gt;&lt;br /&gt;Спосіб застосування:&lt;br /&gt;&lt;br /&gt;Нанесіть необхідну кількість лубриканта на анальні зони або секс-іграшки перед початком інтимних моментів. Розподіліть рівномірно для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;• Уникайте контакту з очима.&lt;br /&gt;• Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;• Зберігайте у недоступному для дітей місці.&lt;br /&gt;• Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;Чому обирають Orgie Greek Kiss:&lt;br /&gt;&lt;br /&gt;Лубрикант анальний Orgie Greek Kiss – це відмінний вибір для тих, хто шукає якісний і безпечний зволожуючий засіб для анального сексу. Його водна основа забезпечує тривале зволоження і комфорт, роблячи кожен момент особливим і захопливим.&lt;/p&gt;</description>
+            <name_ua>Лубрикант анальний Orgie Greek kiss, 50ml</name_ua>
+            <description_ua>&lt;p&gt;Лубрикант анальний Orgie Greek Kiss – це інтимний гель на водній основі, спеціально розроблений для анального сексу. Завдяки своїй унікальній формулі, цей лубрикант забезпечує тривале зволоження і комфорт, роблячи інтимні моменти приємними і безпечними. Об’єм 50 мл робить його зручним для використання вдома або в подорожах.&lt;br /&gt;&lt;br /&gt;Основні переваги:&lt;br /&gt;&lt;br /&gt;1. Водна основа: Легко змивається водою, не залишає липких слідів і не викликає подразнень. Сумісний з латексними презервативами та різними секс-іграшками.&lt;br /&gt;2. Формула для анального застосування: Спеціально розроблена для анального сексу, забезпечуючи тривале зволоження і додатковий комфорт.&lt;br /&gt;3. Гіпоалергенний: Не містить агресивних хімічних речовин, штучних ароматизаторів або барвників, що робить його безпечним для чутливої шкіри.&lt;br /&gt;4. Тривале зволоження: Забезпечує тривале зволоження, зменшуючи тертя і підвищуючи комфорт під час анального сексу.&lt;br /&gt;5. Компактний об’єм: Зручний для використання вдома або в подорожах завдяки своєму компактному розміру.&lt;br /&gt;&lt;br /&gt;Спосіб застосування:&lt;br /&gt;&lt;br /&gt;Нанесіть необхідну кількість лубриканта на анальні зони або секс-іграшки перед початком інтимних моментів. Розподіліть рівномірно для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;• Уникайте контакту з очима.&lt;br /&gt;• Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;• Зберігайте у недоступному для дітей місці.&lt;br /&gt;• Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;Чому обирають Orgie Greek Kiss:&lt;br /&gt;&lt;br /&gt;Лубрикант анальний Orgie Greek Kiss – це відмінний вибір для тих, хто шукає якісний і безпечний зволожуючий засіб для анального сексу. Його водна основа забезпечує тривале зволоження і комфорт, роблячи кожен момент особливим і захопливим.&lt;/p&gt;</description_ua>
+            </offer>
         <offer id="19-2028" available="true">
                 <erp>19-2028</erp>
             <barcode>3548960020234</barcode>
@@ -39637,6 +39613,32 @@ Pherluxe BLACK - подарує вам чуттєвість, пристраст�
             <description>Насадка на пеніс з вібро Deep Love vibration</description>
             <name_ua>Насадка на пеніс з вібро Deep Love vibration</name_ua>
             <description_ua>Насадка на пеніс з вібро Deep Love vibration</description_ua>
+            </offer>
+        <offer id="68-VIB0011" available="true">
+                <erp>68-VIB0011</erp>
+            <barcode>5600781416257</barcode>
+            <quantity_in_stock>6</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31264-ridkiy_vibrator_intt_vibration_caipirinha_z_aromatom_kaypiriny_15ml</url>
+            <price>912.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>145</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3126166640a37b5e78.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66640a36960ed.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66640a36ab937.jpeg</picture>
+            <name>РІдкий вібратор Intt Vibration CAIPIRINHA з ароматом кайпіріньї 15мл</name>
+            <Отображать>Да</Отображать>
+            <stock>6</stock>
+            <vendor>INTT COSMETICS</vendor>
+            <model>РІдкий вібратор Intt Vibration CAIPIRINHA з ароматом кайпіріньї 15мл</model>
+            <description> Гель з ефектом поколювання зі смаком. меду 15 мл&lt;br /&gt;
+Вібраційний гель! Vibration CAIPIRINHA  розроблений на основі амазонських рослин з чудовим ароматом кайпірінь. Надає поколювання, пульсуючий і зігріваючий ефект.  Продукт призначений для обох статей. Ефект від гелю триває не менше 30 хвилин. Добре працює з еротичними гаджетами, для анально-вагінального проникнення або орального сексу.&lt;br /&gt;
+&lt;br /&gt;
+Склад:  вода (вода), гліцерин, ароматизатор, гідрокситилцелюлоза, екстракт акмелії олеацери, сахарин натрію, бензоат натрію, BHT.</description>
+            <name_ua>РІдкий вібратор Intt Vibration CAIPIRINHA з ароматом кайпіріньї 15мл</name_ua>
+            <description_ua> Гель з ефектом поколювання зі смаком. меду 15 мл&lt;br /&gt;
+Вібраційний гель! Vibration CAIPIRINHA  розроблений на основі амазонських рослин з чудовим ароматом кайпірінь. Надає поколювання, пульсуючий і зігріваючий ефект.  Продукт призначений для обох статей. Ефект від гелю триває не менше 30 хвилин. Добре працює з еротичними гаджетами, для анально-вагінального проникнення або орального сексу.&lt;br /&gt;
+&lt;br /&gt;
+Склад:  вода (вода), гліцерин, ароматизатор, гідрокситилцелюлоза, екстракт акмелії олеацери, сахарин натрію, бензоат натрію, BHT.</description_ua>
             </offer>
         <offer id="96-034973" available="true">
                 <erp>96-034973</erp>
@@ -41582,25 +41584,6 @@ LoveToy Easy Strap-On Set 8.5” — ідеальний набір для пар
 Як використовувати:&lt;br /&gt;
 Ми рекомендуємо використовувати його в місцях з вищим рівнем кровообігу, таких як шия та зап'ястя. Ефект від Sensfeel For Woman досягає максимуму через 30 хвилин застосування і зберігається протягом декількох годин. Перед використанням добре збовтати. 10 мл скляна пляшка з розпилювачем | 0,34 рідкої унції</description_ua>
             </offer>
-        <offer id="69-17328" available="true">
-                <erp>69-17328</erp>
-            <barcode>5600742917328</barcode>
-            <quantity_in_stock>7</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30598-zbudzhuyuchiy_gely_vibrator_orgie_dual_vibe___kissable___sex_on_the_beach___15ml</url>
-            <price>1043.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>145</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3059864c13b9fa7690.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c13b9ddf917.jpg</picture>
-            <name>Збуджуючий гель вібратор ORGIE DUAL VIBE! - KISSABLE - SEX ON THE BEACH - 15ML</name>
-            <Отображать>Да</Отображать>
-            <stock>7</stock>
-            <vendor>ORGIE COSMETICS</vendor>
-            <model>Збуджуючий гель вібратор ORGIE DUAL VIBE! - KISSABLE - SEX ON THE BEACH - 15ML</model>
-            <description>Збуджуючий гель вібратор ORGIE DUAL VIBE! - KISSABLE - SEX ON THE BEACH - 15ML</description>
-            <name_ua>Збуджуючий гель вібратор ORGIE DUAL VIBE! - KISSABLE - SEX ON THE BEACH - 15ML</name_ua>
-            <description_ua>Збуджуючий гель вібратор ORGIE DUAL VIBE! - KISSABLE - SEX ON THE BEACH - 15ML</description_ua>
-            </offer>
         <offer id="52-00066" available="true">
                 <erp>52-00066</erp>
             <barcode>5903661808686</barcode>
@@ -42985,6 +42968,25 @@ EGGCITED можна використовувати у ванні або душі
             <description>Подвіний вібростимулятор PRETTY LOVE - Ulysses</description>
             <name_ua>Подвіний вібростимулятор PRETTY LOVE - Ulysses</name_ua>
             <description_ua>Подвіний вібростимулятор PRETTY LOVE - Ulysses</description_ua>
+            </offer>
+        <offer id="69-17328" available="true">
+                <erp>69-17328</erp>
+            <barcode>5600742917328</barcode>
+            <quantity_in_stock>8</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30598-zbudzhuyuchiy_gely_vibrator_orgie_dual_vibe___kissable___sex_on_the_beach___15ml</url>
+            <price>1043.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>145</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3059864c13b9fa7690.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c13b9ddf917.jpg</picture>
+            <name>Збуджуючий гель вібратор ORGIE DUAL VIBE! - KISSABLE - SEX ON THE BEACH - 15ML</name>
+            <Отображать>Да</Отображать>
+            <stock>8</stock>
+            <vendor>ORGIE COSMETICS</vendor>
+            <model>Збуджуючий гель вібратор ORGIE DUAL VIBE! - KISSABLE - SEX ON THE BEACH - 15ML</model>
+            <description>Збуджуючий гель вібратор ORGIE DUAL VIBE! - KISSABLE - SEX ON THE BEACH - 15ML</description>
+            <name_ua>Збуджуючий гель вібратор ORGIE DUAL VIBE! - KISSABLE - SEX ON THE BEACH - 15ML</name_ua>
+            <description_ua>Збуджуючий гель вібратор ORGIE DUAL VIBE! - KISSABLE - SEX ON THE BEACH - 15ML</description_ua>
             </offer>
         <offer id="27-087288" available="true">
                 <erp>27-087288</erp>
@@ -44698,28 +44700,6 @@ AQUAglide Exotic - це ідеальний вибір для тих, хто хо
 &lt;br /&gt;
 Призначення: ефект подвійного проникнення, посилення відчуттів</description_ua>
             </offer>
-        <offer id="93-0745" available="true">
-                <erp>93-0745</erp>
-            <barcode />
-            <quantity_in_stock>9</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32464-prezervativi_one_classic_select_</url>
-            <price>52.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>96</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3246068de487e6335a.jpg</picture>
-            <name>Презервативи ONE Classic Select </name>
-            <Отображать>Да</Отображать>
-            <stock>9</stock>
-            <vendor>ONE (США)</vendor>
-            <model>Презервативи ONE Classic Select </model>
-            <description>Презервативи ONE Classic Select Contest Collection поєднують класичну форму, додаткову змазку для комфорту та унікальний дизайн упаковки. Кожен кондом запакований у круглу обгортку з малюнком — переможцем міжнародного конкурсу ONE Design Contest, де свої ідеї представляли як аматори, так і професійні дизайнери. Таке оформлення привертає увагу до важливості безпечного сексу й робить використання більш особливим.&lt;br /&gt;
-&lt;br /&gt;
-Виготовлені з високоякісного латексу за запатентованою формулою Sensatex, презервативи мають прямі еластичні стінки, що забезпечують щільне та комфортне прилягання (до 19 см довжини). Для додаткової зручності кожен презерватив змащений преміальним силіконовим лубрикантом MOVE, який подовжує ковзання та зменшує тертя.</description>
-            <name_ua>Презервативи ONE Classic Select </name_ua>
-            <description_ua>Презервативи ONE Classic Select Contest Collection поєднують класичну форму, додаткову змазку для комфорту та унікальний дизайн упаковки. Кожен кондом запакований у круглу обгортку з малюнком — переможцем міжнародного конкурсу ONE Design Contest, де свої ідеї представляли як аматори, так і професійні дизайнери. Таке оформлення привертає увагу до важливості безпечного сексу й робить використання більш особливим.&lt;br /&gt;
-&lt;br /&gt;
-Виготовлені з високоякісного латексу за запатентованою формулою Sensatex, презервативи мають прямі еластичні стінки, що забезпечують щільне та комфортне прилягання (до 19 см довжини). Для додаткової зручності кожен презерватив змащений преміальним силіконовим лубрикантом MOVE, який подовжує ковзання та зменшує тертя.</description_ua>
-            </offer>
         <offer id="2-00091" available="true">
                 <erp>2-00091</erp>
             <barcode>1400000000229</barcode>
@@ -45903,27 +45883,6 @@ ORGASM MAX для жінок призначений для значної під
             <name_ua>Вібратор Pretty Love Daniel, фіолетовий</name_ua>
             <description_ua>Вібромасажер, створений із сучасного гіпоалергенного матеріалу, ніжний і приємний на дотик. Має трохи вигнуту головку для стимуляції точки G. Мотор розташований у верхній частині масажера (на голівці), що дозволяє потужній вібрації діяти безпосередньо на точку G. Управління іграшкою здійснюється за допомогою кнопок на нижній частині стимулятораі. Довжина — 19,5 см; Діаметр — 3,1 см; Живлення — 2 шт., тип ААА</description_ua>
             </offer>
-        <offer id="69-51409" available="true">
-                <erp>69-51409</erp>
-            <barcode>5600298351409</barcode>
-            <quantity_in_stock>11</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/16439-lubrikant_analyniy_greek_kiss_50_ml</url>
-            <price>812.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>159</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/69-51409.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68755895532d0.webp</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_687558955ae05.webp</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_687558955ec3f.webp</picture>
-            <name>Лубрикант анальний Orgie Greek kiss, 50ml</name>
-            <Отображать>Да</Отображать>
-            <stock>11</stock>
-            <vendor>ORGIE COSMETICS</vendor>
-            <model>Лубрикант анальний Orgie Greek Kiss, 50 мл</model>
-            <description>&lt;p&gt;Лубрикант анальний Orgie Greek Kiss – це інтимний гель на водній основі, спеціально розроблений для анального сексу. Завдяки своїй унікальній формулі, цей лубрикант забезпечує тривале зволоження і комфорт, роблячи інтимні моменти приємними і безпечними. Об’єм 50 мл робить його зручним для використання вдома або в подорожах.&lt;br /&gt;&lt;br /&gt;Основні переваги:&lt;br /&gt;&lt;br /&gt;1. Водна основа: Легко змивається водою, не залишає липких слідів і не викликає подразнень. Сумісний з латексними презервативами та різними секс-іграшками.&lt;br /&gt;2. Формула для анального застосування: Спеціально розроблена для анального сексу, забезпечуючи тривале зволоження і додатковий комфорт.&lt;br /&gt;3. Гіпоалергенний: Не містить агресивних хімічних речовин, штучних ароматизаторів або барвників, що робить його безпечним для чутливої шкіри.&lt;br /&gt;4. Тривале зволоження: Забезпечує тривале зволоження, зменшуючи тертя і підвищуючи комфорт під час анального сексу.&lt;br /&gt;5. Компактний об’єм: Зручний для використання вдома або в подорожах завдяки своєму компактному розміру.&lt;br /&gt;&lt;br /&gt;Спосіб застосування:&lt;br /&gt;&lt;br /&gt;Нанесіть необхідну кількість лубриканта на анальні зони або секс-іграшки перед початком інтимних моментів. Розподіліть рівномірно для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;• Уникайте контакту з очима.&lt;br /&gt;• Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;• Зберігайте у недоступному для дітей місці.&lt;br /&gt;• Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;Чому обирають Orgie Greek Kiss:&lt;br /&gt;&lt;br /&gt;Лубрикант анальний Orgie Greek Kiss – це відмінний вибір для тих, хто шукає якісний і безпечний зволожуючий засіб для анального сексу. Його водна основа забезпечує тривале зволоження і комфорт, роблячи кожен момент особливим і захопливим.&lt;/p&gt;</description>
-            <name_ua>Лубрикант анальний Orgie Greek kiss, 50ml</name_ua>
-            <description_ua>&lt;p&gt;Лубрикант анальний Orgie Greek Kiss – це інтимний гель на водній основі, спеціально розроблений для анального сексу. Завдяки своїй унікальній формулі, цей лубрикант забезпечує тривале зволоження і комфорт, роблячи інтимні моменти приємними і безпечними. Об’єм 50 мл робить його зручним для використання вдома або в подорожах.&lt;br /&gt;&lt;br /&gt;Основні переваги:&lt;br /&gt;&lt;br /&gt;1. Водна основа: Легко змивається водою, не залишає липких слідів і не викликає подразнень. Сумісний з латексними презервативами та різними секс-іграшками.&lt;br /&gt;2. Формула для анального застосування: Спеціально розроблена для анального сексу, забезпечуючи тривале зволоження і додатковий комфорт.&lt;br /&gt;3. Гіпоалергенний: Не містить агресивних хімічних речовин, штучних ароматизаторів або барвників, що робить його безпечним для чутливої шкіри.&lt;br /&gt;4. Тривале зволоження: Забезпечує тривале зволоження, зменшуючи тертя і підвищуючи комфорт під час анального сексу.&lt;br /&gt;5. Компактний об’єм: Зручний для використання вдома або в подорожах завдяки своєму компактному розміру.&lt;br /&gt;&lt;br /&gt;Спосіб застосування:&lt;br /&gt;&lt;br /&gt;Нанесіть необхідну кількість лубриканта на анальні зони або секс-іграшки перед початком інтимних моментів. Розподіліть рівномірно для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;• Уникайте контакту з очима.&lt;br /&gt;• Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;• Зберігайте у недоступному для дітей місці.&lt;br /&gt;• Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;Чому обирають Orgie Greek Kiss:&lt;br /&gt;&lt;br /&gt;Лубрикант анальний Orgie Greek Kiss – це відмінний вибір для тих, хто шукає якісний і безпечний зволожуючий засіб для анального сексу. Його водна основа забезпечує тривале зволоження і комфорт, роблячи кожен момент особливим і захопливим.&lt;/p&gt;</description_ua>
-            </offer>
         <offer id="BW-012009" available="true">
                 <erp>BW-012009</erp>
             <barcode>6959532314885</barcode>
@@ -46274,6 +46233,49 @@ Plaisir Secret став синонімом косметики найвищої �
 Двостороння відкрита конструкція дозволяє пенісу середнього розміру досягти кожної частини цієї камери. Чим швидше ви просуваєтеся через цей канал, тим інтенсивнішою буде стимуляція.&lt;br /&gt;
 Найважливіше, щоб він не був жирним, липким або крихким. Він гіпоалергенний, антибактеріальний і дуже гнучкий. Очищення дуже легко за допомогою антибактеріального засобу для чищення іграшок або теплої води з милом. Завдяки двосторонньому дизайну його дуже легко чистити, а висихання займає менше часу.</description_ua>
             </offer>
+        <offer id="19-2052" available="true">
+                <erp>19-2052</erp>
+            <barcode>3548960204252</barcode>
+            <quantity_in_stock>11</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32412-parfum_sprey_uniseks_ruf_lust_spray_oriental</url>
+            <price>496.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>81</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3240868d3e305da282.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d3e302a237a.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d3e302cbce7.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d3e302dfd51.png</picture>
+            <name>Парфум-спрей унісекс Ruf LUST SPRAY Oriental</name>
+            <Отображать>Да</Отображать>
+            <stock>11</stock>
+            <vendor>RUF</vendor>
+            <model>Парфум-спрей унісекс Ruf LUST SPRAY Oriental</model>
+            <description>Універсальний парфум-спрей з насиченим східно-деревним ароматом, що поєднує пряні ноти кориці та шафрану з ніжністю троянди, бурштином та теплом сандалового дерева. Створений для особливих моментів та інтимної атмосфери, підкреслює привабливість і загадковість.&lt;br /&gt;
+Можна наносити на шкіру (зони шиї, зап’ястя, ключиці) або на тканини — білизну, подушки чи постіль, щоб створити чуттєвий настрій. Підходить як жінкам, так і чоловікам, поєднується з будь-яким стилем. Завдяки компактній упаковці зручно брати із собою.&lt;br /&gt;
+Ароматичні ноти:&lt;br /&gt;
+Верхні: кориця, шафран, жовта слива&lt;br /&gt;
+Серце: троянда, бурштин, уд&lt;br /&gt;
+База: ладан, пачулі, сандал&lt;br /&gt;
+Переваги:&lt;br /&gt;
+Унісекс аромат для пари&lt;br /&gt;
+Східний, деревний та амбровий характер&lt;br /&gt;
+Тривала стійкість&lt;br /&gt;
+ідходить для інтимних моментів&lt;br /&gt;
+</description>
+            <name_ua>Парфум-спрей унісекс Ruf LUST SPRAY Oriental</name_ua>
+            <description_ua>Універсальний парфум-спрей з насиченим східно-деревним ароматом, що поєднує пряні ноти кориці та шафрану з ніжністю троянди, бурштином та теплом сандалового дерева. Створений для особливих моментів та інтимної атмосфери, підкреслює привабливість і загадковість.&lt;br /&gt;
+Можна наносити на шкіру (зони шиї, зап’ястя, ключиці) або на тканини — білизну, подушки чи постіль, щоб створити чуттєвий настрій. Підходить як жінкам, так і чоловікам, поєднується з будь-яким стилем. Завдяки компактній упаковці зручно брати із собою.&lt;br /&gt;
+Ароматичні ноти:&lt;br /&gt;
+Верхні: кориця, шафран, жовта слива&lt;br /&gt;
+Серце: троянда, бурштин, уд&lt;br /&gt;
+База: ладан, пачулі, сандал&lt;br /&gt;
+Переваги:&lt;br /&gt;
+Унісекс аромат для пари&lt;br /&gt;
+Східний, деревний та амбровий характер&lt;br /&gt;
+Тривала стійкість&lt;br /&gt;
+ідходить для інтимних моментів&lt;br /&gt;
+</description_ua>
+            </offer>
         <offer id="19-2091" available="true">
                 <erp>19-2091</erp>
             <barcode>3548960020913</barcode>
@@ -46611,49 +46613,6 @@ Plaisir Secret став синонімом косметики найвищої �
 &lt;br /&gt;
 Склад (INCI):&lt;br /&gt;
 Вода, гідрогенізований гідролізат крохмалю, гідроксиетилцелюлоза, лактат натрію, бензоат натрію, ароматизатор, сахарин, хлорид натрію, молочна кислота</description_ua>
-            </offer>
-        <offer id="19-2052" available="true">
-                <erp>19-2052</erp>
-            <barcode>3548960204252</barcode>
-            <quantity_in_stock>12</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32412-parfum_sprey_uniseks_ruf_lust_spray_oriental</url>
-            <price>496.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>81</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3240868d3e305da282.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68d3e302a237a.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68d3e302cbce7.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68d3e302dfd51.png</picture>
-            <name>Парфум-спрей унісекс Ruf LUST SPRAY Oriental</name>
-            <Отображать>Да</Отображать>
-            <stock>12</stock>
-            <vendor>RUF</vendor>
-            <model>Парфум-спрей унісекс Ruf LUST SPRAY Oriental</model>
-            <description>Універсальний парфум-спрей з насиченим східно-деревним ароматом, що поєднує пряні ноти кориці та шафрану з ніжністю троянди, бурштином та теплом сандалового дерева. Створений для особливих моментів та інтимної атмосфери, підкреслює привабливість і загадковість.&lt;br /&gt;
-Можна наносити на шкіру (зони шиї, зап’ястя, ключиці) або на тканини — білизну, подушки чи постіль, щоб створити чуттєвий настрій. Підходить як жінкам, так і чоловікам, поєднується з будь-яким стилем. Завдяки компактній упаковці зручно брати із собою.&lt;br /&gt;
-Ароматичні ноти:&lt;br /&gt;
-Верхні: кориця, шафран, жовта слива&lt;br /&gt;
-Серце: троянда, бурштин, уд&lt;br /&gt;
-База: ладан, пачулі, сандал&lt;br /&gt;
-Переваги:&lt;br /&gt;
-Унісекс аромат для пари&lt;br /&gt;
-Східний, деревний та амбровий характер&lt;br /&gt;
-Тривала стійкість&lt;br /&gt;
-ідходить для інтимних моментів&lt;br /&gt;
-</description>
-            <name_ua>Парфум-спрей унісекс Ruf LUST SPRAY Oriental</name_ua>
-            <description_ua>Універсальний парфум-спрей з насиченим східно-деревним ароматом, що поєднує пряні ноти кориці та шафрану з ніжністю троянди, бурштином та теплом сандалового дерева. Створений для особливих моментів та інтимної атмосфери, підкреслює привабливість і загадковість.&lt;br /&gt;
-Можна наносити на шкіру (зони шиї, зап’ястя, ключиці) або на тканини — білизну, подушки чи постіль, щоб створити чуттєвий настрій. Підходить як жінкам, так і чоловікам, поєднується з будь-яким стилем. Завдяки компактній упаковці зручно брати із собою.&lt;br /&gt;
-Ароматичні ноти:&lt;br /&gt;
-Верхні: кориця, шафран, жовта слива&lt;br /&gt;
-Серце: троянда, бурштин, уд&lt;br /&gt;
-База: ладан, пачулі, сандал&lt;br /&gt;
-Переваги:&lt;br /&gt;
-Унісекс аромат для пари&lt;br /&gt;
-Східний, деревний та амбровий характер&lt;br /&gt;
-Тривала стійкість&lt;br /&gt;
-ідходить для інтимних моментів&lt;br /&gt;
-</description_ua>
             </offer>
         <offer id="19-31051" available="true">
                 <erp>19-31051</erp>
