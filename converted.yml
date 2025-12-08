@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-08 17:00">
+<yml_catalog date="2025-12-08 18:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -4465,6 +4465,34 @@ Magoon – запорука приємних і захоплюючих моме�
             <name_ua>Вібратор Barbara Clark Realistic Multi-Speed Vibrator 7,6</name_ua>
             <description_ua>Реалістичний вібратор створений, щоб забезпечити незабутній реалістичний досвід. Тілесний колір виробу та його натуралістична анатомічна форма закрутять голову будь-якій представниці прекрасної статі. Інтимна іграшка точно повторює анатомічну будову чоловічого члена, має яскраво виражену голівку, рельєф і вени. Живлення від 2*АА , довжина 19,5, діаметр 3,8 см</description_ua>
             </offer>
+        <offer id="BW-001032R" available="true">
+                <erp>BW-001032R</erp>
+            <barcode>6959532326024</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/28704-baile_eff_soft_skin_195_cm</url>
+            <price>252.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>143</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_28704629316f00a589.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_629316ed359d2.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_629316ed5813f.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_629316ed7278f.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_629316ed899b1.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_629316eda29ae.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_629316edbbd9e.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_629316edd05b8.gif</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_629316edea137.gif</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_629316ee08df3.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_629316ee1dc87.jpg</picture>
+            <name>Вібратор BAILE JEFF Soft Skin 19,5 cm</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor />
+            <model>Вібратор BAILE JEFF Soft Skin 19,5 cm</model>
+            <description>Вібратор з ідеальною формою і прожилками має потужні багатошвидкісні вібрації, які регулюються при основі зручним колесиком. Загальна довжина 19,5 см,  діаметр 4 см,</description>
+            <name_ua>Вібратор BAILE JEFF Soft Skin 19,5 cm</name_ua>
+            <description_ua>Вібратор з ідеальною формою і прожилками має потужні багатошвидкісні вібрації, які регулюються при основі зручним колесиком. Загальна довжина 19,5 см,  діаметр 4 см,</description_ua>
+            </offer>
         <offer id="42-05502480000" available="true">
                 <erp>42-05502480000</erp>
             <barcode>4024144552719</barcode>
@@ -6349,29 +6377,6 @@ Satisfyer Endless Joy Multi Vibrator постачається з кабелем 
 Загальна довжина 9,4 см&lt;br /&gt;
 Зовнішній діаметр 2,4 см&lt;br /&gt;
 Матеріал силікон / ABS</description_ua>
-            </offer>
-        <offer id="BI-014902-1" available="true">
-                <erp>BI-014902-1</erp>
-            <barcode>6959532334012</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30491-vibrator_pretty_love_reese</url>
-            <price>2852.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>18</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_304916436e7d746a18.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6436e7d6b5521.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6436e7d6f150a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6436e7d71ca49.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6436e7db04d71.gif</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6436e7dd20c06.jpg</picture>
-            <name>Вібратор PRETTY LOVE REESE</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Вібратор PRETTY LOVE REESE</model>
-            <description>Вібратор PRETTY LOVE REESE</description>
-            <name_ua>Вібратор PRETTY LOVE REESE</name_ua>
-            <description_ua>Вібратор PRETTY LOVE REESE</description_ua>
             </offer>
         <offer id="35-331872" available="true">
                 <erp>35-331872</erp>
@@ -26230,30 +26235,6 @@ Sweet Smile Rechargeable Butt Plug — елегантна, потужна та �
             <name_ua>Насадка Вібратор BAILE PENIS SLEEVE</name_ua>
             <description_ua>Силіконова гнучка втулка пеніса, що розширюється та потовщується, з дратівливими виступами, що стимулюють клітор. </description_ua>
             </offer>
-        <offer id="BM-009154U" available="true">
-                <erp>BM-009154U</erp>
-            <barcode>6959532322941</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/24487-crazy_bull_mavis</url>
-            <price>459.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>52</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/BM-009154U.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6837f98d7aa3a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6837f98d8bb0d.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6837f98d96d06.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6837f98da2063.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6837f98dac7b0.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6837f98db8a82.jpg</picture>
-            <name>Мастурбатор Crazy Bull Mavis</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Мастурбатор Crazy Bull Mavis</model>
-            <description>Мастурбатор у вигляді вагіни. Виготовлений із ТРR. Приємний на дотик, легко розтягується до потрібного розміру. Має внутрішню рельєфну поверхню для найбільшої стимуляції. Довжина:	15.2 см. Діаметр:	7.2 см</description>
-            <name_ua>Мастурбатор Crazy Bull Mavis</name_ua>
-            <description_ua>Мастурбатор у вигляді вагіни. Виготовлений із ТРR. Приємний на дотик, легко розтягується до потрібного розміру. Має внутрішню рельєфну поверхню для найбільшої стимуляції. Довжина:	15.2 см. Діаметр:	7.2 см</description_ua>
-            </offer>
         <offer id="63-00028" available="true">
                 <erp>63-00028</erp>
             <barcode>6970075601218</barcode>
@@ -34348,6 +34329,30 @@ Satisfyer Double Classic має 10 режимів вібрації та стим
             <description_ua>Прозора насадка - товар виконаний з якісного еластичного матеріалу, здатного розтягуватися під розмір пеніса, щільно прилягаючи до нього.Матеріал – термопластична гума, довжина – 8,3 см, діаметр – 1,8 см&lt;br /&gt;
 </description_ua>
             </offer>
+        <offer id="BM-009154U" available="true">
+                <erp>BM-009154U</erp>
+            <barcode>6959532322941</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/24487-crazy_bull_mavis</url>
+            <price>459.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>52</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/BM-009154U.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6837f98d7aa3a.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6837f98d8bb0d.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6837f98d96d06.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6837f98da2063.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6837f98dac7b0.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6837f98db8a82.jpg</picture>
+            <name>Мастурбатор Crazy Bull Mavis</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Мастурбатор Crazy Bull Mavis</model>
+            <description>Мастурбатор у вигляді вагіни. Виготовлений із ТРR. Приємний на дотик, легко розтягується до потрібного розміру. Має внутрішню рельєфну поверхню для найбільшої стимуляції. Довжина:	15.2 см. Діаметр:	7.2 см</description>
+            <name_ua>Мастурбатор Crazy Bull Mavis</name_ua>
+            <description_ua>Мастурбатор у вигляді вагіни. Виготовлений із ТРR. Приємний на дотик, легко розтягується до потрібного розміру. Має внутрішню рельєфну поверхню для найбільшої стимуляції. Довжина:	15.2 см. Діаметр:	7.2 см</description_ua>
+            </offer>
         <offer id="BM-009155U" available="true">
                 <erp>BM-009155U</erp>
             <barcode>6959532322798</barcode>
@@ -36256,34 +36261,6 @@ ABS TPR&lt;br /&gt;
             <description>Мастурбатор вагіна Really Sexy 02 Boss Series</description>
             <name_ua>Мастурбатор вагіна Really Sexy 02 Boss Series</name_ua>
             <description_ua>Мастурбатор вагіна Really Sexy 02 Boss Series</description_ua>
-            </offer>
-        <offer id="BI-210306" available="true">
-                <erp>BI-210306</erp>
-            <barcode>6959532334333</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30980-vibrokilytse_pretty_love_vibrant_penis_ring_i_black</url>
-            <price>751.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>109</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3097765d135d2b9588.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d135d0bae30.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d135d0d6d1c.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d135d0f3ddb.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d135d121110.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d135d13f8dc.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d135d15c6c4.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d135d17a6e1.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d135d198ac3.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d135d1b53ee.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d135d1d33ec.jpeg</picture>
-            <name>Віброкільце PRETTY LOVE VIBRANT PENIS RING I Black purple</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Віброкільце PRETTY LOVE VIBRANT PENIS RING I Black purple</model>
-            <description>Ерекційне кільце з еластичного силікону з ребристою поверхнею і невеликим виступом, для додаткової стимуляції клітора, з масажним вибростимулятором. Дивайс підтримує 10 режимів роботи. Довжина 11,3 см., ширина 5,6 см. Для живлення застосовується 1 батарея типу ААА.</description>
-            <name_ua>Віброкільце PRETTY LOVE VIBRANT PENIS RING I Black purple</name_ua>
-            <description_ua>Ерекційне кільце з еластичного силікону з ребристою поверхнею і невеликим виступом, для додаткової стимуляції клітора, з масажним вибростимулятором. Дивайс підтримує 10 режимів роботи. Довжина 11,3 см., ширина 5,6 см. Для живлення застосовується 1 батарея типу ААА.</description_ua>
             </offer>
         <offer id="110-00002" available="true">
                 <erp>110-00002</erp>
@@ -43052,6 +43029,34 @@ Sensfeel™ for Him - це природний активний інгредіє�
             <description_ua>Оригінальний мастурбатор у формі звабливого жіночого торса з реалістичними жіночими статевими органами. Великі пружні груди з сосками, плоский живіт, чітко окреслені рожеві статеві губи та два тугі функціональні отвори, що ведуть у рельєфні внутрішні канали, - все це робить мастурбатор ідеальним для задоволення та чуттєвої стимуляції статевого члена. Виріб сумісний з лубрикантами на водній основі. Розміри: 27 x 16,5 x 10 см.&lt;br /&gt;
 &lt;br /&gt;
 </description_ua>
+            </offer>
+        <offer id="BI-210306" available="true">
+                <erp>BI-210306</erp>
+            <barcode>6959532334333</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30980-vibrokilytse_pretty_love_vibrant_penis_ring_i_black</url>
+            <price>751.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>109</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3097765d135d2b9588.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d135d0bae30.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d135d0d6d1c.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d135d0f3ddb.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d135d121110.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d135d13f8dc.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d135d15c6c4.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d135d17a6e1.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d135d198ac3.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d135d1b53ee.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d135d1d33ec.jpeg</picture>
+            <name>Віброкільце PRETTY LOVE VIBRANT PENIS RING I Black purple</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Віброкільце PRETTY LOVE VIBRANT PENIS RING I Black purple</model>
+            <description>Ерекційне кільце з еластичного силікону з ребристою поверхнею і невеликим виступом, для додаткової стимуляції клітора, з масажним вибростимулятором. Дивайс підтримує 10 режимів роботи. Довжина 11,3 см., ширина 5,6 см. Для живлення застосовується 1 батарея типу ААА.</description>
+            <name_ua>Віброкільце PRETTY LOVE VIBRANT PENIS RING I Black purple</name_ua>
+            <description_ua>Ерекційне кільце з еластичного силікону з ребристою поверхнею і невеликим виступом, для додаткової стимуляції клітора, з масажним вибростимулятором. Дивайс підтримує 10 режимів роботи. Довжина 11,3 см., ширина 5,6 см. Для живлення застосовується 1 батарея типу ААА.</description_ua>
             </offer>
         <offer id="BI-300008-1" available="true">
                 <erp>BI-300008-1</erp>
