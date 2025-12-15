@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-15 11:15">
+<yml_catalog date="2025-12-15 12:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
     <url>http://blissclub.com.ua/</url>
-    <eurate>49.90</eurate>
+    <eurate>50.00</eurate>
     <currencies>
             <currency id="UAH" rate="1" />
         </currencies>
@@ -4897,6 +4897,55 @@ ABS силікон&lt;br /&gt;
             <description>Інтимний душ Easy Clean Enema</description>
             <name_ua>Інтимний душ Black Mont Easy Clean Enema, чорний</name_ua>
             <description_ua>Інтимний душ Easy Clean Enema</description_ua>
+            </offer>
+        <offer id="63-00063" available="true">
+                <erp>63-00063</erp>
+            <barcode>6972775511408</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/29674-masturbator_z_vsasuyuchim_efektom_foxshow</url>
+            <price>2458.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>156</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_2967462d5b2ea3197e.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62d5b2e8b01fa.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62d5b2e8d2a87.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62d5b2e901cca.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62d5b2e920194.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62d5b2e946e2e.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62d5b2e96a6e0.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62d5b2e98da98.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62d5b2e9b00e2.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62d5b2e9cdeb0.png</picture>
+            <name>Мастурбатор з всасуючим ефектом Foxshow</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Мастурбатор з всасуючим ефектом FOXSHOW</model>
+            <description>Сучасний мастурбатор з управлінням однією кнопкою. Потужний вібраційний пристрій дозволяє здійснювати регульований масаж по всій довжині пеніса. 8 функцій інтенсивної вібрації, пульсації та ескалації. Звукові ефекти та чудова інтерактивна функція.&lt;br /&gt;
+Мастурбатор має датчик руху, завдяки якому він підлаштовує тип звуків любові під кількість і силу поштовхів.&lt;br /&gt;
+&lt;br /&gt;
+Використовуйте навушники, коли переходите до інтерактивної функції.&lt;br /&gt;
+Порт зарядки також служить входом для навушників (навушники в комплекті).&lt;br /&gt;
+&lt;br /&gt;
+Коротке натискання кнопки вмикає мастурбатор, ще одне коротке натискання включає перший режим вібрації. Кожне коротке натискання змінює функцію масажера, переходячи через його 8 режимів вібрації.&lt;br /&gt;
+&lt;br /&gt;
+М'який і реалістичний матеріал - кібершкіра, пестить своїм дотиком.&lt;br /&gt;
+Текстурований відсік для додаткових відчуттів. Іграшка має лічильник кількості рухів мастурбатора.&lt;br /&gt;
+&lt;br /&gt;
+У комплекті: мастурбатор, USB-кабель для зарядки, навушники, інструкція англійською мовою.</description>
+            <name_ua>Мастурбатор з всасуючим ефектом Foxshow</name_ua>
+            <description_ua>Сучасний мастурбатор з управлінням однією кнопкою. Потужний вібраційний пристрій дозволяє здійснювати регульований масаж по всій довжині пеніса. 8 функцій інтенсивної вібрації, пульсації та ескалації. Звукові ефекти та чудова інтерактивна функція.&lt;br /&gt;
+Мастурбатор має датчик руху, завдяки якому він підлаштовує тип звуків любові під кількість і силу поштовхів.&lt;br /&gt;
+&lt;br /&gt;
+Використовуйте навушники, коли переходите до інтерактивної функції.&lt;br /&gt;
+Порт зарядки також служить входом для навушників (навушники в комплекті).&lt;br /&gt;
+&lt;br /&gt;
+Коротке натискання кнопки вмикає мастурбатор, ще одне коротке натискання включає перший режим вібрації. Кожне коротке натискання змінює функцію масажера, переходячи через його 8 режимів вібрації.&lt;br /&gt;
+&lt;br /&gt;
+М'який і реалістичний матеріал - кібершкіра, пестить своїм дотиком.&lt;br /&gt;
+Текстурований відсік для додаткових відчуттів. Іграшка має лічильник кількості рухів мастурбатора.&lt;br /&gt;
+&lt;br /&gt;
+У комплекті: мастурбатор, USB-кабель для зарядки, навушники, інструкція англійською мовою.</description_ua>
             </offer>
         <offer id="73-4003061" available="true">
                 <erp>73-4003061</erp>
@@ -32354,55 +32403,6 @@ Wymiary: długość 16 cm, średnica 7 cm</description_ua>
 &lt;br /&gt;
 надійний та стильний аксесуар.</description_ua>
             </offer>
-        <offer id="94-FT001027" available="true">
-                <erp>94-FT001027</erp>
-            <barcode>8606112134286</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/35615-sriblyasta_analyna_probka_medium_z_bilim_kristalom__fantasy</url>
-            <price>432.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>31</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_35611692733d18a87e.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_692733cbde197.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_692733cc02b50.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_692733cc15ce5.jpg</picture>
-            <name>Анальна пробка Fantasy Medium, срібляста, з білим кристалом</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>Fantasy</vendor>
-            <model>Срібляста анальна пробка Medium з білим кристалом — Fantasy</model>
-            <description>Елегантна анальна пробка Fantasy середнього розміру у сріблястому металі — стильний аксесуар для чуттєвої стимуляції та естетичного задоволення. Основа прикрашена білим кристалом, який надає виробу розкішного, вишуканого вигляду.&lt;br /&gt;
-&lt;br /&gt;
-Виготовлена з гладкого металу без нікелю, пробка приємно ковзає, швидко приймає температуру тіла та підходить як для новачків, так і для досвідчених користувачів.&lt;br /&gt;
-&lt;br /&gt;
-Параметри:&lt;br /&gt;
-&lt;br /&gt;
-довжина загальна: 8 см;&lt;br /&gt;
-&lt;br /&gt;
-довжина робоча: 7 см;&lt;br /&gt;
-&lt;br /&gt;
-діаметр: 2,8 см;&lt;br /&gt;
-&lt;br /&gt;
-матеріал: метал без нікелю;&lt;br /&gt;
-&lt;br /&gt;
-декоративна основа з білим кристалом</description>
-            <name_ua>Анальна пробка Fantasy Medium, срібляста, з білим кристалом</name_ua>
-            <description_ua>Елегантна анальна пробка Fantasy середнього розміру у сріблястому металі — стильний аксесуар для чуттєвої стимуляції та естетичного задоволення. Основа прикрашена білим кристалом, який надає виробу розкішного, вишуканого вигляду.&lt;br /&gt;
-&lt;br /&gt;
-Виготовлена з гладкого металу без нікелю, пробка приємно ковзає, швидко приймає температуру тіла та підходить як для новачків, так і для досвідчених користувачів.&lt;br /&gt;
-&lt;br /&gt;
-Параметри:&lt;br /&gt;
-&lt;br /&gt;
-довжина загальна: 8 см;&lt;br /&gt;
-&lt;br /&gt;
-довжина робоча: 7 см;&lt;br /&gt;
-&lt;br /&gt;
-діаметр: 2,8 см;&lt;br /&gt;
-&lt;br /&gt;
-матеріал: метал без нікелю;&lt;br /&gt;
-&lt;br /&gt;
-декоративна основа з білим кристалом</description_ua>
-            </offer>
         <offer id="94-FT001070" available="true">
                 <erp>94-FT001070</erp>
             <barcode>8606112134637</barcode>
@@ -39665,44 +39665,26 @@ OLO Extra Large спеціально розроблені для чоловік�
 &lt;br /&gt;
 підходять для чуттєвих ігор та еротичних практик</description_ua>
             </offer>
-        <offer id="94-FT001055" available="true">
-                <erp>94-FT001055</erp>
-            <barcode>8606112134484</barcode>
+        <offer id="94-FT001027" available="true">
+                <erp>94-FT001027</erp>
+            <barcode>8606112134286</barcode>
             <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/35617-sriblyasta_rebrista_analyna_probka_medium_z_chervonim_kristalom__fantasy</url>
-            <price>637.00</price>
+            <url>http://blissclub.com.ua/product/35615-sriblyasta_analyna_probka_medium_z_bilim_kristalom__fantasy</url>
+            <price>432.00</price>
             <currencyId>UAH</currencyId>
             <categoryId>31</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3561369273b60853e8.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69273b5a9d056.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69273b5ab8be7.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69273b5aca5d1.jpg</picture>
-            <name>Анальна пробка Fantasy Medium, ребриста, срібляста, з червоним кристалом</name>
+            <picture>https://blissclub.com.ua/images/product_variants/product_35611692733d18a87e.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692733cbde197.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692733cc02b50.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692733cc15ce5.jpg</picture>
+            <name>Анальна пробка Fantasy Medium, срібляста, з білим кристалом</name>
             <Отображать>Да</Отображать>
             <stock>4</stock>
             <vendor>Fantasy</vendor>
-            <model>Срібляста ребриста анальна пробка Medium з червоним кристалом — Fantasy</model>
-            <description>Стильна та виразна анальна пробка Fantasy середнього розміру виготовлена з гладкого металу без нікелю — безпечного, міцного та водночас приємного на дотик. Ребриста поверхня додає інтенсивнішої стимуляції та робить кожен рух більш відчутним.&lt;br /&gt;
+            <model>Срібляста анальна пробка Medium з білим кристалом — Fantasy</model>
+            <description>Елегантна анальна пробка Fantasy середнього розміру у сріблястому металі — стильний аксесуар для чуттєвої стимуляції та естетичного задоволення. Основа прикрашена білим кристалом, який надає виробу розкішного, вишуканого вигляду.&lt;br /&gt;
 &lt;br /&gt;
-Основу прикрашає яскравий червоний кристал, який надає виробу еротичного акценту та ефектного вигляду. Формат Medium забезпечує збалансоване поєднання насичених відчуттів і комфорту — чудовий варіант для тих, хто вже має певний досвід.&lt;br /&gt;
-&lt;br /&gt;
-Параметри:&lt;br /&gt;
-&lt;br /&gt;
-довжина загальна: 8 см;&lt;br /&gt;
-&lt;br /&gt;
-довжина робоча: 7 см;&lt;br /&gt;
-&lt;br /&gt;
-максимальний діаметр: 3,3 см;&lt;br /&gt;
-&lt;br /&gt;
-матеріал: метал без нікелю;&lt;br /&gt;
-&lt;br /&gt;
-декоративний червоний кристал.&lt;br /&gt;
-&lt;br /&gt;
-Ідеальний аксессуар для чуттєвої стимуляції та естетичної насолоди.</description>
-            <name_ua>Анальна пробка Fantasy Medium, ребриста, срібляста, з червоним кристалом</name_ua>
-            <description_ua>Стильна та виразна анальна пробка Fantasy середнього розміру виготовлена з гладкого металу без нікелю — безпечного, міцного та водночас приємного на дотик. Ребриста поверхня додає інтенсивнішої стимуляції та робить кожен рух більш відчутним.&lt;br /&gt;
-&lt;br /&gt;
-Основу прикрашає яскравий червоний кристал, який надає виробу еротичного акценту та ефектного вигляду. Формат Medium забезпечує збалансоване поєднання насичених відчуттів і комфорту — чудовий варіант для тих, хто вже має певний досвід.&lt;br /&gt;
+Виготовлена з гладкого металу без нікелю, пробка приємно ковзає, швидко приймає температуру тіла та підходить як для новачків, так і для досвідчених користувачів.&lt;br /&gt;
 &lt;br /&gt;
 Параметри:&lt;br /&gt;
 &lt;br /&gt;
@@ -39710,13 +39692,27 @@ OLO Extra Large спеціально розроблені для чоловік�
 &lt;br /&gt;
 довжина робоча: 7 см;&lt;br /&gt;
 &lt;br /&gt;
-максимальний діаметр: 3,3 см;&lt;br /&gt;
+діаметр: 2,8 см;&lt;br /&gt;
 &lt;br /&gt;
 матеріал: метал без нікелю;&lt;br /&gt;
 &lt;br /&gt;
-декоративний червоний кристал.&lt;br /&gt;
+декоративна основа з білим кристалом</description>
+            <name_ua>Анальна пробка Fantasy Medium, срібляста, з білим кристалом</name_ua>
+            <description_ua>Елегантна анальна пробка Fantasy середнього розміру у сріблястому металі — стильний аксесуар для чуттєвої стимуляції та естетичного задоволення. Основа прикрашена білим кристалом, який надає виробу розкішного, вишуканого вигляду.&lt;br /&gt;
 &lt;br /&gt;
-Ідеальний аксессуар для чуттєвої стимуляції та естетичної насолоди.</description_ua>
+Виготовлена з гладкого металу без нікелю, пробка приємно ковзає, швидко приймає температуру тіла та підходить як для новачків, так і для досвідчених користувачів.&lt;br /&gt;
+&lt;br /&gt;
+Параметри:&lt;br /&gt;
+&lt;br /&gt;
+довжина загальна: 8 см;&lt;br /&gt;
+&lt;br /&gt;
+довжина робоча: 7 см;&lt;br /&gt;
+&lt;br /&gt;
+діаметр: 2,8 см;&lt;br /&gt;
+&lt;br /&gt;
+матеріал: метал без нікелю;&lt;br /&gt;
+&lt;br /&gt;
+декоративна основа з білим кристалом</description_ua>
             </offer>
         <offer id="BW-008105ZR-1" available="true">
                 <erp>BW-008105ZR-1</erp>
@@ -40356,6 +40352,28 @@ Silicone Boss of Toys - це ідеальний вибір для тих, хто
             <description>Вібратор спеціально загнутої форми для оптимальної стимуляції точки G та ерогенних зон стінок піхви. Модель з оксамитовою і дуже приємною на дотик силіконовою поверхнею, без будь-якого стимулюючого рельєфу, головка гладка, заокруглена. Девайс оснащений потужною вібрацією (7 режимів), яка регулюється кнопкою на корпусі. Зручний та простий в експлуатації. Загальна довжина - 20 см, діаметр - 3,7 см</description>
             <name_ua>Вібратор Sweet Smile Genius G-Spot, фіолетовий</name_ua>
             <description_ua>Вібратор спеціально загнутої форми для оптимальної стимуляції точки G та ерогенних зон стінок піхви. Модель з оксамитовою і дуже приємною на дотик силіконовою поверхнею, без будь-якого стимулюючого рельєфу, головка гладка, заокруглена. Девайс оснащений потужною вібрацією (7 режимів), яка регулюється кнопкою на корпусі. Зручний та простий в експлуатації. Загальна довжина - 20 см, діаметр - 3,7 см</description_ua>
+            </offer>
+        <offer id="42-06219780000" available="true">
+                <erp>42-06219780000</erp>
+            <barcode>4024144621972</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/3136-masazhne_maslo_oil_indischliebes_l_50</url>
+            <price>202.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>49</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/42-06219780000.jpg</picture>
+            <name>Масажна олія Magoon Indisches Liebesol, індійська любов, 100 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>ORION</vendor>
+            <model>Масажне масло Oil-Indisch.Liebes-Ol 50</model>
+            <description>Стимулююча високоякісна олія для еротичного масажу з відтінком індійського аромату. Фізична любов завжди була тісно пов'язана з індійською культурою. Завдяки знанням мистецтва тантричної любові було створено це унікальне масло з фруктовим, солодким і пряним ароматом. Його магія полягає в тому, що він швидко збуджує апетит не тільки до масажу. Містить ефірні масла кориці та коріандру. Він живить шкіру завдяки екстракту мигдалю. Прелюдія з оліями Magoon - запорука чуттєвого розслаблення та задоволення для обох партнерів. Масаж посилює кровообіг, розслаблює тіло і душу і може приймати дуже еротичні форми. Це приємно для обох сторін і часто змушує прагнути більшого. WrM&lt;br /&gt;
+&lt;br /&gt;
+Ємність: 50 мл</description>
+            <name_ua>Масажна олія Magoon Indisches Liebesol, індійська любов, 100 мл</name_ua>
+            <description_ua>Стимулююча високоякісна олія для еротичного масажу з відтінком індійського аромату. Фізична любов завжди була тісно пов'язана з індійською культурою. Завдяки знанням мистецтва тантричної любові було створено це унікальне масло з фруктовим, солодким і пряним ароматом. Його магія полягає в тому, що він швидко збуджує апетит не тільки до масажу. Містить ефірні масла кориці та коріандру. Він живить шкіру завдяки екстракту мигдалю. Прелюдія з оліями Magoon - запорука чуттєвого розслаблення та задоволення для обох партнерів. Масаж посилює кровообіг, розслаблює тіло і душу і може приймати дуже еротичні форми. Це приємно для обох сторін і часто змушує прагнути більшого. WrM&lt;br /&gt;
+&lt;br /&gt;
+Ємність: 50 мл</description_ua>
             </offer>
         <offer id="42-07722670000" available="true">
                 <erp>42-07722670000</erp>
@@ -45367,6 +45385,59 @@ Woman №7 — твій аромат свободи, енергії та нев�
 &lt;br /&gt;
 ідеальна для фантазійних сценаріїв, рольових ігор та фіксації.</description_ua>
             </offer>
+        <offer id="94-FT001055" available="true">
+                <erp>94-FT001055</erp>
+            <barcode>8606112134484</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35617-sriblyasta_rebrista_analyna_probka_medium_z_chervonim_kristalom__fantasy</url>
+            <price>637.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>31</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3561369273b60853e8.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69273b5a9d056.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69273b5ab8be7.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69273b5aca5d1.jpg</picture>
+            <name>Анальна пробка Fantasy Medium, ребриста, срібляста, з червоним кристалом</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>Fantasy</vendor>
+            <model>Срібляста ребриста анальна пробка Medium з червоним кристалом — Fantasy</model>
+            <description>Стильна та виразна анальна пробка Fantasy середнього розміру виготовлена з гладкого металу без нікелю — безпечного, міцного та водночас приємного на дотик. Ребриста поверхня додає інтенсивнішої стимуляції та робить кожен рух більш відчутним.&lt;br /&gt;
+&lt;br /&gt;
+Основу прикрашає яскравий червоний кристал, який надає виробу еротичного акценту та ефектного вигляду. Формат Medium забезпечує збалансоване поєднання насичених відчуттів і комфорту — чудовий варіант для тих, хто вже має певний досвід.&lt;br /&gt;
+&lt;br /&gt;
+Параметри:&lt;br /&gt;
+&lt;br /&gt;
+довжина загальна: 8 см;&lt;br /&gt;
+&lt;br /&gt;
+довжина робоча: 7 см;&lt;br /&gt;
+&lt;br /&gt;
+максимальний діаметр: 3,3 см;&lt;br /&gt;
+&lt;br /&gt;
+матеріал: метал без нікелю;&lt;br /&gt;
+&lt;br /&gt;
+декоративний червоний кристал.&lt;br /&gt;
+&lt;br /&gt;
+Ідеальний аксессуар для чуттєвої стимуляції та естетичної насолоди.</description>
+            <name_ua>Анальна пробка Fantasy Medium, ребриста, срібляста, з червоним кристалом</name_ua>
+            <description_ua>Стильна та виразна анальна пробка Fantasy середнього розміру виготовлена з гладкого металу без нікелю — безпечного, міцного та водночас приємного на дотик. Ребриста поверхня додає інтенсивнішої стимуляції та робить кожен рух більш відчутним.&lt;br /&gt;
+&lt;br /&gt;
+Основу прикрашає яскравий червоний кристал, який надає виробу еротичного акценту та ефектного вигляду. Формат Medium забезпечує збалансоване поєднання насичених відчуттів і комфорту — чудовий варіант для тих, хто вже має певний досвід.&lt;br /&gt;
+&lt;br /&gt;
+Параметри:&lt;br /&gt;
+&lt;br /&gt;
+довжина загальна: 8 см;&lt;br /&gt;
+&lt;br /&gt;
+довжина робоча: 7 см;&lt;br /&gt;
+&lt;br /&gt;
+максимальний діаметр: 3,3 см;&lt;br /&gt;
+&lt;br /&gt;
+матеріал: метал без нікелю;&lt;br /&gt;
+&lt;br /&gt;
+декоративний червоний кристал.&lt;br /&gt;
+&lt;br /&gt;
+Ідеальний аксессуар для чуттєвої стимуляції та естетичної насолоди.</description_ua>
+            </offer>
         <offer id="BI-210364" available="true">
                 <erp>BI-210364</erp>
             <barcode>6959532337587</barcode>
@@ -46015,28 +46086,6 @@ Woman №7 — твій аромат свободи, енергії та нев�
             <description_ua>ЗЛюбовні кульки з 4 ниток з м'якою на дотик текстурою та еластичними ремінцями. М’ячі підходять для ефективного тренування тазового дна: м’ячі ваги обертаються всередині і викликають вібрацію при кожному русі, що призводить до посилення м’язових скорочень. Маючи вагу 108 г, м’ячі кохання ідеально підходять для вже досвідчених експертів.&lt;br /&gt;
 &lt;br /&gt;
 Загальна довжина 24 см (включаючи зворотний ремінь), м'яч Ø 3,5 см. Вага 108 г. Силікон, ABS, PU.</description_ua>
-            </offer>
-        <offer id="42-06219780000" available="true">
-                <erp>42-06219780000</erp>
-            <barcode>4024144621972</barcode>
-            <quantity_in_stock>6</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/3136-masazhne_maslo_oil_indischliebes_l_50</url>
-            <price>202.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>49</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-06219780000.jpg</picture>
-            <name>Масажна олія Magoon Indisches Liebesol, індійська любов, 100 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>6</stock>
-            <vendor>ORION</vendor>
-            <model>Масажне масло Oil-Indisch.Liebes-Ol 50</model>
-            <description>Стимулююча високоякісна олія для еротичного масажу з відтінком індійського аромату. Фізична любов завжди була тісно пов'язана з індійською культурою. Завдяки знанням мистецтва тантричної любові було створено це унікальне масло з фруктовим, солодким і пряним ароматом. Його магія полягає в тому, що він швидко збуджує апетит не тільки до масажу. Містить ефірні масла кориці та коріандру. Він живить шкіру завдяки екстракту мигдалю. Прелюдія з оліями Magoon - запорука чуттєвого розслаблення та задоволення для обох партнерів. Масаж посилює кровообіг, розслаблює тіло і душу і може приймати дуже еротичні форми. Це приємно для обох сторін і часто змушує прагнути більшого. WrM&lt;br /&gt;
-&lt;br /&gt;
-Ємність: 50 мл</description>
-            <name_ua>Масажна олія Magoon Indisches Liebesol, індійська любов, 100 мл</name_ua>
-            <description_ua>Стимулююча високоякісна олія для еротичного масажу з відтінком індійського аромату. Фізична любов завжди була тісно пов'язана з індійською культурою. Завдяки знанням мистецтва тантричної любові було створено це унікальне масло з фруктовим, солодким і пряним ароматом. Його магія полягає в тому, що він швидко збуджує апетит не тільки до масажу. Містить ефірні масла кориці та коріандру. Він живить шкіру завдяки екстракту мигдалю. Прелюдія з оліями Magoon - запорука чуттєвого розслаблення та задоволення для обох партнерів. Масаж посилює кровообіг, розслаблює тіло і душу і може приймати дуже еротичні форми. Це приємно для обох сторін і часто змушує прагнути більшого. WrM&lt;br /&gt;
-&lt;br /&gt;
-Ємність: 50 мл</description_ua>
             </offer>
         <offer id="19-3121" available="true">
                 <erp>19-3121</erp>
@@ -46976,58 +47025,6 @@ Cananga Odorata Flower Oil — антисептична та релаксува�
             <description>Мастурбатор виготовлений з надм'якого, реалістичного матеріалу. Без вібрації. Всередині мастурбатора є текстури, які масажують і стимулюють. Завдяки присосці, що замикається, ви можете регулювати кут і насолоджуватися неймовірним задоволенням </description>
             <name_ua>Мастурбатор Pretty Love Hedy, тілесний</name_ua>
             <description_ua>Мастурбатор виготовлений з надм'якого, реалістичного матеріалу. Без вібрації. Всередині мастурбатора є текстури, які масажують і стимулюють. Завдяки присосці, що замикається, ви можете регулювати кут і насолоджуватися неймовірним задоволенням </description_ua>
-            </offer>
-        <offer id="BM-009108" available="true">
-                <erp>BM-009108</erp>
-            <barcode>6959532308266</barcode>
-            <quantity_in_stock>6</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/25076-baile_insatiable_ass_amp_pussy_multispeed_vibrations</url>
-            <price>1017.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>156</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/BM-009108.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_628e01eb22446.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_628e01eb7180b.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_628e01eb85cd8.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_628e01eb9f41a.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_628e01ebb197d.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_628e01ebc7c9d.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_628e01ebe5275.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_628e01ec08bd5.png</picture>
-            <name>Мастурбатор BAILE Insatiable ASS &amp; Pussy, тілесний</name>
-            <Отображать>Да</Отображать>
-            <stock>6</stock>
-            <vendor />
-            <model>Мастурбатор BAILE Insatiable ASS &amp;amp; Pussy, Multispeed Vibrations</model>
-            <description>Реалістичний кібер-шкірний мастурбатор в обрисі відокремлених сідниць з анальним отвором і піхвою. Отвори залишилися надзвичайно анатомічно правильними. Виріб виготовлено з кібершкіри, завдяки якій ви відчуваєте, ніби займаєтеся сексом зі справжньою жінкою, яка завжди бажає.&lt;br /&gt;
-&lt;br /&gt;
-Мастурбатор був оснащений вібраційним двигуном з дистанційним керуванням для управління відчуттями. У комплект також входить пульт дистанційного керування з довгим кабелем для комфортного контролю вібрації. Пристрій живиться від двох батарейок типу АА (не входять в комплект)&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-Матеріал: CyberSkin (кіберскін)&lt;br /&gt;
-Він не викликає алергії та роздратування&lt;br /&gt;
-100% без латексу та фталанів (продукт не містить латексу та фталатів)&lt;br /&gt;
-2 любовні отвори: піхву і анус&lt;br /&gt;
-Функції: плавний контроль вібрації, стимулювання хвилястості та ребер тунелів кохання&lt;br /&gt;
-Харчування: 2 батарейки АА (не входять в комплект)&lt;br /&gt;
-Висота: 15 см&lt;br /&gt;
-Ширина: 16 см&lt;br /&gt;
-Вага: 1,1 кг</description>
-            <name_ua>Мастурбатор BAILE Insatiable ASS &amp; Pussy, тілесний</name_ua>
-            <description_ua>Реалістичний кібер-шкірний мастурбатор в обрисі відокремлених сідниць з анальним отвором і піхвою. Отвори залишилися надзвичайно анатомічно правильними. Виріб виготовлено з кібершкіри, завдяки якій ви відчуваєте, ніби займаєтеся сексом зі справжньою жінкою, яка завжди бажає.&lt;br /&gt;
-&lt;br /&gt;
-Мастурбатор був оснащений вібраційним двигуном з дистанційним керуванням для управління відчуттями. У комплект також входить пульт дистанційного керування з довгим кабелем для комфортного контролю вібрації. Пристрій живиться від двох батарейок типу АА (не входять в комплект)&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-Матеріал: CyberSkin (кіберскін)&lt;br /&gt;
-Він не викликає алергії та роздратування&lt;br /&gt;
-100% без латексу та фталанів (продукт не містить латексу та фталатів)&lt;br /&gt;
-2 любовні отвори: піхву і анус&lt;br /&gt;
-Функції: плавний контроль вібрації, стимулювання хвилястості та ребер тунелів кохання&lt;br /&gt;
-Харчування: 2 батарейки АА (не входять в комплект)&lt;br /&gt;
-Висота: 15 см&lt;br /&gt;
-Ширина: 16 см&lt;br /&gt;
-Вага: 1,1 кг</description_ua>
             </offer>
         <offer id="BI-210146" available="true">
                 <erp>BI-210146</erp>
@@ -50962,6 +50959,58 @@ ORGASM MAX для жінок призначений для значної під
             <description>Страпон для чоловіків з вібрацією в 12 варіантах, покритий реалістичною кібер-шкірою, унікальний продукHollow Strap-on - Cyber Skin - це перший у продажу протез, покритий ніжною на дотик м'якою кібершкірою.Зручні еластичні підтяжки легко підлаштовуються під більшість розмірів. Завдяки такому кріпленню пеніс утримується в стабільному положенні. Надсильні вібрації в 12 варіантах для інтенсивного задоволення.Порожнистий страпон можуть використовувати як чоловіки, так і жінки.Його зовнішній вигляд і ультрареалістичні детальні текстури вони ідеально імітують справжній пеніс. 12 режимів вібрації Довжина: 20 см Діаметр 5 см Діаметр отвору: 3,3 см Внутрішня довжина: 13 см Подовжується на 7 см.</description>
             <name_ua>Страпон B - Series EasyLove Vibrating Hollow Strap-on, Cyber Skin</name_ua>
             <description_ua>Страпон для чоловіків з вібрацією в 12 варіантах, покритий реалістичною кібер-шкірою, унікальний продукHollow Strap-on - Cyber Skin - це перший у продажу протез, покритий ніжною на дотик м'якою кібершкірою.Зручні еластичні підтяжки легко підлаштовуються під більшість розмірів. Завдяки такому кріпленню пеніс утримується в стабільному положенні. Надсильні вібрації в 12 варіантах для інтенсивного задоволення.Порожнистий страпон можуть використовувати як чоловіки, так і жінки.Його зовнішній вигляд і ультрареалістичні детальні текстури вони ідеально імітують справжній пеніс. 12 режимів вібрації Довжина: 20 см Діаметр 5 см Діаметр отвору: 3,3 см Внутрішня довжина: 13 см Подовжується на 7 см.</description_ua>
+            </offer>
+        <offer id="BM-009108" available="true">
+                <erp>BM-009108</erp>
+            <barcode>6959532308266</barcode>
+            <quantity_in_stock>7</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/25076-baile_insatiable_ass_amp_pussy_multispeed_vibrations</url>
+            <price>1017.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>156</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/BM-009108.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_628e01eb22446.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_628e01eb7180b.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_628e01eb85cd8.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_628e01eb9f41a.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_628e01ebb197d.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_628e01ebc7c9d.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_628e01ebe5275.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_628e01ec08bd5.png</picture>
+            <name>Мастурбатор BAILE Insatiable ASS &amp; Pussy, тілесний</name>
+            <Отображать>Да</Отображать>
+            <stock>7</stock>
+            <vendor />
+            <model>Мастурбатор BAILE Insatiable ASS &amp;amp; Pussy, Multispeed Vibrations</model>
+            <description>Реалістичний кібер-шкірний мастурбатор в обрисі відокремлених сідниць з анальним отвором і піхвою. Отвори залишилися надзвичайно анатомічно правильними. Виріб виготовлено з кібершкіри, завдяки якій ви відчуваєте, ніби займаєтеся сексом зі справжньою жінкою, яка завжди бажає.&lt;br /&gt;
+&lt;br /&gt;
+Мастурбатор був оснащений вібраційним двигуном з дистанційним керуванням для управління відчуттями. У комплект також входить пульт дистанційного керування з довгим кабелем для комфортного контролю вібрації. Пристрій живиться від двох батарейок типу АА (не входять в комплект)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Матеріал: CyberSkin (кіберскін)&lt;br /&gt;
+Він не викликає алергії та роздратування&lt;br /&gt;
+100% без латексу та фталанів (продукт не містить латексу та фталатів)&lt;br /&gt;
+2 любовні отвори: піхву і анус&lt;br /&gt;
+Функції: плавний контроль вібрації, стимулювання хвилястості та ребер тунелів кохання&lt;br /&gt;
+Харчування: 2 батарейки АА (не входять в комплект)&lt;br /&gt;
+Висота: 15 см&lt;br /&gt;
+Ширина: 16 см&lt;br /&gt;
+Вага: 1,1 кг</description>
+            <name_ua>Мастурбатор BAILE Insatiable ASS &amp; Pussy, тілесний</name_ua>
+            <description_ua>Реалістичний кібер-шкірний мастурбатор в обрисі відокремлених сідниць з анальним отвором і піхвою. Отвори залишилися надзвичайно анатомічно правильними. Виріб виготовлено з кібершкіри, завдяки якій ви відчуваєте, ніби займаєтеся сексом зі справжньою жінкою, яка завжди бажає.&lt;br /&gt;
+&lt;br /&gt;
+Мастурбатор був оснащений вібраційним двигуном з дистанційним керуванням для управління відчуттями. У комплект також входить пульт дистанційного керування з довгим кабелем для комфортного контролю вібрації. Пристрій живиться від двох батарейок типу АА (не входять в комплект)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Матеріал: CyberSkin (кіберскін)&lt;br /&gt;
+Він не викликає алергії та роздратування&lt;br /&gt;
+100% без латексу та фталанів (продукт не містить латексу та фталатів)&lt;br /&gt;
+2 любовні отвори: піхву і анус&lt;br /&gt;
+Функції: плавний контроль вібрації, стимулювання хвилястості та ребер тунелів кохання&lt;br /&gt;
+Харчування: 2 батарейки АА (не входять в комплект)&lt;br /&gt;
+Висота: 15 см&lt;br /&gt;
+Ширина: 16 см&lt;br /&gt;
+Вага: 1,1 кг</description_ua>
             </offer>
         <offer id="BW-001063" available="true">
                 <erp>BW-001063</erp>
