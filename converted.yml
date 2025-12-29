@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-12-29 17:00">
+<yml_catalog date="2025-12-29 17:45">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -238,6 +238,29 @@
             <description>Мастурбатор  Vagina Hera - модель гладка і реалістична. Вона  розроблена зі стимулюючою структурою, яка додає додатковий рівень стимуляції. Матеріали: Cyberskin. Довжина: 12 см; Діаметр: 5 см</description>
             <name_ua>Вагінальний мастурбатор B-Series Lyla Hera</name_ua>
             <description_ua>Мастурбатор  Vagina Hera - модель гладка і реалістична. Вона  розроблена зі стимулюючою структурою, яка додає додатковий рівень стимуляції. Матеріали: Cyberskin. Довжина: 12 см; Діаметр: 5 см</description_ua>
+            </offer>
+        <offer id="19-1001" available="true">
+                <erp>19-1001</erp>
+            <barcode>3548960010013</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2409-krapli_drop_sex_20_ml</url>
+            <price>368.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>43</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_240961b89228d2a77.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_61b89226ea38e.jpg</picture>
+            <name>Збуджуючі краплі Ruf Drop Sex, 20 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>RUF</vendor>
+            <model>Краплі Drop Sex, 20 мл</model>
+            <description>Drop Sex – це харчова добавка на основі натуральних речовин, призначених для сексуальної стимуляції. Від 7 до 15 крапель для збудження та підсилення відчуттів. Надзвичайне поєднання активних речовин може позитивно вплинути на ваше особисте життя. Ємкість 20мл.</description>
+            <param name="Країна">Франція</param>
+            <param name="Для кого">Для двох</param>
+            <param name="Місткість (мл)">20</param>
+            <param name="Марка/Лінія">Ruf</param>
+            <name_ua>Збуджуючі краплі Ruf Drop Sex, 20 мл</name_ua>
+            <description_ua>Drop Sex – це харчова добавка на основі натуральних речовин, призначених для сексуальної стимуляції. Від 7 до 15 крапель для збудження та підсилення відчуттів. Надзвичайне поєднання активних речовин може позитивно вплинути на ваше особисте життя. Ємкість 20мл.</description_ua>
             </offer>
         <offer id="31-57700" available="true">
                 <erp>31-57700</erp>
@@ -61910,7 +61933,7 @@ ONE Vanish Hyperthin — ультратонкі презервативи, які
         <offer id="93-0747" available="true">
                 <erp>93-0747</erp>
             <barcode />
-            <quantity_in_stock>30</quantity_in_stock>
+            <quantity_in_stock>31</quantity_in_stock>
             <url>http://blissclub.com.ua/product/32184-prezervativi_one_glowing_pleasures</url>
             <price>56.00</price>
             <currencyId>UAH</currencyId>
@@ -61928,7 +61951,7 @@ ONE Vanish Hyperthin — ультратонкі презервативи, які
             <picture>https://blissclub.com.ua/images/product_variants/product_68556dc212ba7.png</picture>
             <name>Презерватив ONE Glowing Pleasures, 1 шт</name>
             <Отображать>Да</Отображать>
-            <stock>30</stock>
+            <stock>31</stock>
             <vendor>ONE (США)</vendor>
             <model>Презервативи ONE Glowing Pleasures</model>
             <description>Презерватив з &lt;b&gt;фосфоресцентним покриттям&lt;/b&gt; One Glowing Pleasures, що створює романтичну атмосферу завдяки яскравому світінню в темряві. Після 30-секундного впливу світла виріб світиться протягом 15 хвилин, додаючи інтимності вашим стосункам.&lt;br /&gt;&lt;br /&gt;
