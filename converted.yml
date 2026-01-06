@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-06 13:00">
+<yml_catalog date="2026-01-06 14:15">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -5594,6 +5594,29 @@ ABS силікон&lt;br /&gt;
             <description_ua>Компактне віброяйце підходить як для прелюдії, так і для соло ігор. Виконана секс-іграшка із силікону, оснащена 12 режимами безшумної вібрації. Має акумулятор, що перезаряджається (USB-шнур в комплекті).  Діаметр: 2,2 см&lt;br /&gt;
 Довжина: 6,5 см</description_ua>
             </offer>
+        <offer id="BW-008055R" available="true">
+                <erp>BW-008055R</erp>
+            <barcode>6959532326062</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30045-vibratorbarbara_mark</url>
+            <price>498.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>143</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_300456385f40fdf337.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40d69aaa.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40d8ba9a.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40d998b6.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40da6dfb.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40db51fd.jpg</picture>
+            <name>Вібратор з ротацією Barbara Mark, тілесний</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor />
+            <model>Вібратор BARBARA MARK</model>
+            <description>Вібратор BARBARA MARK</description>
+            <name_ua>Вібратор з ротацією Barbara Mark, тілесний</name_ua>
+            <description_ua>Вібратор BARBARA MARK</description_ua>
+            </offer>
         <offer id="52-00036-1" available="true">
                 <erp>52-00036-1</erp>
             <barcode>5903661806170</barcode>
@@ -6659,25 +6682,6 @@ USB-кабель для зарядки в комплекті&lt;br /&gt;
             <description>Неймовірний двосторонній вібростимулятор в оригінальному дизайні та ергономічній формі. Девайс в чорному кольорі з декоративною золотистою вставкою, що додає йому вишуканості та унікальності. З однієї сторони знаходиться довгий робочий стрижень, який водночас слугує руків'ям, з другої  - два гнучких округлих відростка, які можна використовувати, як для внутрішньої стимуляції, так і для зовнішнього масажу ерогенних зон. 3 потужні моторчики забезпечують 9 режимів мультишвидкісної вібрації для більшого задоволення та яскравої оргазмічної розрядки. Загальна довжина -  19,5 см, робоча довжина - 10,5 см, діаметр - 2,2-3,6 см</description>
             <name_ua>Вібратор Couples Choice 3 Motors Vibrator, чорний</name_ua>
             <description_ua>Неймовірний двосторонній вібростимулятор в оригінальному дизайні та ергономічній формі. Девайс в чорному кольорі з декоративною золотистою вставкою, що додає йому вишуканості та унікальності. З однієї сторони знаходиться довгий робочий стрижень, який водночас слугує руків'ям, з другої  - два гнучких округлих відростка, які можна використовувати, як для внутрішньої стимуляції, так і для зовнішнього масажу ерогенних зон. 3 потужні моторчики забезпечують 9 режимів мультишвидкісної вібрації для більшого задоволення та яскравої оргазмічної розрядки. Загальна довжина -  19,5 см, робоча довжина - 10,5 см, діаметр - 2,2-3,6 см</description_ua>
-            </offer>
-        <offer id="27-089763" available="true">
-                <erp>27-089763</erp>
-            <barcode>5011831089763</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30699-prezervativi_unimil_skyn_box_10_elite</url>
-            <price>1071.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>96</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_306966501fe9667be8.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6501fe957855a.jpeg</picture>
-            <name>Презервативи Unimil Skyn Elite, 10 шт</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>UNIMIL</vendor>
-            <model>Презервативи UNIMIL SKYN BOX 10 ELITE</model>
-            <description>Презервативи UNIMIL SKYN BOX 10 ELITE</description>
-            <name_ua>Презервативи Unimil Skyn Elite, 10 шт</name_ua>
-            <description_ua>Презервативи UNIMIL SKYN BOX 10 ELITE</description_ua>
             </offer>
         <offer id="BW-008037Z" available="true">
                 <erp>BW-008037Z</erp>
@@ -18859,29 +18863,6 @@ A-mazing має 2 потужні двигуни і стимулює корист
             <name_ua>Фалоімітатор Dual Layered Silicone Nature Cock 9.5, тілесний</name_ua>
             <description_ua>Реалістичний силіконовий фалоімітатор 9.5'' DUAL LAYERED</description_ua>
             </offer>
-        <offer id="BW-008055R" available="true">
-                <erp>BW-008055R</erp>
-            <barcode>6959532326062</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30045-vibratorbarbara_mark</url>
-            <price>498.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>143</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_300456385f40fdf337.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40d69aaa.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40d8ba9a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40d998b6.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40da6dfb.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6385f40db51fd.jpg</picture>
-            <name>Вібратор з ротацією Barbara Mark, тілесний</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor />
-            <model>Вібратор BARBARA MARK</model>
-            <description>Вібратор BARBARA MARK</description>
-            <name_ua>Вібратор з ротацією Barbara Mark, тілесний</name_ua>
-            <description_ua>Вібратор BARBARA MARK</description_ua>
-            </offer>
         <offer id="52-00058" available="true">
                 <erp>52-00058</erp>
             <barcode>5903661808372</barcode>
@@ -19054,6 +19035,29 @@ A-mazing має 2 потужні двигуни і стимулює корист
             <description>Наручники блакитні Esposas Marabu Azul</description>
             <name_ua>Наручники Esposas Marabu Azul, блакитні</name_ua>
             <description_ua>Наручники блакитні Esposas Marabu Azul</description_ua>
+            </offer>
+        <offer id="52-00085" available="true">
+                <erp>52-00085</erp>
+            <barcode>5903661808426</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30257-nabir_vaginalynih_kulyok_virgo_purple</url>
+            <price>1665.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>142</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3025763f0b8a5ba174.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63f0b8a413ab9.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63f0b8a42f36c.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63f0b8a43cd62.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63f0b8a44a048.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63f0b8a456f97.png</picture>
+            <name>Набір вагінальних кульок Boss Series Purple Virgo, різнокольоровий</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor />
+            <model>Набір вагінальних кульок Virgo purple</model>
+            <description>Набір вагінальних кульок Virgo purple</description>
+            <name_ua>Набір вагінальних кульок Boss Series Purple Virgo, різнокольоровий</name_ua>
+            <description_ua>Набір вагінальних кульок Virgo purple</description_ua>
             </offer>
         <offer id="84-990391" available="true">
                 <erp>84-990391</erp>
@@ -28741,29 +28745,6 @@ Sensfeel™ for Him - це природний активний інгредіє�
 Характеристики: Лубрикант і пом'якшувач&lt;br /&gt;
 Зроблено в Італії</description_ua>
             </offer>
-        <offer id="52-00085" available="true">
-                <erp>52-00085</erp>
-            <barcode>5903661808426</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30257-nabir_vaginalynih_kulyok_virgo_purple</url>
-            <price>1665.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>142</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3025763f0b8a5ba174.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63f0b8a413ab9.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63f0b8a42f36c.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63f0b8a43cd62.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63f0b8a44a048.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63f0b8a456f97.png</picture>
-            <name>Набір вагінальних кульок Boss Series Purple Virgo, різнокольоровий</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor />
-            <model>Набір вагінальних кульок Virgo purple</model>
-            <description>Набір вагінальних кульок Virgo purple</description>
-            <name_ua>Набір вагінальних кульок Boss Series Purple Virgo, різнокольоровий</name_ua>
-            <description_ua>Набір вагінальних кульок Virgo purple</description_ua>
-            </offer>
         <offer id="60-00040" available="true">
                 <erp>60-00040</erp>
             <barcode>5903661808044</barcode>
@@ -36687,6 +36668,32 @@ Orgie Lube Tube Xtra - це відмінний вибір для тих, хто 
             <description>Віібратор Ada USB -Pink</description>
             <name_ua>Анально-вагінально-кліторальний вібратор з підігрівом та пульсацією Boss Series Ada, рожевий</name_ua>
             <description_ua>Віібратор Ada USB -Pink</description_ua>
+            </offer>
+        <offer id="26-00158" available="true">
+                <erp>26-00158</erp>
+            <barcode>5903661806989</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30614-viibrator_hannah_usb_pink</url>
+            <price>1431.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>18</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3061464c2b7b9f06e5.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b70c1c7.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b75d77b.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b798abe.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b7d3ad0.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b804d3a.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b84cc2e.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b87de25.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b8b0a6d.jpeg</picture>
+            <name>Вібратор з поштовхами та підігрівом Boss Series Hannah, рожевий</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Віібратор Hannah USB Pink</model>
+            <description>Віібратор Hannah USB Pink</description>
+            <name_ua>Вібратор з поштовхами та підігрівом Boss Series Hannah, рожевий</name_ua>
+            <description_ua>Віібратор Hannah USB Pink</description_ua>
             </offer>
         <offer id="52-00002-1" available="true">
                 <erp>52-00002-1</erp>
@@ -47777,32 +47784,6 @@ Pherluxe BLACK - подарує вам чуттєвість, пристраст�
 &lt;br /&gt;
 Незалежно від того, що ви робите в цих трусиках - від повсякденних справ до особливих випадків, вони даруватимуть вам впевненість та чуттєвість. Відчуйте себе справжньою королевою завдяки цій шикарній білизні від Пентхаус. Не пропустіть можливість придбати їх зараз і насолоджуватися своєю красою та чарівністю.</description_ua>
             </offer>
-        <offer id="26-00158" available="true">
-                <erp>26-00158</erp>
-            <barcode>5903661806989</barcode>
-            <quantity_in_stock>6</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30614-viibrator_hannah_usb_pink</url>
-            <price>1431.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>18</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3061464c2b7b9f06e5.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b70c1c7.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b75d77b.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b798abe.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b7d3ad0.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b804d3a.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b84cc2e.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b87de25.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64c2b7b8b0a6d.jpeg</picture>
-            <name>Вібратор з поштовхами та підігрівом Boss Series Hannah, рожевий</name>
-            <Отображать>Да</Отображать>
-            <stock>6</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Віібратор Hannah USB Pink</model>
-            <description>Віібратор Hannah USB Pink</description>
-            <name_ua>Вібратор з поштовхами та підігрівом Boss Series Hannah, рожевий</name_ua>
-            <description_ua>Віібратор Hannah USB Pink</description_ua>
-            </offer>
         <offer id="27-087288" available="true">
                 <erp>27-087288</erp>
             <barcode>5011831087288</barcode>
@@ -53143,6 +53124,24 @@ EGGCITED можна використовувати у ванні або душі
             <name_ua>Віброяйце з пультом керування B-Series Vibratong Egg, рожеве</name_ua>
             <description_ua>Віброяйце з пультом керування Vibratong egg (pink) USB</description_ua>
             </offer>
+        <offer id="27-144014" available="true">
+                <erp>27-144014</erp>
+            <barcode>8413554144014</barcode>
+            <quantity_in_stock>8</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30631-prezervativi_unimil_box_3_max_love</url>
+            <price>126.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3063164c2baf730e46.jpeg</picture>
+            <name>Презервативи Unimil Box 3 Max Love</name>
+            <Отображать>Да</Отображать>
+            <stock>8</stock>
+            <vendor>UNIMIL</vendor>
+            <model>Презервативи UNIMIL BOX 3 MAX LOVE</model>
+            <description>Презервативи UNIMIL BOX 3 MAX LOVE</description>
+            <name_ua>Презервативи Unimil Box 3 Max Love</name_ua>
+            <description_ua>Презервативи UNIMIL BOX 3 MAX LOVE</description_ua>
+            </offer>
         <offer id="27-099250" available="true">
                 <erp>27-099250</erp>
             <barcode>5011831099250</barcode>
@@ -56105,24 +56104,6 @@ JoyDivision Frenchkiss Raspberry - це відмінний вибір для т�
             <description>Анальни ланцюжок BAILE- BENDY TWIST</description>
             <name_ua>Анальний стимулятор Bendy Twist 22.5 см, червоний</name_ua>
             <description_ua>Анальни ланцюжок BAILE- BENDY TWIST</description_ua>
-            </offer>
-        <offer id="27-144014" available="true">
-                <erp>27-144014</erp>
-            <barcode>8413554144014</barcode>
-            <quantity_in_stock>10</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30631-prezervativi_unimil_box_3_max_love</url>
-            <price>126.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>96</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3063164c2baf730e46.jpeg</picture>
-            <name>Презервативи Unimil Box 3 Max Love</name>
-            <Отображать>Да</Отображать>
-            <stock>10</stock>
-            <vendor>UNIMIL</vendor>
-            <model>Презервативи UNIMIL BOX 3 MAX LOVE</model>
-            <description>Презервативи UNIMIL BOX 3 MAX LOVE</description>
-            <name_ua>Презервативи Unimil Box 3 Max Love</name_ua>
-            <description_ua>Презервативи UNIMIL BOX 3 MAX LOVE</description_ua>
             </offer>
         <offer id="66-LV317406" available="true">
                 <erp>66-LV317406</erp>
