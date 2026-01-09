@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-09 12:00">
+<yml_catalog date="2026-01-09 13:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -25310,6 +25310,31 @@ USB-зарядка.&lt;br /&gt;
 &lt;br /&gt;
 Обʼєм: 100 мл</description_ua>
             </offer>
+        <offer id="42-05055870000" available="true">
+                <erp>42-05055870000</erp>
+            <barcode>4024144507030</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2932-erektsiyne_kilytse_bk_4_rings</url>
+            <price>687.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>37</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_29326177cdd3b7deb.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6177cdc1af134.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6177cdc222893.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6177cdc237877.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6177cdc24db46.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6177cdc260bbf.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6177cdc2783f4.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6177cdc28a316.jpg</picture>
+            <name>Ерекційне кільце Bad Kitty, 4 шт</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor>ORION</vendor>
+            <model>Ерекційне кільце BK 4 Rings</model>
+            <description>Чудове кільце для пеніса з 4 частин. Завдяки цьому ерекція стане потужною, а час статевого акту буде значно довшим.</description>
+            <name_ua>Ерекційне кільце Bad Kitty, 4 шт</name_ua>
+            <description_ua>Чудове кільце для пеніса з 4 частин. Завдяки цьому ерекція стане потужною, а час статевого акту буде значно довшим.</description_ua>
+            </offer>
         <offer id="42-05060100000" available="true">
                 <erp>42-05060100000</erp>
             <barcode>4024144507467</barcode>
@@ -33954,31 +33979,6 @@ OLO Extra Large спеціально розроблені для чоловік�
             <description>Білизна  PREZENTYNA Niegrzeczna Kokarda Czerwona</description>
             <name_ua>Білизна Prezentyna Niegrzeczna, червона</name_ua>
             <description_ua>Білизна  PREZENTYNA Niegrzeczna Kokarda Czerwona</description_ua>
-            </offer>
-        <offer id="42-05055870000" available="true">
-                <erp>42-05055870000</erp>
-            <barcode>4024144507030</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2932-erektsiyne_kilytse_bk_4_rings</url>
-            <price>687.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>37</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_29326177cdd3b7deb.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6177cdc1af134.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6177cdc222893.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6177cdc237877.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6177cdc24db46.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6177cdc260bbf.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6177cdc2783f4.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6177cdc28a316.jpg</picture>
-            <name>Ерекційне кільце Bad Kitty, 4 шт</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>ORION</vendor>
-            <model>Ерекційне кільце BK 4 Rings</model>
-            <description>Чудове кільце для пеніса з 4 частин. Завдяки цьому ерекція стане потужною, а час статевого акту буде значно довшим.</description>
-            <name_ua>Ерекційне кільце Bad Kitty, 4 шт</name_ua>
-            <description_ua>Чудове кільце для пеніса з 4 частин. Завдяки цьому ерекція стане потужною, а час статевого акту буде значно довшим.</description_ua>
             </offer>
         <offer id="42-05566960000" available="true">
                 <erp>42-05566960000</erp>
