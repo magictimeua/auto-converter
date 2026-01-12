@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-12 14:15">
+<yml_catalog date="2026-01-12 15:30">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -48222,90 +48222,6 @@ USB-акумулятор&lt;br /&gt;
 Довжина робоча (см): 12&lt;/br&gt;&lt;br /&gt;
 Діаметр (см): 1.6&lt;/br&gt;</description_ua>
             </offer>
-        <offer id="6-0003805" available="true">
-                <erp>6-0003805</erp>
-            <barcode>6-0003805</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/8026-feromony_casual_red_50ml_feromony_dla_kobiet_czerwone</url>
-            <price>634.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>80</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/6-0003805.jpg</picture>
-            <name>Парфуми WPJ Casual Red, 50 мл, феромони для жінок, червоні</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>WPJ</vendor>
-            <model>Парфуми WPJ Casual Red, 50 мл, феромони для жінок, червоні</model>
-            <description>Жіночі парфуми WPJ Casual Red з феромонами створюють &lt;b&gt;чуттєвий квітковий аромат&lt;/b&gt; у зручному 50 мл флаконі-спреї. Композиція поєднує свіжі цитрусові ноти з основою з жасмину, квітів апельсина та гарденії, доповнену теплими акордами сандалу, амбри та білого мускусу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Спиртова основа забезпечує &lt;b&gt;стійкість аромату&lt;/b&gt; та рівномірне розпилення завдяки зручному пульверизатору. Концентрація феромонів у складі посилює природну привабливість та створює магнетичний ефект.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Парфуми підходять для щоденного використання та особливих випадків, коли потрібно підкреслити жіночність та чарівність.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: WPJ International&lt;/br&gt;&lt;br /&gt;
-Виробник: WPJ International&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
-Форма випуску: Рідина&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Спиртова&lt;/br&gt;</description>
-            <name_ua>Парфуми WPJ Casual Red, 50 мл, феромони для жінок, червоні</name_ua>
-            <description_ua>Жіночі парфуми WPJ Casual Red з феромонами створюють &lt;b&gt;чуттєвий квітковий аромат&lt;/b&gt; у зручному 50 мл флаконі-спреї. Композиція поєднує свіжі цитрусові ноти з основою з жасмину, квітів апельсина та гарденії, доповнену теплими акордами сандалу, амбри та білого мускусу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Спиртова основа забезпечує &lt;b&gt;стійкість аромату&lt;/b&gt; та рівномірне розпилення завдяки зручному пульверизатору. Концентрація феромонів у складі посилює природну привабливість та створює магнетичний ефект.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Парфуми підходять для щоденного використання та особливих випадків, коли потрібно підкреслити жіночність та чарівність.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: WPJ International&lt;/br&gt;&lt;br /&gt;
-Виробник: WPJ International&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
-Форма випуску: Рідина&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Спиртова&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="6-0003806" available="true">
-                <erp>6-0003806</erp>
-            <barcode>6-0003806</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/8027-feromony_casual_yellow_50ml_feromony_dla_kobiet_te</url>
-            <price>634.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>80</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/6-0003806.jpg</picture>
-            <name>Парфуми WPJ Casual Yellow, 50 мл, феромони для жінок</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>WPJ</vendor>
-            <model>Парфуми WPJ Casual Yellow, 50 мл, феромони для жінок</model>
-            <description>Жіночі парфуми з феромонами &lt;b&gt;WPJ Casual Yellow&lt;/b&gt; створюють чуттєвий квітково-східний аромат, що підкреслює природну привабливість. Композиція розкривається яскравими цитрусовими нотками, доповнюється ароматом квітів апельсина та турецьких троянд.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Спиртова основа забезпечує стійкість аромату протягом дня, а &lt;b&gt;зручний спрей-розпилювач&lt;/b&gt; дозволяє рівномірно наносити парфуми. Деревні акценти надають композиції глибини та витонченості, створюючи багатогранний букет.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Об'єму 50 мл вистачить на тривале використання. Парфуми підходять для створення романтичного настрою та особливих моментів.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: WPJ International&lt;/br&gt;&lt;br /&gt;
-Виробник: WPJ International&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
-Форма випуску: Рідина&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Спиртова&lt;/br&gt;</description>
-            <name_ua>Парфуми WPJ Casual Yellow, 50 мл, феромони для жінок</name_ua>
-            <description_ua>Жіночі парфуми з феромонами &lt;b&gt;WPJ Casual Yellow&lt;/b&gt; створюють чуттєвий квітково-східний аромат, що підкреслює природну привабливість. Композиція розкривається яскравими цитрусовими нотками, доповнюється ароматом квітів апельсина та турецьких троянд.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Спиртова основа забезпечує стійкість аромату протягом дня, а &lt;b&gt;зручний спрей-розпилювач&lt;/b&gt; дозволяє рівномірно наносити парфуми. Деревні акценти надають композиції глибини та витонченості, створюючи багатогранний букет.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Об'єму 50 мл вистачить на тривале використання. Парфуми підходять для створення романтичного настрою та особливих моментів.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: WPJ International&lt;/br&gt;&lt;br /&gt;
-Виробник: WPJ International&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
-Форма випуску: Рідина&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Спиртова&lt;/br&gt;</description_ua>
-            </offer>
         <offer id="42-05331060000" available="true">
                 <erp>42-05331060000</erp>
             <barcode>4024144544240</barcode>
@@ -57595,6 +57511,90 @@ Unimil Max Love Time Control – для тих, хто хоче більшого
             <description>Парфуми Medica Pherostrong для жінок, 15 мл</description>
             <name_ua>Парфуми Medica Pherostrong для жінок, 15 мл</name_ua>
             <description_ua>Парфуми Medica Pherostrong для жінок, 15 мл</description_ua>
+            </offer>
+        <offer id="6-0003805" available="true">
+                <erp>6-0003805</erp>
+            <barcode>6-0003805</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/8026-feromony_casual_red_50ml_feromony_dla_kobiet_czerwone</url>
+            <price>634.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>80</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/6-0003805.jpg</picture>
+            <name>Парфуми WPJ Casual Red, 50 мл, феромони для жінок, червоні</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>WPJ</vendor>
+            <model>Парфуми WPJ Casual Red, 50 мл, феромони для жінок, червоні</model>
+            <description>Жіночі парфуми WPJ Casual Red з феромонами створюють &lt;b&gt;чуттєвий квітковий аромат&lt;/b&gt; у зручному 50 мл флаконі-спреї. Композиція поєднує свіжі цитрусові ноти з основою з жасмину, квітів апельсина та гарденії, доповнену теплими акордами сандалу, амбри та білого мускусу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Спиртова основа забезпечує &lt;b&gt;стійкість аромату&lt;/b&gt; та рівномірне розпилення завдяки зручному пульверизатору. Концентрація феромонів у складі посилює природну привабливість та створює магнетичний ефект.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Парфуми підходять для щоденного використання та особливих випадків, коли потрібно підкреслити жіночність та чарівність.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: WPJ International&lt;/br&gt;&lt;br /&gt;
+Виробник: WPJ International&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
+Форма випуску: Рідина&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Спиртова&lt;/br&gt;</description>
+            <name_ua>Парфуми WPJ Casual Red, 50 мл, феромони для жінок, червоні</name_ua>
+            <description_ua>Жіночі парфуми WPJ Casual Red з феромонами створюють &lt;b&gt;чуттєвий квітковий аромат&lt;/b&gt; у зручному 50 мл флаконі-спреї. Композиція поєднує свіжі цитрусові ноти з основою з жасмину, квітів апельсина та гарденії, доповнену теплими акордами сандалу, амбри та білого мускусу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Спиртова основа забезпечує &lt;b&gt;стійкість аромату&lt;/b&gt; та рівномірне розпилення завдяки зручному пульверизатору. Концентрація феромонів у складі посилює природну привабливість та створює магнетичний ефект.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Парфуми підходять для щоденного використання та особливих випадків, коли потрібно підкреслити жіночність та чарівність.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: WPJ International&lt;/br&gt;&lt;br /&gt;
+Виробник: WPJ International&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
+Форма випуску: Рідина&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Спиртова&lt;/br&gt;</description_ua>
+            </offer>
+        <offer id="6-0003806" available="true">
+                <erp>6-0003806</erp>
+            <barcode>6-0003806</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/8027-feromony_casual_yellow_50ml_feromony_dla_kobiet_te</url>
+            <price>634.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>80</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/6-0003806.jpg</picture>
+            <name>Парфуми WPJ Casual Yellow, 50 мл, феромони для жінок</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>WPJ</vendor>
+            <model>Парфуми WPJ Casual Yellow, 50 мл, феромони для жінок</model>
+            <description>Жіночі парфуми з феромонами &lt;b&gt;WPJ Casual Yellow&lt;/b&gt; створюють чуттєвий квітково-східний аромат, що підкреслює природну привабливість. Композиція розкривається яскравими цитрусовими нотками, доповнюється ароматом квітів апельсина та турецьких троянд.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Спиртова основа забезпечує стійкість аромату протягом дня, а &lt;b&gt;зручний спрей-розпилювач&lt;/b&gt; дозволяє рівномірно наносити парфуми. Деревні акценти надають композиції глибини та витонченості, створюючи багатогранний букет.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Об'єму 50 мл вистачить на тривале використання. Парфуми підходять для створення романтичного настрою та особливих моментів.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: WPJ International&lt;/br&gt;&lt;br /&gt;
+Виробник: WPJ International&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
+Форма випуску: Рідина&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Спиртова&lt;/br&gt;</description>
+            <name_ua>Парфуми WPJ Casual Yellow, 50 мл, феромони для жінок</name_ua>
+            <description_ua>Жіночі парфуми з феромонами &lt;b&gt;WPJ Casual Yellow&lt;/b&gt; створюють чуттєвий квітково-східний аромат, що підкреслює природну привабливість. Композиція розкривається яскравими цитрусовими нотками, доповнюється ароматом квітів апельсина та турецьких троянд.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Спиртова основа забезпечує стійкість аромату протягом дня, а &lt;b&gt;зручний спрей-розпилювач&lt;/b&gt; дозволяє рівномірно наносити парфуми. Деревні акценти надають композиції глибини та витонченості, створюючи багатогранний букет.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Об'єму 50 мл вистачить на тривале використання. Парфуми підходять для створення романтичного настрою та особливих моментів.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: WPJ International&lt;/br&gt;&lt;br /&gt;
+Виробник: WPJ International&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
+Форма випуску: Рідина&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Спиртова&lt;/br&gt;</description_ua>
             </offer>
         <offer id="48-11708" available="true">
                 <erp>48-11708</erp>
@@ -79649,6 +79649,99 @@ H2O UNI Gel - це універсальний і надійний лубрика
 Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
 Їстівне: Ні&lt;/br&gt;</description_ua>
             </offer>
+        <offer id="93-0777" available="true">
+                <erp>93-0777</erp>
+            <barcode />
+            <quantity_in_stock>20</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32187-prezervativi_one_super_studs</url>
+            <price>50.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_32183685567301c25b.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6855672e39467.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6855672e4985b.jpg</picture>
+            <name>Презервативи ONE Super Studs</name>
+            <Отображать>Да</Отображать>
+            <stock>20</stock>
+            <vendor>ONE (США)</vendor>
+            <model>Презервативи ONE Super Studs</model>
+            <description>ONE Super Studs — більше дотиків, більше збудження&lt;br /&gt;
+Подаруйте партнерці (або партнеру) вибух хвиль задоволення з ONE Super Studs — презервативами з потужною текстурою.&lt;br /&gt;
+Сотні рельєфних пухирців по всій поверхні створені для інтенсивної стимуляції, яка змушує тіло тремтіти в очікуванні кожного нового руху.&lt;br /&gt;
+&lt;br /&gt;
+Виготовлені з м’якого та міцного латексу Sensatex™, презервативи мають ідеальне поєднання еластичності й чуттєвості. Добре тягнуться, комфортно сідають на пеніс довжиною до 19 см і не знижують чутливості, залишаючи лише одне — більше відчуттів.&lt;br /&gt;
+&lt;br /&gt;
+Якісна змазка надає гладкого ковзання, а щільна посадка — впевненості в кожному русі.&lt;br /&gt;
+&lt;br /&gt;
+ONE Super Studs — коли хочеться відчути кожен міліметр.</description>
+            <name_ua>Презервативи ONE Super Studs</name_ua>
+            <description_ua>ONE Super Studs — більше дотиків, більше збудження&lt;br /&gt;
+Подаруйте партнерці (або партнеру) вибух хвиль задоволення з ONE Super Studs — презервативами з потужною текстурою.&lt;br /&gt;
+Сотні рельєфних пухирців по всій поверхні створені для інтенсивної стимуляції, яка змушує тіло тремтіти в очікуванні кожного нового руху.&lt;br /&gt;
+&lt;br /&gt;
+Виготовлені з м’якого та міцного латексу Sensatex™, презервативи мають ідеальне поєднання еластичності й чуттєвості. Добре тягнуться, комфортно сідають на пеніс довжиною до 19 см і не знижують чутливості, залишаючи лише одне — більше відчуттів.&lt;br /&gt;
+&lt;br /&gt;
+Якісна змазка надає гладкого ковзання, а щільна посадка — впевненості в кожному русі.&lt;br /&gt;
+&lt;br /&gt;
+ONE Super Studs — коли хочеться відчути кожен міліметр.</description_ua>
+            </offer>
+        <offer id="93-0778" available="true">
+                <erp>93-0778</erp>
+            <barcode />
+            <quantity_in_stock>20</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32188-prezervativi_one_vanish_hyperthin</url>
+            <price>45.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_32184685566d108ce1.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_685570e46ca9d.png</picture>
+            <name>Презервативи ONE Vanish Hyperthin</name>
+            <Отображать>Да</Отображать>
+            <stock>20</stock>
+            <vendor>ONE (США)</vendor>
+            <model>Презервативи ONE Vanish Hyperthin</model>
+            <description>ONE Vanish Hyperthin — відчуй близькість без бар’єрів&lt;br /&gt;
+Для тих, хто цінує кожен дотик і прагне максимальної природності —&lt;br /&gt;
+ONE Vanish Hyperthin — ультратонкі презервативи, які майже непомітні на шкірі. Вони дарують відчуття, ніби бар’єру немає, залишаючи лише інтимність і близькість.&lt;br /&gt;
+&lt;br /&gt;
+Виготовлені з високоякісного латексу Sensatex™, ці презервативи тонкі, м’які та еластичні, забезпечують надійний захист і комфорт навіть при активному русі. Ідеально підходять для пенісів довжиною до 19 см, легко надягаються і щільно сидять.&lt;br /&gt;
+&lt;br /&gt;
+Завдяки тонкій оболонці і делікатній змазці, ONE Vanish Hyperthin дозволяють відчути справжню близькість, зберігаючи вашу впевненість у захисті.&lt;br /&gt;
+&lt;br /&gt;
+</description>
+            <name_ua>Презервативи ONE Vanish Hyperthin</name_ua>
+            <description_ua>ONE Vanish Hyperthin — відчуй близькість без бар’єрів&lt;br /&gt;
+Для тих, хто цінує кожен дотик і прагне максимальної природності —&lt;br /&gt;
+ONE Vanish Hyperthin — ультратонкі презервативи, які майже непомітні на шкірі. Вони дарують відчуття, ніби бар’єру немає, залишаючи лише інтимність і близькість.&lt;br /&gt;
+&lt;br /&gt;
+Виготовлені з високоякісного латексу Sensatex™, ці презервативи тонкі, м’які та еластичні, забезпечують надійний захист і комфорт навіть при активному русі. Ідеально підходять для пенісів довжиною до 19 см, легко надягаються і щільно сидять.&lt;br /&gt;
+&lt;br /&gt;
+Завдяки тонкій оболонці і делікатній змазці, ONE Vanish Hyperthin дозволяють відчути справжню близькість, зберігаючи вашу впевненість у захисті.&lt;br /&gt;
+&lt;br /&gt;
+</description_ua>
+            </offer>
+        <offer id="93-0745" available="true">
+                <erp>93-0745</erp>
+            <barcode />
+            <quantity_in_stock>20</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32464-prezervativi_one_classic_select_</url>
+            <price>45.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3246068de487e6335a.jpg</picture>
+            <name>Презервативи ONE Classic Select </name>
+            <Отображать>Да</Отображать>
+            <stock>20</stock>
+            <vendor>ONE (США)</vendor>
+            <model>Презервативи ONE Classic Select </model>
+            <description>Презервативи ONE Classic Select Contest Collection поєднують класичну форму, додаткову змазку для комфорту та унікальний дизайн упаковки. Кожен кондом запакований у круглу обгортку з малюнком — переможцем міжнародного конкурсу ONE Design Contest, де свої ідеї представляли як аматори, так і професійні дизайнери. Таке оформлення привертає увагу до важливості безпечного сексу й робить використання більш особливим.&lt;br /&gt;
+&lt;br /&gt;
+Виготовлені з високоякісного латексу за запатентованою формулою Sensatex, презервативи мають прямі еластичні стінки, що забезпечують щільне та комфортне прилягання (до 19 см довжини). Для додаткової зручності кожен презерватив змащений преміальним силіконовим лубрикантом MOVE, який подовжує ковзання та зменшує тертя.</description>
+            <name_ua>Презервативи ONE Classic Select </name_ua>
+            <description_ua>Презервативи ONE Classic Select Contest Collection поєднують класичну форму, додаткову змазку для комфорту та унікальний дизайн упаковки. Кожен кондом запакований у круглу обгортку з малюнком — переможцем міжнародного конкурсу ONE Design Contest, де свої ідеї представляли як аматори, так і професійні дизайнери. Таке оформлення привертає увагу до важливості безпечного сексу й робить використання більш особливим.&lt;br /&gt;
+&lt;br /&gt;
+Виготовлені з високоякісного латексу за запатентованою формулою Sensatex, презервативи мають прямі еластичні стінки, що забезпечують щільне та комфортне прилягання (до 19 см довжини). Для додаткової зручності кожен презерватив змащений преміальним силіконовим лубрикантом MOVE, який подовжує ковзання та зменшує тертя.</description_ua>
+            </offer>
         <offer id="42-01806960000-25" available="true">
                 <erp>42-01806960000-25</erp>
             <barcode />
@@ -79906,27 +79999,41 @@ H2O UNI Gel - це універсальний і надійний лубрика
             <name_ua>Спрей для чищення секс-іграшок Stimul8 Toy Cleaner, 150 мл</name_ua>
             <description_ua>Stimul8 Toy Cleaner - засіб для чищення іграшок Продовжуйте термін служби ваших улюблених іграшок, зберігайте їх гігієнічно чистими та без мікробів. Безпечний для використання з усіма матеріалами, цей засіб є антиалергенним і має нейтральний по pH. Ємкість 150мл</description_ua>
             </offer>
-        <offer id="93-0745" available="true">
-                <erp>93-0745</erp>
+        <offer id="93-0761" available="true">
+                <erp>93-0761</erp>
             <barcode />
             <quantity_in_stock>30</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32464-prezervativi_one_classic_select_</url>
-            <price>45.00</price>
+            <url>http://blissclub.com.ua/product/32179-prezervativi_one_legend_xl</url>
+            <price>50.00</price>
             <currencyId>UAH</currencyId>
             <categoryId>96</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3246068de487e6335a.jpg</picture>
-            <name>Презервативи ONE Classic Select </name>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3217568556ee0457c4.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68556ef27a095.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68556ef28ea35.png</picture>
+            <name>Презервативи ONE Legend XL</name>
             <Отображать>Да</Отображать>
             <stock>30</stock>
             <vendor>ONE (США)</vendor>
-            <model>Презервативи ONE Classic Select </model>
-            <description>Презервативи ONE Classic Select Contest Collection поєднують класичну форму, додаткову змазку для комфорту та унікальний дизайн упаковки. Кожен кондом запакований у круглу обгортку з малюнком — переможцем міжнародного конкурсу ONE Design Contest, де свої ідеї представляли як аматори, так і професійні дизайнери. Таке оформлення привертає увагу до важливості безпечного сексу й робить використання більш особливим.&lt;br /&gt;
+            <model>Презервативи ONE Legend XL</model>
+            <description>ONE Legend XL — коли розмір має значення&lt;br /&gt;
+Для тих, хто не вписується в стандарти — і пишається цим.&lt;br /&gt;
+ONE Legend XL створені спеціально для пенісів більших за середній. Вони забезпечують простір там, де інші тиснуть, та комфорт там, де потрібна надійність. Модель адаптована для довжини до 21 см, має розширення в зоні головки та щільну посадку біля основи — щоб кожен рух був впевненим, вільним і неймовірно приємним.&lt;br /&gt;
 &lt;br /&gt;
-Виготовлені з високоякісного латексу за запатентованою формулою Sensatex, презервативи мають прямі еластичні стінки, що забезпечують щільне та комфортне прилягання (до 19 см довжини). Для додаткової зручності кожен презерватив змащений преміальним силіконовим лубрикантом MOVE, який подовжує ковзання та зменшує тертя.</description>
-            <name_ua>Презервативи ONE Classic Select </name_ua>
-            <description_ua>Презервативи ONE Classic Select Contest Collection поєднують класичну форму, додаткову змазку для комфорту та унікальний дизайн упаковки. Кожен кондом запакований у круглу обгортку з малюнком — переможцем міжнародного конкурсу ONE Design Contest, де свої ідеї представляли як аматори, так і професійні дизайнери. Таке оформлення привертає увагу до важливості безпечного сексу й робить використання більш особливим.&lt;br /&gt;
+Презерватив виготовлений із високоякісного натурального каучукового латексу без запаху й кольору — лише чисте задоволення та максимальна чутливість.&lt;br /&gt;
 &lt;br /&gt;
-Виготовлені з високоякісного латексу за запатентованою формулою Sensatex, презервативи мають прямі еластичні стінки, що забезпечують щільне та комфортне прилягання (до 19 см довжини). Для додаткової зручності кожен презерватив змащений преміальним силіконовим лубрикантом MOVE, який подовжує ковзання та зменшує тертя.</description_ua>
+ONE Legend XL — це не просто великий розмір. Це легендарний комфорт, який ти заслуговуєш.&lt;br /&gt;
+&lt;br /&gt;
+</description>
+            <name_ua>Презервативи ONE Legend XL</name_ua>
+            <description_ua>ONE Legend XL — коли розмір має значення&lt;br /&gt;
+Для тих, хто не вписується в стандарти — і пишається цим.&lt;br /&gt;
+ONE Legend XL створені спеціально для пенісів більших за середній. Вони забезпечують простір там, де інші тиснуть, та комфорт там, де потрібна надійність. Модель адаптована для довжини до 21 см, має розширення в зоні головки та щільну посадку біля основи — щоб кожен рух був впевненим, вільним і неймовірно приємним.&lt;br /&gt;
+&lt;br /&gt;
+Презерватив виготовлений із високоякісного натурального каучукового латексу без запаху й кольору — лише чисте задоволення та максимальна чутливість.&lt;br /&gt;
+&lt;br /&gt;
+ONE Legend XL — це не просто великий розмір. Це легендарний комфорт, який ти заслуговуєш.&lt;br /&gt;
+&lt;br /&gt;
+</description_ua>
             </offer>
         <offer id="11-50050" available="true">
                 <erp>11-50050</erp>
@@ -80164,78 +80271,6 @@ H2O UNI Gel - це універсальний і надійний лубрика
 Запах: Полуниця, М'ята, Шоколад&lt;/br&gt;&lt;br /&gt;
 Смак: Без смаку (нейтральний)&lt;/br&gt;</description_ua>
             </offer>
-        <offer id="93-0761" available="true">
-                <erp>93-0761</erp>
-            <barcode />
-            <quantity_in_stock>50</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32179-prezervativi_one_legend_xl</url>
-            <price>50.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>96</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3217568556ee0457c4.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68556ef27a095.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68556ef28ea35.png</picture>
-            <name>Презервативи ONE Legend XL</name>
-            <Отображать>Да</Отображать>
-            <stock>50</stock>
-            <vendor>ONE (США)</vendor>
-            <model>Презервативи ONE Legend XL</model>
-            <description>ONE Legend XL — коли розмір має значення&lt;br /&gt;
-Для тих, хто не вписується в стандарти — і пишається цим.&lt;br /&gt;
-ONE Legend XL створені спеціально для пенісів більших за середній. Вони забезпечують простір там, де інші тиснуть, та комфорт там, де потрібна надійність. Модель адаптована для довжини до 21 см, має розширення в зоні головки та щільну посадку біля основи — щоб кожен рух був впевненим, вільним і неймовірно приємним.&lt;br /&gt;
-&lt;br /&gt;
-Презерватив виготовлений із високоякісного натурального каучукового латексу без запаху й кольору — лише чисте задоволення та максимальна чутливість.&lt;br /&gt;
-&lt;br /&gt;
-ONE Legend XL — це не просто великий розмір. Це легендарний комфорт, який ти заслуговуєш.&lt;br /&gt;
-&lt;br /&gt;
-</description>
-            <name_ua>Презервативи ONE Legend XL</name_ua>
-            <description_ua>ONE Legend XL — коли розмір має значення&lt;br /&gt;
-Для тих, хто не вписується в стандарти — і пишається цим.&lt;br /&gt;
-ONE Legend XL створені спеціально для пенісів більших за середній. Вони забезпечують простір там, де інші тиснуть, та комфорт там, де потрібна надійність. Модель адаптована для довжини до 21 см, має розширення в зоні головки та щільну посадку біля основи — щоб кожен рух був впевненим, вільним і неймовірно приємним.&lt;br /&gt;
-&lt;br /&gt;
-Презерватив виготовлений із високоякісного натурального каучукового латексу без запаху й кольору — лише чисте задоволення та максимальна чутливість.&lt;br /&gt;
-&lt;br /&gt;
-ONE Legend XL — це не просто великий розмір. Це легендарний комфорт, який ти заслуговуєш.&lt;br /&gt;
-&lt;br /&gt;
-</description_ua>
-            </offer>
-        <offer id="93-0777" available="true">
-                <erp>93-0777</erp>
-            <barcode />
-            <quantity_in_stock>50</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32187-prezervativi_one_super_studs</url>
-            <price>50.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>96</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_32183685567301c25b.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6855672e39467.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6855672e4985b.jpg</picture>
-            <name>Презервативи ONE Super Studs</name>
-            <Отображать>Да</Отображать>
-            <stock>50</stock>
-            <vendor>ONE (США)</vendor>
-            <model>Презервативи ONE Super Studs</model>
-            <description>ONE Super Studs — більше дотиків, більше збудження&lt;br /&gt;
-Подаруйте партнерці (або партнеру) вибух хвиль задоволення з ONE Super Studs — презервативами з потужною текстурою.&lt;br /&gt;
-Сотні рельєфних пухирців по всій поверхні створені для інтенсивної стимуляції, яка змушує тіло тремтіти в очікуванні кожного нового руху.&lt;br /&gt;
-&lt;br /&gt;
-Виготовлені з м’якого та міцного латексу Sensatex™, презервативи мають ідеальне поєднання еластичності й чуттєвості. Добре тягнуться, комфортно сідають на пеніс довжиною до 19 см і не знижують чутливості, залишаючи лише одне — більше відчуттів.&lt;br /&gt;
-&lt;br /&gt;
-Якісна змазка надає гладкого ковзання, а щільна посадка — впевненості в кожному русі.&lt;br /&gt;
-&lt;br /&gt;
-ONE Super Studs — коли хочеться відчути кожен міліметр.</description>
-            <name_ua>Презервативи ONE Super Studs</name_ua>
-            <description_ua>ONE Super Studs — більше дотиків, більше збудження&lt;br /&gt;
-Подаруйте партнерці (або партнеру) вибух хвиль задоволення з ONE Super Studs — презервативами з потужною текстурою.&lt;br /&gt;
-Сотні рельєфних пухирців по всій поверхні створені для інтенсивної стимуляції, яка змушує тіло тремтіти в очікуванні кожного нового руху.&lt;br /&gt;
-&lt;br /&gt;
-Виготовлені з м’якого та міцного латексу Sensatex™, презервативи мають ідеальне поєднання еластичності й чуттєвості. Добре тягнуться, комфортно сідають на пеніс довжиною до 19 см і не знижують чутливості, залишаючи лише одне — більше відчуттів.&lt;br /&gt;
-&lt;br /&gt;
-Якісна змазка надає гладкого ковзання, а щільна посадка — впевненості в кожному русі.&lt;br /&gt;
-&lt;br /&gt;
-ONE Super Studs — коли хочеться відчути кожен міліметр.</description_ua>
-            </offer>
         <offer id="40-11920-01-1" available="true">
                 <erp>40-11920-01-1</erp>
             <barcode />
@@ -80283,63 +80318,10 @@ ONE Super Studs — коли хочеться відчути кожен мілі
 Запах: Без запаху (нейтральний)&lt;br /&gt;
 Додаткові ефекти: Без ефектів</description_ua>
             </offer>
-        <offer id="93-0778" available="true">
-                <erp>93-0778</erp>
-            <barcode />
-            <quantity_in_stock>70</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32188-prezervativi_one_vanish_hyperthin</url>
-            <price>45.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>96</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_32184685566d108ce1.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_685570e46ca9d.png</picture>
-            <name>Презервативи ONE Vanish Hyperthin</name>
-            <Отображать>Да</Отображать>
-            <stock>70</stock>
-            <vendor>ONE (США)</vendor>
-            <model>Презервативи ONE Vanish Hyperthin</model>
-            <description>ONE Vanish Hyperthin — відчуй близькість без бар’єрів&lt;br /&gt;
-Для тих, хто цінує кожен дотик і прагне максимальної природності —&lt;br /&gt;
-ONE Vanish Hyperthin — ультратонкі презервативи, які майже непомітні на шкірі. Вони дарують відчуття, ніби бар’єру немає, залишаючи лише інтимність і близькість.&lt;br /&gt;
-&lt;br /&gt;
-Виготовлені з високоякісного латексу Sensatex™, ці презервативи тонкі, м’які та еластичні, забезпечують надійний захист і комфорт навіть при активному русі. Ідеально підходять для пенісів довжиною до 19 см, легко надягаються і щільно сидять.&lt;br /&gt;
-&lt;br /&gt;
-Завдяки тонкій оболонці і делікатній змазці, ONE Vanish Hyperthin дозволяють відчути справжню близькість, зберігаючи вашу впевненість у захисті.&lt;br /&gt;
-&lt;br /&gt;
-</description>
-            <name_ua>Презервативи ONE Vanish Hyperthin</name_ua>
-            <description_ua>ONE Vanish Hyperthin — відчуй близькість без бар’єрів&lt;br /&gt;
-Для тих, хто цінує кожен дотик і прагне максимальної природності —&lt;br /&gt;
-ONE Vanish Hyperthin — ультратонкі презервативи, які майже непомітні на шкірі. Вони дарують відчуття, ніби бар’єру немає, залишаючи лише інтимність і близькість.&lt;br /&gt;
-&lt;br /&gt;
-Виготовлені з високоякісного латексу Sensatex™, ці презервативи тонкі, м’які та еластичні, забезпечують надійний захист і комфорт навіть при активному русі. Ідеально підходять для пенісів довжиною до 19 см, легко надягаються і щільно сидять.&lt;br /&gt;
-&lt;br /&gt;
-Завдяки тонкій оболонці і делікатній змазці, ONE Vanish Hyperthin дозволяють відчути справжню близькість, зберігаючи вашу впевненість у захисті.&lt;br /&gt;
-&lt;br /&gt;
-</description_ua>
-            </offer>
-        <offer id="93-0245" available="true">
-                <erp>93-0245</erp>
-            <barcode />
-            <quantity_in_stock>70</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32467-prezervativi_one_ultra_feel</url>
-            <price>56.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>96</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3246368de48f9cfa53.jpg</picture>
-            <name>Презерватив ONE Ultra Feel, ультратонкий, 1 шт</name>
-            <Отображать>Да</Отображать>
-            <stock>70</stock>
-            <vendor>ONE (США)</vendor>
-            <model>Презервативи ONE Ultra Feel</model>
-            <description>Надтонкі презервативи для максимально природних відчуттів. Виготовлені з високоякісного латексу, забезпечують надійний захист і комфорт під час використання. Мають стандартну форму та змащені для зручності. Підходять для щоденного застосування, даруючи відчуття близькості без компромісів у безпеці. Презерватив ONE UltraFeel — ультратонкий латексний виріб з уже вбудованим лубрикантом (2 мл), що забезпечує комфорт і природні відчуття. Упакований у зручну 2-в-1 обгортку: сам презерватив + пакетик зі змазкою.</description>
-            <name_ua>Презерватив ONE Ultra Feel, ультратонкий, 1 шт</name_ua>
-            <description_ua>Надтонкі презервативи для максимально природних відчуттів. Виготовлені з високоякісного латексу, забезпечують надійний захист і комфорт під час використання. Мають стандартну форму та змащені для зручності. Підходять для щоденного застосування, даруючи відчуття близькості без компромісів у безпеці. Презерватив ONE UltraFeel — ультратонкий латексний виріб з уже вбудованим лубрикантом (2 мл), що забезпечує комфорт і природні відчуття. Упакований у зручну 2-в-1 обгортку: сам презерватив + пакетик зі змазкою.</description_ua>
-            </offer>
         <offer id="93-0776" available="true">
                 <erp>93-0776</erp>
             <barcode />
-            <quantity_in_stock>80</quantity_in_stock>
+            <quantity_in_stock>60</quantity_in_stock>
             <url>http://blissclub.com.ua/product/32186-prezervativi_one_super_sensitive</url>
             <price>45.00</price>
             <currencyId>UAH</currencyId>
@@ -80348,7 +80330,7 @@ ONE Vanish Hyperthin — ультратонкі презервативи, які
             <picture>https://blissclub.com.ua/images/product_variants/product_685570a935d72.png</picture>
             <name>Презервативи ONE Super Sensitive</name>
             <Отображать>Да</Отображать>
-            <stock>80</stock>
+            <stock>60</stock>
             <vendor>ONE (США)</vendor>
             <model>Презервативи ONE Super Sensitive</model>
             <description>ONE Super Sensitive — ближче до тіла, глибше до відчуттів&lt;br /&gt;
@@ -80368,6 +80350,24 @@ ONE Super Sensitive — для тих, хто хоче відчувати біл
 А завдяки якісній змазці забезпечують гладке, приємне ковзання — для природного та чуттєвого досвіду без бар’єрів.&lt;br /&gt;
 &lt;br /&gt;
 ONE Super Sensitive — для тих, хто хоче відчувати більше, не ризикуючи нічим.</description_ua>
+            </offer>
+        <offer id="93-0245" available="true">
+                <erp>93-0245</erp>
+            <barcode />
+            <quantity_in_stock>70</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32467-prezervativi_one_ultra_feel</url>
+            <price>56.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3246368de48f9cfa53.jpg</picture>
+            <name>Презерватив ONE Ultra Feel, ультратонкий, 1 шт</name>
+            <Отображать>Да</Отображать>
+            <stock>70</stock>
+            <vendor>ONE (США)</vendor>
+            <model>Презервативи ONE Ultra Feel</model>
+            <description>Надтонкі презервативи для максимально природних відчуттів. Виготовлені з високоякісного латексу, забезпечують надійний захист і комфорт під час використання. Мають стандартну форму та змащені для зручності. Підходять для щоденного застосування, даруючи відчуття близькості без компромісів у безпеці. Презерватив ONE UltraFeel — ультратонкий латексний виріб з уже вбудованим лубрикантом (2 мл), що забезпечує комфорт і природні відчуття. Упакований у зручну 2-в-1 обгортку: сам презерватив + пакетик зі змазкою.</description>
+            <name_ua>Презерватив ONE Ultra Feel, ультратонкий, 1 шт</name_ua>
+            <description_ua>Надтонкі презервативи для максимально природних відчуттів. Виготовлені з високоякісного латексу, забезпечують надійний захист і комфорт під час використання. Мають стандартну форму та змащені для зручності. Підходять для щоденного застосування, даруючи відчуття близькості без компромісів у безпеці. Презерватив ONE UltraFeel — ультратонкий латексний виріб з уже вбудованим лубрикантом (2 мл), що забезпечує комфорт і природні відчуття. Упакований у зручну 2-в-1 обгортку: сам презерватив + пакетик зі змазкою.</description_ua>
             </offer>
         <offer id="48-11031" available="true">
                 <erp>48-11031</erp>
