@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-13 12:00">
+<yml_catalog date="2026-01-13 13:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -79001,6 +79001,31 @@ H2O UNI Gel - це універсальний і надійний лубрика
 Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
 Додаткові ефекти: Без ефектів&lt;/br&gt;</description_ua>
             </offer>
+        <offer id="26-00189" available="true">
+                <erp>26-00189</erp>
+            <barcode>5903661808020</barcode>
+            <quantity_in_stock>18</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/29700-masturbator_vagina_manga___boss_series</url>
+            <price>276.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>52</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_2970062ee929b356b5.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee9298e58b8.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92991948a.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee9299363ad.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92994f4e8.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee929963d7d.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92997a659.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92998f5eb.png</picture>
+            <name>Штучна вагіна Boss Series Manga, тілесна</name>
+            <Отображать>Да</Отображать>
+            <stock>18</stock>
+            <vendor />
+            <model>Штучна вагіна Boss Series Manga, тілесна</model>
+            <description>Штучна вагіна Boss Series Manga, тілесна</description>
+            <name_ua>Штучна вагіна Boss Series Manga, тілесна</name_ua>
+            <description_ua>Штучна вагіна Boss Series Manga, тілесна</description_ua>
+            </offer>
         <offer id="74-1056" available="true">
                 <erp>74-1056</erp>
             <barcode>4029811328949</barcode>
@@ -79163,31 +79188,6 @@ H2O UNI Gel - це універсальний і надійний лубрика
 Живлення: Батарейки ААА (1 шт.)&lt;/br&gt;&lt;br /&gt;
 Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
 Водонепроникність: Так&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="26-00189" available="true">
-                <erp>26-00189</erp>
-            <barcode>5903661808020</barcode>
-            <quantity_in_stock>19</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29700-masturbator_vagina_manga___boss_series</url>
-            <price>276.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>52</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_2970062ee929b356b5.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee9298e58b8.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92991948a.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee9299363ad.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92994f4e8.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee929963d7d.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92997a659.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92998f5eb.png</picture>
-            <name>Штучна вагіна Boss Series Manga, тілесна</name>
-            <Отображать>Да</Отображать>
-            <stock>19</stock>
-            <vendor />
-            <model>Штучна вагіна Boss Series Manga, тілесна</model>
-            <description>Штучна вагіна Boss Series Manga, тілесна</description>
-            <name_ua>Штучна вагіна Boss Series Manga, тілесна</name_ua>
-            <description_ua>Штучна вагіна Boss Series Manga, тілесна</description_ua>
             </offer>
         <offer id="93-0747" available="true">
                 <erp>93-0747</erp>
