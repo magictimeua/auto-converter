@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-15 15:30">
+<yml_catalog date="2026-01-15 16:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -3953,6 +3953,52 @@ LoveCloneX Achilles — це вібратор, що поєднує реаліс�
 Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
 Форма випуску: Рідина&lt;/br&gt;&lt;br /&gt;
 Основа (складу): Спиртова&lt;/br&gt;</description_ua>
+            </offer>
+        <offer id="3-67053" available="true">
+                <erp>3-67053</erp>
+            <barcode>4042342004953</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/16483-lubrikant_shiatsu_love_glide_warming_100ml</url>
+            <price>621.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>167</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/3-67053.jpg</picture>
+            <name>Лубрикант із зігрівальним ефектом Shiatsu Body Sensation Love Glide Personal Lubricant Waterbased Wa</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>HOT</vendor>
+            <model>Лубрикант із зігрівальним ефектом Shiatsu Body Sensation Love Glide Personal Lubricant Waterbased Wa</model>
+            <description>Інтимний гель Shiatsu Body Sensation Love Glide забезпечує &lt;b&gt;комфортне зволоження та приємне зігрівання&lt;/b&gt; під час близькості. Формула на водній основі створює ідеальне ковзання, усуваючи дискомфорт від недостатньої природної вологи.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Зігрівальний компонент активізується при контакті зі шкірою, створюючи &lt;b&gt;м'яке тепло та підвищуючи чутливість&lt;/b&gt;. Гіпоалергенний склад без шкідливих речовин підходить для регулярного використання як самостійно, так і з інтимними аксесуарами.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Нейтральний гель без запаху та смаку в зручному тюбику об'ємом 100 мл стане надійним помічником для &lt;b&gt;покращення якості інтимного життя&lt;/b&gt; пари.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Shiatsu&lt;/br&gt;&lt;br /&gt;
+Виробник: Hot&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 100&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: Зігріваючі&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;</description>
+            <name_ua>Лубрикант із зігрівальним ефектом Shiatsu Body Sensation Love Glide Personal Lubricant Waterbased Wa</name_ua>
+            <description_ua>Інтимний гель Shiatsu Body Sensation Love Glide забезпечує &lt;b&gt;комфортне зволоження та приємне зігрівання&lt;/b&gt; під час близькості. Формула на водній основі створює ідеальне ковзання, усуваючи дискомфорт від недостатньої природної вологи.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Зігрівальний компонент активізується при контакті зі шкірою, створюючи &lt;b&gt;м'яке тепло та підвищуючи чутливість&lt;/b&gt;. Гіпоалергенний склад без шкідливих речовин підходить для регулярного використання як самостійно, так і з інтимними аксесуарами.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Нейтральний гель без запаху та смаку в зручному тюбику об'ємом 100 мл стане надійним помічником для &lt;b&gt;покращення якості інтимного життя&lt;/b&gt; пари.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Shiatsu&lt;/br&gt;&lt;br /&gt;
+Виробник: Hot&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 100&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: Зігріваючі&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;</description_ua>
             </offer>
         <offer id="30-92639-45-509" available="true">
                 <erp>30-92639-45-509</erp>
@@ -9182,64 +9228,6 @@ Pherluxe SILVER - Якими властивостями повинен воло�
 Їстівне: Ні&lt;/br&gt;&lt;br /&gt;
 Додаткові ефекти: Масажні&lt;/br&gt;</description_ua>
             </offer>
-        <offer id="BI-026246" available="true">
-                <erp>BI-026246</erp>
-            <barcode>6959532333985</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29781-podovzhuyucha_nasadka_na_penis_z_kilytsem_pretty_love_penis_sleeve_emmit</url>
-            <price>161.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>36</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_2978163123ee32811f.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63123edfdbc48.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63123edfef76f.gif</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63123ee0090f5.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63123ee01752e.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63123ee0254ec.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63123ee0342a1.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63123ee0432f6.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63123ee04f95c.jpg</picture>
-            <name>Насадка на пеніс Pretty Love Penis Sleeve Emmitt, тілесна</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor />
-            <model>Насадка на пеніс Pretty Love Penis Sleeve Emmitt, тілесна</model>
-            <description>Насадка на пеніс Pretty Love Penis Sleeve Emmitt збільшує довжину на 4 см та забезпечує інтенсивні відчуття завдяки &lt;b&gt;рельєфній текстурі з шипами&lt;/b&gt; по всій поверхні. Виготовлена з термопластичної гуми та пластику, має додатковий відросток для клиторальної стимуляції партнерки під час близькості.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Насадка надійно фіксується на статевому органі та додатково закріплюється петлею на мошонці. &lt;b&gt;Водонепроникна конструкція&lt;/b&gt; дозволяє використовувати іграшку в душі, а щільна голівка ефективно подовжує пеніс. Реалістична текстура та м'які шипи створюють додаткові тактильні відчуття для обох партнерів.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Підходить для пар, які прагнуть урізноманітнити інтимність та посилити відчуття. Використовуйте з лубрикантами на водній основі, після застосування промийте теплою водою з милом.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Пластик, Термопластична гума (TPR)&lt;/br&gt;&lt;br /&gt;
-Текстура: Реалістик, З шипами&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 16&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.8&lt;/br&gt;&lt;br /&gt;
-Водонепроникність: Так&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Ні&lt;/br&gt;&lt;br /&gt;
-Живлення: Не потребує&lt;/br&gt;</description>
-            <name_ua>Насадка на пеніс Pretty Love Penis Sleeve Emmitt, тілесна</name_ua>
-            <description_ua>Насадка на пеніс Pretty Love Penis Sleeve Emmitt збільшує довжину на 4 см та забезпечує інтенсивні відчуття завдяки &lt;b&gt;рельєфній текстурі з шипами&lt;/b&gt; по всій поверхні. Виготовлена з термопластичної гуми та пластику, має додатковий відросток для клиторальної стимуляції партнерки під час близькості.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Насадка надійно фіксується на статевому органі та додатково закріплюється петлею на мошонці. &lt;b&gt;Водонепроникна конструкція&lt;/b&gt; дозволяє використовувати іграшку в душі, а щільна голівка ефективно подовжує пеніс. Реалістична текстура та м'які шипи створюють додаткові тактильні відчуття для обох партнерів.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Підходить для пар, які прагнуть урізноманітнити інтимність та посилити відчуття. Використовуйте з лубрикантами на водній основі, після застосування промийте теплою водою з милом.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Пластик, Термопластична гума (TPR)&lt;/br&gt;&lt;br /&gt;
-Текстура: Реалістик, З шипами&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 16&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.8&lt;/br&gt;&lt;br /&gt;
-Водонепроникність: Так&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Ні&lt;/br&gt;&lt;br /&gt;
-Живлення: Не потребує&lt;/br&gt;</description_ua>
-            </offer>
         <offer id="BW-008037NR" available="true">
                 <erp>BW-008037NR</erp>
             <barcode>6959532333121</barcode>
@@ -12783,56 +12771,6 @@ Desirable Flirt збільшить темп еротичних ігор до м�
 Довжина робоча (см): 12&lt;/br&gt;&lt;br /&gt;
 Діаметр (см): 8.9&lt;/br&gt;&lt;br /&gt;
 Тип догляду: Для інтимного душу&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="90-800071" available="true">
-                <erp>90-800071</erp>
-            <barcode>3479228000715</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31251-lubrikant_lubrifist_200_ml</url>
-            <price>756.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_312486644e9566170f.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6644e921233a9.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6644e92161294.jpg</picture>
-            <name>Лубрикант Lubrifist, 200 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>CONCORDE PRO</vendor>
-            <model>Лубрикант Lubrifist, 200 мл</model>
-            <description>Лубрикант Lubrifist об'ємом 200 мл створений для комфортних інтимних стосунків без обмежень. &lt;b&gt;Водна основа&lt;/b&gt; забезпечує тривале ковзання та легко змивається після використання, не залишаючи слідів на білизні чи постільній білизні.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Засіб пройшов дерматологічне тестування та &lt;b&gt;не викликає подразнення&lt;/b&gt; навіть при тривалому контакті зі шкірою. Нейтральна формула без смаку та запаху робить його універсальним для різних видів близькості, включаючи вагінальний та анальний контакт.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Змазка ефективно усуває сухість інтимних зон та попереджає дискомфорт від тертя. Зручна баночка дозволяє легко дозувати потрібну кількість засобу під час використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Lubrix&lt;/br&gt;&lt;br /&gt;
-Виробник: Concorde&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 200&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Їстівне: Ні&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: Без ефектів&lt;/br&gt;</description>
-            <name_ua>Лубрикант Lubrifist, 200 мл</name_ua>
-            <description_ua>Лубрикант Lubrifist об'ємом 200 мл створений для комфортних інтимних стосунків без обмежень. &lt;b&gt;Водна основа&lt;/b&gt; забезпечує тривале ковзання та легко змивається після використання, не залишаючи слідів на білизні чи постільній білизні.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Засіб пройшов дерматологічне тестування та &lt;b&gt;не викликає подразнення&lt;/b&gt; навіть при тривалому контакті зі шкірою. Нейтральна формула без смаку та запаху робить його універсальним для різних видів близькості, включаючи вагінальний та анальний контакт.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Змазка ефективно усуває сухість інтимних зон та попереджає дискомфорт від тертя. Зручна баночка дозволяє легко дозувати потрібну кількість засобу під час використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Lubrix&lt;/br&gt;&lt;br /&gt;
-Виробник: Concorde&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 200&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Їстівне: Ні&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: Без ефектів&lt;/br&gt;</description_ua>
             </offer>
         <offer id="87-8300" available="true">
                 <erp>87-8300</erp>
@@ -22787,52 +22725,6 @@ IPX7 водонепроникний&lt;br /&gt;
 Діаметр (см): 5.4&lt;/br&gt;&lt;br /&gt;
 Розмір засобу захисту: Стандартний&lt;/br&gt;&lt;br /&gt;
 Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="3-67053" available="true">
-                <erp>3-67053</erp>
-            <barcode>4042342004953</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/16483-lubrikant_shiatsu_love_glide_warming_100ml</url>
-            <price>621.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>167</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/3-67053.jpg</picture>
-            <name>Лубрикант із зігрівальним ефектом Shiatsu Body Sensation Love Glide Personal Lubricant Waterbased Wa</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>HOT</vendor>
-            <model>Лубрикант із зігрівальним ефектом Shiatsu Body Sensation Love Glide Personal Lubricant Waterbased Wa</model>
-            <description>Інтимний гель Shiatsu Body Sensation Love Glide забезпечує &lt;b&gt;комфортне зволоження та приємне зігрівання&lt;/b&gt; під час близькості. Формула на водній основі створює ідеальне ковзання, усуваючи дискомфорт від недостатньої природної вологи.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Зігрівальний компонент активізується при контакті зі шкірою, створюючи &lt;b&gt;м'яке тепло та підвищуючи чутливість&lt;/b&gt;. Гіпоалергенний склад без шкідливих речовин підходить для регулярного використання як самостійно, так і з інтимними аксесуарами.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Нейтральний гель без запаху та смаку в зручному тюбику об'ємом 100 мл стане надійним помічником для &lt;b&gt;покращення якості інтимного життя&lt;/b&gt; пари.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Shiatsu&lt;/br&gt;&lt;br /&gt;
-Виробник: Hot&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 100&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: Зігріваючі&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;</description>
-            <name_ua>Лубрикант із зігрівальним ефектом Shiatsu Body Sensation Love Glide Personal Lubricant Waterbased Wa</name_ua>
-            <description_ua>Інтимний гель Shiatsu Body Sensation Love Glide забезпечує &lt;b&gt;комфортне зволоження та приємне зігрівання&lt;/b&gt; під час близькості. Формула на водній основі створює ідеальне ковзання, усуваючи дискомфорт від недостатньої природної вологи.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Зігрівальний компонент активізується при контакті зі шкірою, створюючи &lt;b&gt;м'яке тепло та підвищуючи чутливість&lt;/b&gt;. Гіпоалергенний склад без шкідливих речовин підходить для регулярного використання як самостійно, так і з інтимними аксесуарами.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Нейтральний гель без запаху та смаку в зручному тюбику об'ємом 100 мл стане надійним помічником для &lt;b&gt;покращення якості інтимного життя&lt;/b&gt; пари.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Shiatsu&lt;/br&gt;&lt;br /&gt;
-Виробник: Hot&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 100&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: Зігріваючі&lt;/br&gt;&lt;br /&gt;
 Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
 Запах: Без запаху (нейтральний)&lt;/br&gt;</description_ua>
             </offer>
@@ -37932,6 +37824,54 @@ USB-зарядка.&lt;br /&gt;
 Додаткові ефекти: Без ефектів&lt;/br&gt;&lt;br /&gt;
 Їстівне: Ні&lt;/br&gt;</description_ua>
             </offer>
+        <offer id="4-PS60100" available="true">
+                <erp>4-PS60100</erp>
+            <barcode>8433345601007</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/18406-lubrikant_liuid_vibrator__strawberry_30ml</url>
+            <price>824.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>145</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/4-PS60100.jpg</picture>
+            <name>Розігріваючий гель Amoreane Liquid Vibrator, полуничний, 30 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor>CNEX</vendor>
+            <model>Розігріваючий гель Amoreane Liquid Vibrator, полуничний, 30 мл</model>
+            <description>Розігріваючий гель Amoreane Liquid Vibrator з полуничним ароматом створює &lt;b&gt;унікальний ефект вібрації&lt;/b&gt; для посилення чутливості під час інтимної близькості. Засіб на водній основі містить натуральні екстракти джамбо, акмелли та алое, які забезпечують стимулюючий вплив та делікатний догляд за шкірою.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Формула з рослинних компонентів не викликає подразнень та підходить для чутливої шкіри. &lt;b&gt;Приємний полуничний аромат&lt;/b&gt; додає романтичності, а легка текстура забезпечує комфортне ковзання без липкості. Гель діє м'яко, створюючи відчуття приємних стимулюючих хвиль.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Компактний флакон об'ємом 30 мл зручний у використанні та зберіганні. Засіб призначений виключно для зовнішнього застосування та стане надійним помічником для створення незабутніх моментів близькості.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Amoreane Med&lt;/br&gt;&lt;br /&gt;
+Виробник: Amoreane Med&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 30&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
+Запах: Полуниця&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Їстівне: Ні&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: З ефектом вібрації, З алое&lt;/br&gt;</description>
+            <name_ua>Розігріваючий гель Amoreane Liquid Vibrator, полуничний, 30 мл</name_ua>
+            <description_ua>Розігріваючий гель Amoreane Liquid Vibrator з полуничним ароматом створює &lt;b&gt;унікальний ефект вібрації&lt;/b&gt; для посилення чутливості під час інтимної близькості. Засіб на водній основі містить натуральні екстракти джамбо, акмелли та алое, які забезпечують стимулюючий вплив та делікатний догляд за шкірою.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Формула з рослинних компонентів не викликає подразнень та підходить для чутливої шкіри. &lt;b&gt;Приємний полуничний аромат&lt;/b&gt; додає романтичності, а легка текстура забезпечує комфортне ковзання без липкості. Гель діє м'яко, створюючи відчуття приємних стимулюючих хвиль.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Компактний флакон об'ємом 30 мл зручний у використанні та зберіганні. Засіб призначений виключно для зовнішнього застосування та стане надійним помічником для створення незабутніх моментів близькості.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Amoreane Med&lt;/br&gt;&lt;br /&gt;
+Виробник: Amoreane Med&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 30&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
+Запах: Полуниця&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Їстівне: Ні&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: З ефектом вібрації, З алое&lt;/br&gt;</description_ua>
+            </offer>
         <offer id="61-00009" available="true">
                 <erp>61-00009</erp>
             <barcode>5903661804145</barcode>
@@ -49007,54 +48947,6 @@ ORGASM MAX для жінок призначений для значної під
 Довжина робоча (см): 18&lt;/br&gt;&lt;br /&gt;
 Діаметр (см): 4.4&lt;/br&gt;&lt;br /&gt;
 Наявність присоски: Ні&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="4-PS60100" available="true">
-                <erp>4-PS60100</erp>
-            <barcode>8433345601007</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/18406-lubrikant_liuid_vibrator__strawberry_30ml</url>
-            <price>824.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>145</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/4-PS60100.jpg</picture>
-            <name>Розігріваючий гель Amoreane Liquid Vibrator, полуничний, 30 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>CNEX</vendor>
-            <model>Розігріваючий гель Amoreane Liquid Vibrator, полуничний, 30 мл</model>
-            <description>Розігріваючий гель Amoreane Liquid Vibrator з полуничним ароматом створює &lt;b&gt;унікальний ефект вібрації&lt;/b&gt; для посилення чутливості під час інтимної близькості. Засіб на водній основі містить натуральні екстракти джамбо, акмелли та алое, які забезпечують стимулюючий вплив та делікатний догляд за шкірою.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Формула з рослинних компонентів не викликає подразнень та підходить для чутливої шкіри. &lt;b&gt;Приємний полуничний аромат&lt;/b&gt; додає романтичності, а легка текстура забезпечує комфортне ковзання без липкості. Гель діє м'яко, створюючи відчуття приємних стимулюючих хвиль.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Компактний флакон об'ємом 30 мл зручний у використанні та зберіганні. Засіб призначений виключно для зовнішнього застосування та стане надійним помічником для створення незабутніх моментів близькості.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Amoreane Med&lt;/br&gt;&lt;br /&gt;
-Виробник: Amoreane Med&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 30&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
-Запах: Полуниця&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Їстівне: Ні&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: З ефектом вібрації, З алое&lt;/br&gt;</description>
-            <name_ua>Розігріваючий гель Amoreane Liquid Vibrator, полуничний, 30 мл</name_ua>
-            <description_ua>Розігріваючий гель Amoreane Liquid Vibrator з полуничним ароматом створює &lt;b&gt;унікальний ефект вібрації&lt;/b&gt; для посилення чутливості під час інтимної близькості. Засіб на водній основі містить натуральні екстракти джамбо, акмелли та алое, які забезпечують стимулюючий вплив та делікатний догляд за шкірою.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Формула з рослинних компонентів не викликає подразнень та підходить для чутливої шкіри. &lt;b&gt;Приємний полуничний аромат&lt;/b&gt; додає романтичності, а легка текстура забезпечує комфортне ковзання без липкості. Гель діє м'яко, створюючи відчуття приємних стимулюючих хвиль.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Компактний флакон об'ємом 30 мл зручний у використанні та зберіганні. Засіб призначений виключно для зовнішнього застосування та стане надійним помічником для створення незабутніх моментів близькості.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Amoreane Med&lt;/br&gt;&lt;br /&gt;
-Виробник: Amoreane Med&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 30&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
-Запах: Полуниця&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Їстівне: Ні&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: З ефектом вібрації, З алое&lt;/br&gt;</description_ua>
             </offer>
         <offer id="42-05200120000" available="true">
                 <erp>42-05200120000</erp>
@@ -70205,6 +70097,55 @@ Clitoris Spray Stimulating - це відмінний вибір для тих, �
 Водонепроникність: Так&lt;br /&gt;
 Керування з додатку: Ні</description_ua>
             </offer>
+        <offer id="400-924007" available="true">
+                <erp>400-924007</erp>
+            <barcode>4745011024718</barcode>
+            <quantity_in_stock>7</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35473-intimniy_lubrikant_z_aloe_vera_aloe_vera_100_ml</url>
+            <price>460.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>46</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_354696927363e86852.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692736392c6a1.jpg</picture>
+            <name>Лубрикант Driminals Aloe Vera, з алое вера, 100 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>7</stock>
+            <vendor>Driminals</vendor>
+            <model>Лубрикант Driminals Aloe Vera, з алое вера, 100 мл</model>
+            <description>Інтимна змазка Driminals Aloe Vera з екстрактом алое вера забезпечує &lt;b&gt;комфортне зволоження та догляд&lt;/b&gt; під час близькості. Водна основа дозволяє поєднувати засіб з інтимними іграшками з будь-якого матеріалу, а густа текстура запобігає розтіканню для зручного нанесення.&lt;br /&gt;
+&lt;br /&gt;
+Екстракт алое вера у складі &lt;b&gt;живить та доглядає за делікатною шкірою&lt;/b&gt; інтимної зони, додаючи зволожувальний ефект. Нейтральний смак та відсутність запаху роблять використання максимально природним і комфортним.&lt;br /&gt;
+&lt;br /&gt;
+Засіб об'ємом 100 мл підходить для регулярного використання. Перед першим застосуванням рекомендується провести тест на невеликій ділянці шкіри для виключення алергічних реакцій.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;br /&gt;
+Бренд: Driminals&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;br /&gt;
+Їстівне: Ні&lt;br /&gt;
+Виробник: Driminals&lt;br /&gt;
+Об'єм (мл): 100&lt;br /&gt;
+Основа (складу): Водна&lt;br /&gt;
+Додаткові ефекти: З алое, Без ефектів</description>
+            <name_ua>Лубрикант Driminals Aloe Vera, з алое вера, 100 мл</name_ua>
+            <description_ua>Інтимна змазка Driminals Aloe Vera з екстрактом алое вера забезпечує &lt;b&gt;комфортне зволоження та догляд&lt;/b&gt; під час близькості. Водна основа дозволяє поєднувати засіб з інтимними іграшками з будь-якого матеріалу, а густа текстура запобігає розтіканню для зручного нанесення.&lt;br /&gt;
+&lt;br /&gt;
+Екстракт алое вера у складі &lt;b&gt;живить та доглядає за делікатною шкірою&lt;/b&gt; інтимної зони, додаючи зволожувальний ефект. Нейтральний смак та відсутність запаху роблять використання максимально природним і комфортним.&lt;br /&gt;
+&lt;br /&gt;
+Засіб об'ємом 100 мл підходить для регулярного використання. Перед першим застосуванням рекомендується провести тест на невеликій ділянці шкіри для виключення алергічних реакцій.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;br /&gt;
+Бренд: Driminals&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;br /&gt;
+Їстівне: Ні&lt;br /&gt;
+Виробник: Driminals&lt;br /&gt;
+Об'єм (мл): 100&lt;br /&gt;
+Основа (складу): Водна&lt;br /&gt;
+Додаткові ефекти: З алое, Без ефектів</description_ua>
+            </offer>
         <offer id="6-5171" available="true">
                 <erp>6-5171</erp>
             <barcode>5906233085171</barcode>
@@ -72387,55 +72328,6 @@ Clitoris Spray Stimulating - це відмінний вибір для тих, �
 Наявність вібрації: Ні&lt;br /&gt;
 Довжина загальна (см): 16.5&lt;br /&gt;
 К-сть штук в упаковці (шт.): 1</description_ua>
-            </offer>
-        <offer id="400-924007" available="true">
-                <erp>400-924007</erp>
-            <barcode>4745011024718</barcode>
-            <quantity_in_stock>8</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/35473-intimniy_lubrikant_z_aloe_vera_aloe_vera_100_ml</url>
-            <price>460.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_354696927363e86852.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_692736392c6a1.jpg</picture>
-            <name>Лубрикант Driminals Aloe Vera, з алое вера, 100 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>8</stock>
-            <vendor>Driminals</vendor>
-            <model>Лубрикант Driminals Aloe Vera, з алое вера, 100 мл</model>
-            <description>Інтимна змазка Driminals Aloe Vera з екстрактом алое вера забезпечує &lt;b&gt;комфортне зволоження та догляд&lt;/b&gt; під час близькості. Водна основа дозволяє поєднувати засіб з інтимними іграшками з будь-якого матеріалу, а густа текстура запобігає розтіканню для зручного нанесення.&lt;br /&gt;
-&lt;br /&gt;
-Екстракт алое вера у складі &lt;b&gt;живить та доглядає за делікатною шкірою&lt;/b&gt; інтимної зони, додаючи зволожувальний ефект. Нейтральний смак та відсутність запаху роблять використання максимально природним і комфортним.&lt;br /&gt;
-&lt;br /&gt;
-Засіб об'ємом 100 мл підходить для регулярного використання. Перед першим застосуванням рекомендується провести тест на невеликій ділянці шкіри для виключення алергічних реакцій.&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
-&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;br /&gt;
-Бренд: Driminals&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;br /&gt;
-Їстівне: Ні&lt;br /&gt;
-Виробник: Driminals&lt;br /&gt;
-Об'єм (мл): 100&lt;br /&gt;
-Основа (складу): Водна&lt;br /&gt;
-Додаткові ефекти: З алое, Без ефектів</description>
-            <name_ua>Лубрикант Driminals Aloe Vera, з алое вера, 100 мл</name_ua>
-            <description_ua>Інтимна змазка Driminals Aloe Vera з екстрактом алое вера забезпечує &lt;b&gt;комфортне зволоження та догляд&lt;/b&gt; під час близькості. Водна основа дозволяє поєднувати засіб з інтимними іграшками з будь-якого матеріалу, а густа текстура запобігає розтіканню для зручного нанесення.&lt;br /&gt;
-&lt;br /&gt;
-Екстракт алое вера у складі &lt;b&gt;живить та доглядає за делікатною шкірою&lt;/b&gt; інтимної зони, додаючи зволожувальний ефект. Нейтральний смак та відсутність запаху роблять використання максимально природним і комфортним.&lt;br /&gt;
-&lt;br /&gt;
-Засіб об'ємом 100 мл підходить для регулярного використання. Перед першим застосуванням рекомендується провести тест на невеликій ділянці шкіри для виключення алергічних реакцій.&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
-&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;br /&gt;
-Бренд: Driminals&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;br /&gt;
-Їстівне: Ні&lt;br /&gt;
-Виробник: Driminals&lt;br /&gt;
-Об'єм (мл): 100&lt;br /&gt;
-Основа (складу): Водна&lt;br /&gt;
-Додаткові ефекти: З алое, Без ефектів</description_ua>
             </offer>
         <offer id="60-00060" available="true">
                 <erp>60-00060</erp>
@@ -75615,6 +75507,62 @@ Woman №9 — аромат пристрасті, елегантності та 
 Наявність вібрації: Ні&lt;/br&gt;&lt;br /&gt;
 Живлення: Не потребує&lt;/br&gt;</description_ua>
             </offer>
+        <offer id="BI-014194" available="true">
+                <erp>BI-014194</erp>
+            <barcode>6959532312119</barcode>
+            <quantity_in_stock>11</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/13875-pretty_love_beck_10_function</url>
+            <price>440.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>102</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_1387561e4140c85a26.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140ab7a28.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140ac5a2f.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140ad465a.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140ae1674.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140aec21b.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140b047c8.jpg</picture>
+            <name>Вібратор Pretty Love Beck, рожевий</name>
+            <Отображать>Да</Отображать>
+            <stock>11</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Вібратор Pretty Love Beck, рожевий</model>
+            <description>Вібратор Pretty Love Beck створений для інтенсивної стимуляції завдяки &lt;b&gt;10 режимам вібрації&lt;/b&gt; різної швидкості та ритму. Силіконовий корпус з анатомічною формою та злегка зігнутою головкою забезпечує комфортне використання та цілеспрямований вплив на чутливі зони.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Гладенька реалістична текстура з вираженими деталями виготовлена з &lt;b&gt;гіпоалергенного силікону&lt;/b&gt;, який не викликає подразнення навіть у чутливих користувачів. Управління всіма режимами здійснюється однією кнопкою на основі пристрою, що робить використання максимально зручним.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Компактні розміри та автономне живлення від однієї батарейки ААА роблять цей вібратор ідеальним для особистого використання. Сумісний виключно з лубрикантами на водній основі для збереження властивостей силікону.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
+Текстура: Реалістик, Гладенька&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 12&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 9&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 2.2&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (1 шт.)&lt;/br&gt;</description>
+            <name_ua>Вібратор Pretty Love Beck, рожевий</name_ua>
+            <description_ua>Вібратор Pretty Love Beck створений для інтенсивної стимуляції завдяки &lt;b&gt;10 режимам вібрації&lt;/b&gt; різної швидкості та ритму. Силіконовий корпус з анатомічною формою та злегка зігнутою головкою забезпечує комфортне використання та цілеспрямований вплив на чутливі зони.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Гладенька реалістична текстура з вираженими деталями виготовлена з &lt;b&gt;гіпоалергенного силікону&lt;/b&gt;, який не викликає подразнення навіть у чутливих користувачів. Управління всіма режимами здійснюється однією кнопкою на основі пристрою, що робить використання максимально зручним.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Компактні розміри та автономне живлення від однієї батарейки ААА роблять цей вібратор ідеальним для особистого використання. Сумісний виключно з лубрикантами на водній основі для збереження властивостей силікону.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
+Текстура: Реалістик, Гладенька&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 12&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 9&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 2.2&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (1 шт.)&lt;/br&gt;</description_ua>
+            </offer>
         <offer id="69-21074" available="true">
                 <erp>69-21074</erp>
             <barcode>5600298351072</barcode>
@@ -76142,62 +76090,6 @@ Woman №9 — аромат пристрасті, елегантності та 
 Запах: Коріандр, Кориця, Мигдаль&lt;/br&gt;&lt;br /&gt;
 Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
 Їстівне: Ні&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="BI-014194" available="true">
-                <erp>BI-014194</erp>
-            <barcode>6959532312119</barcode>
-            <quantity_in_stock>12</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/13875-pretty_love_beck_10_function</url>
-            <price>440.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>102</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_1387561e4140c85a26.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140ab7a28.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140ac5a2f.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140ad465a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140ae1674.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140aec21b.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140b047c8.jpg</picture>
-            <name>Вібратор Pretty Love Beck, рожевий</name>
-            <Отображать>Да</Отображать>
-            <stock>12</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Вібратор Pretty Love Beck, рожевий</model>
-            <description>Вібратор Pretty Love Beck створений для інтенсивної стимуляції завдяки &lt;b&gt;10 режимам вібрації&lt;/b&gt; різної швидкості та ритму. Силіконовий корпус з анатомічною формою та злегка зігнутою головкою забезпечує комфортне використання та цілеспрямований вплив на чутливі зони.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Гладенька реалістична текстура з вираженими деталями виготовлена з &lt;b&gt;гіпоалергенного силікону&lt;/b&gt;, який не викликає подразнення навіть у чутливих користувачів. Управління всіма режимами здійснюється однією кнопкою на основі пристрою, що робить використання максимально зручним.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Компактні розміри та автономне живлення від однієї батарейки ААА роблять цей вібратор ідеальним для особистого використання. Сумісний виключно з лубрикантами на водній основі для збереження властивостей силікону.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
-Текстура: Реалістик, Гладенька&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 12&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 9&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 2.2&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (1 шт.)&lt;/br&gt;</description>
-            <name_ua>Вібратор Pretty Love Beck, рожевий</name_ua>
-            <description_ua>Вібратор Pretty Love Beck створений для інтенсивної стимуляції завдяки &lt;b&gt;10 режимам вібрації&lt;/b&gt; різної швидкості та ритму. Силіконовий корпус з анатомічною формою та злегка зігнутою головкою забезпечує комфортне використання та цілеспрямований вплив на чутливі зони.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Гладенька реалістична текстура з вираженими деталями виготовлена з &lt;b&gt;гіпоалергенного силікону&lt;/b&gt;, який не викликає подразнення навіть у чутливих користувачів. Управління всіма режимами здійснюється однією кнопкою на основі пристрою, що робить використання максимально зручним.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Компактні розміри та автономне живлення від однієї батарейки ААА роблять цей вібратор ідеальним для особистого використання. Сумісний виключно з лубрикантами на водній основі для збереження властивостей силікону.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
-Текстура: Реалістик, Гладенька&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 12&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 9&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 2.2&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (1 шт.)&lt;/br&gt;</description_ua>
             </offer>
         <offer id="64-00085" available="true">
                 <erp>64-00085</erp>
