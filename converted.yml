@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-15 10:00">
+<yml_catalog date="2026-01-15 11:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -880,61 +880,6 @@ LoveCloneX Achilles — це вібратор, що поєднує реаліс�
             <description_ua>Чуттєво звужений вібратор з 10 потужними вібраційними режимами та практичним провідним пультом дистанційного керування. Інтенсивно підколює кінчик пеніса та вуздечку.&lt;br /&gt;
 &lt;br /&gt;
 Загальна довжина 8,5 см, внутрішня Ø 4 см, довжина кабелю 80 см. Силікон із поліуретановим покриттям, ABS. Замовляйте батареї окремо: 2 x AAA.</description_ua>
-            </offer>
-        <offer id="42-06239110000" available="true">
-                <erp>42-06239110000</erp>
-            <barcode>4024144623921</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/3092-gely_lubrikant_ust_glide_water_50</url>
-            <price>202.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_30926176c5e3dad0e.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6176c5e026464.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6176c5e03fc91.jpg</picture>
-            <name>Лубрикант Just Glide Water, 50 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>ORION</vendor>
-            <model>Лубрикант Just Glide Water, 50 мл</model>
-            <description>Лубрикант Just Glide Water на водній основі створений для комфортного та безпечного інтимного досвіду. &lt;b&gt;Дерматологічно протестована формула&lt;/b&gt; на натуральних компонентах підходить навіть людям зі схильністю до алергічних реакцій, забезпечуючи м'яке проникнення без подразнень.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Консистенція максимально наближена до природної жіночої змазки, що гарантує природні відчуття для обох партнерів. &lt;b&gt;Водна основа&lt;/b&gt; робить засіб сумісним з латексними виробами та іграшками з кібершкіри й силікону, не порушуючи їх цілісність.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Практичний у використанні завдяки компактному об'єму 50 мл. Не залишає плям на тканинах, легко змивається водою. Нейтральний склад без додаткових ароматизаторів та смакових добавок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Just Glide&lt;/br&gt;&lt;br /&gt;
-Виробник: Just Glide&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: Без ефектів&lt;/br&gt;</description>
-            <param name="Країна">Німеччина</param>
-            <param name="Колір">прозорий</param>
-            <param name="Основа">Водна</param>
-            <param name="Місткість (мл)">50</param>
-            <param name="Марка/Лінія">Orion/Just Glide</param>
-            <param name="Запах">Без запаха</param>
-            <param name="Їстівний">Ні</param>
-            <name_ua>Лубрикант Just Glide Water, 50 мл</name_ua>
-            <description_ua>Лубрикант Just Glide Water на водній основі створений для комфортного та безпечного інтимного досвіду. &lt;b&gt;Дерматологічно протестована формула&lt;/b&gt; на натуральних компонентах підходить навіть людям зі схильністю до алергічних реакцій, забезпечуючи м'яке проникнення без подразнень.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Консистенція максимально наближена до природної жіночої змазки, що гарантує природні відчуття для обох партнерів. &lt;b&gt;Водна основа&lt;/b&gt; робить засіб сумісним з латексними виробами та іграшками з кібершкіри й силікону, не порушуючи їх цілісність.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Практичний у використанні завдяки компактному об'єму 50 мл. Не залишає плям на тканинах, легко змивається водою. Нейтральний склад без додаткових ароматизаторів та смакових добавок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Just Glide&lt;/br&gt;&lt;br /&gt;
-Виробник: Just Glide&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: Без ефектів&lt;/br&gt;</description_ua>
             </offer>
         <offer id="42-05026000000" available="true">
                 <erp>42-05026000000</erp>
@@ -3608,33 +3553,6 @@ LoveCloneX Achilles — це вібратор, що поєднує реаліс�
 - регульовані бретелі&lt;br /&gt;
 - приємний на дотик еластичний матеріал (85% поліамід, 15% еластан)</description_ua>
             </offer>
-        <offer id="59-00001" available="true">
-                <erp>59-00001</erp>
-            <barcode>5903661803322</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/14632-lalkaangelina_3d_vibrating</url>
-            <price>3981.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>70</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/59-00001.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62066a14e5a45.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62066a1507e1b.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62066a15176af.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62066a15259bf.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62066a1535a81.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62066a1544a0d.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62066a1554c6f.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62066a156381d.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62066a1572ffa.png</picture>
-            <name>Секс-лялька B - Series LaLa Lalka Angelina 3D, вібруюча</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Секс-лялька B - Series LaLa Lalka Angelina 3D, вібруюча</model>
-            <description>Ця ексклюзивна надувна лялька задовольнить навіть найвибагливішого джентльмена! Гарна надувна лялька з чарівним 3D обличчям, має волосся. Angelina з відкритим м’яким ротом і має ще 2 любовні отвори.. Вона в натуральну величину, у неї гарні, великі та тверді груди. Окремо вібраційне яйце з регульованою швидкістю вібрації. Крім того, яйце може увімкнути додаткову функцю - голос, або звуки. Це надасть додаткових незабутніх вражень.  Додатково в комплекті насос і ремонтний комплект. Лялька відрізняється як функціональністю, так і естетикою виконання. Висота - 156 см.</description>
-            <name_ua>Секс-лялька B - Series LaLa Lalka Angelina 3D, вібруюча</name_ua>
-            <description_ua>Ця ексклюзивна надувна лялька задовольнить навіть найвибагливішого джентльмена! Гарна надувна лялька з чарівним 3D обличчям, має волосся. Angelina з відкритим м’яким ротом і має ще 2 любовні отвори.. Вона в натуральну величину, у неї гарні, великі та тверді груди. Окремо вібраційне яйце з регульованою швидкістю вібрації. Крім того, яйце може увімкнути додаткову функцю - голос, або звуки. Це надасть додаткових незабутніх вражень.  Додатково в комплекті насос і ремонтний комплект. Лялька відрізняється як функціональністю, так і естетикою виконання. Висота - 156 см.</description_ua>
-            </offer>
         <offer id="22-00004" available="true">
                 <erp>22-00004</erp>
             <barcode>5903661801830</barcode>
@@ -4717,54 +4635,6 @@ LoveCloneX Achilles — це вібратор, що поєднує реаліс�
 Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
 Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
 Живлення: Батарейки ААА (1 шт.)&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="731-00053" available="true">
-                <erp>731-00053</erp>
-            <barcode>5903268071513</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/18200-lubrikant_pop_fisting_gel_300ml</url>
-            <price>496.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>159</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/731-00053.jpg</picture>
-            <name>Лубрикант POP Fisting Gel, 300 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>LOVESTIM</vendor>
-            <model>Лубрикант POP Fisting Gel, 300 мл</model>
-            <description>POP Fisting Gel – це &lt;b&gt;спеціалізований лубрикант об'ємом 300 мл&lt;/b&gt;, розроблений для комфортного використання під час найінтенсивніших інтимних практик. Завдяки водній основі забезпечує тривале та м'яке ковзання, створюючи оптимальні умови для делікатної стимуляції без дискомфорту.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Формула на водній основі гарантує &lt;b&gt;повну сумісність з усіма видами інтимних іграшок&lt;/b&gt; та презервативів, не пошкоджуючи матеріали виробів. Нейтральний склад без смаку та запаху робить використання максимально природним та приємним, не викликаючи подразнень слизових оболонок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Зручна баночка з дозатором дозволяє легко контролювати кількість засобу та забезпечує гігієнічне використання. Підходить для різних видів інтимної близькості, гарантуючи безпечність та комфорт.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: LoveStim&lt;/br&gt;&lt;br /&gt;
-Виробник: LoveStim&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 300&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: Без ефектів&lt;/br&gt;&lt;br /&gt;
-Їстівне: Ні&lt;/br&gt;</description>
-            <name_ua>Лубрикант POP Fisting Gel, 300 мл</name_ua>
-            <description_ua>POP Fisting Gel – це &lt;b&gt;спеціалізований лубрикант об'ємом 300 мл&lt;/b&gt;, розроблений для комфортного використання під час найінтенсивніших інтимних практик. Завдяки водній основі забезпечує тривале та м'яке ковзання, створюючи оптимальні умови для делікатної стимуляції без дискомфорту.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Формула на водній основі гарантує &lt;b&gt;повну сумісність з усіма видами інтимних іграшок&lt;/b&gt; та презервативів, не пошкоджуючи матеріали виробів. Нейтральний склад без смаку та запаху робить використання максимально природним та приємним, не викликаючи подразнень слизових оболонок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Зручна баночка з дозатором дозволяє легко контролювати кількість засобу та забезпечує гігієнічне використання. Підходить для різних видів інтимної близькості, гарантуючи безпечність та комфорт.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: LoveStim&lt;/br&gt;&lt;br /&gt;
-Виробник: LoveStim&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 300&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: Без ефектів&lt;/br&gt;&lt;br /&gt;
-Їстівне: Ні&lt;/br&gt;</description_ua>
             </offer>
         <offer id="1-00904333" available="true">
                 <erp>1-00904333</erp>
@@ -47216,6 +47086,28 @@ USB-акумулятор&lt;br /&gt;
             <description_ua>Приємно ароматний крем для догляду за пенісом, збагачений екстрактами імбиру та пажитника&lt;br /&gt;
 (стимулюючі властивості). Використовуючи цей крем, чоловік отримує ерекцію, пеніс стає твердішим і більшим. Крім того, він значно подовжує статевий акт, завдяки чому ви будете насолоджуватися сексом довше. </description_ua>
             </offer>
+        <offer id="19-3085" available="true">
+                <erp>19-3085</erp>
+            <barcode>3548960030851</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2437-lubrikant_x_pleasure</url>
+            <price>353.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>42</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/19-3085.jpg</picture>
+            <name>Стимулюючий гель для жінок Ruf X Pleasure, 20 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>RUF</vendor>
+            <model>Стимулюючий гель для жінок Ruf X Pleasure, 20 мл</model>
+            <description>Xtra Pleasure – гель, призначений для нанесення на інтимні зони жіночого тіла. Гель рекомендований жінкам з порушеннями оргазму або зниженням задоволення від статевого акту. Використання гелю стимулює інтимні зони, роблячи її більш чутливою. М’яке втирання гелю в ерогенні зони викликає бажання і посилює жіночий статевий інстинкт.&lt;br /&gt;
+&lt;br /&gt;
+Склад:  вода, пропіленгліколь, полісорбат 80, екстракт квітів гетеротеки інулоїдної, ментол, триетаноламін, карбомер, імідазолідинілсечовина, феноксиетанол, метилпарабен, етилпарабен, пропілпарабен, бутилпарабен, ізобутилпарабен, ізобутилпарабен 35.</description>
+            <name_ua>Стимулюючий гель для жінок Ruf X Pleasure, 20 мл</name_ua>
+            <description_ua>Xtra Pleasure – гель, призначений для нанесення на інтимні зони жіночого тіла. Гель рекомендований жінкам з порушеннями оргазму або зниженням задоволення від статевого акту. Використання гелю стимулює інтимні зони, роблячи її більш чутливою. М’яке втирання гелю в ерогенні зони викликає бажання і посилює жіночий статевий інстинкт.&lt;br /&gt;
+&lt;br /&gt;
+Склад:  вода, пропіленгліколь, полісорбат 80, екстракт квітів гетеротеки інулоїдної, ментол, триетаноламін, карбомер, імідазолідинілсечовина, феноксиетанол, метилпарабен, етилпарабен, пропілпарабен, бутилпарабен, ізобутилпарабен, ізобутилпарабен 35.</description_ua>
+            </offer>
         <offer id="19-31053" available="true">
                 <erp>19-31053</erp>
             <barcode>3548960010532</barcode>
@@ -56241,28 +56133,6 @@ Unimil Max Love Time Control – для тих, хто хоче більшого
             <description>Ідеальний Mega Penis крем для ерекції. Крем для чоловіків, призначений для вирішення інтимних проблем чоловіків різного віку. Він посилює сексуальне збудження. Крем має ніжним запахом і приємною консистенцією.</description>
             <name_ua>Крем для ерекції Ruf Mega Penis, 75 мл</name_ua>
             <description_ua>Ідеальний Mega Penis крем для ерекції. Крем для чоловіків, призначений для вирішення інтимних проблем чоловіків різного віку. Він посилює сексуальне збудження. Крем має ніжним запахом і приємною консистенцією.</description_ua>
-            </offer>
-        <offer id="19-3085" available="true">
-                <erp>19-3085</erp>
-            <barcode>3548960030851</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2437-lubrikant_x_pleasure</url>
-            <price>353.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>42</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/19-3085.jpg</picture>
-            <name>Стимулюючий гель для жінок Ruf X Pleasure, 20 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>RUF</vendor>
-            <model>Стимулюючий гель для жінок Ruf X Pleasure, 20 мл</model>
-            <description>Xtra Pleasure – гель, призначений для нанесення на інтимні зони жіночого тіла. Гель рекомендований жінкам з порушеннями оргазму або зниженням задоволення від статевого акту. Використання гелю стимулює інтимні зони, роблячи її більш чутливою. М’яке втирання гелю в ерогенні зони викликає бажання і посилює жіночий статевий інстинкт.&lt;br /&gt;
-&lt;br /&gt;
-Склад:  вода, пропіленгліколь, полісорбат 80, екстракт квітів гетеротеки інулоїдної, ментол, триетаноламін, карбомер, імідазолідинілсечовина, феноксиетанол, метилпарабен, етилпарабен, пропілпарабен, бутилпарабен, ізобутилпарабен, ізобутилпарабен 35.</description>
-            <name_ua>Стимулюючий гель для жінок Ruf X Pleasure, 20 мл</name_ua>
-            <description_ua>Xtra Pleasure – гель, призначений для нанесення на інтимні зони жіночого тіла. Гель рекомендований жінкам з порушеннями оргазму або зниженням задоволення від статевого акту. Використання гелю стимулює інтимні зони, роблячи її більш чутливою. М’яке втирання гелю в ерогенні зони викликає бажання і посилює жіночий статевий інстинкт.&lt;br /&gt;
-&lt;br /&gt;
-Склад:  вода, пропіленгліколь, полісорбат 80, екстракт квітів гетеротеки інулоїдної, ментол, триетаноламін, карбомер, імідазолідинілсечовина, феноксиетанол, метилпарабен, етилпарабен, пропілпарабен, бутилпарабен, ізобутилпарабен, ізобутилпарабен 35.</description_ua>
             </offer>
         <offer id="26-00015" available="true">
                 <erp>26-00015</erp>
@@ -71059,6 +70929,24 @@ Clitoris Spray Stimulating - це відмінний вибір для тих, �
             <description_ua>Ексклюзивні анальні прикраси з нержавіючої сталі. Високоякісна нержавіюча сталь гарантує безпеку вашого тіла. Пробка ідеально гладка, без гострих країв, не подразнює шкіру. Ідеально підходить для новачків і досвідчених любителів анальних ігор. Виготовлений з металу дає нам можливість охолодити або зігріти його. Бірюзового кольору декоративний камінь прикріплений до основи. Пробка ідеально профільована, особлива анатомічна форма полегшує нанесення. Цибулинова форма чудово стимулює. І навпаки, вузька шия з ромбовою основою дозволить м’язам обгорнути і утримувати пробку на місці, запобігаючи поглинанню.&lt;br /&gt;
 Загальна довжина 7 см  Діаметр 2,7 см  Стильна упаковка разом із мішечком для зберігання іграшки.</description_ua>
             </offer>
+        <offer id="64-00089" available="true">
+                <erp>64-00089</erp>
+            <barcode>5903661804855</barcode>
+            <quantity_in_stock>8</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/14932-analyna_probka___silicone_analyna_probka__purple_medium</url>
+            <price>288.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>31</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/64-00089.jpg</picture>
+            <name>Анальна пробка B - Series HeavyFun, фіолетова, М розмір</name>
+            <Отображать>Да</Отображать>
+            <stock>8</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Анальна пробка B - Series HeavyFun, фіолетова, М розмір</model>
+            <description>Анальна пробка BOSS - чудовий гаджет для всіх любителів анальних ігор. Виготовлений з 100% медичного силікону. Присоска в його основі дозволяє прикріпити його до будь-якої плоскої поверхні. Довжина - 11 см, діаметр - 2,8 см.</description>
+            <name_ua>Анальна пробка B - Series HeavyFun, фіолетова, М розмір</name_ua>
+            <description_ua>Анальна пробка BOSS - чудовий гаджет для всіх любителів анальних ігор. Виготовлений з 100% медичного силікону. Присоска в його основі дозволяє прикріпити його до будь-якої плоскої поверхні. Довжина - 11 см, діаметр - 2,8 см.</description_ua>
+            </offer>
         <offer id="BI-014653-1" available="true">
                 <erp>BI-014653-1</erp>
             <barcode>6959532322811</barcode>
@@ -71934,6 +71822,64 @@ Clitoris Spray Stimulating - це відмінний вибір для тих, �
 Запах: Полуниця&lt;/br&gt;&lt;br /&gt;
 Їстівне: Так&lt;/br&gt;&lt;br /&gt;
 Додаткові ефекти: Без ефектів&lt;/br&gt;</description_ua>
+            </offer>
+        <offer id="BW-022091NR" available="true">
+                <erp>BW-022091NR</erp>
+            <barcode>6959532334180</barcode>
+            <quantity_in_stock>8</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30794-strapon_on_pretty_love_harness_briefs_kevin</url>
+            <price>656.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>34</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_307916568ffc5ec008.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6568ffc48d544.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6568ffc4acf14.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6568ffc4c7e48.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6568ffc4dd053.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6568ffc4f2c15.gif</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6568ffc547fbf.gif</picture>
+            <name>Страпон Pretty Love Harness Briefs Kevin 7.2 Dildo, тілесний</name>
+            <Отображать>Да</Отображать>
+            <stock>8</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Страпон Pretty Love Harness Briefs Kevin 7.2 Dildo, тілесний</model>
+            <description>Інтимний аксесуар для рольових ігор Pretty Love Harness Briefs Kevin 7.2 Dildo дозволяє експериментувати з новими відчуттями та позиціями. &lt;b&gt;Комплект складається з регульованих трусиків-кріплення та реалістичного фалоімітатора&lt;/b&gt; з анатомічними деталями - рельєфним стовбуром, контурною голівкою та мошонкою.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Трусики з еластичними резинками забезпечують зручну посадку та регулюються по обхвату від 58 до 86 см. &lt;b&gt;Кругле кріплення шириною 9 см розраховане на секс-іграшки з присоскою&lt;/b&gt;, що дозволяє надійно фіксувати фалоімітатор або використовувати інші сумісні аксесуари. Фалос виготовлений з термопластичної гуми з реалістичною текстурою.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Аксесуар підходить для парних ігор та сольного використання. &lt;b&gt;Фалоімітатор можна застосовувати окремо від кріплення&lt;/b&gt; завдяки присосці в основі. Рекомендується використання лубриканта та спеціальних засобів для очищення після застосування.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Термопластична гума (TPR), Пластик, Поліуретан&lt;/br&gt;&lt;br /&gt;
+Текстура: Реалістик&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 19&lt;/br&gt;&lt;br /&gt;
+Глибина (см): 14.5&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 3.7&lt;/br&gt;&lt;br /&gt;
+Тип кріплення: Стандартний&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Ні&lt;/br&gt;&lt;br /&gt;
+Живлення: Не потребує&lt;/br&gt;</description>
+            <name_ua>Страпон Pretty Love Harness Briefs Kevin 7.2 Dildo, тілесний</name_ua>
+            <description_ua>Інтимний аксесуар для рольових ігор Pretty Love Harness Briefs Kevin 7.2 Dildo дозволяє експериментувати з новими відчуттями та позиціями. &lt;b&gt;Комплект складається з регульованих трусиків-кріплення та реалістичного фалоімітатора&lt;/b&gt; з анатомічними деталями - рельєфним стовбуром, контурною голівкою та мошонкою.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Трусики з еластичними резинками забезпечують зручну посадку та регулюються по обхвату від 58 до 86 см. &lt;b&gt;Кругле кріплення шириною 9 см розраховане на секс-іграшки з присоскою&lt;/b&gt;, що дозволяє надійно фіксувати фалоімітатор або використовувати інші сумісні аксесуари. Фалос виготовлений з термопластичної гуми з реалістичною текстурою.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Аксесуар підходить для парних ігор та сольного використання. &lt;b&gt;Фалоімітатор можна застосовувати окремо від кріплення&lt;/b&gt; завдяки присосці в основі. Рекомендується використання лубриканта та спеціальних засобів для очищення після застосування.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Термопластична гума (TPR), Пластик, Поліуретан&lt;/br&gt;&lt;br /&gt;
+Текстура: Реалістик&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 19&lt;/br&gt;&lt;br /&gt;
+Глибина (см): 14.5&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 3.7&lt;/br&gt;&lt;br /&gt;
+Тип кріплення: Стандартний&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Ні&lt;/br&gt;&lt;br /&gt;
+Живлення: Не потребує&lt;/br&gt;</description_ua>
             </offer>
         <offer id="66-LV317406" available="true">
                 <erp>66-LV317406</erp>
@@ -73240,24 +73186,6 @@ Clitoris Spray Stimulating - це відмінний вибір для тих, �
 Довжина загальна (см): 13&lt;/br&gt;&lt;br /&gt;
 Діаметр (см): 2.4&lt;/br&gt;</description_ua>
             </offer>
-        <offer id="64-00089" available="true">
-                <erp>64-00089</erp>
-            <barcode>5903661804855</barcode>
-            <quantity_in_stock>9</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/14932-analyna_probka___silicone_analyna_probka__purple_medium</url>
-            <price>288.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>31</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/64-00089.jpg</picture>
-            <name>Анальна пробка B - Series HeavyFun, фіолетова, М розмір</name>
-            <Отображать>Да</Отображать>
-            <stock>9</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Анальна пробка B - Series HeavyFun, фіолетова, М розмір</model>
-            <description>Анальна пробка BOSS - чудовий гаджет для всіх любителів анальних ігор. Виготовлений з 100% медичного силікону. Присоска в його основі дозволяє прикріпити його до будь-якої плоскої поверхні. Довжина - 11 см, діаметр - 2,8 см.</description>
-            <name_ua>Анальна пробка B - Series HeavyFun, фіолетова, М розмір</name_ua>
-            <description_ua>Анальна пробка BOSS - чудовий гаджет для всіх любителів анальних ігор. Виготовлений з 100% медичного силікону. Присоска в його основі дозволяє прикріпити його до будь-якої плоскої поверхні. Довжина - 11 см, діаметр - 2,8 см.</description_ua>
-            </offer>
         <offer id="68-LU0003" available="true">
                 <erp>68-LU0003</erp>
             <barcode>5600304015455</barcode>
@@ -73909,64 +73837,6 @@ Clitoris Spray Stimulating - це відмінний вибір для тих, �
             <description>Вібратор B-Series Vicky, рожевий</description>
             <name_ua>Вібратор B-Series Vicky, рожевий</name_ua>
             <description_ua>Вібратор B-Series Vicky, рожевий</description_ua>
-            </offer>
-        <offer id="BW-022091NR" available="true">
-                <erp>BW-022091NR</erp>
-            <barcode>6959532334180</barcode>
-            <quantity_in_stock>9</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30794-strapon_on_pretty_love_harness_briefs_kevin</url>
-            <price>656.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>34</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_307916568ffc5ec008.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6568ffc48d544.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6568ffc4acf14.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6568ffc4c7e48.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6568ffc4dd053.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6568ffc4f2c15.gif</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6568ffc547fbf.gif</picture>
-            <name>Страпон Pretty Love Harness Briefs Kevin 7.2 Dildo, тілесний</name>
-            <Отображать>Да</Отображать>
-            <stock>9</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Страпон Pretty Love Harness Briefs Kevin 7.2 Dildo, тілесний</model>
-            <description>Інтимний аксесуар для рольових ігор Pretty Love Harness Briefs Kevin 7.2 Dildo дозволяє експериментувати з новими відчуттями та позиціями. &lt;b&gt;Комплект складається з регульованих трусиків-кріплення та реалістичного фалоімітатора&lt;/b&gt; з анатомічними деталями - рельєфним стовбуром, контурною голівкою та мошонкою.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Трусики з еластичними резинками забезпечують зручну посадку та регулюються по обхвату від 58 до 86 см. &lt;b&gt;Кругле кріплення шириною 9 см розраховане на секс-іграшки з присоскою&lt;/b&gt;, що дозволяє надійно фіксувати фалоімітатор або використовувати інші сумісні аксесуари. Фалос виготовлений з термопластичної гуми з реалістичною текстурою.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Аксесуар підходить для парних ігор та сольного використання. &lt;b&gt;Фалоімітатор можна застосовувати окремо від кріплення&lt;/b&gt; завдяки присосці в основі. Рекомендується використання лубриканта та спеціальних засобів для очищення після застосування.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Термопластична гума (TPR), Пластик, Поліуретан&lt;/br&gt;&lt;br /&gt;
-Текстура: Реалістик&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 19&lt;/br&gt;&lt;br /&gt;
-Глибина (см): 14.5&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.7&lt;/br&gt;&lt;br /&gt;
-Тип кріплення: Стандартний&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Ні&lt;/br&gt;&lt;br /&gt;
-Живлення: Не потребує&lt;/br&gt;</description>
-            <name_ua>Страпон Pretty Love Harness Briefs Kevin 7.2 Dildo, тілесний</name_ua>
-            <description_ua>Інтимний аксесуар для рольових ігор Pretty Love Harness Briefs Kevin 7.2 Dildo дозволяє експериментувати з новими відчуттями та позиціями. &lt;b&gt;Комплект складається з регульованих трусиків-кріплення та реалістичного фалоімітатора&lt;/b&gt; з анатомічними деталями - рельєфним стовбуром, контурною голівкою та мошонкою.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Трусики з еластичними резинками забезпечують зручну посадку та регулюються по обхвату від 58 до 86 см. &lt;b&gt;Кругле кріплення шириною 9 см розраховане на секс-іграшки з присоскою&lt;/b&gt;, що дозволяє надійно фіксувати фалоімітатор або використовувати інші сумісні аксесуари. Фалос виготовлений з термопластичної гуми з реалістичною текстурою.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Аксесуар підходить для парних ігор та сольного використання. &lt;b&gt;Фалоімітатор можна застосовувати окремо від кріплення&lt;/b&gt; завдяки присосці в основі. Рекомендується використання лубриканта та спеціальних засобів для очищення після застосування.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Термопластична гума (TPR), Пластик, Поліуретан&lt;/br&gt;&lt;br /&gt;
-Текстура: Реалістик&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 19&lt;/br&gt;&lt;br /&gt;
-Глибина (см): 14.5&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.7&lt;/br&gt;&lt;br /&gt;
-Тип кріплення: Стандартний&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Ні&lt;/br&gt;&lt;br /&gt;
-Живлення: Не потребує&lt;/br&gt;</description_ua>
             </offer>
         <offer id="90-800103" available="true">
                 <erp>90-800103</erp>
