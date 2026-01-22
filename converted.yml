@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-22 13:00">
+<yml_catalog date="2026-01-22 14:15">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -55633,6 +55633,24 @@ OLO GOLD Indian god oil мають високу теплопровідність
 Він не подразнює шкіру або слизові оболонки. Не має протизаплідних властивостей. Ємкість 200 мл.&lt;br /&gt;
 </description_ua>
             </offer>
+        <offer id="26-00013" available="true">
+                <erp>26-00013</erp>
+            <barcode>8466216000135</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2460-lalka_suzuki</url>
+            <price>850.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>70</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/26-00013.jpg</picture>
+            <name>Секс-лялька B - Series Lyla Lalka Suzuki</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Секс-лялька B - Series Lyla Lalka Suzuki</model>
+            <description>Екзотична секс-лялька, яку можна надути до натуральної величини. Має три любовні отвори. Висота приблизно 150 см. </description>
+            <name_ua>Секс-лялька B - Series Lyla Lalka Suzuki</name_ua>
+            <description_ua>Екзотична секс-лялька, яку можна надути до натуральної величини. Має три любовні отвори. Висота приблизно 150 см. </description_ua>
+            </offer>
         <offer id="26-00015" available="true">
                 <erp>26-00015</erp>
             <barcode>8466216000159</barcode>
@@ -66862,24 +66880,6 @@ Clitoris Spray Stimulating - це відмінний вибір для тих, �
             <description_ua>Female Orgasme Cream 30 мл призначений для жінок для поліпшення сексуальних відчуттів. &lt;br /&gt;
 Це полегшить вам досягнення оргазму та заново відкрити своє тіло. Він сенсибілізує клітор і сприяє досягненню максимального сексуального задоволення.</description_ua>
             </offer>
-        <offer id="26-00013" available="true">
-                <erp>26-00013</erp>
-            <barcode>8466216000135</barcode>
-            <quantity_in_stock>7</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2460-lalka_suzuki</url>
-            <price>850.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>70</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/26-00013.jpg</picture>
-            <name>Секс-лялька B - Series Lyla Lalka Suzuki</name>
-            <Отображать>Да</Отображать>
-            <stock>7</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Секс-лялька B - Series Lyla Lalka Suzuki</model>
-            <description>Екзотична секс-лялька, яку можна надути до натуральної величини. Має три любовні отвори. Висота приблизно 150 см. </description>
-            <name_ua>Секс-лялька B - Series Lyla Lalka Suzuki</name_ua>
-            <description_ua>Екзотична секс-лялька, яку можна надути до натуральної величини. Має три любовні отвори. Висота приблизно 150 см. </description_ua>
-            </offer>
         <offer id="35-30083" available="true">
                 <erp>35-30083</erp>
             <barcode>4019514305309</barcode>
@@ -74013,6 +74013,31 @@ OLO – це нове покоління надтонких презервати
 Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
 Живлення: Батарейки АА (2 шт.)&lt;/br&gt;</description_ua>
             </offer>
+        <offer id="26-00189" available="true">
+                <erp>26-00189</erp>
+            <barcode>5903661808020</barcode>
+            <quantity_in_stock>10</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/29700-masturbator_vagina_manga___boss_series</url>
+            <price>276.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>52</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_2970062ee929b356b5.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee9298e58b8.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92991948a.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee9299363ad.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92994f4e8.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee929963d7d.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92997a659.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92998f5eb.png</picture>
+            <name>Штучна вагіна Boss Series Manga, тілесна</name>
+            <Отображать>Да</Отображать>
+            <stock>10</stock>
+            <vendor />
+            <model>Штучна вагіна Boss Series Manga, тілесна</model>
+            <description>Штучна вагіна Boss Series Manga, тілесна</description>
+            <name_ua>Штучна вагіна Boss Series Manga, тілесна</name_ua>
+            <description_ua>Штучна вагіна Boss Series Manga, тілесна</description_ua>
+            </offer>
         <offer id="11-50225" available="true">
                 <erp>11-50225</erp>
             <barcode>4019514502258</barcode>
@@ -74901,31 +74926,6 @@ ONE Super Studs — коли хочеться відчути кожен мілі
             <description>Анальна пробка B - Series EasyLove T-Plug Smooth, чорна</description>
             <name_ua>Анальна пробка B - Series EasyLove T-Plug Smooth, чорна</name_ua>
             <description_ua>Анальна пробка B - Series EasyLove T-Plug Smooth, чорна</description_ua>
-            </offer>
-        <offer id="26-00189" available="true">
-                <erp>26-00189</erp>
-            <barcode>5903661808020</barcode>
-            <quantity_in_stock>11</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29700-masturbator_vagina_manga___boss_series</url>
-            <price>276.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>52</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_2970062ee929b356b5.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee9298e58b8.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92991948a.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee9299363ad.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92994f4e8.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee929963d7d.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92997a659.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92998f5eb.png</picture>
-            <name>Штучна вагіна Boss Series Manga, тілесна</name>
-            <Отображать>Да</Отображать>
-            <stock>11</stock>
-            <vendor />
-            <model>Штучна вагіна Boss Series Manga, тілесна</model>
-            <description>Штучна вагіна Boss Series Manga, тілесна</description>
-            <name_ua>Штучна вагіна Boss Series Manga, тілесна</name_ua>
-            <description_ua>Штучна вагіна Boss Series Manga, тілесна</description_ua>
             </offer>
         <offer id="3-77510" available="true">
                 <erp>3-77510</erp>
