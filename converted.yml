@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-22 15:30">
+<yml_catalog date="2026-01-22 16:15">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -146,7 +146,25 @@
         <category id="169" parentId="996" portal_id="5280501">Батарейки</category>
         </categories>
     <offers>
-            <offer id="30-33602-X-ASSORT" available="true">
+            <offer id="1-00700312" available="true">
+                <erp>1-00700312</erp>
+            <barcode>8053629693872</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31-analyniy_faloimitator_analyniy_lantsyuzhokanal_dream</url>
+            <price>404.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>32</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/1-00700312.jpg</picture>
+            <name>Анальний фалоімітатор Toyz4lovers BestSeller Anal Dream, блакитний</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>MSX</vendor>
+            <model>Анальний фалоімітатор ANAL DREAM</model>
+            <description>Це останній фалоімітатор для початківців та експертів. Також підходить для вагітного задоволення та повної проникнення ... З кульмінацією зростаючого діаметра підтримується поступове просування та більше контролюється Матеріал: АБС (без фталатів) Діаметр: 1, 5 - 2 см. Довжина: 23,8 см. Колір: СИНИЙ. стійкий</description>
+            <name_ua>Анальний фалоімітатор Toyz4lovers BestSeller Anal Dream, блакитний</name_ua>
+            <description_ua>Це останній фалоімітатор для початківців та експертів. Також підходить для вагітного задоволення та повної проникнення ... З кульмінацією зростаючого діаметра підтримується поступове просування та більше контролюється Матеріал: АБС (без фталатів) Діаметр: 1, 5 - 2 см. Довжина: 23,8 см. Колір: СИНИЙ. стійкий</description_ua>
+            </offer>
+        <offer id="30-33602-X-ASSORT" available="true">
                 <erp>30-33602-X-ASSORT</erp>
             <barcode>5022782088330</barcode>
             <quantity_in_stock>1</quantity_in_stock>
@@ -2449,24 +2467,6 @@ LoveCloneX Achilles — це вібратор, що поєднує реаліс�
             <description>- спокусливий комплект - з чорного мережива та еластичних лямок - м'які чашечки з декоративними смужками на декольте - регульовані бретелі та ширина під бюстом - стрінги зі сміливим розрізом у промежині</description>
             <name_ua>Еротичне взуття, 37 розмір</name_ua>
             <description_ua>- спокусливий комплект - з чорного мережива та еластичних лямок - м'які чашечки з декоративними смужками на декольте - регульовані бретелі та ширина під бюстом - стрінги зі сміливим розрізом у промежині</description_ua>
-            </offer>
-        <offer id="731-00027" available="true">
-                <erp>731-00027</erp>
-            <barcode>5903268070370</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/6179-feromony_feromist_men_15ml</url>
-            <price>543.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>81</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/731-00027.jpg</picture>
-            <name>Парфуми Aurora Feromist Men, 15 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>LOVESTIM</vendor>
-            <model>Парфуми Aurora Feromist Men, 15 мл</model>
-            <description>Парфуми Aurora Feromist Men, 15 мл</description>
-            <name_ua>Парфуми Aurora Feromist Men, 15 мл</name_ua>
-            <description_ua>Парфуми Aurora Feromist Men, 15 мл</description_ua>
             </offer>
         <offer id="30-88008-O/S-WHITE" available="true">
                 <erp>30-88008-O/S-WHITE</erp>
@@ -8448,6 +8448,28 @@ LoveCloneX Achilles — це вібратор, що поєднує реаліс�
 Запах: М'ята&lt;/br&gt;&lt;br /&gt;
 Їстівне: Ні&lt;/br&gt;</description_ua>
             </offer>
+        <offer id="19-5020" available="true">
+                <erp>19-5020</erp>
+            <barcode>3548960000038</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/29154-parfumi_taboo_pheromones_for_him_15_ml</url>
+            <price>624.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>81</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/19-5020.jpg</picture>
+            <name>Парфуми Ruf Taboo Pheromones for Him, 15 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor />
+            <model>Парфуми Ruf Taboo Pheromones for Him, 15 мл</model>
+            <description>Taboo Pheromone для чоловіків — це спрей для тіла, спеціально розроблений для збільшення природного&lt;br /&gt;
+виробництва феромонів. Це концентрат нейтральних ароматів, які можна легко використовувати зі своїм звичайним парфумом. Не має запаху. Як використовувати: розпилити на тіло феромонний спрей. Ємкість 15 мл.&lt;br /&gt;
+</description>
+            <name_ua>Парфуми Ruf Taboo Pheromones for Him, 15 мл</name_ua>
+            <description_ua>Taboo Pheromone для чоловіків — це спрей для тіла, спеціально розроблений для збільшення природного&lt;br /&gt;
+виробництва феромонів. Це концентрат нейтральних ароматів, які можна легко використовувати зі своїм звичайним парфумом. Не має запаху. Як використовувати: розпилити на тіло феромонний спрей. Ємкість 15 мл.&lt;br /&gt;
+</description_ua>
+            </offer>
         <offer id="73-4003214" available="true">
                 <erp>73-4003214</erp>
             <barcode>4061504003214</barcode>
@@ -11132,6 +11154,55 @@ Pherluxe SILVER - Якими властивостями повинен воло�
 Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
 Наявність присоски: Ні&lt;/br&gt;</description_ua>
             </offer>
+        <offer id="69-17267" available="true">
+                <erp>69-17267</erp>
+            <barcode>5600742917267</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30708-lubrikant_orgie_lube_tube_semen_water_based_intimate_gel___150_ml</url>
+            <price>777.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>46</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3070565008adc3888f.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65008ada62e4e.jpg</picture>
+            <name>Лубрикант Orgie Lube Tube Semen Lube, імітація сперми, 150 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>ORGIE COSMETICS</vendor>
+            <model>Лубрикант Orgie Lube Tube Semen Lube, імітація сперми, 150 мл</model>
+            <description>Лубрикант Orgie Lube Tube Semen Lube створений для тих, хто прагне максимально реалістичних відчуттів під час інтимної близькості. &lt;b&gt;Унікальна формула з ефектом імітації сперми&lt;/b&gt; забезпечує не лише якісне зволоження, а й додає особливу пікантність вашим стосункам.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Засіб на водній основі має &lt;b&gt;густу текстуру, що максимально наближена до природних виділень&lt;/b&gt;. Завдяки водній формулі змазка сумісна з усіма видами інтимних іграшок - силіконовими, латексними та з кібершкіри. Продукт не має смаку та запаху, що робить його універсальним для різних видів близькості.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Лубрикант легко змивається водою, не залишає слідів на шкірі чи білизні. &lt;b&gt;Об'єм 150 мл&lt;/b&gt; забезпечує тривале використання та економну витрату завдяки зручному дозатору.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Orgie&lt;/br&gt;&lt;br /&gt;
+Виробник: Orgie&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 150&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: З імітацією сперми&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Їстівне: Ні&lt;/br&gt;</description>
+            <name_ua>Лубрикант Orgie Lube Tube Semen Lube, імітація сперми, 150 мл</name_ua>
+            <description_ua>Лубрикант Orgie Lube Tube Semen Lube створений для тих, хто прагне максимально реалістичних відчуттів під час інтимної близькості. &lt;b&gt;Унікальна формула з ефектом імітації сперми&lt;/b&gt; забезпечує не лише якісне зволоження, а й додає особливу пікантність вашим стосункам.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Засіб на водній основі має &lt;b&gt;густу текстуру, що максимально наближена до природних виділень&lt;/b&gt;. Завдяки водній формулі змазка сумісна з усіма видами інтимних іграшок - силіконовими, латексними та з кібершкіри. Продукт не має смаку та запаху, що робить його універсальним для різних видів близькості.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Лубрикант легко змивається водою, не залишає слідів на шкірі чи білизні. &lt;b&gt;Об'єм 150 мл&lt;/b&gt; забезпечує тривале використання та економну витрату завдяки зручному дозатору.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Orgie&lt;/br&gt;&lt;br /&gt;
+Виробник: Orgie&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 150&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: З імітацією сперми&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Їстівне: Ні&lt;/br&gt;</description_ua>
+            </offer>
         <offer id="BW-022086" available="true">
                 <erp>BW-022086</erp>
             <barcode>6959532334159</barcode>
@@ -11529,6 +11600,53 @@ Pherluxe SILVER - Якими властивостями повинен воло�
 Форма випуску: Масло&lt;/br&gt;&lt;br /&gt;
 Запах: Східний аромат&lt;/br&gt;&lt;br /&gt;
 Смак: Без смаку (нейтральний)&lt;/br&gt;</description_ua>
+            </offer>
+        <offer id="42-06271860000" available="true">
+                <erp>42-06271860000</erp>
+            <barcode>4024144243754</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30836-masazhne_maslo_spanische_fliel_50ml</url>
+            <price>201.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>49</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_308336572155e7e582.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6572155d6af02.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6572155d7e60e.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6572155d8eaca.jpg</picture>
+            <name>Масажна олія Magoon Spanische Fliege, шпанська мушка, 50 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>ORION</vendor>
+            <model>Масажна олія Magoon Spanische Fliege, шпанська мушка, 50 мл</model>
+            <description>Еротична олія для масажу з ефектом збудження створена для пар, які прагнуть урізноманітнити інтимне життя. &lt;b&gt;Spanische Fliege від Magoon&lt;/b&gt; має приємну консистенцію середньої густини, яка легко розподіляється по тілу та забезпечує комфортне ковзання під час масажу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Засіб делікатно зігріває шкіру та створює &lt;b&gt;легкий збудливий ефект&lt;/b&gt;, не містячи при цьому агресивних компонентів. Олія добре зволожує шкіру завдяки вмісту токоферил ацетату та рідкого парафіну в складі. Нейтральний аромат і смак роблять продукт універсальним для різних видів інтимних ласок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Компактний флакон об'ємом 50 мл зручний у використанні та зберіганні. Підходить для створення романтичної атмосфери та тривалого чуттєвого масажу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Magoon&lt;/br&gt;&lt;br /&gt;
+Виробник: Orion&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
+Форма випуску: Масло&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;</description>
+            <name_ua>Масажна олія Magoon Spanische Fliege, шпанська мушка, 50 мл</name_ua>
+            <description_ua>Еротична олія для масажу з ефектом збудження створена для пар, які прагнуть урізноманітнити інтимне життя. &lt;b&gt;Spanische Fliege від Magoon&lt;/b&gt; має приємну консистенцію середньої густини, яка легко розподіляється по тілу та забезпечує комфортне ковзання під час масажу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Засіб делікатно зігріває шкіру та створює &lt;b&gt;легкий збудливий ефект&lt;/b&gt;, не містячи при цьому агресивних компонентів. Олія добре зволожує шкіру завдяки вмісту токоферил ацетату та рідкого парафіну в складі. Нейтральний аромат і смак роблять продукт універсальним для різних видів інтимних ласок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Компактний флакон об'ємом 50 мл зручний у використанні та зберіганні. Підходить для створення романтичної атмосфери та тривалого чуттєвого масажу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Magoon&lt;/br&gt;&lt;br /&gt;
+Виробник: Orion&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
+Форма випуску: Масло&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;</description_ua>
             </offer>
         <offer id="42-06288240000" available="true">
                 <erp>42-06288240000</erp>
@@ -19488,6 +19606,59 @@ IPX7 водонепроникний&lt;br /&gt;
 &lt;br /&gt;
 стильний аксесуар для фетиш-моди та рольових ігор.</description_ua>
             </offer>
+        <offer id="94-FT001055" available="true">
+                <erp>94-FT001055</erp>
+            <barcode>8606112134484</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35617-sriblyasta_rebrista_analyna_probka_medium_z_chervonim_kristalom__fantasy</url>
+            <price>637.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>31</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3561369273b60853e8.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69273b5a9d056.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69273b5ab8be7.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69273b5aca5d1.jpg</picture>
+            <name>Анальна пробка Fantasy Medium, ребриста, срібляста, з червоним кристалом</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>Fantasy</vendor>
+            <model>Анальна пробка Fantasy Medium, ребриста, срібляста, з червоним кристалом</model>
+            <description>Стильна та виразна анальна пробка Fantasy середнього розміру виготовлена з гладкого металу без нікелю — безпечного, міцного та водночас приємного на дотик. Ребриста поверхня додає інтенсивнішої стимуляції та робить кожен рух більш відчутним.&lt;br /&gt;
+&lt;br /&gt;
+Основу прикрашає яскравий червоний кристал, який надає виробу еротичного акценту та ефектного вигляду. Формат Medium забезпечує збалансоване поєднання насичених відчуттів і комфорту — чудовий варіант для тих, хто вже має певний досвід.&lt;br /&gt;
+&lt;br /&gt;
+Параметри:&lt;br /&gt;
+&lt;br /&gt;
+довжина загальна: 8 см;&lt;br /&gt;
+&lt;br /&gt;
+довжина робоча: 7 см;&lt;br /&gt;
+&lt;br /&gt;
+максимальний діаметр: 3,3 см;&lt;br /&gt;
+&lt;br /&gt;
+матеріал: метал без нікелю;&lt;br /&gt;
+&lt;br /&gt;
+декоративний червоний кристал.&lt;br /&gt;
+&lt;br /&gt;
+Ідеальний аксессуар для чуттєвої стимуляції та естетичної насолоди.</description>
+            <name_ua>Анальна пробка Fantasy Medium, ребриста, срібляста, з червоним кристалом</name_ua>
+            <description_ua>Стильна та виразна анальна пробка Fantasy середнього розміру виготовлена з гладкого металу без нікелю — безпечного, міцного та водночас приємного на дотик. Ребриста поверхня додає інтенсивнішої стимуляції та робить кожен рух більш відчутним.&lt;br /&gt;
+&lt;br /&gt;
+Основу прикрашає яскравий червоний кристал, який надає виробу еротичного акценту та ефектного вигляду. Формат Medium забезпечує збалансоване поєднання насичених відчуттів і комфорту — чудовий варіант для тих, хто вже має певний досвід.&lt;br /&gt;
+&lt;br /&gt;
+Параметри:&lt;br /&gt;
+&lt;br /&gt;
+довжина загальна: 8 см;&lt;br /&gt;
+&lt;br /&gt;
+довжина робоча: 7 см;&lt;br /&gt;
+&lt;br /&gt;
+максимальний діаметр: 3,3 см;&lt;br /&gt;
+&lt;br /&gt;
+матеріал: метал без нікелю;&lt;br /&gt;
+&lt;br /&gt;
+декоративний червоний кристал.&lt;br /&gt;
+&lt;br /&gt;
+Ідеальний аксессуар для чуттєвої стимуляції та естетичної насолоди.</description_ua>
+            </offer>
         <offer id="BI-026265" available="true">
                 <erp>BI-026265</erp>
             <barcode>6959532337686</barcode>
@@ -19548,67 +19719,6 @@ IPX7 водонепроникний&lt;br /&gt;
 Наявність вібрації: Ні&lt;br /&gt;
 Керування з додатку: Ні&lt;br /&gt;
 Довжина загальна (см): 5.5&lt;br /&gt;
-К-сть штук в упаковці (шт.): 1</description_ua>
-            </offer>
-        <offer id="BI-210352" available="true">
-                <erp>BI-210352</erp>
-            <barcode>6959532337464</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/35633-silikonove_erektsiyne_kilytse_clauzell__crazy_bull</url>
-            <price>270.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>37</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_35629692734fa872f7.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_692734f4b5cc8.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_692734f4ca09f.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_692734f4de5f8.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_692734f4f1261.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_692734f510b41.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_692734f581092.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_692734f593c7c.jpg</picture>
-            <name>Ерекційне кільце Crazy Bull Super Soft Silicone Clauzell, чорне</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Ерекційне кільце Crazy Bull Super Soft Silicone Clauzell, чорне</model>
-            <description>Силіконове кільце для чоловіків Crazy Bull Super Soft Silicone Clauzell забезпечує &lt;b&gt;надійну фіксацію ерекції&lt;/b&gt; та підсилює відчуття для обох партнерів. Виготовлене з м'якого силікону з текстурою у вигляді щільних кульок, з'єднаних широкими перемичками, що створює додатковий стимулюючий ефект.&lt;br /&gt;
-&lt;br /&gt;
-Кільце можна використовувати &lt;b&gt;двома способами&lt;/b&gt;: під головкою для посилення відчуттів партнерки або біля основи пеніса для підтримки ерекції. Компактні розміри 6 см в довжину та 2,2 см в діаметрі забезпечують комфортне носіння завдяки еластичності матеріалу.&lt;br /&gt;
-&lt;br /&gt;
-Водонепроникна конструкція дозволяє використовувати кільце під душем, а відсутність необхідності в живленні робить його зручним у застосуванні. Для догляду достатньо промити водою після використання.&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Crazy Bull&lt;br /&gt;
-Виробник: Baile&lt;br /&gt;
-Живлення: Не потребує&lt;br /&gt;
-Матеріал: Силікон&lt;br /&gt;
-Текстура: Гладенька, З кульками&lt;br /&gt;
-Діаметр (см): 2.2&lt;br /&gt;
-Водонепроникність: Так&lt;br /&gt;
-Наявність вібрації: Ні&lt;br /&gt;
-Керування з додатку: Ні&lt;br /&gt;
-Довжина загальна (см): 6&lt;br /&gt;
-К-сть штук в упаковці (шт.): 1</description>
-            <name_ua>Ерекційне кільце Crazy Bull Super Soft Silicone Clauzell, чорне</name_ua>
-            <description_ua>Силіконове кільце для чоловіків Crazy Bull Super Soft Silicone Clauzell забезпечує &lt;b&gt;надійну фіксацію ерекції&lt;/b&gt; та підсилює відчуття для обох партнерів. Виготовлене з м'якого силікону з текстурою у вигляді щільних кульок, з'єднаних широкими перемичками, що створює додатковий стимулюючий ефект.&lt;br /&gt;
-&lt;br /&gt;
-Кільце можна використовувати &lt;b&gt;двома способами&lt;/b&gt;: під головкою для посилення відчуттів партнерки або біля основи пеніса для підтримки ерекції. Компактні розміри 6 см в довжину та 2,2 см в діаметрі забезпечують комфортне носіння завдяки еластичності матеріалу.&lt;br /&gt;
-&lt;br /&gt;
-Водонепроникна конструкція дозволяє використовувати кільце під душем, а відсутність необхідності в живленні робить його зручним у застосуванні. Для догляду достатньо промити водою після використання.&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Crazy Bull&lt;br /&gt;
-Виробник: Baile&lt;br /&gt;
-Живлення: Не потребує&lt;br /&gt;
-Матеріал: Силікон&lt;br /&gt;
-Текстура: Гладенька, З кульками&lt;br /&gt;
-Діаметр (см): 2.2&lt;br /&gt;
-Водонепроникність: Так&lt;br /&gt;
-Наявність вібрації: Ні&lt;br /&gt;
-Керування з додатку: Ні&lt;br /&gt;
-Довжина загальна (см): 6&lt;br /&gt;
 К-сть штук в упаковці (шт.): 1</description_ua>
             </offer>
         <offer id="BM-009215U" available="true">
@@ -25802,28 +25912,6 @@ IPX7 водонепроникний&lt;br /&gt;
 Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
 Гарантія: 1 рік&lt;/br&gt;</description_ua>
             </offer>
-        <offer id="19-5020" available="true">
-                <erp>19-5020</erp>
-            <barcode>3548960000038</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29154-parfumi_taboo_pheromones_for_him_15_ml</url>
-            <price>624.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>81</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/19-5020.jpg</picture>
-            <name>Парфуми Ruf Taboo Pheromones for Him, 15 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor />
-            <model>Парфуми Ruf Taboo Pheromones for Him, 15 мл</model>
-            <description>Taboo Pheromone для чоловіків — це спрей для тіла, спеціально розроблений для збільшення природного&lt;br /&gt;
-виробництва феромонів. Це концентрат нейтральних ароматів, які можна легко використовувати зі своїм звичайним парфумом. Не має запаху. Як використовувати: розпилити на тіло феромонний спрей. Ємкість 15 мл.&lt;br /&gt;
-</description>
-            <name_ua>Парфуми Ruf Taboo Pheromones for Him, 15 мл</name_ua>
-            <description_ua>Taboo Pheromone для чоловіків — це спрей для тіла, спеціально розроблений для збільшення природного&lt;br /&gt;
-виробництва феромонів. Це концентрат нейтральних ароматів, які можна легко використовувати зі своїм звичайним парфумом. Не має запаху. Як використовувати: розпилити на тіло феромонний спрей. Ємкість 15 мл.&lt;br /&gt;
-</description_ua>
-            </offer>
         <offer id="61-00035" available="true">
                 <erp>61-00035</erp>
             <barcode>5903661804930</barcode>
@@ -28495,53 +28583,6 @@ IPX7 водонепроникний&lt;br /&gt;
 Діаметр (см): 3.2&lt;/br&gt;&lt;br /&gt;
 Наявність вібрації: Ні&lt;/br&gt;&lt;br /&gt;
 Живлення: Не потребує&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="42-06271860000" available="true">
-                <erp>42-06271860000</erp>
-            <barcode>4024144243754</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30836-masazhne_maslo_spanische_fliel_50ml</url>
-            <price>201.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>49</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_308336572155e7e582.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6572155d6af02.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6572155d7e60e.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6572155d8eaca.jpg</picture>
-            <name>Масажна олія Magoon Spanische Fliege, шпанська мушка, 50 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>ORION</vendor>
-            <model>Масажна олія Magoon Spanische Fliege, шпанська мушка, 50 мл</model>
-            <description>Еротична олія для масажу з ефектом збудження створена для пар, які прагнуть урізноманітнити інтимне життя. &lt;b&gt;Spanische Fliege від Magoon&lt;/b&gt; має приємну консистенцію середньої густини, яка легко розподіляється по тілу та забезпечує комфортне ковзання під час масажу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Засіб делікатно зігріває шкіру та створює &lt;b&gt;легкий збудливий ефект&lt;/b&gt;, не містячи при цьому агресивних компонентів. Олія добре зволожує шкіру завдяки вмісту токоферил ацетату та рідкого парафіну в складі. Нейтральний аромат і смак роблять продукт універсальним для різних видів інтимних ласок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Компактний флакон об'ємом 50 мл зручний у використанні та зберіганні. Підходить для створення романтичної атмосфери та тривалого чуттєвого масажу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Magoon&lt;/br&gt;&lt;br /&gt;
-Виробник: Orion&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
-Форма випуску: Масло&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;</description>
-            <name_ua>Масажна олія Magoon Spanische Fliege, шпанська мушка, 50 мл</name_ua>
-            <description_ua>Еротична олія для масажу з ефектом збудження створена для пар, які прагнуть урізноманітнити інтимне життя. &lt;b&gt;Spanische Fliege від Magoon&lt;/b&gt; має приємну консистенцію середньої густини, яка легко розподіляється по тілу та забезпечує комфортне ковзання під час масажу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Засіб делікатно зігріває шкіру та створює &lt;b&gt;легкий збудливий ефект&lt;/b&gt;, не містячи при цьому агресивних компонентів. Олія добре зволожує шкіру завдяки вмісту токоферил ацетату та рідкого парафіну в складі. Нейтральний аромат і смак роблять продукт універсальним для різних видів інтимних ласок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Компактний флакон об'ємом 50 мл зручний у використанні та зберіганні. Підходить для створення романтичної атмосфери та тривалого чуттєвого масажу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Magoon&lt;/br&gt;&lt;br /&gt;
-Виробник: Orion&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
-Форма випуску: Масло&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;</description_ua>
             </offer>
         <offer id="42-21803911711" available="true">
                 <erp>42-21803911711</erp>
@@ -33125,6 +33166,29 @@ IPX7 водонепроникний&lt;br /&gt;
 Водонепроникність: Так&lt;br /&gt;
 Живлення: Акумулятор</description_ua>
             </offer>
+        <offer id="39-70231" available="true">
+                <erp>39-70231</erp>
+            <barcode>5906647270231</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32200-klyap_z_zatiskachami_dlya_grudey_erospace_wild_play_c15</url>
+            <price>758.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>65</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_32196688345369946f.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_688345335208b.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68834533640fe.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_688345336ee1e.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68834533788e5.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6883453393dbb.png</picture>
+            <name>Кляп з затискачами для грудей Erospace Wild Play</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor>EROSPACE</vendor>
+            <model>Кляп з затискачами для грудей Erospace Wild Play</model>
+            <description>Кляп з затискачами для грудей Erospace Wild Play</description>
+            <name_ua>Кляп з затискачами для грудей Erospace Wild Play</name_ua>
+            <description_ua>Кляп з затискачами для грудей Erospace Wild Play</description_ua>
+            </offer>
         <offer id="12-EXSUNIQ 3" available="true">
                 <erp>12-EXSUNIQ 3</erp>
             <barcode>7708612425114</barcode>
@@ -34499,59 +34563,6 @@ USB-зарядка.&lt;br /&gt;
 &lt;br /&gt;
 підходить для пар, що хочуть урізноманітнити інтимне життя.</description_ua>
             </offer>
-        <offer id="94-FT001055" available="true">
-                <erp>94-FT001055</erp>
-            <barcode>8606112134484</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/35617-sriblyasta_rebrista_analyna_probka_medium_z_chervonim_kristalom__fantasy</url>
-            <price>637.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>31</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3561369273b60853e8.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69273b5a9d056.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69273b5ab8be7.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69273b5aca5d1.jpg</picture>
-            <name>Анальна пробка Fantasy Medium, ребриста, срібляста, з червоним кристалом</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>Fantasy</vendor>
-            <model>Анальна пробка Fantasy Medium, ребриста, срібляста, з червоним кристалом</model>
-            <description>Стильна та виразна анальна пробка Fantasy середнього розміру виготовлена з гладкого металу без нікелю — безпечного, міцного та водночас приємного на дотик. Ребриста поверхня додає інтенсивнішої стимуляції та робить кожен рух більш відчутним.&lt;br /&gt;
-&lt;br /&gt;
-Основу прикрашає яскравий червоний кристал, який надає виробу еротичного акценту та ефектного вигляду. Формат Medium забезпечує збалансоване поєднання насичених відчуттів і комфорту — чудовий варіант для тих, хто вже має певний досвід.&lt;br /&gt;
-&lt;br /&gt;
-Параметри:&lt;br /&gt;
-&lt;br /&gt;
-довжина загальна: 8 см;&lt;br /&gt;
-&lt;br /&gt;
-довжина робоча: 7 см;&lt;br /&gt;
-&lt;br /&gt;
-максимальний діаметр: 3,3 см;&lt;br /&gt;
-&lt;br /&gt;
-матеріал: метал без нікелю;&lt;br /&gt;
-&lt;br /&gt;
-декоративний червоний кристал.&lt;br /&gt;
-&lt;br /&gt;
-Ідеальний аксессуар для чуттєвої стимуляції та естетичної насолоди.</description>
-            <name_ua>Анальна пробка Fantasy Medium, ребриста, срібляста, з червоним кристалом</name_ua>
-            <description_ua>Стильна та виразна анальна пробка Fantasy середнього розміру виготовлена з гладкого металу без нікелю — безпечного, міцного та водночас приємного на дотик. Ребриста поверхня додає інтенсивнішої стимуляції та робить кожен рух більш відчутним.&lt;br /&gt;
-&lt;br /&gt;
-Основу прикрашає яскравий червоний кристал, який надає виробу еротичного акценту та ефектного вигляду. Формат Medium забезпечує збалансоване поєднання насичених відчуттів і комфорту — чудовий варіант для тих, хто вже має певний досвід.&lt;br /&gt;
-&lt;br /&gt;
-Параметри:&lt;br /&gt;
-&lt;br /&gt;
-довжина загальна: 8 см;&lt;br /&gt;
-&lt;br /&gt;
-довжина робоча: 7 см;&lt;br /&gt;
-&lt;br /&gt;
-максимальний діаметр: 3,3 см;&lt;br /&gt;
-&lt;br /&gt;
-матеріал: метал без нікелю;&lt;br /&gt;
-&lt;br /&gt;
-декоративний червоний кристал.&lt;br /&gt;
-&lt;br /&gt;
-Ідеальний аксессуар для чуттєвої стимуляції та естетичної насолоди.</description_ua>
-            </offer>
         <offer id="BI-300064-1" available="true">
                 <erp>BI-300064-1</erp>
             <barcode>6959532361629</barcode>
@@ -35642,6 +35653,30 @@ USB-зарядка.&lt;br /&gt;
 Текстура: Оксамитова, Гладенька&lt;/br&gt;&lt;br /&gt;
 Наявність вібрації: Ні&lt;/br&gt;&lt;br /&gt;
 Живлення: Не потребує&lt;/br&gt;</description_ua>
+            </offer>
+        <offer id="48-11508" available="true">
+                <erp>48-11508</erp>
+            <barcode>4028403115080</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/6964-lubrikant_slicknslide_100_ml</url>
+            <price>949.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>158</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/48-11508.jpg</picture>
+            <name>Лубрикант JoyDivision Slick'n'Slide, 100 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor>JOYDIVISION</vendor>
+            <model>Лубрикант JoyDivision Slick'n'Slide, 100 мл</model>
+            <description>Високоякісний лубрикант Slick n Slide на силіконовій основі без запаху. Ідеально підходить для всіх секс-іграшок, у тому числі з силікону або латексу. Також підходить для використання з презервативами. Дерматологічно та клінічно протестований. Ніщо так не полегшує і не приносить задоволення, як зволожуючий гель. Завдяки йому можна швидко і легко вступати в статевий акт, крім того, він залишає приємну на дотик шкіру. Slick "n" Slide - це продукт, який задовольнить усі ваші потреби та задовольнить найвибагливіші бажання.&lt;br /&gt;
+Ємкість 100 мл&lt;br /&gt;
+&lt;br /&gt;
+Склад:  Диметикон, Диметикон, Циклометикон.</description>
+            <name_ua>Лубрикант JoyDivision Slick'n'Slide, 100 мл</name_ua>
+            <description_ua>Високоякісний лубрикант Slick n Slide на силіконовій основі без запаху. Ідеально підходить для всіх секс-іграшок, у тому числі з силікону або латексу. Також підходить для використання з презервативами. Дерматологічно та клінічно протестований. Ніщо так не полегшує і не приносить задоволення, як зволожуючий гель. Завдяки йому можна швидко і легко вступати в статевий акт, крім того, він залишає приємну на дотик шкіру. Slick "n" Slide - це продукт, який задовольнить усі ваші потреби та задовольнить найвибагливіші бажання.&lt;br /&gt;
+Ємкість 100 мл&lt;br /&gt;
+&lt;br /&gt;
+Склад:  Диметикон, Диметикон, Циклометикон.</description_ua>
             </offer>
         <offer id="1-00802734" available="true">
                 <erp>1-00802734</erp>
@@ -45125,29 +45160,6 @@ USB-акумулятор&lt;br /&gt;
 Керування з додатку: Ні&lt;br /&gt;
 Живлення: Не потребує</description_ua>
             </offer>
-        <offer id="39-70231" available="true">
-                <erp>39-70231</erp>
-            <barcode>5906647270231</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32200-klyap_z_zatiskachami_dlya_grudey_erospace_wild_play_c15</url>
-            <price>758.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>65</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_32196688345369946f.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_688345335208b.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68834533640fe.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_688345336ee1e.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68834533788e5.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6883453393dbb.png</picture>
-            <name>Кляп з затискачами для грудей Erospace Wild Play</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>EROSPACE</vendor>
-            <model>Кляп з затискачами для грудей Erospace Wild Play</model>
-            <description>Кляп з затискачами для грудей Erospace Wild Play</description>
-            <name_ua>Кляп з затискачами для грудей Erospace Wild Play</name_ua>
-            <description_ua>Кляп з затискачами для грудей Erospace Wild Play</description_ua>
-            </offer>
         <offer id="12-EXSNANO 3" available="true">
                 <erp>12-EXSNANO 3</erp>
             <barcode>5027701006419</barcode>
@@ -47179,30 +47191,6 @@ OLO Extra Large спеціально розроблені для чоловік�
             <description>Вібратор із зовнішнім виглядом анатомії чоловічого члена. Ідеально підходить як для жінок, так і для чоловіків. Для додаткового задоволення він має чітко окреслені лінії по всій довжині та позначену голову, яка змусить вас відчути себе, як у справжньому статевому акті. Ви можете легко змінити силу вібрації завдяки ручці в нижній частині виробу. Насолоджуйтесь незабутніми моментами з цим реалістичним вібратором. Продукт слід використовувати з мастилом на водній основі. Після кожного використання вібратор слід очищати засобом для очищення секс-іграшок.</description>
             <name_ua>Вібратор You2Toys Natur, 17 см</name_ua>
             <description_ua>Вібратор із зовнішнім виглядом анатомії чоловічого члена. Ідеально підходить як для жінок, так і для чоловіків. Для додаткового задоволення він має чітко окреслені лінії по всій довжині та позначену голову, яка змусить вас відчути себе, як у справжньому статевому акті. Ви можете легко змінити силу вібрації завдяки ручці в нижній частині виробу. Насолоджуйтесь незабутніми моментами з цим реалістичним вібратором. Продукт слід використовувати з мастилом на водній основі. Після кожного використання вібратор слід очищати засобом для очищення секс-іграшок.</description_ua>
-            </offer>
-        <offer id="48-11508" available="true">
-                <erp>48-11508</erp>
-            <barcode>4028403115080</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/6964-lubrikant_slicknslide_100_ml</url>
-            <price>949.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>158</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/48-11508.jpg</picture>
-            <name>Лубрикант JoyDivision Slick'n'Slide, 100 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>JOYDIVISION</vendor>
-            <model>Лубрикант JoyDivision Slick'n'Slide, 100 мл</model>
-            <description>Високоякісний лубрикант Slick n Slide на силіконовій основі без запаху. Ідеально підходить для всіх секс-іграшок, у тому числі з силікону або латексу. Також підходить для використання з презервативами. Дерматологічно та клінічно протестований. Ніщо так не полегшує і не приносить задоволення, як зволожуючий гель. Завдяки йому можна швидко і легко вступати в статевий акт, крім того, він залишає приємну на дотик шкіру. Slick "n" Slide - це продукт, який задовольнить усі ваші потреби та задовольнить найвибагливіші бажання.&lt;br /&gt;
-Ємкість 100 мл&lt;br /&gt;
-&lt;br /&gt;
-Склад:  Диметикон, Диметикон, Циклометикон.</description>
-            <name_ua>Лубрикант JoyDivision Slick'n'Slide, 100 мл</name_ua>
-            <description_ua>Високоякісний лубрикант Slick n Slide на силіконовій основі без запаху. Ідеально підходить для всіх секс-іграшок, у тому числі з силікону або латексу. Також підходить для використання з презервативами. Дерматологічно та клінічно протестований. Ніщо так не полегшує і не приносить задоволення, як зволожуючий гель. Завдяки йому можна швидко і легко вступати в статевий акт, крім того, він залишає приємну на дотик шкіру. Slick "n" Slide - це продукт, який задовольнить усі ваші потреби та задовольнить найвибагливіші бажання.&lt;br /&gt;
-Ємкість 100 мл&lt;br /&gt;
-&lt;br /&gt;
-Склад:  Диметикон, Диметикон, Циклометикон.</description_ua>
             </offer>
         <offer id="32-00041" available="true">
                 <erp>32-00041</erp>
@@ -66090,6 +66078,65 @@ Pherluxe BLACK - подарує вам чуттєвість, пристраст�
 Довжина загальна (см): 5.8&lt;br /&gt;
 К-сть штук в упаковці (шт.): 1</description_ua>
             </offer>
+        <offer id="66-LV4211" available="true">
+                <erp>66-LV4211</erp>
+            <barcode>6970260906531</barcode>
+            <quantity_in_stock>6</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35420-nasadka_podovzhuyucha_add_1_silicone_extender_brown</url>
+            <price>808.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>36</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_354166900aef4c6e67.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6900aef2cf014.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6900aef2eb2b9.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6900aef30955f.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6900aef31dd19.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6900aef330fb8.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6900aef345ae2.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6900aef35882d.png</picture>
+            <name>Насадка на пеніс Revolutionary Silicone Nature Extender 1.5, коричнева</name>
+            <Отображать>Да</Отображать>
+            <stock>6</stock>
+            <vendor>LOVETOYS</vendor>
+            <model>Насадка на пеніс Revolutionary Silicone Nature Extender 1.5, коричнева</model>
+            <description>Насадка для збільшення розмірів статевого органу Revolutionary Silicone Nature Extender забезпечує &lt;b&gt;подовження на 3.8 см та потовщення на 40%&lt;/b&gt;. Виготовлена з м'якого силікону, що комфортно прилягає до тіла та надійно фіксується під час використання.&lt;br /&gt;
+&lt;br /&gt;
+Реалістична форма з рельєфною головкою створює природні відчуття для партнерки. Еластичний матеріал дозволяє &lt;b&gt;підрізати основу для індивідуального підгонання розміру&lt;/b&gt;. Водонепроникна конструкція спрощує догляд та очищення після застосування.&lt;br /&gt;
+&lt;br /&gt;
+Підходить для експериментів з розмірами та урізноманітнення інтимної близькості. Використовуйте з лубрикантами на водній основі для максимального комфорту.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: LoveToy&lt;br /&gt;
+Виробник: LoveToy&lt;br /&gt;
+Живлення: Не потребує&lt;br /&gt;
+Матеріал: Силікон&lt;br /&gt;
+Текстура: Реалістик&lt;br /&gt;
+Діаметр (см): 4&lt;br /&gt;
+Водонепроникність: Так&lt;br /&gt;
+Наявність вібрації: Ні&lt;br /&gt;
+Довжина загальна (см): 16.5&lt;br /&gt;
+К-сть штук в упаковці (шт.): 1</description>
+            <name_ua>Насадка на пеніс Revolutionary Silicone Nature Extender 1.5, коричнева</name_ua>
+            <description_ua>Насадка для збільшення розмірів статевого органу Revolutionary Silicone Nature Extender забезпечує &lt;b&gt;подовження на 3.8 см та потовщення на 40%&lt;/b&gt;. Виготовлена з м'якого силікону, що комфортно прилягає до тіла та надійно фіксується під час використання.&lt;br /&gt;
+&lt;br /&gt;
+Реалістична форма з рельєфною головкою створює природні відчуття для партнерки. Еластичний матеріал дозволяє &lt;b&gt;підрізати основу для індивідуального підгонання розміру&lt;/b&gt;. Водонепроникна конструкція спрощує догляд та очищення після застосування.&lt;br /&gt;
+&lt;br /&gt;
+Підходить для експериментів з розмірами та урізноманітнення інтимної близькості. Використовуйте з лубрикантами на водній основі для максимального комфорту.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: LoveToy&lt;br /&gt;
+Виробник: LoveToy&lt;br /&gt;
+Живлення: Не потребує&lt;br /&gt;
+Матеріал: Силікон&lt;br /&gt;
+Текстура: Реалістик&lt;br /&gt;
+Діаметр (см): 4&lt;br /&gt;
+Водонепроникність: Так&lt;br /&gt;
+Наявність вібрації: Ні&lt;br /&gt;
+Довжина загальна (см): 16.5&lt;br /&gt;
+К-сть штук в упаковці (шт.): 1</description_ua>
+            </offer>
         <offer id="60-00061" available="true">
                 <erp>60-00061</erp>
             <barcode>5906233082200</barcode>
@@ -71354,65 +71401,6 @@ Clitoris Spray Stimulating - це відмінний вибір для тих, �
 Смак: Без смаку (нейтральний)&lt;br /&gt;
 Запах: Без запаху (нейтральний)&lt;br /&gt;
 Їстівне: Ні</description_ua>
-            </offer>
-        <offer id="66-LV4211" available="true">
-                <erp>66-LV4211</erp>
-            <barcode>6970260906531</barcode>
-            <quantity_in_stock>8</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/35420-nasadka_podovzhuyucha_add_1_silicone_extender_brown</url>
-            <price>808.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>36</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_354166900aef4c6e67.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6900aef2cf014.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6900aef2eb2b9.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6900aef30955f.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6900aef31dd19.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6900aef330fb8.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6900aef345ae2.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6900aef35882d.png</picture>
-            <name>Насадка на пеніс Revolutionary Silicone Nature Extender 1.5, коричнева</name>
-            <Отображать>Да</Отображать>
-            <stock>8</stock>
-            <vendor>LOVETOYS</vendor>
-            <model>Насадка на пеніс Revolutionary Silicone Nature Extender 1.5, коричнева</model>
-            <description>Насадка для збільшення розмірів статевого органу Revolutionary Silicone Nature Extender забезпечує &lt;b&gt;подовження на 3.8 см та потовщення на 40%&lt;/b&gt;. Виготовлена з м'якого силікону, що комфортно прилягає до тіла та надійно фіксується під час використання.&lt;br /&gt;
-&lt;br /&gt;
-Реалістична форма з рельєфною головкою створює природні відчуття для партнерки. Еластичний матеріал дозволяє &lt;b&gt;підрізати основу для індивідуального підгонання розміру&lt;/b&gt;. Водонепроникна конструкція спрощує догляд та очищення після застосування.&lt;br /&gt;
-&lt;br /&gt;
-Підходить для експериментів з розмірами та урізноманітнення інтимної близькості. Використовуйте з лубрикантами на водній основі для максимального комфорту.&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: LoveToy&lt;br /&gt;
-Виробник: LoveToy&lt;br /&gt;
-Живлення: Не потребує&lt;br /&gt;
-Матеріал: Силікон&lt;br /&gt;
-Текстура: Реалістик&lt;br /&gt;
-Діаметр (см): 4&lt;br /&gt;
-Водонепроникність: Так&lt;br /&gt;
-Наявність вібрації: Ні&lt;br /&gt;
-Довжина загальна (см): 16.5&lt;br /&gt;
-К-сть штук в упаковці (шт.): 1</description>
-            <name_ua>Насадка на пеніс Revolutionary Silicone Nature Extender 1.5, коричнева</name_ua>
-            <description_ua>Насадка для збільшення розмірів статевого органу Revolutionary Silicone Nature Extender забезпечує &lt;b&gt;подовження на 3.8 см та потовщення на 40%&lt;/b&gt;. Виготовлена з м'якого силікону, що комфортно прилягає до тіла та надійно фіксується під час використання.&lt;br /&gt;
-&lt;br /&gt;
-Реалістична форма з рельєфною головкою створює природні відчуття для партнерки. Еластичний матеріал дозволяє &lt;b&gt;підрізати основу для індивідуального підгонання розміру&lt;/b&gt;. Водонепроникна конструкція спрощує догляд та очищення після застосування.&lt;br /&gt;
-&lt;br /&gt;
-Підходить для експериментів з розмірами та урізноманітнення інтимної близькості. Використовуйте з лубрикантами на водній основі для максимального комфорту.&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: LoveToy&lt;br /&gt;
-Виробник: LoveToy&lt;br /&gt;
-Живлення: Не потребує&lt;br /&gt;
-Матеріал: Силікон&lt;br /&gt;
-Текстура: Реалістик&lt;br /&gt;
-Діаметр (см): 4&lt;br /&gt;
-Водонепроникність: Так&lt;br /&gt;
-Наявність вібрації: Ні&lt;br /&gt;
-Довжина загальна (см): 16.5&lt;br /&gt;
-К-сть штук в упаковці (шт.): 1</description_ua>
             </offer>
         <offer id="60-00060" available="true">
                 <erp>60-00060</erp>
