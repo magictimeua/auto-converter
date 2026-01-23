@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-01-23 17:00">
+<yml_catalog date="2026-01-23 18:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -284,6 +284,30 @@
             <description>Страпон ATENA Strap On-LOVECLONEX 6,5</description>
             <name_ua>Страпон B-Series Real Atena, 6,5 см</name_ua>
             <description_ua>Страпон ATENA Strap On-LOVECLONEX 6,5</description_ua>
+            </offer>
+        <offer id="26-00009" available="true">
+                <erp>26-00009</erp>
+            <barcode>5906233080343</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2382-lalka_krystyna</url>
+            <price>850.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>70</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_238262dff1e1068b5.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62dff1dfce2e4.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62dff1dfee481.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62dff1e00e44e.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62dff1e0247d0.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62dff1e0365a8.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62dff1e049427.png</picture>
+            <name>Секс-лялька B - Series Lyla Lalka Krystyna</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Секс-лялька B - Series Lyla Lalka Krystyna</model>
+            <description>Висота ляльки всього 156 сантиметрів, що відповідає зросту тендітної дівчини. Обличчя Krystyna відрізняється милим дизайном, а фігура - спокусливими параметрами, пишним бюстом і еротично розсунутими ніжками. Лялька виконана з   полівінілхлориду - це гладкий, приємний на дотик матеріал. Крім того, вона оснащена трьома функціональними робочими отворами - ротиком, анусом і піхвою.</description>
+            <name_ua>Секс-лялька B - Series Lyla Lalka Krystyna</name_ua>
+            <description_ua>Висота ляльки всього 156 сантиметрів, що відповідає зросту тендітної дівчини. Обличчя Krystyna відрізняється милим дизайном, а фігура - спокусливими параметрами, пишним бюстом і еротично розсунутими ніжками. Лялька виконана з   полівінілхлориду - це гладкий, приємний на дотик матеріал. Крім того, вона оснащена трьома функціональними робочими отворами - ротиком, анусом і піхвою.</description_ua>
             </offer>
         <offer id="19-1204" available="true">
                 <erp>19-1204</erp>
@@ -20228,30 +20252,6 @@ OLO Extra Large спеціально розроблені для чоловік�
             <name_ua>Вібратор Calexotics Posh Bounding Bunny, рожевий</name_ua>
             <description_ua>З'єднана заглушка з конусом має конічний кінець для полегшення входу, перш ніж вона поступово розширюється. Гнучкий дизайн та міцна ручка в основі забезпечують безпечне та просте поводження.</description_ua>
             </offer>
-        <offer id="26-00009" available="true">
-                <erp>26-00009</erp>
-            <barcode>5906233080343</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2382-lalka_krystyna</url>
-            <price>850.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>70</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_238262dff1e1068b5.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62dff1dfce2e4.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62dff1dfee481.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62dff1e00e44e.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62dff1e0247d0.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62dff1e0365a8.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62dff1e049427.png</picture>
-            <name>Секс-лялька B - Series Lyla Lalka Krystyna</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Секс-лялька B - Series Lyla Lalka Krystyna</model>
-            <description>Висота ляльки всього 156 сантиметрів, що відповідає зросту тендітної дівчини. Обличчя Krystyna відрізняється милим дизайном, а фігура - спокусливими параметрами, пишним бюстом і еротично розсунутими ніжками. Лялька виконана з   полівінілхлориду - це гладкий, приємний на дотик матеріал. Крім того, вона оснащена трьома функціональними робочими отворами - ротиком, анусом і піхвою.</description>
-            <name_ua>Секс-лялька B - Series Lyla Lalka Krystyna</name_ua>
-            <description_ua>Висота ляльки всього 156 сантиметрів, що відповідає зросту тендітної дівчини. Обличчя Krystyna відрізняється милим дизайном, а фігура - спокусливими параметрами, пишним бюстом і еротично розсунутими ніжками. Лялька виконана з   полівінілхлориду - це гладкий, приємний на дотик матеріал. Крім того, вона оснащена трьома функціональними робочими отворами - ротиком, анусом і піхвою.</description_ua>
-            </offer>
         <offer id="19-3031" available="true">
                 <erp>19-3031</erp>
             <barcode>3548960030318</barcode>
@@ -23877,24 +23877,6 @@ OLO Extra Large спеціально розроблені для чоловік�
 Загальна довжина 39 см.&lt;br /&gt;
 &lt;br /&gt;
 Затискачі, призначені для стимуляції сосків. Затискачі з металу, покриті шаром гуми без шкідливих сполук і фталатів для комфорту використання. Усі металеві деталі не містять нікель і тому не викликають алергії. Виріб має регульовану силу затиску завдяки обертовому гвинту. Щоб відрегулювати тиск, спочатку натисніть на затискач, а потім відповідно відрегулюйте гвинт.</description_ua>
-            </offer>
-        <offer id="61-00022" available="true">
-                <erp>61-00022</erp>
-            <barcode>5903661804015</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/18817-stymulatorexclusive_nipple_clamps_no14_fetish_boss_series</url>
-            <price>224.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>85</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/61-00022.jpg</picture>
-            <name>Затискачі для сосків Exclusive Nipple Clamps No. 14, серія Fetish B, чорні</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>FETISH BOSS SERIES</vendor>
-            <model>Затискачі для сосків Exclusive Nipple Clamps No. 14, серія Fetish B, чорні</model>
-            <description>Затискачі для сосків Exclusive Nipple Clamps No. 14, серія Fetish B, чорні</description>
-            <name_ua>Затискачі для сосків Exclusive Nipple Clamps No. 14, серія Fetish B, чорні</name_ua>
-            <description_ua>Затискачі для сосків Exclusive Nipple Clamps No. 14, серія Fetish B, чорні</description_ua>
             </offer>
         <offer id="42-07739050000" available="true">
                 <erp>42-07739050000</erp>
@@ -43576,6 +43558,66 @@ USB-зарядка.&lt;br /&gt;
 Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
 Керування з додатку: Ні&lt;/br&gt;</description_ua>
             </offer>
+        <offer id="BI-026255" available="true">
+                <erp>BI-026255</erp>
+            <barcode>6959532360394</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31567-nasadka__na_penis_pretty_love_hani_250_mm_extended_series_tpr</url>
+            <price>228.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>36</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3156466edaf01ee0cb.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edaf0020610.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edaf003a9cc.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edaf005b4e2.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edaf0073b4b.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edaf008d1cb.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edaf00a5a51.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edaf00c50a9.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edaf00de364.jpeg</picture>
+            <name>Насадка на пеніс Pretty Love Hani, 5 см</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Насадка на пеніс Pretty Love Hani, 5 см</model>
+            <description>Насадка Pretty Love Hani розширює можливості інтимної близькості, &lt;b&gt;додаючи пенісу 5 см довжини та збільшуючи товщину на 35%&lt;/b&gt;. Виготовлена з еластичної термопластичної гуми, яка м'яко обхоплює член і забезпечує природні відчуття під час контакту.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Конструкція з &lt;b&gt;реалістичною текстурою та петелькою для мошонки&lt;/b&gt; гарантує надійну фіксацію і свободу рухів. Водонепроникний матеріал легко очищується після використання, а сумісність з усіма типами лубрикантів розширює варіанти застосування.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Підходить для пар, які прагнуть урізноманітнити інтимність і отримати нові відчуття від близькості.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Термопластична гума (TPR)&lt;/br&gt;&lt;br /&gt;
+Текстура: Реалістик&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 18&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 3.9&lt;/br&gt;&lt;br /&gt;
+Водонепроникність: Так&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Ні&lt;/br&gt;&lt;br /&gt;
+Керування з додатку: Ні&lt;/br&gt;&lt;br /&gt;
+Живлення: Не потребує&lt;/br&gt;</description>
+            <name_ua>Насадка на пеніс Pretty Love Hani, 5 см</name_ua>
+            <description_ua>Насадка Pretty Love Hani розширює можливості інтимної близькості, &lt;b&gt;додаючи пенісу 5 см довжини та збільшуючи товщину на 35%&lt;/b&gt;. Виготовлена з еластичної термопластичної гуми, яка м'яко обхоплює член і забезпечує природні відчуття під час контакту.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Конструкція з &lt;b&gt;реалістичною текстурою та петелькою для мошонки&lt;/b&gt; гарантує надійну фіксацію і свободу рухів. Водонепроникний матеріал легко очищується після використання, а сумісність з усіма типами лубрикантів розширює варіанти застосування.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Підходить для пар, які прагнуть урізноманітнити інтимність і отримати нові відчуття від близькості.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Термопластична гума (TPR)&lt;/br&gt;&lt;br /&gt;
+Текстура: Реалістик&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 18&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 3.9&lt;/br&gt;&lt;br /&gt;
+Водонепроникність: Так&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Ні&lt;/br&gt;&lt;br /&gt;
+Керування з додатку: Ні&lt;/br&gt;&lt;br /&gt;
+Живлення: Не потребує&lt;/br&gt;</description_ua>
+            </offer>
         <offer id="BI-040126" available="true">
                 <erp>BI-040126</erp>
             <barcode>6959532334043</barcode>
@@ -52516,66 +52558,6 @@ USB перезаряджається&lt;br /&gt;
 Живлення: Акумулятор&lt;/br&gt;&lt;br /&gt;
 Водонепроникність: Так&lt;/br&gt;&lt;br /&gt;
 Наявність присоски: Ні&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="BI-026255" available="true">
-                <erp>BI-026255</erp>
-            <barcode>6959532360394</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31567-nasadka__na_penis_pretty_love_hani_250_mm_extended_series_tpr</url>
-            <price>228.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>36</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3156466edaf01ee0cb.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edaf0020610.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edaf003a9cc.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edaf005b4e2.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edaf0073b4b.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edaf008d1cb.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edaf00a5a51.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edaf00c50a9.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edaf00de364.jpeg</picture>
-            <name>Насадка на пеніс Pretty Love Hani, 5 см</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Насадка на пеніс Pretty Love Hani, 5 см</model>
-            <description>Насадка Pretty Love Hani розширює можливості інтимної близькості, &lt;b&gt;додаючи пенісу 5 см довжини та збільшуючи товщину на 35%&lt;/b&gt;. Виготовлена з еластичної термопластичної гуми, яка м'яко обхоплює член і забезпечує природні відчуття під час контакту.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Конструкція з &lt;b&gt;реалістичною текстурою та петелькою для мошонки&lt;/b&gt; гарантує надійну фіксацію і свободу рухів. Водонепроникний матеріал легко очищується після використання, а сумісність з усіма типами лубрикантів розширює варіанти застосування.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Підходить для пар, які прагнуть урізноманітнити інтимність і отримати нові відчуття від близькості.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Термопластична гума (TPR)&lt;/br&gt;&lt;br /&gt;
-Текстура: Реалістик&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 18&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.9&lt;/br&gt;&lt;br /&gt;
-Водонепроникність: Так&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Ні&lt;/br&gt;&lt;br /&gt;
-Керування з додатку: Ні&lt;/br&gt;&lt;br /&gt;
-Живлення: Не потребує&lt;/br&gt;</description>
-            <name_ua>Насадка на пеніс Pretty Love Hani, 5 см</name_ua>
-            <description_ua>Насадка Pretty Love Hani розширює можливості інтимної близькості, &lt;b&gt;додаючи пенісу 5 см довжини та збільшуючи товщину на 35%&lt;/b&gt;. Виготовлена з еластичної термопластичної гуми, яка м'яко обхоплює член і забезпечує природні відчуття під час контакту.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Конструкція з &lt;b&gt;реалістичною текстурою та петелькою для мошонки&lt;/b&gt; гарантує надійну фіксацію і свободу рухів. Водонепроникний матеріал легко очищується після використання, а сумісність з усіма типами лубрикантів розширює варіанти застосування.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Підходить для пар, які прагнуть урізноманітнити інтимність і отримати нові відчуття від близькості.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Термопластична гума (TPR)&lt;/br&gt;&lt;br /&gt;
-Текстура: Реалістик&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 18&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.9&lt;/br&gt;&lt;br /&gt;
-Водонепроникність: Так&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Ні&lt;/br&gt;&lt;br /&gt;
-Керування з додатку: Ні&lt;/br&gt;&lt;br /&gt;
-Живлення: Не потребує&lt;/br&gt;</description_ua>
             </offer>
         <offer id="49-3242" available="true">
                 <erp>49-3242</erp>
@@ -75753,7 +75735,7 @@ H2O UNI Gel - це універсальний і надійний лубрика
         <offer id="12-EXS Lube" available="true">
                 <erp>12-EXS Lube</erp>
             <barcode />
-            <quantity_in_stock>284</quantity_in_stock>
+            <quantity_in_stock>283</quantity_in_stock>
             <url>http://blissclub.com.ua/product/35677-lubrikant_na_vodniy_osnovi_exs_clear_lube_10_ml_</url>
             <price>22.00</price>
             <currencyId>UAH</currencyId>
@@ -75761,7 +75743,7 @@ H2O UNI Gel - це універсальний і надійний лубрика
             <picture>https://blissclub.com.ua/images/product_variants/product_356736940264c29628.jpg</picture>
             <name>Лубрикант EXS Clear Lube на водній основі, 10 мл</name>
             <Отображать>Да</Отображать>
-            <stock>284</stock>
+            <stock>283</stock>
             <vendor>EXS</vendor>
             <model>Лубрикант EXS Clear Lube на водній основі, 10 мл</model>
             <description>Лубрикант на водній основі EXS Clear Lube забезпечує &lt;b&gt;природне зволоження&lt;/b&gt; та комфортні відчуття під час інтимної близькості. Формула з гліцерином створює тривале ковзання без липкості чи дискомфорту.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
