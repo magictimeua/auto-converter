@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-02-10 10:30">
+<yml_catalog date="2026-02-10 11:30">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -262,6 +262,24 @@
             <description>Парфуми для жінок. Приємний і енергійний аромат, який розвивається і змінює тон з часом після розпилення на тіло. Ємність 50 мл</description>
             <name_ua>Парфуми Taboo Espiegle for Her, 50 мл</name_ua>
             <description_ua>Парфуми для жінок. Приємний і енергійний аромат, який розвивається і змінює тон з часом після розпилення на тіло. Ємність 50 мл</description_ua>
+            </offer>
+        <offer id="19-3045" available="true">
+                <erp>19-3045</erp>
+            <barcode>3548960030455</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2430-lubrikant_xtra_erection</url>
+            <price>475.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>42</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/19-3045.jpg</picture>
+            <name>Лубрикант xtra erection I Can 30ml</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>RUF</vendor>
+            <model>Лубрикант xtra erection I Can 30ml</model>
+            <description>Стимулюючий крем для догляду за пенісом. При регулярному застосуванні можна досягти сили і бадьорості.</description>
+            <name_ua>Лубрикант xtra erection I Can 30ml</name_ua>
+            <description_ua>Стимулюючий крем для догляду за пенісом. При регулярному застосуванні можна досягти сили і бадьорості.</description_ua>
             </offer>
         <offer id="26-00013" available="true">
                 <erp>26-00013</erp>
@@ -2078,6 +2096,51 @@ American BIOglide Plus - це відмінний вибір для тих, хт�
             <description>Рольовий костюм покоївки Maid, S/M</description>
             <name_ua>Рольовий костюм покоївки Maid, S/M</name_ua>
             <description_ua>Рольовий костюм покоївки Maid, S/M</description_ua>
+            </offer>
+        <offer id="42-06219860000" available="true">
+                <erp>42-06219860000</erp>
+            <barcode>4024144621989</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/4219-masazhne_maslo_oil_love_fantasy_l_100</url>
+            <price>420.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>49</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/42-06219860000.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6876132438dc5.jpeg</picture>
+            <name>Масажна олія Magoon Love Fantasy, любовна фантазія, 100 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>ORION</vendor>
+            <model>Масажна олія Magoon Love Fantasy, любовна фантазія, 100 мл</model>
+            <description>Масажна олія Magoon Love Fantasy створена для інтимного масажу та догляду за шкірою тіла. &lt;b&gt;Олія з ароматом кориці та екзотичних фруктів&lt;/b&gt; забезпечує розслаблення після напруженого дня та сприяє створенню романтичної атмосфери між партнерами.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Засіб містить &lt;b&gt;олію жожоба, яка живить та зволожує шкіру&lt;/b&gt; протягом тривалого часу. Продукт підходить для догляду за сухою і нормальною шкірою, може використовуватися як після душу для пом'якшення, так і під час масажних процедур.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Застосування: нанесіть невелику кількість на долоню та масажуйте тіло м'якими погладжуючими рухами. &lt;b&gt;Об'єм 100 мл&lt;/b&gt; забезпечує тривале використання продукту.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Magoon&lt;/br&gt;&lt;br /&gt;
+Виробник: Orion&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 100&lt;/br&gt;&lt;br /&gt;
+Форма випуску: Масло&lt;/br&gt;&lt;br /&gt;
+Запах: Квітковий&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;</description>
+            <name_ua>Масажна олія Magoon Love Fantasy, любовна фантазія, 100 мл</name_ua>
+            <description_ua>Масажна олія Magoon Love Fantasy створена для інтимного масажу та догляду за шкірою тіла. &lt;b&gt;Олія з ароматом кориці та екзотичних фруктів&lt;/b&gt; забезпечує розслаблення після напруженого дня та сприяє створенню романтичної атмосфери між партнерами.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Засіб містить &lt;b&gt;олію жожоба, яка живить та зволожує шкіру&lt;/b&gt; протягом тривалого часу. Продукт підходить для догляду за сухою і нормальною шкірою, може використовуватися як після душу для пом'якшення, так і під час масажних процедур.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Застосування: нанесіть невелику кількість на долоню та масажуйте тіло м'якими погладжуючими рухами. &lt;b&gt;Об'єм 100 мл&lt;/b&gt; забезпечує тривале використання продукту.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Magoon&lt;/br&gt;&lt;br /&gt;
+Виробник: Orion&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 100&lt;/br&gt;&lt;br /&gt;
+Форма випуску: Масло&lt;/br&gt;&lt;br /&gt;
+Запах: Квітковий&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;</description_ua>
             </offer>
         <offer id="32-00031" available="true">
                 <erp>32-00031</erp>
@@ -13480,6 +13543,72 @@ Desirable Flirt збільшить темп еротичних ігор до м�
 Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
 Гарантія: 1 рік&lt;/br&gt;</description_ua>
             </offer>
+        <offer id="BI-014220-A3" available="true">
+                <erp>BI-014220-A3</erp>
+            <barcode>6959532360530</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31546-vibrator_pretty_love_bishop_black_30_function</url>
+            <price>475.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>143</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3154366edc4db71473.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edc4d9c1559.gif</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edc4d9eab06.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edc4da1338e.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edc4da2cd3b.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edc4da49e69.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edc4da66eb1.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edc4da86c64.gif</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edc4daa2e8c.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edc4dab889a.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edc4dacf488.jpeg</picture>
+            <name>Вібратор для точки G Pretty Love Bishop, чорний</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Вібратор для точки G Pretty Love Bishop, чорний</model>
+            <description>Вібратор Pretty Love Bishop створений спеціально для &lt;b&gt;стимуляції точки G&lt;/b&gt; завдяки анатомічно вигнутій формі. Модель оснащена &lt;b&gt;30 режимами вібрації&lt;/b&gt;, які легко перемикаються кнопкою на ручці, дозволяючи підібрати оптимальну інтенсивність для максимального задоволення.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Іграшка виготовлена з &lt;b&gt;м'якого силікону та міцного пластику&lt;/b&gt;, має гладеньку текстуру для комфортного ковзання. Робоча довжина 11 см та діаметр 3,1 см забезпечують зручне використання, а живлення від двох батарейок ААА гарантує тривалу роботу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Підходить для використання з лубрикантами на водній основі. Після кожного застосування рекомендується очищення спеціальними засобами для інтимних іграшок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 18.2&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 11&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 3.1&lt;/br&gt;&lt;br /&gt;
+Матеріал: Пластик, Силікон&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
+Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
+Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
+Керування з додатку: Ні&lt;/br&gt;</description>
+            <name_ua>Вібратор для точки G Pretty Love Bishop, чорний</name_ua>
+            <description_ua>Вібратор Pretty Love Bishop створений спеціально для &lt;b&gt;стимуляції точки G&lt;/b&gt; завдяки анатомічно вигнутій формі. Модель оснащена &lt;b&gt;30 режимами вібрації&lt;/b&gt;, які легко перемикаються кнопкою на ручці, дозволяючи підібрати оптимальну інтенсивність для максимального задоволення.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Іграшка виготовлена з &lt;b&gt;м'якого силікону та міцного пластику&lt;/b&gt;, має гладеньку текстуру для комфортного ковзання. Робоча довжина 11 см та діаметр 3,1 см забезпечують зручне використання, а живлення від двох батарейок ААА гарантує тривалу роботу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Підходить для використання з лубрикантами на водній основі. Після кожного застосування рекомендується очищення спеціальними засобами для інтимних іграшок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 18.2&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 11&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 3.1&lt;/br&gt;&lt;br /&gt;
+Матеріал: Пластик, Силікон&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
+Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
+Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
+Керування з додатку: Ні&lt;/br&gt;</description_ua>
+            </offer>
         <offer id="BI-014547" available="true">
                 <erp>BI-014547</erp>
             <barcode>6959532321517</barcode>
@@ -19238,6 +19367,29 @@ Lila – тепло, вібрації та пульсації в одному, �
             <name_ua>Парфуми Ruf Sex Spray, 15 мл</name_ua>
             <description_ua>Феромони – це природні речовини, які впливають на підсвідомість непомітним для зору: вони підвищують інтерес жінок, стимулюють і концентрують їхню увагу на чоловікові, створюючи навколо чоловіка ауру панування. Концентрована форма і відповідні пропорції т. зв Ароматичні атрактанти додатково посилюються дієвістю феромонів, що виробляються кожним з нас. Цей процес дуже помітний у тваринному світі, і тепер, завдяки досягненню технологій, ми можемо використовувати ці знання щодня. Читайте статтю про користь феромонів у житті кожного, хто хотів би допомогти своїй чарівності, щоб справити гарне перше враження, налагодити стосунки або зберегти пристрасть у постійних стосунках</description_ua>
             </offer>
+        <offer id="19-3035" available="true">
+                <erp>19-3035</erp>
+            <barcode>3548960030356</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2429-lubrikant_x_control</url>
+            <price>468.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>40</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_242962e1310a9256b.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62e131090e3c0.png</picture>
+            <name>Пролонгатор Ruf X-Control Cooling Effect, з охолоджуючим ефектом, 40 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor>RUF</vendor>
+            <model>Пролонгатор X-Control</model>
+            <description>X Control – це чудовий і надійний препарат, який злегка знеболює чутливі місця на статевому члені, що дозволить набагато краще контролювати еякуляцію. Завдяки цьому крему статевий акт можна продовжити на кілька десятків хвилин. Все, що вам потрібно зробити, це нанести його на чутливі ділянки на пенісі, щоб препарат почав діяти менше ніж через десять хвилин.&lt;br /&gt;
+&lt;br /&gt;
+Склад:  вода, цетеариловий спирт, гліцерин, парафінова рідина, олія Corylus Avellana, віск Альба, Ceteareth-20, феноксиетанол, ксантанова камедь, токоферил ацетат, ментиллактат, PPG 26 Buteth 26, PEG-40 Castor Hervenil, PEG-40 Олія, олія листя евкаліпта, олія листя Mentha Viridis, олія Mentha Piperita, фруктова олія Fueniculum Vulgare Dulce, метилпарабен, етилпарабен, бутилпарабен, ізобутилпарабен, пропілпарабен, лімонен, ліналоол.</description>
+            <name_ua>Пролонгатор Ruf X-Control Cooling Effect, з охолоджуючим ефектом, 40 мл</name_ua>
+            <description_ua>X Control – це чудовий і надійний препарат, який злегка знеболює чутливі місця на статевому члені, що дозволить набагато краще контролювати еякуляцію. Завдяки цьому крему статевий акт можна продовжити на кілька десятків хвилин. Все, що вам потрібно зробити, це нанести його на чутливі ділянки на пенісі, щоб препарат почав діяти менше ніж через десять хвилин.&lt;br /&gt;
+&lt;br /&gt;
+Склад:  вода, цетеариловий спирт, гліцерин, парафінова рідина, олія Corylus Avellana, віск Альба, Ceteareth-20, феноксиетанол, ксантанова камедь, токоферил ацетат, ментиллактат, PPG 26 Buteth 26, PEG-40 Castor Hervenil, PEG-40 Олія, олія листя евкаліпта, олія листя Mentha Viridis, олія Mentha Piperita, фруктова олія Fueniculum Vulgare Dulce, метилпарабен, етилпарабен, бутилпарабен, ізобутилпарабен, пропілпарабен, лімонен, ліналоол.</description_ua>
+            </offer>
         <offer id="19-31161" available="true">
                 <erp>19-31161</erp>
             <barcode>3548960011614</barcode>
@@ -20735,51 +20887,6 @@ Lila – тепло, вібрації та пульсації в одному, �
 Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
 Живлення: Не потребує&lt;/br&gt;</description_ua>
             </offer>
-        <offer id="42-06219860000" available="true">
-                <erp>42-06219860000</erp>
-            <barcode>4024144621989</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/4219-masazhne_maslo_oil_love_fantasy_l_100</url>
-            <price>420.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>49</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-06219860000.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6876132438dc5.jpeg</picture>
-            <name>Масажна олія Magoon Love Fantasy, любовна фантазія, 100 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>ORION</vendor>
-            <model>Масажна олія Magoon Love Fantasy, любовна фантазія, 100 мл</model>
-            <description>Масажна олія Magoon Love Fantasy створена для інтимного масажу та догляду за шкірою тіла. &lt;b&gt;Олія з ароматом кориці та екзотичних фруктів&lt;/b&gt; забезпечує розслаблення після напруженого дня та сприяє створенню романтичної атмосфери між партнерами.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Засіб містить &lt;b&gt;олію жожоба, яка живить та зволожує шкіру&lt;/b&gt; протягом тривалого часу. Продукт підходить для догляду за сухою і нормальною шкірою, може використовуватися як після душу для пом'якшення, так і під час масажних процедур.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Застосування: нанесіть невелику кількість на долоню та масажуйте тіло м'якими погладжуючими рухами. &lt;b&gt;Об'єм 100 мл&lt;/b&gt; забезпечує тривале використання продукту.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Magoon&lt;/br&gt;&lt;br /&gt;
-Виробник: Orion&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 100&lt;/br&gt;&lt;br /&gt;
-Форма випуску: Масло&lt;/br&gt;&lt;br /&gt;
-Запах: Квітковий&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;</description>
-            <name_ua>Масажна олія Magoon Love Fantasy, любовна фантазія, 100 мл</name_ua>
-            <description_ua>Масажна олія Magoon Love Fantasy створена для інтимного масажу та догляду за шкірою тіла. &lt;b&gt;Олія з ароматом кориці та екзотичних фруктів&lt;/b&gt; забезпечує розслаблення після напруженого дня та сприяє створенню романтичної атмосфери між партнерами.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Засіб містить &lt;b&gt;олію жожоба, яка живить та зволожує шкіру&lt;/b&gt; протягом тривалого часу. Продукт підходить для догляду за сухою і нормальною шкірою, може використовуватися як після душу для пом'якшення, так і під час масажних процедур.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Застосування: нанесіть невелику кількість на долоню та масажуйте тіло м'якими погладжуючими рухами. &lt;b&gt;Об'єм 100 мл&lt;/b&gt; забезпечує тривале використання продукту.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Magoon&lt;/br&gt;&lt;br /&gt;
-Виробник: Orion&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 100&lt;/br&gt;&lt;br /&gt;
-Форма випуску: Масло&lt;/br&gt;&lt;br /&gt;
-Запах: Квітковий&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;</description_ua>
-            </offer>
         <offer id="42-24601221101" available="true">
                 <erp>42-24601221101</erp>
             <barcode>4024144224197</barcode>
@@ -21426,6 +21533,54 @@ Lila – тепло, вібрації та пульсації в одному, �
 Водонепроникність: Так&lt;/br&gt;&lt;br /&gt;
 Живлення: Батарейки CR123A (1 шт.)&lt;/br&gt;&lt;br /&gt;
 Гарантія: 2 роки&lt;/br&gt;</description_ua>
+            </offer>
+        <offer id="42-05331060000" available="true">
+                <erp>42-05331060000</erp>
+            <barcode>4024144544240</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/12552-rebel_ball_stretchin</url>
+            <price>900.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>37</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/42-05331060000.jpg</picture>
+            <name>Набір ерекційних кілець Rebel Ball Stretchin, чорний</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor>ORION</vendor>
+            <model>Набір ерекційних кілець Rebel Ball Stretchin, чорний</model>
+            <description>Набір ерекційних кілець Rebel Ball Stretchin надає можливість &lt;b&gt;контролювати тривалість інтимної близькості&lt;/b&gt; завдяки трьом кільцям різної ширини. Силіконові кільця створюють м'який тиск, що сприяє підтримці стійкої ерекції та затримці кульмінації.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Комплект містить три кільця однакового діаметру 2,5 см, але з різною шириною: 1 см, 2 см та 3 см. &lt;b&gt;Товщина кожного кільця становить 1 см&lt;/b&gt;, що забезпечує комфортне розташування на статевому члені та мошонці. Еластичний силікон з гладенькою текстурою легко розтягується та приємний на дотик.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Кільця підвищують чутливість та інтенсивність відчуттів для обох партнерів. Рекомендується використовувати з лубрикантом на водній основі для максимального комфорту.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Rebel&lt;/br&gt;&lt;br /&gt;
+Виробник: Orion&lt;/br&gt;&lt;br /&gt;
+Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 2.5&lt;/br&gt;&lt;br /&gt;
+К-сть штук в упаковці (шт.): 3&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Ні&lt;/br&gt;&lt;br /&gt;
+Живлення: Не потребує&lt;/br&gt;</description>
+            <name_ua>Набір ерекційних кілець Rebel Ball Stretchin, чорний</name_ua>
+            <description_ua>Набір ерекційних кілець Rebel Ball Stretchin надає можливість &lt;b&gt;контролювати тривалість інтимної близькості&lt;/b&gt; завдяки трьом кільцям різної ширини. Силіконові кільця створюють м'який тиск, що сприяє підтримці стійкої ерекції та затримці кульмінації.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Комплект містить три кільця однакового діаметру 2,5 см, але з різною шириною: 1 см, 2 см та 3 см. &lt;b&gt;Товщина кожного кільця становить 1 см&lt;/b&gt;, що забезпечує комфортне розташування на статевому члені та мошонці. Еластичний силікон з гладенькою текстурою легко розтягується та приємний на дотик.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Кільця підвищують чутливість та інтенсивність відчуттів для обох партнерів. Рекомендується використовувати з лубрикантом на водній основі для максимального комфорту.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Rebel&lt;/br&gt;&lt;br /&gt;
+Виробник: Orion&lt;/br&gt;&lt;br /&gt;
+Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 2.5&lt;/br&gt;&lt;br /&gt;
+К-сть штук в упаковці (шт.): 3&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Ні&lt;/br&gt;&lt;br /&gt;
+Живлення: Не потребує&lt;/br&gt;</description_ua>
             </offer>
         <offer id="42-05178100000" available="true">
                 <erp>42-05178100000</erp>
@@ -30178,72 +30333,6 @@ TPR з гуми ABS PU&lt;br /&gt;
 Їстівне: Так&lt;/br&gt;&lt;br /&gt;
 Додаткові ефекти: Без ефектів&lt;/br&gt;</description_ua>
             </offer>
-        <offer id="BI-014220-A3" available="true">
-                <erp>BI-014220-A3</erp>
-            <barcode>6959532360530</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31546-vibrator_pretty_love_bishop_black_30_function</url>
-            <price>475.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>143</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3154366edc4db71473.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edc4d9c1559.gif</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edc4d9eab06.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edc4da1338e.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edc4da2cd3b.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edc4da49e69.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edc4da66eb1.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edc4da86c64.gif</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edc4daa2e8c.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edc4dab889a.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edc4dacf488.jpeg</picture>
-            <name>Вібратор для точки G Pretty Love Bishop, чорний</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Вібратор для точки G Pretty Love Bishop, чорний</model>
-            <description>Вібратор Pretty Love Bishop створений спеціально для &lt;b&gt;стимуляції точки G&lt;/b&gt; завдяки анатомічно вигнутій формі. Модель оснащена &lt;b&gt;30 режимами вібрації&lt;/b&gt;, які легко перемикаються кнопкою на ручці, дозволяючи підібрати оптимальну інтенсивність для максимального задоволення.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Іграшка виготовлена з &lt;b&gt;м'якого силікону та міцного пластику&lt;/b&gt;, має гладеньку текстуру для комфортного ковзання. Робоча довжина 11 см та діаметр 3,1 см забезпечують зручне використання, а живлення від двох батарейок ААА гарантує тривалу роботу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Підходить для використання з лубрикантами на водній основі. Після кожного застосування рекомендується очищення спеціальними засобами для інтимних іграшок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 18.2&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 11&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.1&lt;/br&gt;&lt;br /&gt;
-Матеріал: Пластик, Силікон&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
-Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
-Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
-Керування з додатку: Ні&lt;/br&gt;</description>
-            <name_ua>Вібратор для точки G Pretty Love Bishop, чорний</name_ua>
-            <description_ua>Вібратор Pretty Love Bishop створений спеціально для &lt;b&gt;стимуляції точки G&lt;/b&gt; завдяки анатомічно вигнутій формі. Модель оснащена &lt;b&gt;30 режимами вібрації&lt;/b&gt;, які легко перемикаються кнопкою на ручці, дозволяючи підібрати оптимальну інтенсивність для максимального задоволення.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Іграшка виготовлена з &lt;b&gt;м'якого силікону та міцного пластику&lt;/b&gt;, має гладеньку текстуру для комфортного ковзання. Робоча довжина 11 см та діаметр 3,1 см забезпечують зручне використання, а живлення від двох батарейок ААА гарантує тривалу роботу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Підходить для використання з лубрикантами на водній основі. Після кожного застосування рекомендується очищення спеціальними засобами для інтимних іграшок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 18.2&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 11&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.1&lt;/br&gt;&lt;br /&gt;
-Матеріал: Пластик, Силікон&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
-Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
-Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
-Керування з додатку: Ні&lt;/br&gt;</description_ua>
-            </offer>
         <offer id="BI-014412HP" available="true">
                 <erp>BI-014412HP</erp>
             <barcode>6959532360318</barcode>
@@ -35416,29 +35505,6 @@ OLO – це нове покоління надтонких презервати
             <name_ua>Парфуми Ruf Taboo Epicurien for Him, 50 мл</name_ua>
             <description_ua>Парфуми для чоловіків. Приємний і енергійний аромат, який розвивається і змінює тон з часом після розпилення на тіло. Ємність 50 мл</description_ua>
             </offer>
-        <offer id="19-3095" available="true">
-                <erp>19-3095</erp>
-            <barcode>3548960030950</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2439-lubrikant_x_tight</url>
-            <price>397.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>42</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_2439636b7ea8513ad.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_636b7ea75eec0.png</picture>
-            <name>Вагінальний підтягуючий крем Ruf XtraTight, 30 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>RUF</vendor>
-            <model>Вагінальний підтягуючий крем Ruf XtraTight, 30 мл</model>
-            <description>Інтимний крем для жінок, який звужує і підвищує чутливість інтимних частин жінки. Рекомендується жінкам з порушеннями оргазму або зниженим задоволенням під час статевого акту. Застосування крему полягає в тому, щоб стимулювати інтимні зони та зробити їх більш чутливими. М’яке втирання крему в ерогенні зони допоможе посилити бажання жінки.&lt;br /&gt;
-&lt;br /&gt;
-Інгредієнти:  вода, гліцерин, пропіленгліколь, диметикон, феноксиетанол, триетаноламін, карбомер, екстракт насіння Trigonella Foenum Graecum, екстракт кореня Zinziber Officinale, олія кори кориці камфори, Acrylates/C10-Camphora Cross, Acrylates / C10kylthylxyte, 10-30 Олія, гераніол, лімонен, ліналоол.</description>
-            <name_ua>Вагінальний підтягуючий крем Ruf XtraTight, 30 мл</name_ua>
-            <description_ua>Інтимний крем для жінок, який звужує і підвищує чутливість інтимних частин жінки. Рекомендується жінкам з порушеннями оргазму або зниженим задоволенням під час статевого акту. Застосування крему полягає в тому, щоб стимулювати інтимні зони та зробити їх більш чутливими. М’яке втирання крему в ерогенні зони допоможе посилити бажання жінки.&lt;br /&gt;
-&lt;br /&gt;
-Інгредієнти:  вода, гліцерин, пропіленгліколь, диметикон, феноксиетанол, триетаноламін, карбомер, екстракт насіння Trigonella Foenum Graecum, екстракт кореня Zinziber Officinale, олія кори кориці камфори, Acrylates/C10-Camphora Cross, Acrylates / C10kylthylxyte, 10-30 Олія, гераніол, лімонен, ліналоол.</description_ua>
-            </offer>
         <offer id="19-3101" available="true">
                 <erp>19-3101</erp>
             <barcode>3548960031018</barcode>
@@ -36827,54 +36893,6 @@ The Black Velvets Cock &amp; Ball Ring with Butt Plug — це комбінов�
 Наявність вібрації: Ні&lt;/br&gt;&lt;br /&gt;
 Живлення: Не потребує&lt;/br&gt;</description_ua>
             </offer>
-        <offer id="42-05331060000" available="true">
-                <erp>42-05331060000</erp>
-            <barcode>4024144544240</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/12552-rebel_ball_stretchin</url>
-            <price>900.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>37</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-05331060000.jpg</picture>
-            <name>Набір ерекційних кілець Rebel Ball Stretchin, чорний</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>ORION</vendor>
-            <model>Набір ерекційних кілець Rebel Ball Stretchin, чорний</model>
-            <description>Набір ерекційних кілець Rebel Ball Stretchin надає можливість &lt;b&gt;контролювати тривалість інтимної близькості&lt;/b&gt; завдяки трьом кільцям різної ширини. Силіконові кільця створюють м'який тиск, що сприяє підтримці стійкої ерекції та затримці кульмінації.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Комплект містить три кільця однакового діаметру 2,5 см, але з різною шириною: 1 см, 2 см та 3 см. &lt;b&gt;Товщина кожного кільця становить 1 см&lt;/b&gt;, що забезпечує комфортне розташування на статевому члені та мошонці. Еластичний силікон з гладенькою текстурою легко розтягується та приємний на дотик.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Кільця підвищують чутливість та інтенсивність відчуттів для обох партнерів. Рекомендується використовувати з лубрикантом на водній основі для максимального комфорту.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Rebel&lt;/br&gt;&lt;br /&gt;
-Виробник: Orion&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 2.5&lt;/br&gt;&lt;br /&gt;
-К-сть штук в упаковці (шт.): 3&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Ні&lt;/br&gt;&lt;br /&gt;
-Живлення: Не потребує&lt;/br&gt;</description>
-            <name_ua>Набір ерекційних кілець Rebel Ball Stretchin, чорний</name_ua>
-            <description_ua>Набір ерекційних кілець Rebel Ball Stretchin надає можливість &lt;b&gt;контролювати тривалість інтимної близькості&lt;/b&gt; завдяки трьом кільцям різної ширини. Силіконові кільця створюють м'який тиск, що сприяє підтримці стійкої ерекції та затримці кульмінації.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Комплект містить три кільця однакового діаметру 2,5 см, але з різною шириною: 1 см, 2 см та 3 см. &lt;b&gt;Товщина кожного кільця становить 1 см&lt;/b&gt;, що забезпечує комфортне розташування на статевому члені та мошонці. Еластичний силікон з гладенькою текстурою легко розтягується та приємний на дотик.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Кільця підвищують чутливість та інтенсивність відчуттів для обох партнерів. Рекомендується використовувати з лубрикантом на водній основі для максимального комфорту.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Rebel&lt;/br&gt;&lt;br /&gt;
-Виробник: Orion&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 2.5&lt;/br&gt;&lt;br /&gt;
-К-сть штук в упаковці (шт.): 3&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Ні&lt;/br&gt;&lt;br /&gt;
-Живлення: Не потребує&lt;/br&gt;</description_ua>
-            </offer>
         <offer id="42-05337260000" available="true">
                 <erp>42-05337260000</erp>
             <barcode>4024144545322</barcode>
@@ -37018,6 +37036,30 @@ The Black Velvets Cock &amp; Ball Ring with Butt Plug — це комбінов�
 Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
 Живлення: Не потребує&lt;/br&gt;&lt;br /&gt;
 Наявність вібрації: Ні&lt;/br&gt;</description_ua>
+            </offer>
+        <offer id="BI-014173-1" available="true">
+                <erp>BI-014173-1</erp>
+            <barcode>6959532317183</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/13868-pretty_love_snappy_pink_30_function</url>
+            <price>1151.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>27</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/BI-014173-1.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62931406afa67.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62931406bf607.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62931406ce6f3.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62931406dbcb2.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62931406e9f6e.gif</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62931407032b5.jpg</picture>
+            <name>Вібратор Snappy Світло-рожевий, 30 функцій вібрації</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor />
+            <model>Вібратор Snappy Світло-рожевий, 30 функцій вібрації</model>
+            <description>Вібраційний масажер зі стимулятором клітора та реалістичною головкою для інтенсивної стимуляції точки G. Завдяки двом двигунам вібрації поширюються по всьому стержню, а також на стимулятор. Оснащений двома незалежними двигунами з 30 режимами вібрації, інтенсивність вібрації змінюється за допомогою вбудованої консолі в базу. Виготовлений з гладкого, шовковистого матеріалу, дуже приємного на дотик. Вбудований акумулятор, який можна заряджати через USB-кабель. Загальна довжина 19,5 см, діаметр 3,2 см</description>
+            <name_ua>Вібратор Snappy Світло-рожевий, 30 функцій вібрації</name_ua>
+            <description_ua>Вібраційний масажер зі стимулятором клітора та реалістичною головкою для інтенсивної стимуляції точки G. Завдяки двом двигунам вібрації поширюються по всьому стержню, а також на стимулятор. Оснащений двома незалежними двигунами з 30 режимами вібрації, інтенсивність вібрації змінюється за допомогою вбудованої консолі в базу. Виготовлений з гладкого, шовковистого матеріалу, дуже приємного на дотик. Вбудований акумулятор, який можна заряджати через USB-кабель. Загальна довжина 19,5 см, діаметр 3,2 см</description_ua>
             </offer>
         <offer id="BI-014221" available="true">
                 <erp>BI-014221</erp>
@@ -46405,6 +46447,56 @@ Ultra Strong Massager — чудовий вибір для людей, які ш
 Діаметр (см): 6.5&lt;br /&gt;
 Діаметр каналу (см): 1.5</description_ua>
             </offer>
+        <offer id="69-17526" available="true">
+                <erp>69-17526</erp>
+            <barcode>5600742917526</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32062-zbudzhuyuchiy_gely_orgie_lube_tube_vibe___low___sex_on_the_beach___100ml_</url>
+            <price>774.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>46</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3205867fc179c32854.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67fc179b282c2.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67fc179b3f0ec.jpeg</picture>
+            <name>Лубрикант з ефектом вібрації Orgie Lube Tube Vibe! Low Sex On The Beach, секс на пляжі, 100 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor>ORGIE COSMETICS</vendor>
+            <model>Лубрикант з ефектом вібрації Orgie Lube Tube Vibe! Low Sex On The Beach, секс на пляжі, 100 мл</model>
+            <description>Інтимна змазка з &lt;b&gt;ефектом легкої вібрації&lt;/b&gt; Orgie Lube Tube Vibe! Low Sex On The Beach створює додаткові відчуття під час близькості завдяки спеціальним компонентам у складі. Водно-гліцеринова основа забезпечує м'яке ковзання та комфортне використання, а тропічний аромат коктейлю додає романтичної атмосфери.&lt;br /&gt;
+&lt;br /&gt;
+Формула містить натуральний екстракт Acmella Oleracea, який м'яко стимулює нервові закінчення та посилює чутливість. &lt;b&gt;Придатна для поцілунків&lt;/b&gt; завдяки приємному смаку, проте не рекомендується як основна змазка для орального контакту.&lt;br /&gt;
+&lt;br /&gt;
+Тюбик об'ємом 100 мл зручний у використанні та зберіганні. Підходить для пар, які хочуть урізноманітнити інтимність новими відчуттями та ароматами.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Orgie&lt;br /&gt;
+Виробник: Orgie&lt;br /&gt;
+Об'єм (мл): 100&lt;br /&gt;
+Основа (складу): Водна&lt;br /&gt;
+Додаткові ефекти: З ефектом вібрації&lt;br /&gt;
+Смак: Секс на пляжі&lt;br /&gt;
+Запах: Секс на пляжі&lt;br /&gt;
+Їстівне: Так</description>
+            <name_ua>Лубрикант з ефектом вібрації Orgie Lube Tube Vibe! Low Sex On The Beach, секс на пляжі, 100 мл</name_ua>
+            <description_ua>Інтимна змазка з &lt;b&gt;ефектом легкої вібрації&lt;/b&gt; Orgie Lube Tube Vibe! Low Sex On The Beach створює додаткові відчуття під час близькості завдяки спеціальним компонентам у складі. Водно-гліцеринова основа забезпечує м'яке ковзання та комфортне використання, а тропічний аромат коктейлю додає романтичної атмосфери.&lt;br /&gt;
+&lt;br /&gt;
+Формула містить натуральний екстракт Acmella Oleracea, який м'яко стимулює нервові закінчення та посилює чутливість. &lt;b&gt;Придатна для поцілунків&lt;/b&gt; завдяки приємному смаку, проте не рекомендується як основна змазка для орального контакту.&lt;br /&gt;
+&lt;br /&gt;
+Тюбик об'ємом 100 мл зручний у використанні та зберіганні. Підходить для пар, які хочуть урізноманітнити інтимність новими відчуттями та ароматами.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Orgie&lt;br /&gt;
+Виробник: Orgie&lt;br /&gt;
+Об'єм (мл): 100&lt;br /&gt;
+Основа (складу): Водна&lt;br /&gt;
+Додаткові ефекти: З ефектом вібрації&lt;br /&gt;
+Смак: Секс на пляжі&lt;br /&gt;
+Запах: Секс на пляжі&lt;br /&gt;
+Їстівне: Так</description_ua>
+            </offer>
         <offer id="80-6040263" available="true">
                 <erp>80-6040263</erp>
             <barcode>KodEAN37004</barcode>
@@ -48276,27 +48368,28 @@ USB-акумулятор&lt;br /&gt;
 &lt;/li&gt;&lt;br /&gt;
 &lt;/ul&gt;</description_ua>
             </offer>
-        <offer id="19-3085" available="true">
-                <erp>19-3085</erp>
-            <barcode>3548960030851</barcode>
+        <offer id="19-3095" available="true">
+                <erp>19-3095</erp>
+            <barcode>3548960030950</barcode>
             <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2437-lubrikant_x_pleasure</url>
-            <price>375.00</price>
+            <url>http://blissclub.com.ua/product/2439-lubrikant_x_tight</url>
+            <price>397.00</price>
             <currencyId>UAH</currencyId>
             <categoryId>42</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/19-3085.jpg</picture>
-            <name>Стимулюючий гель для жінок Ruf X Pleasure, 20 мл</name>
+            <picture>https://blissclub.com.ua/images/product_variants/product_2439636b7ea8513ad.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_636b7ea75eec0.png</picture>
+            <name>Вагінальний підтягуючий крем Ruf XtraTight, 30 мл</name>
             <Отображать>Да</Отображать>
             <stock>4</stock>
             <vendor>RUF</vendor>
-            <model>Стимулюючий гель для жінок Ruf X Pleasure, 20 мл</model>
-            <description>Xtra Pleasure – гель, призначений для нанесення на інтимні зони жіночого тіла. Гель рекомендований жінкам з порушеннями оргазму або зниженням задоволення від статевого акту. Використання гелю стимулює інтимні зони, роблячи її більш чутливою. М’яке втирання гелю в ерогенні зони викликає бажання і посилює жіночий статевий інстинкт.&lt;br /&gt;
+            <model>Вагінальний підтягуючий крем Ruf XtraTight, 30 мл</model>
+            <description>Інтимний крем для жінок, який звужує і підвищує чутливість інтимних частин жінки. Рекомендується жінкам з порушеннями оргазму або зниженим задоволенням під час статевого акту. Застосування крему полягає в тому, щоб стимулювати інтимні зони та зробити їх більш чутливими. М’яке втирання крему в ерогенні зони допоможе посилити бажання жінки.&lt;br /&gt;
 &lt;br /&gt;
-Склад:  вода, пропіленгліколь, полісорбат 80, екстракт квітів гетеротеки інулоїдної, ментол, триетаноламін, карбомер, імідазолідинілсечовина, феноксиетанол, метилпарабен, етилпарабен, пропілпарабен, бутилпарабен, ізобутилпарабен, ізобутилпарабен 35.</description>
-            <name_ua>Стимулюючий гель для жінок Ruf X Pleasure, 20 мл</name_ua>
-            <description_ua>Xtra Pleasure – гель, призначений для нанесення на інтимні зони жіночого тіла. Гель рекомендований жінкам з порушеннями оргазму або зниженням задоволення від статевого акту. Використання гелю стимулює інтимні зони, роблячи її більш чутливою. М’яке втирання гелю в ерогенні зони викликає бажання і посилює жіночий статевий інстинкт.&lt;br /&gt;
+Інгредієнти:  вода, гліцерин, пропіленгліколь, диметикон, феноксиетанол, триетаноламін, карбомер, екстракт насіння Trigonella Foenum Graecum, екстракт кореня Zinziber Officinale, олія кори кориці камфори, Acrylates/C10-Camphora Cross, Acrylates / C10kylthylxyte, 10-30 Олія, гераніол, лімонен, ліналоол.</description>
+            <name_ua>Вагінальний підтягуючий крем Ruf XtraTight, 30 мл</name_ua>
+            <description_ua>Інтимний крем для жінок, який звужує і підвищує чутливість інтимних частин жінки. Рекомендується жінкам з порушеннями оргазму або зниженим задоволенням під час статевого акту. Застосування крему полягає в тому, щоб стимулювати інтимні зони та зробити їх більш чутливими. М’яке втирання крему в ерогенні зони допоможе посилити бажання жінки.&lt;br /&gt;
 &lt;br /&gt;
-Склад:  вода, пропіленгліколь, полісорбат 80, екстракт квітів гетеротеки інулоїдної, ментол, триетаноламін, карбомер, імідазолідинілсечовина, феноксиетанол, метилпарабен, етилпарабен, пропілпарабен, бутилпарабен, ізобутилпарабен, ізобутилпарабен 35.</description_ua>
+Інгредієнти:  вода, гліцерин, пропіленгліколь, диметикон, феноксиетанол, триетаноламін, карбомер, екстракт насіння Trigonella Foenum Graecum, екстракт кореня Zinziber Officinale, олія кори кориці камфори, Acrylates/C10-Camphora Cross, Acrylates / C10kylthylxyte, 10-30 Олія, гераніол, лімонен, ліналоол.</description_ua>
             </offer>
         <offer id="19-31163" available="true">
                 <erp>19-31163</erp>
@@ -49360,30 +49453,6 @@ ORGASM MAX для жінок призначений для значної під
             <description_ua>Перевірте силу ORGASM MAX для жінок і подивіться, що ви отримаєте, прийнявши 1 капсулу за 30 хвилин до статевого акту!!&lt;br /&gt;
 Orgasm Max for Women - це засіб для швидкого і легкого досягнення сильного оргазму, підвищення збудження, здатності досягати багаторазових оргазмів і загального підвищення рівня лібідо.&lt;br /&gt;
 ORGASM MAX для жінок призначений для значної підтримки нормального кровообігу, особливо в області тазу та інтимних органів. Завдяки цьому він може сприяти посиленню стану еротичного збудження та подовженню його тривалості. При регулярному застосуванні ORGASM MAX для жінок може назавжди покращити еротичні дисфункції!!!</description_ua>
-            </offer>
-        <offer id="BI-014173-1" available="true">
-                <erp>BI-014173-1</erp>
-            <barcode>6959532317183</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/13868-pretty_love_snappy_pink_30_function</url>
-            <price>1151.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>27</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/BI-014173-1.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62931406afa67.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62931406bf607.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62931406ce6f3.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62931406dbcb2.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62931406e9f6e.gif</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62931407032b5.jpg</picture>
-            <name>Вібратор Snappy Світло-рожевий, 30 функцій вібрації</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor />
-            <model>Вібратор Snappy Світло-рожевий, 30 функцій вібрації</model>
-            <description>Вібраційний масажер зі стимулятором клітора та реалістичною головкою для інтенсивної стимуляції точки G. Завдяки двом двигунам вібрації поширюються по всьому стержню, а також на стимулятор. Оснащений двома незалежними двигунами з 30 режимами вібрації, інтенсивність вібрації змінюється за допомогою вбудованої консолі в базу. Виготовлений з гладкого, шовковистого матеріалу, дуже приємного на дотик. Вбудований акумулятор, який можна заряджати через USB-кабель. Загальна довжина 19,5 см, діаметр 3,2 см</description>
-            <name_ua>Вібратор Snappy Світло-рожевий, 30 функцій вібрації</name_ua>
-            <description_ua>Вібраційний масажер зі стимулятором клітора та реалістичною головкою для інтенсивної стимуляції точки G. Завдяки двом двигунам вібрації поширюються по всьому стержню, а також на стимулятор. Оснащений двома незалежними двигунами з 30 режимами вібрації, інтенсивність вібрації змінюється за допомогою вбудованої консолі в базу. Виготовлений з гладкого, шовковистого матеріалу, дуже приємного на дотик. Вбудований акумулятор, який можна заряджати через USB-кабель. Загальна довжина 19,5 см, діаметр 3,2 см</description_ua>
             </offer>
         <offer id="BI-014194" available="true">
                 <erp>BI-014194</erp>
@@ -55565,56 +55634,6 @@ Zachwyć się 36 unikalnymi funkcjami wibracji i stymulującego tappingu, które
             <name_ua>Фалоімітатор 7'.5' Sliding Skin Dual Layer Dong FLESH</name_ua>
             <description_ua>Реалістичний фалоімітатор Sliding Skin Dual Layer Dong-  на присосці. Іграшка виконана з високоякісного матеріалу, на дотик максимально наближеному до ніжної шкіри полового члена. Ви вразитеся подібності Soft Dildo з пенісом. Вібратор має дуже значні розміри і зможе звести з розуму навіть найдосвідченіших і найвибагливіших осіб. Ви зможете насолоджуватися знову і знову його реалістичною голівкою і опуклими венами. </description_ua>
             </offer>
-        <offer id="69-17526" available="true">
-                <erp>69-17526</erp>
-            <barcode>5600742917526</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32062-zbudzhuyuchiy_gely_orgie_lube_tube_vibe___low___sex_on_the_beach___100ml_</url>
-            <price>774.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3205867fc179c32854.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67fc179b282c2.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67fc179b3f0ec.jpeg</picture>
-            <name>Лубрикант з ефектом вібрації Orgie Lube Tube Vibe! Low Sex On The Beach, секс на пляжі, 100 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>ORGIE COSMETICS</vendor>
-            <model>Лубрикант з ефектом вібрації Orgie Lube Tube Vibe! Low Sex On The Beach, секс на пляжі, 100 мл</model>
-            <description>Інтимна змазка з &lt;b&gt;ефектом легкої вібрації&lt;/b&gt; Orgie Lube Tube Vibe! Low Sex On The Beach створює додаткові відчуття під час близькості завдяки спеціальним компонентам у складі. Водно-гліцеринова основа забезпечує м'яке ковзання та комфортне використання, а тропічний аромат коктейлю додає романтичної атмосфери.&lt;br /&gt;
-&lt;br /&gt;
-Формула містить натуральний екстракт Acmella Oleracea, який м'яко стимулює нервові закінчення та посилює чутливість. &lt;b&gt;Придатна для поцілунків&lt;/b&gt; завдяки приємному смаку, проте не рекомендується як основна змазка для орального контакту.&lt;br /&gt;
-&lt;br /&gt;
-Тюбик об'ємом 100 мл зручний у використанні та зберіганні. Підходить для пар, які хочуть урізноманітнити інтимність новими відчуттями та ароматами.&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Orgie&lt;br /&gt;
-Виробник: Orgie&lt;br /&gt;
-Об'єм (мл): 100&lt;br /&gt;
-Основа (складу): Водна&lt;br /&gt;
-Додаткові ефекти: З ефектом вібрації&lt;br /&gt;
-Смак: Секс на пляжі&lt;br /&gt;
-Запах: Секс на пляжі&lt;br /&gt;
-Їстівне: Так</description>
-            <name_ua>Лубрикант з ефектом вібрації Orgie Lube Tube Vibe! Low Sex On The Beach, секс на пляжі, 100 мл</name_ua>
-            <description_ua>Інтимна змазка з &lt;b&gt;ефектом легкої вібрації&lt;/b&gt; Orgie Lube Tube Vibe! Low Sex On The Beach створює додаткові відчуття під час близькості завдяки спеціальним компонентам у складі. Водно-гліцеринова основа забезпечує м'яке ковзання та комфортне використання, а тропічний аромат коктейлю додає романтичної атмосфери.&lt;br /&gt;
-&lt;br /&gt;
-Формула містить натуральний екстракт Acmella Oleracea, який м'яко стимулює нервові закінчення та посилює чутливість. &lt;b&gt;Придатна для поцілунків&lt;/b&gt; завдяки приємному смаку, проте не рекомендується як основна змазка для орального контакту.&lt;br /&gt;
-&lt;br /&gt;
-Тюбик об'ємом 100 мл зручний у використанні та зберіганні. Підходить для пар, які хочуть урізноманітнити інтимність новими відчуттями та ароматами.&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Orgie&lt;br /&gt;
-Виробник: Orgie&lt;br /&gt;
-Об'єм (мл): 100&lt;br /&gt;
-Основа (складу): Водна&lt;br /&gt;
-Додаткові ефекти: З ефектом вібрації&lt;br /&gt;
-Смак: Секс на пляжі&lt;br /&gt;
-Запах: Секс на пляжі&lt;br /&gt;
-Їстівне: Так</description_ua>
-            </offer>
         <offer id="52-00017" available="true">
                 <erp>52-00017</erp>
             <barcode>5903661805807</barcode>
@@ -57751,6 +57770,28 @@ Woman №7 — твій аромат свободи, енергії та нев�
             <description>Флорида - лялька кохання. Красива надувна лялька кохання з чарівним друкованим обличчям. Вона в натуральну величину, має гарні, великі та міцні груди та 3 отвори.  Лялька відрізняється як функціональністю, так і естетичністю виконання. </description>
             <name_ua>Секс-лялька B - Series Lyla Lalka Floryda</name_ua>
             <description_ua>Флорида - лялька кохання. Красива надувна лялька кохання з чарівним друкованим обличчям. Вона в натуральну величину, має гарні, великі та міцні груди та 3 отвори.  Лялька відрізняється як функціональністю, так і естетичністю виконання. </description_ua>
+            </offer>
+        <offer id="19-3085" available="true">
+                <erp>19-3085</erp>
+            <barcode>3548960030851</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2437-lubrikant_x_pleasure</url>
+            <price>375.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>42</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/19-3085.jpg</picture>
+            <name>Стимулюючий гель для жінок Ruf X Pleasure, 20 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>RUF</vendor>
+            <model>Стимулюючий гель для жінок Ruf X Pleasure, 20 мл</model>
+            <description>Xtra Pleasure – гель, призначений для нанесення на інтимні зони жіночого тіла. Гель рекомендований жінкам з порушеннями оргазму або зниженням задоволення від статевого акту. Використання гелю стимулює інтимні зони, роблячи її більш чутливою. М’яке втирання гелю в ерогенні зони викликає бажання і посилює жіночий статевий інстинкт.&lt;br /&gt;
+&lt;br /&gt;
+Склад:  вода, пропіленгліколь, полісорбат 80, екстракт квітів гетеротеки інулоїдної, ментол, триетаноламін, карбомер, імідазолідинілсечовина, феноксиетанол, метилпарабен, етилпарабен, пропілпарабен, бутилпарабен, ізобутилпарабен, ізобутилпарабен 35.</description>
+            <name_ua>Стимулюючий гель для жінок Ruf X Pleasure, 20 мл</name_ua>
+            <description_ua>Xtra Pleasure – гель, призначений для нанесення на інтимні зони жіночого тіла. Гель рекомендований жінкам з порушеннями оргазму або зниженням задоволення від статевого акту. Використання гелю стимулює інтимні зони, роблячи її більш чутливою. М’яке втирання гелю в ерогенні зони викликає бажання і посилює жіночий статевий інстинкт.&lt;br /&gt;
+&lt;br /&gt;
+Склад:  вода, пропіленгліколь, полісорбат 80, екстракт квітів гетеротеки інулоїдної, ментол, триетаноламін, карбомер, імідазолідинілсечовина, феноксиетанол, метилпарабен, етилпарабен, пропілпарабен, бутилпарабен, ізобутилпарабен, ізобутилпарабен 35.</description_ua>
             </offer>
         <offer id="19-31162" available="true">
                 <erp>19-31162</erp>
@@ -69661,6 +69702,58 @@ OLO Extra Large спеціально розроблені для чоловік�
 Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
 Додаткові ефекти: Веганські, Без ефектів&lt;/br&gt;</description_ua>
             </offer>
+        <offer id="BI-014193" available="true">
+                <erp>BI-014193</erp>
+            <barcode>6959532312102</barcode>
+            <quantity_in_stock>7</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/13874-pretty_love_antony_10_function</url>
+            <price>454.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>102</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/BI-014193.jpg</picture>
+            <name>Вібратор Pretty Love Antony, рожевий</name>
+            <Отображать>Да</Отображать>
+            <stock>7</stock>
+            <vendor />
+            <model>Вібратор Pretty Love Antony, рожевий</model>
+            <description>Компактний &lt;b&gt;вібратор Pretty Love Antony рожевого кольору&lt;/b&gt; призначений для інтимної стимуляції з можливістю вагінального та кліторального використання. Тонка форма з плоскою головкою забезпечує точний масаж еротичних зон та комфортне проникнення.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Виготовлений з &lt;b&gt;м'якого силікону&lt;/b&gt; з оксамитовою текстурою для приємних тактильних відчуттів. Пристрій оснащений &lt;b&gt;10 режимами вібрації&lt;/b&gt; різної інтенсивності - від ніжних коливань до потужних імпульсів. Керування відбувається однією кнопкою, розташованою на корпусі. Працює від однієї батарейки ААА.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Підходить для стимуляції чутливих точок завдяки компактним розмірам та ергономічній формі. Сумісний лише з лубрикантами на водній основі для збереження властивостей матеріалу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька, Оксамитова&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 11.7&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 8.7&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 2.5&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (1 шт.)&lt;/br&gt;</description>
+            <name_ua>Вібратор Pretty Love Antony, рожевий</name_ua>
+            <description_ua>Компактний &lt;b&gt;вібратор Pretty Love Antony рожевого кольору&lt;/b&gt; призначений для інтимної стимуляції з можливістю вагінального та кліторального використання. Тонка форма з плоскою головкою забезпечує точний масаж еротичних зон та комфортне проникнення.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Виготовлений з &lt;b&gt;м'якого силікону&lt;/b&gt; з оксамитовою текстурою для приємних тактильних відчуттів. Пристрій оснащений &lt;b&gt;10 режимами вібрації&lt;/b&gt; різної інтенсивності - від ніжних коливань до потужних імпульсів. Керування відбувається однією кнопкою, розташованою на корпусі. Працює від однієї батарейки ААА.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Підходить для стимуляції чутливих точок завдяки компактним розмірам та ергономічній формі. Сумісний лише з лубрикантами на водній основі для збереження властивостей матеріалу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька, Оксамитова&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 11.7&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 8.7&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 2.5&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (1 шт.)&lt;/br&gt;</description_ua>
+            </offer>
         <offer id="BI-014218" available="true">
                 <erp>BI-014218</erp>
             <barcode>6959532311761</barcode>
@@ -72232,58 +72325,6 @@ AbsolutSex Super Penis - це ефективний крем для стимул�
             <name_ua>Збуджуючі капсули для чоловіків OrgasmMax</name_ua>
             <description_ua>Orgasm Max for Men - це продукт, який впливає на швидку, сильну і тривалу ерекцію, а також на сильний і тривалий оргазм, підвищення потенції і сексуальної активності, а також можливість багаторазового оргазму.</description_ua>
             </offer>
-        <offer id="BI-014193" available="true">
-                <erp>BI-014193</erp>
-            <barcode>6959532312102</barcode>
-            <quantity_in_stock>8</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/13874-pretty_love_antony_10_function</url>
-            <price>454.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>102</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/BI-014193.jpg</picture>
-            <name>Вібратор Pretty Love Antony, рожевий</name>
-            <Отображать>Да</Отображать>
-            <stock>8</stock>
-            <vendor />
-            <model>Вібратор Pretty Love Antony, рожевий</model>
-            <description>Компактний &lt;b&gt;вібратор Pretty Love Antony рожевого кольору&lt;/b&gt; призначений для інтимної стимуляції з можливістю вагінального та кліторального використання. Тонка форма з плоскою головкою забезпечує точний масаж еротичних зон та комфортне проникнення.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Виготовлений з &lt;b&gt;м'якого силікону&lt;/b&gt; з оксамитовою текстурою для приємних тактильних відчуттів. Пристрій оснащений &lt;b&gt;10 режимами вібрації&lt;/b&gt; різної інтенсивності - від ніжних коливань до потужних імпульсів. Керування відбувається однією кнопкою, розташованою на корпусі. Працює від однієї батарейки ААА.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Підходить для стимуляції чутливих точок завдяки компактним розмірам та ергономічній формі. Сумісний лише з лубрикантами на водній основі для збереження властивостей матеріалу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька, Оксамитова&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 11.7&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 8.7&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 2.5&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (1 шт.)&lt;/br&gt;</description>
-            <name_ua>Вібратор Pretty Love Antony, рожевий</name_ua>
-            <description_ua>Компактний &lt;b&gt;вібратор Pretty Love Antony рожевого кольору&lt;/b&gt; призначений для інтимної стимуляції з можливістю вагінального та кліторального використання. Тонка форма з плоскою головкою забезпечує точний масаж еротичних зон та комфортне проникнення.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Виготовлений з &lt;b&gt;м'якого силікону&lt;/b&gt; з оксамитовою текстурою для приємних тактильних відчуттів. Пристрій оснащений &lt;b&gt;10 режимами вібрації&lt;/b&gt; різної інтенсивності - від ніжних коливань до потужних імпульсів. Керування відбувається однією кнопкою, розташованою на корпусі. Працює від однієї батарейки ААА.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Підходить для стимуляції чутливих точок завдяки компактним розмірам та ергономічній формі. Сумісний лише з лубрикантами на водній основі для збереження властивостей матеріалу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька, Оксамитова&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 11.7&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 8.7&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 2.5&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (1 шт.)&lt;/br&gt;</description_ua>
-            </offer>
         <offer id="BI-014582HP" available="true">
                 <erp>BI-014582HP</erp>
             <barcode>6959532321265</barcode>
@@ -73390,53 +73431,6 @@ AbsolutSex Super Penis - це ефективний крем для стимул�
 Запах: Полуниця, Шампанське&lt;/br&gt;&lt;br /&gt;
 Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
 Їстівне: Ні&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="16-27129" available="true">
-                <erp>16-27129</erp>
-            <barcode>796494106327</barcode>
-            <quantity_in_stock>8</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31907-lubrikant_system_o_h2o_bubblegum_lubricant_60_ml</url>
-            <price>877.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>48</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3190367b430f499f79.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67b430f326ad8.jpeg</picture>
-            <name>Оральний лубрикант JO H2O Candy Shop Bubble Gum, жуйка, 60 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>8</stock>
-            <vendor>FeelzToys</vendor>
-            <model>Оральний лубрикант JO H2O Candy Shop Bubble Gum, жуйка, 60 мл</model>
-            <description>Оральний лубрикант зі смаком жувальної гумки JO H2O Candy Shop Bubble Gum створений для комфортного інтимного досвіду. &lt;b&gt;Водна основа&lt;/b&gt; забезпечує природне зволоження, а солодкий смак bubble gum робить оральні ласки особливо приємними.&lt;br /&gt;
-&lt;br /&gt;
-Формула не містить парабенів, жирів та цукру - солодкість надає безпечний гліцерин. &lt;b&gt;Прозора консистенція&lt;/b&gt; легко наноситься і не залишає слідів, при цьому зберігає насичений аромат та смак жувальної гумки протягом усього використання.&lt;br /&gt;
-&lt;br /&gt;
-Змазка сумісна з усіма видами інтимних іграшок та презервативів. Компактний флакон 60 мл зручний для зберігання та транспортування.&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: H2O&lt;br /&gt;
-Виробник: System JO&lt;br /&gt;
-Об'єм (мл): 60&lt;br /&gt;
-Основа (складу): Водна&lt;br /&gt;
-Смак: Жувальна гумка&lt;br /&gt;
-Запах: Жувальна гумка&lt;br /&gt;
-Додаткові ефекти: Без ефектів</description>
-            <name_ua>Оральний лубрикант JO H2O Candy Shop Bubble Gum, жуйка, 60 мл</name_ua>
-            <description_ua>Оральний лубрикант зі смаком жувальної гумки JO H2O Candy Shop Bubble Gum створений для комфортного інтимного досвіду. &lt;b&gt;Водна основа&lt;/b&gt; забезпечує природне зволоження, а солодкий смак bubble gum робить оральні ласки особливо приємними.&lt;br /&gt;
-&lt;br /&gt;
-Формула не містить парабенів, жирів та цукру - солодкість надає безпечний гліцерин. &lt;b&gt;Прозора консистенція&lt;/b&gt; легко наноситься і не залишає слідів, при цьому зберігає насичений аромат та смак жувальної гумки протягом усього використання.&lt;br /&gt;
-&lt;br /&gt;
-Змазка сумісна з усіма видами інтимних іграшок та презервативів. Компактний флакон 60 мл зручний для зберігання та транспортування.&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: H2O&lt;br /&gt;
-Виробник: System JO&lt;br /&gt;
-Об'єм (мл): 60&lt;br /&gt;
-Основа (складу): Водна&lt;br /&gt;
-Смак: Жувальна гумка&lt;br /&gt;
-Запах: Жувальна гумка&lt;br /&gt;
-Додаткові ефекти: Без ефектів</description_ua>
             </offer>
         <offer id="BI-300072" available="true">
                 <erp>BI-300072</erp>
@@ -75309,6 +75303,53 @@ H2O UNI Gel - це універсальний і надійний лубрика
 Завдяки товщині 0,073 мм це один із найтонших презервативів на ринку, створений для посилення відчуття інтимної близькості без шкіри. Має гладку оксамитову текстуру і попередньо змащений лубрикантом на основі силікону, щоб запобігти подразненню шкіри. Презервативи з номінальною шириною 54 мм ідеально підходять для людей, які зазвичай носять презервативи звичайного крою, але люблять мати трохи більше місця.&lt;br /&gt;
 Презервативи EXS Black Latex, виготовлені з повністю натурального латексу найвищої якості, не мають запаху та смаку та підходять людям з чутливою шкірою. Презервативи можна використовувати з усіма видами лубрикантів.</description_ua>
             </offer>
+        <offer id="16-27129" available="true">
+                <erp>16-27129</erp>
+            <barcode>796494106327</barcode>
+            <quantity_in_stock>9</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31907-lubrikant_system_o_h2o_bubblegum_lubricant_60_ml</url>
+            <price>877.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>48</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3190367b430f499f79.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67b430f326ad8.jpeg</picture>
+            <name>Оральний лубрикант JO H2O Candy Shop Bubble Gum, жуйка, 60 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>9</stock>
+            <vendor>FeelzToys</vendor>
+            <model>Оральний лубрикант JO H2O Candy Shop Bubble Gum, жуйка, 60 мл</model>
+            <description>Оральний лубрикант зі смаком жувальної гумки JO H2O Candy Shop Bubble Gum створений для комфортного інтимного досвіду. &lt;b&gt;Водна основа&lt;/b&gt; забезпечує природне зволоження, а солодкий смак bubble gum робить оральні ласки особливо приємними.&lt;br /&gt;
+&lt;br /&gt;
+Формула не містить парабенів, жирів та цукру - солодкість надає безпечний гліцерин. &lt;b&gt;Прозора консистенція&lt;/b&gt; легко наноситься і не залишає слідів, при цьому зберігає насичений аромат та смак жувальної гумки протягом усього використання.&lt;br /&gt;
+&lt;br /&gt;
+Змазка сумісна з усіма видами інтимних іграшок та презервативів. Компактний флакон 60 мл зручний для зберігання та транспортування.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: H2O&lt;br /&gt;
+Виробник: System JO&lt;br /&gt;
+Об'єм (мл): 60&lt;br /&gt;
+Основа (складу): Водна&lt;br /&gt;
+Смак: Жувальна гумка&lt;br /&gt;
+Запах: Жувальна гумка&lt;br /&gt;
+Додаткові ефекти: Без ефектів</description>
+            <name_ua>Оральний лубрикант JO H2O Candy Shop Bubble Gum, жуйка, 60 мл</name_ua>
+            <description_ua>Оральний лубрикант зі смаком жувальної гумки JO H2O Candy Shop Bubble Gum створений для комфортного інтимного досвіду. &lt;b&gt;Водна основа&lt;/b&gt; забезпечує природне зволоження, а солодкий смак bubble gum робить оральні ласки особливо приємними.&lt;br /&gt;
+&lt;br /&gt;
+Формула не містить парабенів, жирів та цукру - солодкість надає безпечний гліцерин. &lt;b&gt;Прозора консистенція&lt;/b&gt; легко наноситься і не залишає слідів, при цьому зберігає насичений аромат та смак жувальної гумки протягом усього використання.&lt;br /&gt;
+&lt;br /&gt;
+Змазка сумісна з усіма видами інтимних іграшок та презервативів. Компактний флакон 60 мл зручний для зберігання та транспортування.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: H2O&lt;br /&gt;
+Виробник: System JO&lt;br /&gt;
+Об'єм (мл): 60&lt;br /&gt;
+Основа (складу): Водна&lt;br /&gt;
+Смак: Жувальна гумка&lt;br /&gt;
+Запах: Жувальна гумка&lt;br /&gt;
+Додаткові ефекти: Без ефектів</description_ua>
+            </offer>
         <offer id="BI-300086" available="true">
                 <erp>BI-300086</erp>
             <barcode>6959532360745</barcode>
@@ -76019,24 +76060,6 @@ Woman №9 — аромат пристрасті, елегантності та 
             <description>Taboo Libertin використовується не тільки як сексуальний атрактант (аттрактант), але і під час повсякденних зустрічей і розмов, де є можливість контакту з іншою людиною. Taboo Libertin є результатом багаторічних досліджень людських феромонів. Він містить найактивніші феромони в ідеальних пропорціях, в яких їх виробляє людський організм. При щоденному використанні, як і стандартний косметичний засіб, він може впливати на навколишнє середовище (на протилежну стать), що може сприймати вас більш позитивно та дружньо. Taboo Libertin може підвищити ступінь довіри і зробити людей навколо вас більш відкритими, бажаючими бути поруч з вами і ставитися до вас з повагою. Taboo Libertin може бути корисним як під час вирішення важливих справ в офісах, банках, під час важливої розмови, так і під час вечірнього відпочинку в клубі. Taboo Libertin також є пропозицією для людей, які хочуть привнести більше пристрасті та любові до їхніх стосунків. Незалежно від того, знайомі ви один одного 2 місяці чи 20 років, ви можете знову закохатися, як і раніше. Тепер все у ваших руках...</description>
             <name_ua>Парфуми Ruf Taboo for Him, 50 мл</name_ua>
             <description_ua>Taboo Libertin використовується не тільки як сексуальний атрактант (аттрактант), але і під час повсякденних зустрічей і розмов, де є можливість контакту з іншою людиною. Taboo Libertin є результатом багаторічних досліджень людських феромонів. Він містить найактивніші феромони в ідеальних пропорціях, в яких їх виробляє людський організм. При щоденному використанні, як і стандартний косметичний засіб, він може впливати на навколишнє середовище (на протилежну стать), що може сприймати вас більш позитивно та дружньо. Taboo Libertin може підвищити ступінь довіри і зробити людей навколо вас більш відкритими, бажаючими бути поруч з вами і ставитися до вас з повагою. Taboo Libertin може бути корисним як під час вирішення важливих справ в офісах, банках, під час важливої розмови, так і під час вечірнього відпочинку в клубі. Taboo Libertin також є пропозицією для людей, які хочуть привнести більше пристрасті та любові до їхніх стосунків. Незалежно від того, знайомі ви один одного 2 місяці чи 20 років, ви можете знову закохатися, як і раніше. Тепер все у ваших руках...</description_ua>
-            </offer>
-        <offer id="19-3065" available="true">
-                <erp>19-3065</erp>
-            <barcode>3548960030653</barcode>
-            <quantity_in_stock>10</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2433-lubrikant_x_delight</url>
-            <price>433.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>42</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/19-3065.jpg</picture>
-            <name>Збуджуючий крем для жінок Ruf X-Delight, 30 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>10</stock>
-            <vendor>RUF</vendor>
-            <model>Збуджуючий крем для жінок Ruf X-Delight, 30 мл</model>
-            <description>Крем для жінок , а саме для догляду за інтимними місцями. Завдяки унікальній формулі ви будете відчувати більше задоволення від фізичного контакту.</description>
-            <name_ua>Збуджуючий крем для жінок Ruf X-Delight, 30 мл</name_ua>
-            <description_ua>Крем для жінок , а саме для догляду за інтимними місцями. Завдяки унікальній формулі ви будете відчувати більше задоволення від фізичного контакту.</description_ua>
             </offer>
         <offer id="19-3055" available="true">
                 <erp>19-3055</erp>
@@ -77309,6 +77332,24 @@ Flutschi Anal - це відмінний вибір для тих, хто шук�
             <name_ua>Ерекційне кільце Crazy Bull Penis Ring Oniel</name_ua>
             <description_ua>Коли важлива продуктивність, оберіть перевірене рішення.&lt;br /&gt;
 Це м'яке силіконове кільце – чудовий вибір для міцнішої та тривалішої ерекції. Кільце щільно облягає пеніс, підтримуючи кровотік, допомагаючи відтермінувати еякуляцію та посилити відчуття. Результат? Триваліша ерекція та міцніше, інтенсивніше закінчення. Ідеально підходить для чоловіків, які хочуть покращити свою продуктивність та насолоджуватися повним задоволенням.</description_ua>
+            </offer>
+        <offer id="19-3065" available="true">
+                <erp>19-3065</erp>
+            <barcode>3548960030653</barcode>
+            <quantity_in_stock>11</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2433-lubrikant_x_delight</url>
+            <price>433.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>42</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/19-3065.jpg</picture>
+            <name>Збуджуючий крем для жінок Ruf X-Delight, 30 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>11</stock>
+            <vendor>RUF</vendor>
+            <model>Збуджуючий крем для жінок Ruf X-Delight, 30 мл</model>
+            <description>Крем для жінок , а саме для догляду за інтимними місцями. Завдяки унікальній формулі ви будете відчувати більше задоволення від фізичного контакту.</description>
+            <name_ua>Збуджуючий крем для жінок Ruf X-Delight, 30 мл</name_ua>
+            <description_ua>Крем для жінок , а саме для догляду за інтимними місцями. Завдяки унікальній формулі ви будете відчувати більше задоволення від фізичного контакту.</description_ua>
             </offer>
         <offer id="731-00004" available="true">
                 <erp>731-00004</erp>
