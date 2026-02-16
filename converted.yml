@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-02-16 14:15">
+<yml_catalog date="2026-02-16 15:47">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -306,7 +306,7 @@
             <url>http://blissclub.com.ua/product/2507-vbrator_loveclonex_achilles_z_pultom_keruvannya_</url>
             <price>1802.00</price>
             <currencyId>UAH</currencyId>
-            <categoryId>93</categoryId>
+            <categoryId>132</categoryId>
             <picture>https://blissclub.com.ua/images/product_variants/product_25076831b6546f964.jpeg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_6831b65293472.jpeg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_6831b652a7688.jpeg</picture>
@@ -2207,48 +2207,6 @@ LoveCloneX Achilles — це вібратор, що поєднує реаліс�
 Форма випуску: Масло&lt;/br&gt;&lt;br /&gt;
 Запах: Квітковий&lt;/br&gt;&lt;br /&gt;
 Смак: Без смаку (нейтральний)&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="32-00031" available="true">
-                <erp>32-00031</erp>
-            <barcode>5905669259446</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/4240-feromony_pherostrong_exclusive_dla_kobiet_tester_1_ml</url>
-            <price>245.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>80</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/32-00031.jpg</picture>
-            <name>Парфуми Medica Pherostong Exclusive для жінок, тестер, 1 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>MEDICA</vendor>
-            <model>Парфуми Medica Pherostong Exclusive для жінок, тестер, 1 мл</model>
-            <description>Жіночі парфуми з феромонами Medica Pherostong Exclusive створені для підвищення привабливості та впевненості в собі. &lt;b&gt;Унікальна формула з феромонами&lt;/b&gt; допомагає привертати увагу протилежної статі, а багатошаровий аромат розкривається протягом дня.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Парфумна композиція починається з яскравих нот &lt;b&gt;чорної смородини та груші&lt;/b&gt;, переходить до квіткового серця з флердоранжу, жасмину та іриса, завершуючись теплими базовими нотами праліне, ванілі, бобів тонка та пачулі. Спиртова основа забезпечує стійкість аромату та рівномірне розпилення.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Компактний тестер об'ємом 1 мл зручно носити з собою та використовувати для знайомства з ароматом перед покупкою повноформатного флакона. Підходить як для щоденного використання, так і для особливих випадків.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Medica Group&lt;/br&gt;&lt;br /&gt;
-Виробник: Medica Group&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 1&lt;/br&gt;&lt;br /&gt;
-Форма випуску: Рідина&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Спиртова&lt;/br&gt;</description>
-            <name_ua>Парфуми Medica Pherostong Exclusive для жінок, тестер, 1 мл</name_ua>
-            <description_ua>Жіночі парфуми з феромонами Medica Pherostong Exclusive створені для підвищення привабливості та впевненості в собі. &lt;b&gt;Унікальна формула з феромонами&lt;/b&gt; допомагає привертати увагу протилежної статі, а багатошаровий аромат розкривається протягом дня.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Парфумна композиція починається з яскравих нот &lt;b&gt;чорної смородини та груші&lt;/b&gt;, переходить до квіткового серця з флердоранжу, жасмину та іриса, завершуючись теплими базовими нотами праліне, ванілі, бобів тонка та пачулі. Спиртова основа забезпечує стійкість аромату та рівномірне розпилення.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Компактний тестер об'ємом 1 мл зручно носити з собою та використовувати для знайомства з ароматом перед покупкою повноформатного флакона. Підходить як для щоденного використання, так і для особливих випадків.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Medica Group&lt;/br&gt;&lt;br /&gt;
-Виробник: Medica Group&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 1&lt;/br&gt;&lt;br /&gt;
-Форма випуску: Рідина&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Спиртова&lt;/br&gt;</description_ua>
             </offer>
         <offer id="43-SLB00839" available="true">
                 <erp>43-SLB00839</erp>
@@ -6101,11 +6059,11 @@ Magoon – запорука приємних і захоплюючих моме�
             <picture>https://blissclub.com.ua/images/product_variants/product_61a612962f80f.png</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_61a6129646847.png</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_61a612965bb38.png</picture>
-            <name>Симулятор орального сексу для жінок Satisfyer One Night Stand, бордовий</name>
+            <name>Симулятор вакуумний для жінок Satisfyer One Night Stand, бордовий</name>
             <Отображать>Да</Отображать>
             <stock>1</stock>
             <vendor>SATISFYER</vendor>
-            <model>Симулятор орального сексу для жінок Satisfyer One Night Stand, бордовий</model>
+            <model>Симулятор вакуумний для жінок Satisfyer One Night Stand, бордовий</model>
             <description>Симулятор орального сексу Satisfyer One Night Stand у бордовому кольорі забезпечує &lt;b&gt;безконтактну стимуляцію клітора&lt;/b&gt; завдяки вакуумним хвилям та легкій вібрації. Компактний пристрій з м'яким силіконовим носиком створює &lt;b&gt;4 програми інтенсивних відчуттів&lt;/b&gt;, поєднуючи вакуумний вплив із вібраційними пестощами.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
 &lt;br /&gt;
 Корпус виготовлено з гладкого пластику без фталатів, а контактна частина - з оксамитового гіпоалергенного силікону для комфортного дотику до шкіри. Вбудований акумулятор забезпечує &lt;b&gt;до 35 хвилин безперервної роботи&lt;/b&gt;, а зручне керування однією кнопкою дозволяє легко перемикати режими стимуляції.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
@@ -6123,7 +6081,7 @@ Magoon – запорука приємних і захоплюючих моме�
 Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
 Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
 Водонепроникність: Ні&lt;/br&gt;</description>
-            <name_ua>Симулятор орального сексу для жінок Satisfyer One Night Stand, бордовий</name_ua>
+            <name_ua>Симулятор вакуумний для жінок Satisfyer One Night Stand, бордовий</name_ua>
             <description_ua>Симулятор орального сексу Satisfyer One Night Stand у бордовому кольорі забезпечує &lt;b&gt;безконтактну стимуляцію клітора&lt;/b&gt; завдяки вакуумним хвилям та легкій вібрації. Компактний пристрій з м'яким силіконовим носиком створює &lt;b&gt;4 програми інтенсивних відчуттів&lt;/b&gt;, поєднуючи вакуумний вплив із вібраційними пестощами.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
 &lt;br /&gt;
 Корпус виготовлено з гладкого пластику без фталатів, а контактна частина - з оксамитового гіпоалергенного силікону для комфортного дотику до шкіри. Вбудований акумулятор забезпечує &lt;b&gt;до 35 хвилин безперервної роботи&lt;/b&gt;, а зручне керування однією кнопкою дозволяє легко перемикати режими стимуляції.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
@@ -22813,33 +22771,6 @@ Anal Just Glide характеризується високоякісним ре
             <name_ua>Вібратор кролик Pretty Love Grace, фіолетовий</name_ua>
             <description_ua>Виготовлений з високоякісного матеріалу, він має подвійний, двомоторний (один у верхній частині вібратора, один у кліторальному стимулі), гнучкий вібратор із кліторальним стимулом спеціальної форми, який також можна використовувати для стимуляції точка g. Має 12 режимів вібрації. Режими перемикаються за допомогою кнопки на основі іграшки. Працює від USB-кабелю (у комплекті). Має низький рівень шуму. Характеристики: загальна довжина – 16,5 см, робоча довжина – 12 см, максимальний діаметр – 3,3 см, довжина відростка – 7 см, діаметр відростка – 2,5 см. </description_ua>
             </offer>
-        <offer id="BI-026227" available="true">
-                <erp>BI-026227</erp>
-            <barcode>6959532317848</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/17950-pretty_love_penis_sleeve_7_large</url>
-            <price>168.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>36</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_179506312482a39413.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6312482859bdb.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_631248287b4a9.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6312482895c78.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63124828ab5f2.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63124828bfc3f.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63124828d214c.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_63124828e4469.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6312482900b2d.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6312482919c79.jpg</picture>
-            <name>Насадка на пеніс Pretty Love Penis Sleeve, тілесна, 18 см</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor />
-            <model>Насадка на пеніс Pretty Love Penis Sleeve, тілесна, 18 см</model>
-            <description>Насадка на пеніс реалістичної форми. Придасть об`єму на 5 сантиметрів і збільшує його окружність на 30%. Мошонкове кільце забезпечує надійну фіксацію, запобігаючи його ковзанню. Насадка виготовлена з гнучкого матеріалу, завдяки чому їїлегко надягати, розтягуючи до потрібного розміру. Матеріал: TPR Довжина: 18см Діаметр : 3,6 см</description>
-            <name_ua>Насадка на пеніс Pretty Love Penis Sleeve, тілесна, 18 см</name_ua>
-            <description_ua>Насадка на пеніс реалістичної форми. Придасть об`єму на 5 сантиметрів і збільшує його окружність на 30%. Мошонкове кільце забезпечує надійну фіксацію, запобігаючи його ковзанню. Насадка виготовлена з гнучкого матеріалу, завдяки чому їїлегко надягати, розтягуючи до потрібного розміру. Матеріал: TPR Довжина: 18см Діаметр : 3,6 см</description_ua>
-            </offer>
         <offer id="BI-040068" available="true">
                 <erp>BI-040068</erp>
             <barcode>6959532322682</barcode>
@@ -22953,7 +22884,7 @@ Anal Just Glide характеризується високоякісним ре
             <url>http://blissclub.com.ua/product/17999-baile_thunder_up_vibration</url>
             <price>1372.00</price>
             <currencyId>UAH</currencyId>
-            <categoryId>93</categoryId>
+            <categoryId>132</categoryId>
             <picture>https://blissclub.com.ua/images/product_variants/BW-008097X.jpg</picture>
             <name>Вібратор на присосці Thunder Up Suction Base, тілесний</name>
             <Отображать>Да</Отображать>
@@ -28270,6 +28201,24 @@ USB перезаряджається&lt;br /&gt;
 Форма випуску: Масло&lt;/br&gt;&lt;br /&gt;
 Запах: Ваніль&lt;/br&gt;&lt;br /&gt;
 Смак: Без смаку (нейтральний)&lt;/br&gt;</description_ua>
+            </offer>
+        <offer id="32-00084" available="true">
+                <erp>32-00084</erp>
+            <barcode>5905669259200</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30953-parfumi_tester__for_him_pherostrong_for_men_1ml</url>
+            <price>284.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>81</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3095065d1cb3e422e9.jpeg</picture>
+            <name>Парфуми TESTER J for Him PheroStrong for Men 1ml</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor>MEDICA</vendor>
+            <model>Парфуми TESTER J for Him PheroStrong for Men 1ml</model>
+            <description>Парфуми TESTER J for Him PheroStrong for Men 1ml</description>
+            <name_ua>Парфуми TESTER J for Him PheroStrong for Men 1ml</name_ua>
+            <description_ua>Парфуми TESTER J for Him PheroStrong for Men 1ml</description_ua>
             </offer>
         <offer id="11-50060" available="true">
                 <erp>11-50060</erp>
@@ -34357,9 +34306,37 @@ Woman №8 — аромат чистоти, ніжності та природн
             <stock>2</stock>
             <vendor>FeelzToys</vendor>
             <model>Оральний лубрикант JO H2O Cherry Burst, вишня, 120 мл</model>
-            <description>Лубрикант на водній основі з натуральним смаком вишні забезпечує комфортне ковзання та приємні відчуття під час інтимної близькості. Безбарвна формула не залишає слідів на білизні та постільній білизні. Продукт повністю їстівний та безпечний для орального контакту, має тривалу дію без необхідності частого поновлення. Збалансований склад на водній основі легко змивається водою та сумісний з презервативами й іграшками. Компактний флакон об'ємом 30 мл зручний для зберігання та транспортування. Лубрикант не містить додаткових ефектів, забезпечуючи м'яке та природне зволоження. Характеристики: Бренд: H2O Виробник: System JO Об'єм (мл): 30 Основа (складу): Водна Смак: Вишня Запах: Вишня Додаткові ефекти: Без ефектів</description>
+            <description>Лубрикант на водній основі з &lt;b&gt;натуральним смаком вишні забезпечує комфортне ковзання та приємні відчуття під час інтимної близькості. Безбарвна формула не залишає слідів на білизні та постільній білизні.&lt;br /&gt;
+&lt;br /&gt;
+Продукт повністю їстівний та безпечний для орального контакту, має тривалу дію без необхідності частого поновлення. Збалансований склад на водній основі легко змивається водою та сумісний з презервативами й іграшками.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Компактний флакон об'ємом 30 мл зручний для зберігання та транспортування. Лубрикант не містить додаткових ефектів, забезпечуючи м'яке та природне зволоження.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: H2O&lt;/br&gt;&lt;br /&gt;
+Виробник: System JO&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 30&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
+Смак: Вишня&lt;/br&gt;&lt;br /&gt;
+Запах: Вишня&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: Без ефектів&lt;/br&gt;</description>
             <name_ua>Оральний лубрикант JO H2O Cherry Burst, вишня, 120 мл</name_ua>
-            <description_ua>Лубрикант на водній основі з натуральним смаком вишні забезпечує комфортне ковзання та приємні відчуття під час інтимної близькості. Безбарвна формула не залишає слідів на білизні та постільній білизні. Продукт повністю їстівний та безпечний для орального контакту, має тривалу дію без необхідності частого поновлення. Збалансований склад на водній основі легко змивається водою та сумісний з презервативами й іграшками. Компактний флакон об'ємом 30 мл зручний для зберігання та транспортування. Лубрикант не містить додаткових ефектів, забезпечуючи м'яке та природне зволоження. Характеристики: Бренд: H2O Виробник: System JO Об'єм (мл): 30 Основа (складу): Водна Смак: Вишня Запах: Вишня Додаткові ефекти: Без ефектів</description_ua>
+            <description_ua>Лубрикант на водній основі з &lt;b&gt;натуральним смаком вишні забезпечує комфортне ковзання та приємні відчуття під час інтимної близькості. Безбарвна формула не залишає слідів на білизні та постільній білизні.&lt;br /&gt;
+&lt;br /&gt;
+Продукт повністю їстівний та безпечний для орального контакту, має тривалу дію без необхідності частого поновлення. Збалансований склад на водній основі легко змивається водою та сумісний з презервативами й іграшками.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Компактний флакон об'ємом 30 мл зручний для зберігання та транспортування. Лубрикант не містить додаткових ефектів, забезпечуючи м'яке та природне зволоження.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: H2O&lt;/br&gt;&lt;br /&gt;
+Виробник: System JO&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 30&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
+Смак: Вишня&lt;/br&gt;&lt;br /&gt;
+Запах: Вишня&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: Без ефектів&lt;/br&gt;</description_ua>
             </offer>
         <offer id="3-44530" available="true">
                 <erp>3-44530</erp>
@@ -35227,7 +35204,7 @@ Woman №8 — аромат чистоти, ніжності та природн
             <url>http://blissclub.com.ua/product/3363-european_lover_vibr_vibrator_</url>
             <price>2363.00</price>
             <currencyId>UAH</currencyId>
-            <categoryId>93</categoryId>
+            <categoryId>132</categoryId>
             <picture>https://blissclub.com.ua/images/product_variants/42-05835530000.jpg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_62cc34288abae.jpg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_62cc3428a2ecb.jpg</picture>
@@ -35437,6 +35414,48 @@ Woman №8 — аромат чистоти, ніжності та природн
             <description>Вібратор оснащений сильною вібрацією. Дивайс мультишвидкісний, пульт управління вбудований в основу. Довжина 21 см, діаметр 4-4,5 см.</description>
             <name_ua>Вібратор Big Boy</name_ua>
             <description_ua>Вібратор оснащений сильною вібрацією. Дивайс мультишвидкісний, пульт управління вбудований в основу. Довжина 21 см, діаметр 4-4,5 см.</description_ua>
+            </offer>
+        <offer id="32-00031" available="true">
+                <erp>32-00031</erp>
+            <barcode>5905669259446</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/4240-feromony_pherostrong_exclusive_dla_kobiet_tester_1_ml</url>
+            <price>245.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>80</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/32-00031.jpg</picture>
+            <name>Парфуми Medica Pherostong Exclusive для жінок, тестер, 1 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor>MEDICA</vendor>
+            <model>Парфуми Medica Pherostong Exclusive для жінок, тестер, 1 мл</model>
+            <description>Жіночі парфуми з феромонами Medica Pherostong Exclusive створені для підвищення привабливості та впевненості в собі. &lt;b&gt;Унікальна формула з феромонами&lt;/b&gt; допомагає привертати увагу протилежної статі, а багатошаровий аромат розкривається протягом дня.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Парфумна композиція починається з яскравих нот &lt;b&gt;чорної смородини та груші&lt;/b&gt;, переходить до квіткового серця з флердоранжу, жасмину та іриса, завершуючись теплими базовими нотами праліне, ванілі, бобів тонка та пачулі. Спиртова основа забезпечує стійкість аромату та рівномірне розпилення.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Компактний тестер об'ємом 1 мл зручно носити з собою та використовувати для знайомства з ароматом перед покупкою повноформатного флакона. Підходить як для щоденного використання, так і для особливих випадків.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Medica Group&lt;/br&gt;&lt;br /&gt;
+Виробник: Medica Group&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 1&lt;/br&gt;&lt;br /&gt;
+Форма випуску: Рідина&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Спиртова&lt;/br&gt;</description>
+            <name_ua>Парфуми Medica Pherostong Exclusive для жінок, тестер, 1 мл</name_ua>
+            <description_ua>Жіночі парфуми з феромонами Medica Pherostong Exclusive створені для підвищення привабливості та впевненості в собі. &lt;b&gt;Унікальна формула з феромонами&lt;/b&gt; допомагає привертати увагу протилежної статі, а багатошаровий аромат розкривається протягом дня.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Парфумна композиція починається з яскравих нот &lt;b&gt;чорної смородини та груші&lt;/b&gt;, переходить до квіткового серця з флердоранжу, жасмину та іриса, завершуючись теплими базовими нотами праліне, ванілі, бобів тонка та пачулі. Спиртова основа забезпечує стійкість аромату та рівномірне розпилення.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Компактний тестер об'ємом 1 мл зручно носити з собою та використовувати для знайомства з ароматом перед покупкою повноформатного флакона. Підходить як для щоденного використання, так і для особливих випадків.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Medica Group&lt;/br&gt;&lt;br /&gt;
+Виробник: Medica Group&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 1&lt;/br&gt;&lt;br /&gt;
+Форма випуску: Рідина&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Спиртова&lt;/br&gt;</description_ua>
             </offer>
         <offer id="30-88008-O/S-BLACK" available="true">
                 <erp>30-88008-O/S-BLACK</erp>
@@ -36913,6 +36932,33 @@ The Black Velvets Cock &amp; Ball Ring with Butt Plug — це комбінов�
 Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
 Водонепроникність: Так&lt;/br&gt;&lt;br /&gt;
 Живлення: Акумулятор&lt;/br&gt;</description_ua>
+            </offer>
+        <offer id="BI-026227" available="true">
+                <erp>BI-026227</erp>
+            <barcode>6959532317848</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/17950-pretty_love_penis_sleeve_7_large</url>
+            <price>168.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>36</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_179506312482a39413.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6312482859bdb.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_631248287b4a9.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6312482895c78.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63124828ab5f2.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63124828bfc3f.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63124828d214c.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63124828e4469.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6312482900b2d.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6312482919c79.jpg</picture>
+            <name>Насадка на пеніс Pretty Love Penis Sleeve, тілесна, 18 см</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor />
+            <model>Насадка на пеніс Pretty Love Penis Sleeve, тілесна, 18 см</model>
+            <description>Насадка на пеніс реалістичної форми. Придасть об`єму на 5 сантиметрів і збільшує його окружність на 30%. Мошонкове кільце забезпечує надійну фіксацію, запобігаючи його ковзанню. Насадка виготовлена з гнучкого матеріалу, завдяки чому їїлегко надягати, розтягуючи до потрібного розміру. Матеріал: TPR Довжина: 18см Діаметр : 3,6 см</description>
+            <name_ua>Насадка на пеніс Pretty Love Penis Sleeve, тілесна, 18 см</name_ua>
+            <description_ua>Насадка на пеніс реалістичної форми. Придасть об`єму на 5 сантиметрів і збільшує його окружність на 30%. Мошонкове кільце забезпечує надійну фіксацію, запобігаючи його ковзанню. Насадка виготовлена з гнучкого матеріалу, завдяки чому їїлегко надягати, розтягуючи до потрібного розміру. Матеріал: TPR Довжина: 18см Діаметр : 3,6 см</description_ua>
             </offer>
         <offer id="BI-014396" available="true">
                 <erp>BI-014396</erp>
@@ -45516,7 +45562,7 @@ USB-акумулятор&lt;br /&gt;
             </offer>
         <offer id="56-1063" available="true">
                 <erp>56-1063</erp>
-            <barcode />
+            <barcode>5903661807931</barcode>
             <quantity_in_stock>3</quantity_in_stock>
             <url>http://blissclub.com.ua/product/32434-analyna_probka_rotating_anal_plug</url>
             <price>1848.00</price>
@@ -46164,7 +46210,7 @@ USB-акумулятор&lt;br /&gt;
             <url>http://blissclub.com.ua/product/35728-vibrator_na_prisostsi_z_pulytom_keruvannya_11_realistic_</url>
             <price>2270.00</price>
             <currencyId>UAH</currencyId>
-            <categoryId>93</categoryId>
+            <categoryId>132</categoryId>
             <picture>https://blissclub.com.ua/images/product_variants/product_357246974cd10ea9b5.jpg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_357246974e948c320e.jpg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_6974ccf56cb30.jpg</picture>
@@ -46276,9 +46322,13 @@ USB-акумулятор&lt;br /&gt;
             <stock>3</stock>
             <vendor>BOSS SERIES</vendor>
             <model>Анальна червона вібро пробка Rose rotating anal beads</model>
-            <description>&lt;p&gt;Ця анальна пробка пропонує 10 різних типів вібрацій і 10 унікальних рухів, які забезпечать вам неймовірну стимуляцію. Ви можете керувати ним за допомогою пульта дистанційного керування Виготовлений із високоякісного силікону, наш анальний вібратор безпечний для тіла та легко чиститься. Його повністю водонепроникний дизайн дозволяє вам досліджувати нові межі задоволення в будь-якому середовищі, від купання у ванні до басейну. Завдяки вбудованій літій-іонній батареї та USB-зарядці наша пробка проста у використанні та готова до тривалих сеансів задоволення. Має сертифікати CE RoHS, що підтверджує його високу якість і безпеку.&lt;/p&gt;</description>
+            <description>Ця анальна пробка пропонує 10 різних типів вібрацій і 10 унікальних рухів, які забезпечать вам неймовірну стимуляцію. Ви можете керувати ним за допомогою пульта дистанційного керування  Виготовлений із високоякісного силікону, наш анальний вібратор безпечний для тіла та легко чиститься. Його повністю водонепроникний дизайн дозволяє вам досліджувати нові межі задоволення в будь-якому середовищі, від купання у ванні до басейну.&lt;br /&gt;
+&lt;br /&gt;
+Завдяки вбудованій літій-іонній батареї та USB-зарядці наша пробка проста у використанні та готова до тривалих сеансів задоволення. Має сертифікати CE RoHS, що підтверджує його високу якість і безпеку.</description>
             <name_ua>Анальна червона вібро пробка Rose rotating anal beads</name_ua>
-            <description_ua>&lt;p&gt;Ця анальна пробка пропонує 10 різних типів вібрацій і 10 унікальних рухів, які забезпечать вам неймовірну стимуляцію. Ви можете керувати ним за допомогою пульта дистанційного керування Виготовлений із високоякісного силікону, наш анальний вібратор безпечний для тіла та легко чиститься. Його повністю водонепроникний дизайн дозволяє вам досліджувати нові межі задоволення в будь-якому середовищі, від купання у ванні до басейну. Завдяки вбудованій літій-іонній батареї та USB-зарядці наша пробка проста у використанні та готова до тривалих сеансів задоволення. Має сертифікати CE RoHS, що підтверджує його високу якість і безпеку.&lt;/p&gt;</description_ua>
+            <description_ua>Ця анальна пробка пропонує 10 різних типів вібрацій і 10 унікальних рухів, які забезпечать вам неймовірну стимуляцію. Ви можете керувати ним за допомогою пульта дистанційного керування  Виготовлений із високоякісного силікону, наш анальний вібратор безпечний для тіла та легко чиститься. Його повністю водонепроникний дизайн дозволяє вам досліджувати нові межі задоволення в будь-якому середовищі, від купання у ванні до басейну.&lt;br /&gt;
+&lt;br /&gt;
+Завдяки вбудованій літій-іонній батареї та USB-зарядці наша пробка проста у використанні та готова до тривалих сеансів задоволення. Має сертифікати CE RoHS, що підтверджує його високу якість і безпеку.</description_ua>
             </offer>
         <offer id="26-00209" available="true">
                 <erp>26-00209</erp>
@@ -49847,32 +49897,6 @@ PJUR WOMAN Алое адаптовано до природного pH балан
             <name_ua>Мастурбатор CRAZY BULL CINDY</name_ua>
             <description_ua>Мастурбатор CRAZY BULL CINDY</description_ua>
             </offer>
-        <offer id="32-00079" available="true">
-                <erp>32-00079</erp>
-            <barcode>5904405351055</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29594-parfumi_only_with_pherostrong_for_men_1ml</url>
-            <price>268.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>81</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_2959462bdca75a4e47.png</picture>
-            <name>Парфуми Medica Only with PheroStrong for Men, 1 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>MEDICA</vendor>
-            <model>Парфуми Medica Only with PheroStrong for Men, 1 мл</model>
-            <description>Парфуми з феромонами для чоловіків для збудження жінок:&lt;br /&gt;
-&lt;br /&gt;
-Верхні ноти: апельсин, мандарин, альдегіди, морські ноти&lt;br /&gt;
-Ноти серця: кедр, перець, неролі&lt;br /&gt;
-Базові ноти: ветивер, ваніль, амбра, білий мускус, боби тонка, елемі</description>
-            <name_ua>Парфуми Medica Only with PheroStrong for Men, 1 мл</name_ua>
-            <description_ua>Парфуми з феромонами для чоловіків для збудження жінок:&lt;br /&gt;
-&lt;br /&gt;
-Верхні ноти: апельсин, мандарин, альдегіди, морські ноти&lt;br /&gt;
-Ноти серця: кедр, перець, неролі&lt;br /&gt;
-Базові ноти: ветивер, ваніль, амбра, білий мускус, боби тонка, елемі</description_ua>
-            </offer>
         <offer id="6-00107" available="true">
                 <erp>6-00107</erp>
             <barcode>5903661804817</barcode>
@@ -51445,7 +51469,7 @@ Pherluxe BLACK - подарує вам чуттєвість, пристраст�
             <url>http://blissclub.com.ua/product/31002-realistichniy_vibrator_boss_series_fox_silicone_vibration_10_rotate_telescopic_heating_21cm</url>
             <price>4359.00</price>
             <currencyId>UAH</currencyId>
-            <categoryId>93</categoryId>
+            <categoryId>132</categoryId>
             <picture>https://blissclub.com.ua/images/product_variants/63-00053.jpg</picture>
             <name>Реалістичний вібратор Boss Series Fox Silicone, Vibration 10, Rotate, Telescopic, Heating, 21cm</name>
             <Отображать>Да</Отображать>
@@ -51561,7 +51585,7 @@ Pherluxe BLACK - подарує вам чуттєвість, пристраст�
             <url>http://blissclub.com.ua/product/31084-vibrator_na_prisostsi_nature_skin_bendable_rc_vibrat</url>
             <price>3904.00</price>
             <currencyId>UAH</currencyId>
-            <categoryId>93</categoryId>
+            <categoryId>132</categoryId>
             <picture>https://blissclub.com.ua/images/product_variants/product_310816616bb4e79a66.jpeg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_6616bb4cd6f4b.jpeg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_6616bb4cf0cfb.jpeg</picture>
@@ -55264,9 +55288,9 @@ Woman №7 — твій аромат свободи, енергії та нев�
             <stock>4</stock>
             <vendor>BOSS SERIES</vendor>
             <model>Вібратор Eie USB 10 функцій вібрації та обертання намистини та штовхання</model>
-            <description>&lt;p&gt;Вібратор Eie USB 10 функцій вібрації та обертання намистини та штовхання&lt;/p&gt;</description>
+            <description>Вібратор Eie USB 10 функцій вібрації та обертання намистини та штовхання</description>
             <name_ua>Вібратор Eie USB 10 функцій вібрації та обертання намистини та штовхання</name_ua>
-            <description_ua>&lt;p&gt;Вібратор Eie USB 10 функцій вібрації та обертання намистини та штовхання&lt;/p&gt;</description_ua>
+            <description_ua>Вібратор Eie USB 10 функцій вібрації та обертання намистини та штовхання</description_ua>
             </offer>
         <offer id="20-DS003 CAP BLUE" available="true">
                 <erp>20-DS003 CAP BLUE</erp>
@@ -57195,6 +57219,26 @@ Woman №7 — твій аромат свободи, енергії та нев�
 Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
 Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
 Керування з додатку: Ні&lt;/br&gt;</description_ua>
+            </offer>
+        <offer id="42-06214390000" available="true">
+                <erp>42-06214390000</erp>
+            <barcode>4024144621439</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/18996-penis_xxl_creme200ml</url>
+            <price>1032.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>101</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/42-06214390000.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6851bbea812a5.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6851bbea8c6da.png</picture>
+            <name>Крем для збільшення пеніса Penis XXL Cream, 200 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>ORION</vendor>
+            <model>Penis-XXL-Creme200ml</model>
+            <description>Penis-XXL-Creme200ml</description>
+            <name_ua>Крем для збільшення пеніса Penis XXL Cream, 200 мл</name_ua>
+            <description_ua>Penis-XXL-Creme200ml</description_ua>
             </offer>
         <offer id="42-07774390000" available="true">
                 <erp>42-07774390000</erp>
@@ -61910,11 +61954,11 @@ Clitoris Spray Stimulating - це відмінний вибір для тих, �
             <categoryId>49</categoryId>
             <picture>https://blissclub.com.ua/images/product_variants/42-06220010000.jpg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_68760fce8ef91.jpeg</picture>
-            <name>Масажна олія Magoon Oriental Ecstasy, східний екстаз, 200 мл</name>
+            <name>Масажна олія Magoon Oriental Ecstasy, східний екстаз, 100 мл</name>
             <Отображать>Да</Отображать>
             <stock>6</stock>
             <vendor>ORION</vendor>
-            <model>Масажна олія Magoon Oriental Ecstasy, східний екстаз, 200 мл</model>
+            <model>Масажна олія Magoon Oriental Ecstasy, східний екстаз, 100 мл</model>
             <description>Масажна олія Magoon Oriental Ecstasy з &lt;b&gt;чарівним східним ароматом&lt;/b&gt; створена для інтимного масажу та романтичних моментів. Формула на основі якісних компонентів забезпечує &lt;b&gt;ідеальне ковзання&lt;/b&gt; під час масажу, ефективно зволожує шкіру та не залишає липких відчуттів.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
 &lt;br /&gt;
 Олія має &lt;b&gt;нейтральний смак&lt;/b&gt; та легко розподіляється по шкірі м'якими рухами. Завдяки збалансованому складу засіб &lt;b&gt;швидко змивається теплою водою&lt;/b&gt; після використання. Об'єм 200 мл дозволяє тривалий час насолоджуватися приємними масажними процедурами.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
@@ -61925,12 +61969,12 @@ Clitoris Spray Stimulating - це відмінний вибір для тих, �
 &lt;br /&gt;
 Бренд: Magoon&lt;/br&gt;&lt;br /&gt;
 Виробник: Orion&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 200&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 100&lt;/br&gt;&lt;br /&gt;
 Форма випуску: Масло&lt;/br&gt;&lt;br /&gt;
 Запах: Східний аромат&lt;/br&gt;&lt;br /&gt;
 Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
 Їстівне: Ні&lt;/br&gt;</description>
-            <name_ua>Масажна олія Magoon Oriental Ecstasy, східний екстаз, 200 мл</name_ua>
+            <name_ua>Масажна олія Magoon Oriental Ecstasy, східний екстаз, 100 мл</name_ua>
             <description_ua>Масажна олія Magoon Oriental Ecstasy з &lt;b&gt;чарівним східним ароматом&lt;/b&gt; створена для інтимного масажу та романтичних моментів. Формула на основі якісних компонентів забезпечує &lt;b&gt;ідеальне ковзання&lt;/b&gt; під час масажу, ефективно зволожує шкіру та не залишає липких відчуттів.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
 &lt;br /&gt;
 Олія має &lt;b&gt;нейтральний смак&lt;/b&gt; та легко розподіляється по шкірі м'якими рухами. Завдяки збалансованому складу засіб &lt;b&gt;швидко змивається теплою водою&lt;/b&gt; після використання. Об'єм 200 мл дозволяє тривалий час насолоджуватися приємними масажними процедурами.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
@@ -61941,7 +61985,7 @@ Clitoris Spray Stimulating - це відмінний вибір для тих, �
 &lt;br /&gt;
 Бренд: Magoon&lt;/br&gt;&lt;br /&gt;
 Виробник: Orion&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 200&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 100&lt;/br&gt;&lt;br /&gt;
 Форма випуску: Масло&lt;/br&gt;&lt;br /&gt;
 Запах: Східний аромат&lt;/br&gt;&lt;br /&gt;
 Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
@@ -63124,26 +63168,6 @@ Cananga Odorata Flower Oil — антисептична та релаксува�
 Водонепроникність: Так&lt;/br&gt;&lt;br /&gt;
 Керування з додатку: Ні&lt;/br&gt;</description_ua>
             </offer>
-        <offer id="42-06214390000" available="true">
-                <erp>42-06214390000</erp>
-            <barcode>4024144621439</barcode>
-            <quantity_in_stock>6</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/18996-penis_xxl_creme200ml</url>
-            <price>1032.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>101</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-06214390000.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6851bbea812a5.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6851bbea8c6da.png</picture>
-            <name>Крем для збільшення пеніса Penis XXL Cream, 200 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>6</stock>
-            <vendor>ORION</vendor>
-            <model>Penis-XXL-Creme200ml</model>
-            <description>Penis-XXL-Creme200ml</description>
-            <name_ua>Крем для збільшення пеніса Penis XXL Cream, 200 мл</name_ua>
-            <description_ua>Penis-XXL-Creme200ml</description_ua>
-            </offer>
         <offer id="75-00011" available="true">
                 <erp>75-00011</erp>
             <barcode>5903661802196</barcode>
@@ -63211,7 +63235,7 @@ Cananga Odorata Flower Oil — антисептична та релаксува�
             <url>http://blissclub.com.ua/product/24894-vibrator__mr_perfect_vibration_12_functions</url>
             <price>808.00</price>
             <currencyId>UAH</currencyId>
-            <categoryId>93</categoryId>
+            <categoryId>132</categoryId>
             <picture>https://blissclub.com.ua/images/product_variants/67-00080.jpg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_6738c5aa0fb4a.png</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_6738c5aa45f1d.png</picture>
@@ -64178,7 +64202,7 @@ Cananga Odorata Flower Oil — антисептична та релаксува�
             <url>http://blissclub.com.ua/product/30906-vibrator_shunga_sanya_raspber</url>
             <price>5758.00</price>
             <currencyId>UAH</currencyId>
-            <categoryId>93</categoryId>
+            <categoryId>132</categoryId>
             <picture>https://blissclub.com.ua/images/product_variants/product_3090365b225b26849d.jpeg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_65b225b12b7b9.jpeg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_65b225b142458.jpeg</picture>
@@ -65839,14 +65863,14 @@ OLO Extra Large спеціально розроблені для чоловік�
             <currencyId>UAH</currencyId>
             <categoryId>93</categoryId>
             <picture>https://blissclub.com.ua/images/product_variants/42-07728100000.jpg</picture>
-            <name>Ерекційне кільце Ring for Sex Klingel, з дзвіночком</name>
+            <name>Подарунок дзвіночок Ring for Sex Klinge</name>
             <Отображать>Да</Отображать>
             <stock>7</stock>
             <vendor>ORION</vendor>
-            <model>Ерекційне кільце Ring for Sex Klingel, з дзвіночком</model>
-            <description>Потрібен секс? Будь ласка, зателефонуйте, щоб мати! Червоний дзвіночок із чорними літературами: Ринг для сексу Прибл. розмір: 5,5 см, діаметр 8 см. Матеріал: метал.</description>
-            <name_ua>Ерекційне кільце Ring for Sex Klingel, з дзвіночком</name_ua>
-            <description_ua>Потрібен секс? Будь ласка, зателефонуйте, щоб мати! Червоний дзвіночок із чорними літературами: Ринг для сексу Прибл. розмір: 5,5 см, діаметр 8 см. Матеріал: метал.</description_ua>
+            <model>Подарунок дзвіночок Ring for Sex Klinge</model>
+            <description>Червоний дзвіночок із чорними літературами Прибл. розмір: 5,5 см, діаметр 8 см. Матеріал: метал.</description>
+            <name_ua>Подарунок дзвіночок Ring for Sex Klinge</name_ua>
+            <description_ua>Червоний дзвіночок із чорними літературами Прибл. розмір: 5,5 см, діаметр 8 см. Матеріал: метал.</description_ua>
             </offer>
         <offer id="42-07735140000" available="true">
                 <erp>42-07735140000</erp>
@@ -66464,7 +66488,7 @@ OLO Extra Large спеціально розроблені для чоловік�
             <url>http://blissclub.com.ua/product/17992-baile_oliver_95</url>
             <price>853.00</price>
             <currencyId>UAH</currencyId>
-            <categoryId>93</categoryId>
+            <categoryId>132</categoryId>
             <picture>https://blissclub.com.ua/images/product_variants/BW-008017ARSY.jpg</picture>
             <name>Вібратор Oliver Baile Skin 9.5, тілесний</name>
             <Отображать>Да</Отображать>
@@ -66524,6 +66548,24 @@ OLO Extra Large спеціально розроблені для чоловік�
 Водонепроникність: Так&lt;/br&gt;&lt;br /&gt;
 Наявність вібрації: Ні&lt;/br&gt;&lt;br /&gt;
 Живлення: Не потребує&lt;/br&gt;</description_ua>
+            </offer>
+        <offer id="42-07004790000" available="true">
+                <erp>42-07004790000</erp>
+            <barcode>4029811321575</barcode>
+            <quantity_in_stock>7</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/20609-penis_stress_ball</url>
+            <price>323.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>93</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/42-07004790000.jpg</picture>
+            <name>Антистрес-іграшка Penis Stress Ball</name>
+            <Отображать>Да</Отображать>
+            <stock>7</stock>
+            <vendor>ORION</vendor>
+            <model>Антистрес-іграшка Penis Stress Ball</model>
+            <description>Антистрес-іграшка Penis Stress Ball</description>
+            <name_ua>Антистрес-іграшка Penis Stress Ball</name_ua>
+            <description_ua>Антистрес-іграшка Penis Stress Ball</description_ua>
             </offer>
         <offer id="42-07712950000" available="true">
                 <erp>42-07712950000</erp>
@@ -67069,7 +67111,7 @@ OLO Extra Large спеціально розроблені для чоловік�
             <url>http://blissclub.com.ua/product/29796-vibrator_na_prisostsi_88_the_ultra_soft_dude_vibrating</url>
             <price>1967.00</price>
             <currencyId>UAH</currencyId>
-            <categoryId>93</categoryId>
+            <categoryId>132</categoryId>
             <picture>https://blissclub.com.ua/images/product_variants/product_29796630fbf9d4a12a.jpg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_630fbf9bf328a.jpg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_630fbf9c1706f.jpg</picture>
@@ -68983,24 +69025,6 @@ AbsolutSex Super Penis - це ефективний крем для стимул�
             <name_ua>Анальний масажер NMC Ebony Prostate Massager, чорний</name_ua>
             <description_ua>Чорний масажер простати у формі хвоста скорпіона. З 10 різними ритмами вібрації та 5 стимулюючими насадками для стимуляції промежини. 13,5 см завдовжки, Ø бл. 1,5-2,5 см. Глибина проникнення 11 см. Матеріал: TPR/ABS. Батарейки в комплекті.</description_ua>
             </offer>
-        <offer id="42-07004790000" available="true">
-                <erp>42-07004790000</erp>
-            <barcode>4029811321575</barcode>
-            <quantity_in_stock>8</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/20609-penis_stress_ball</url>
-            <price>323.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>93</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-07004790000.jpg</picture>
-            <name>Антистрес-іграшка Penis Stress Ball</name>
-            <Отображать>Да</Отображать>
-            <stock>8</stock>
-            <vendor>ORION</vendor>
-            <model>Антистрес-іграшка Penis Stress Ball</model>
-            <description>Антистрес-іграшка Penis Stress Ball</description>
-            <name_ua>Антистрес-іграшка Penis Stress Ball</name_ua>
-            <description_ua>Антистрес-іграшка Penis Stress Ball</description_ua>
-            </offer>
         <offer id="75-00014" available="true">
                 <erp>75-00014</erp>
             <barcode>5903661802226</barcode>
@@ -69135,6 +69159,24 @@ AbsolutSex Super Penis - це ефективний крем для стимул�
             <description>Кільце може ефективно збільшити ерекцію та зупинити передчасну еякуляцію. Отримайте необхідну підтримку для надзвичайно потужного оргазму, продовживши свою любовну гру. Виступи на кільці додатково стимулюють клітор. Кільце гнучке і дуже добре прилягає до окружності кожного пеніса. Отримайте необхідну підтримку для остаточного оргазму. Завдяки цьому вібруючому кільцю гра з вашим партнером вийде на новий рівень! Вібрація доставить вам і вашому партнеру неймовірне задоволення. Продукт виготовлений з дуже хороших матеріалів TPR та ABS, завдяки чому продукт є абсолютно безпечним у використанні.</description>
             <name_ua>Ерекційне кільце B - Series EasyLove, червоне</name_ua>
             <description_ua>Кільце може ефективно збільшити ерекцію та зупинити передчасну еякуляцію. Отримайте необхідну підтримку для надзвичайно потужного оргазму, продовживши свою любовну гру. Виступи на кільці додатково стимулюють клітор. Кільце гнучке і дуже добре прилягає до окружності кожного пеніса. Отримайте необхідну підтримку для остаточного оргазму. Завдяки цьому вібруючому кільцю гра з вашим партнером вийде на новий рівень! Вібрація доставить вам і вашому партнеру неймовірне задоволення. Продукт виготовлений з дуже хороших матеріалів TPR та ABS, завдяки чому продукт є абсолютно безпечним у використанні.</description_ua>
+            </offer>
+        <offer id="19-5010" available="true">
+                <erp>19-5010</erp>
+            <barcode>3548960000021</barcode>
+            <quantity_in_stock>8</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/29153-feromoni_parfumi_taboo_pheromones_for_her_15_ml</url>
+            <price>665.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>80</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/19-5010.jpg</picture>
+            <name>Феромони Ruf Taboo Pheromones for Her, 15 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>8</stock>
+            <vendor />
+            <model>Феромони Ruf Taboo Pheromones for Her, 15 мл</model>
+            <description>Феромони Ruf Taboo Pheromones for Her, 15 мл</description>
+            <name_ua>Феромони Ruf Taboo Pheromones for Her, 15 мл</name_ua>
+            <description_ua>Феромони Ruf Taboo Pheromones for Her, 15 мл</description_ua>
             </offer>
         <offer id="20-PL022" available="true">
                 <erp>20-PL022</erp>
@@ -70813,24 +70855,6 @@ H2O UNI Gel - це універсальний і надійний лубрика
             <name_ua>Лубрикант Orgie Cannabis LubeTube, 100 мл</name_ua>
             <description_ua>Висококласний гель для інтимної гігієни на водній основі, ультраковзкий, нелипкий, стійкий, з оригінальним смаком та ароматом конопель. З олією насіння канабісу вона забезпечує зволоження, запобігаючи висипанням і травмам шкіри.</description_ua>
             </offer>
-        <offer id="19-5010" available="true">
-                <erp>19-5010</erp>
-            <barcode>3548960000021</barcode>
-            <quantity_in_stock>9</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29153-feromoni_parfumi_taboo_pheromones_for_her_15_ml</url>
-            <price>665.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>80</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/19-5010.jpg</picture>
-            <name>Феромони Ruf Taboo Pheromones for Her, 15 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>9</stock>
-            <vendor />
-            <model>Феромони Ruf Taboo Pheromones for Her, 15 мл</model>
-            <description>Феромони Ruf Taboo Pheromones for Her, 15 мл</description>
-            <name_ua>Феромони Ruf Taboo Pheromones for Her, 15 мл</name_ua>
-            <description_ua>Феромони Ruf Taboo Pheromones for Her, 15 мл</description_ua>
-            </offer>
         <offer id="MC-29" available="true">
                 <erp>MC-29</erp>
             <barcode>6937526503385</barcode>
@@ -70953,7 +70977,7 @@ H2O UNI Gel - це універсальний і надійний лубрика
             <url>http://blissclub.com.ua/product/29485-vbrator_baile-_barbara_ken_83</url>
             <price>924.00</price>
             <currencyId>UAH</currencyId>
-            <categoryId>93</categoryId>
+            <categoryId>132</categoryId>
             <picture>https://blissclub.com.ua/images/product_variants/product_29485660bca08b431e.jpg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_6972a176756e9.jpg</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_6972a17681d1d.jpg</picture>
@@ -72419,44 +72443,6 @@ Flutschi Anal - це відмінний вибір для тих, хто шук�
             <description>Анальнийй стимулятор - чудовий гаджет для всіх любителів анальних ігор. Носіння його, безсумнівно, принесе вам масу задоволення. Виготовлений з м'якого матеріалу TPE, гладкий, легко миється. З ним можна грати багатьма способами, а зручний захват запобіжить його повне вбирання, довжина - 9,5 см, діаметр - 2,5 см.</description>
             <name_ua>Анальна пробка B - Series EasyLove T-Plug Ripple, чорна</name_ua>
             <description_ua>Анальнийй стимулятор - чудовий гаджет для всіх любителів анальних ігор. Носіння його, безсумнівно, принесе вам масу задоволення. Виготовлений з м'якого матеріалу TPE, гладкий, легко миється. З ним можна грати багатьма способами, а зручний захват запобіжить його повне вбирання, довжина - 9,5 см, діаметр - 2,5 см.</description_ua>
-            </offer>
-        <offer id="73-4009933" available="true">
-                <erp>73-4009933</erp>
-            <barcode>4061504009933</barcode>
-            <quantity_in_stock>10</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29568-ring_spectaculat_duo</url>
-            <price>1825.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>109</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_295686261660be7ae4.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6261660acb29b.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6261660ad869e.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6261660ae3f65.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6261660aeefa0.jpg</picture>
-            <name>Віброкільце для члена Satisfyer Spectacular Duo, жовте</name>
-            <Отображать>Да</Отображать>
-            <stock>10</stock>
-            <vendor>SATISFYER</vendor>
-            <model>Віброкільце для члена Satisfyer Spectacular Duo, жовте</model>
-            <description>Два силіконових кільця Satisfyer Spectacular Duo створюють ефект гіперемії на пенісі та яєчках. Кліторальний масажер забезпечує додаткову стимуляцію. Кільце для пеніса привертає увагу своїм привабливим футуристичним дизайном.&lt;br /&gt;
-&lt;br /&gt;
-Виготовлений з надзвичайно м’якого, безпечного для шкіри медичного силікону, гладкого на дотик і надзвичайно гігієнічного&lt;br /&gt;
-&lt;br /&gt;
-більша витривалість за рахунок одночасного впливу гіперемії в статевому члені і яєчках&lt;br /&gt;
-&lt;br /&gt;
-ідеальний продукт для пар&lt;br /&gt;
-&lt;br /&gt;
-Приготуйтеся до вражаючого досвіду! Satisfyer Spectacular Duo – це високоякісне силіконове кільце для пеніса та яєчок, яке забезпечує більш інтенсивні відчуття та покращує витривалість під час статевого акту. Внутрішнє кільце оточує ваш пеніс, а зовнішнє оточує ваші яєчка, створюючи захоплюючий ефект гіперемії. Кліторальний масажер одночасно пестить вашого партнера - завдяки своїй товстій формі він забезпечує особливо точну стимуляцію. 12 програм вібрації можна легко перемикати одним натисканням кнопки, яка розташована збоку пристрою.Satisfyer Spectacular Duo привертає увагу своїм спортивним дизайном і неоновим кольором, а також вражає високоякісним матеріалом. Гаджет виготовлений з надзвичайно гігієнічного та безпечного для шкіри силікону. Ви б хотіли пограти у воді? Немає проблем - завдяки своїй водонепроникності (IPX7) Satisfyer Spectacular Duo задовольнить вас як під душем, так і у ванні. Потім промийте його теплою водою з невеликою кількістю м’якого мила, а також скористайтеся спеціальним дезінфікуючим засобом для секс-гаджетів. Якщо кільце для пеніса закінчиться, його можна зарядити за допомогою USB-кабелю, що входить в комплект.</description>
-            <name_ua>Віброкільце для члена Satisfyer Spectacular Duo, жовте</name_ua>
-            <description_ua>Два силіконових кільця Satisfyer Spectacular Duo створюють ефект гіперемії на пенісі та яєчках. Кліторальний масажер забезпечує додаткову стимуляцію. Кільце для пеніса привертає увагу своїм привабливим футуристичним дизайном.&lt;br /&gt;
-&lt;br /&gt;
-Виготовлений з надзвичайно м’якого, безпечного для шкіри медичного силікону, гладкого на дотик і надзвичайно гігієнічного&lt;br /&gt;
-&lt;br /&gt;
-більша витривалість за рахунок одночасного впливу гіперемії в статевому члені і яєчках&lt;br /&gt;
-&lt;br /&gt;
-ідеальний продукт для пар&lt;br /&gt;
-&lt;br /&gt;
-Приготуйтеся до вражаючого досвіду! Satisfyer Spectacular Duo – це високоякісне силіконове кільце для пеніса та яєчок, яке забезпечує більш інтенсивні відчуття та покращує витривалість під час статевого акту. Внутрішнє кільце оточує ваш пеніс, а зовнішнє оточує ваші яєчка, створюючи захоплюючий ефект гіперемії. Кліторальний масажер одночасно пестить вашого партнера - завдяки своїй товстій формі він забезпечує особливо точну стимуляцію. 12 програм вібрації можна легко перемикати одним натисканням кнопки, яка розташована збоку пристрою.Satisfyer Spectacular Duo привертає увагу своїм спортивним дизайном і неоновим кольором, а також вражає високоякісним матеріалом. Гаджет виготовлений з надзвичайно гігієнічного та безпечного для шкіри силікону. Ви б хотіли пограти у воді? Немає проблем - завдяки своїй водонепроникності (IPX7) Satisfyer Spectacular Duo задовольнить вас як під душем, так і у ванні. Потім промийте його теплою водою з невеликою кількістю м’якого мила, а також скористайтеся спеціальним дезінфікуючим засобом для секс-гаджетів. Якщо кільце для пеніса закінчиться, його можна зарядити за допомогою USB-кабелю, що входить в комплект.</description_ua>
             </offer>
         <offer id="90-000507" available="true">
                 <erp>90-000507</erp>
@@ -75118,9 +75104,35 @@ ONE Super Sensitive — для тих, хто хоче відчувати біл
             <stock>19</stock>
             <vendor />
             <model>Таблетки PowerTabs 10шт Viamax </model>
-            <description>&lt;p&gt;POWER tabs – ефективна біологічно активна добавка для чоловіків, призначена для потужної та тривалої ерекції статевого члена. Ефект таблеток настає протягом 1 години після вживання та має дуже тривалу дію – до 24 годин. Застосування POWER tabs дозволяє отримати : потужну, повну ерекцію, яка показує ще й певне збільшення у довжину та обхват; швидкий час реакції; можливість відновити ерекцію та підтримувати протягом кількох разів посилення контролю за передчасною еякуляцією; Результати застосування POWER tabs показали, що принаймні 88% чоловіків позитивно покращили свою ерекцію та сексуальну активність. Ця цифра також включає і людей, які не мають жодних проблем з потенцією. POWER tabs використовує склад з витяжок різних трав та рослин, які застосовуються у відомих продуктах, для покращення ерекції. Дозування та використання : прийняти 1 капсулу POWER tabs принаймні за 1 годину до статевого акту.&lt;/p&gt;</description>
+            <description>POWER tabs  – ефективна біологічно активна добавка для чоловіків, призначена для потужної та тривалої ерекції статевого члена. Ефект таблеток настає протягом 1 години після вживання та має дуже тривалу дію – до 24 годин.&lt;br /&gt;
+&lt;br /&gt;
+Застосування POWER tabs дозволяє отримати :&lt;br /&gt;
+&lt;br /&gt;
+потужну, повну ерекцію, яка показує ще й певне збільшення у довжину та обхват;&lt;br /&gt;
+швидкий час реакції;&lt;br /&gt;
+можливість відновити ерекцію та підтримувати протягом кількох разів&lt;br /&gt;
+посилення контролю за передчасною еякуляцією;&lt;br /&gt;
+Результати застосування POWER tabs показали, що принаймні 88% чоловіків позитивно покращили свою ерекцію та сексуальну активність. Ця цифра також включає і людей, які не мають жодних проблем з потенцією.&lt;br /&gt;
+&lt;br /&gt;
+POWER tabs використовує склад з витяжок різних трав та рослин, які застосовуються у відомих продуктах, для покращення ерекції.&lt;br /&gt;
+&lt;br /&gt;
+Дозування та використання : прийняти 1 капсулу POWER tabs принаймні за 1 годину до статевого акту.&lt;br /&gt;
+</description>
             <name_ua>Таблетки PowerTabs 10шт Viamax </name_ua>
-            <description_ua>&lt;p&gt;POWER tabs – ефективна біологічно активна добавка для чоловіків, призначена для потужної та тривалої ерекції статевого члена. Ефект таблеток настає протягом 1 години після вживання та має дуже тривалу дію – до 24 годин. Застосування POWER tabs дозволяє отримати : потужну, повну ерекцію, яка показує ще й певне збільшення у довжину та обхват; швидкий час реакції; можливість відновити ерекцію та підтримувати протягом кількох разів посилення контролю за передчасною еякуляцією; Результати застосування POWER tabs показали, що принаймні 88% чоловіків позитивно покращили свою ерекцію та сексуальну активність. Ця цифра також включає і людей, які не мають жодних проблем з потенцією. POWER tabs використовує склад з витяжок різних трав та рослин, які застосовуються у відомих продуктах, для покращення ерекції. Дозування та використання : прийняти 1 капсулу POWER tabs принаймні за 1 годину до статевого акту.&lt;/p&gt;</description_ua>
+            <description_ua>POWER tabs  – ефективна біологічно активна добавка для чоловіків, призначена для потужної та тривалої ерекції статевого члена. Ефект таблеток настає протягом 1 години після вживання та має дуже тривалу дію – до 24 годин.&lt;br /&gt;
+&lt;br /&gt;
+Застосування POWER tabs дозволяє отримати :&lt;br /&gt;
+&lt;br /&gt;
+потужну, повну ерекцію, яка показує ще й певне збільшення у довжину та обхват;&lt;br /&gt;
+швидкий час реакції;&lt;br /&gt;
+можливість відновити ерекцію та підтримувати протягом кількох разів&lt;br /&gt;
+посилення контролю за передчасною еякуляцією;&lt;br /&gt;
+Результати застосування POWER tabs показали, що принаймні 88% чоловіків позитивно покращили свою ерекцію та сексуальну активність. Ця цифра також включає і людей, які не мають жодних проблем з потенцією.&lt;br /&gt;
+&lt;br /&gt;
+POWER tabs використовує склад з витяжок різних трав та рослин, які застосовуються у відомих продуктах, для покращення ерекції.&lt;br /&gt;
+&lt;br /&gt;
+Дозування та використання : прийняти 1 капсулу POWER tabs принаймні за 1 годину до статевого акту.&lt;br /&gt;
+</description_ua>
             </offer>
         <offer id="90-800068" available="true">
                 <erp>90-800068</erp>
@@ -75170,7 +75182,7 @@ ONE Super Sensitive — для тих, хто хоче відчувати біл
         <offer id="64-00080" available="true">
                 <erp>64-00080</erp>
             <barcode>5903661800970</barcode>
-            <quantity_in_stock>23</quantity_in_stock>
+            <quantity_in_stock>22</quantity_in_stock>
             <url>http://blissclub.com.ua/product/28962-analyna_probka___awellery_red_silikon_plug_smallblue_diamond</url>
             <price>322.00</price>
             <currencyId>UAH</currencyId>
@@ -75178,7 +75190,7 @@ ONE Super Sensitive — для тих, хто хоче відчувати біл
             <picture>https://blissclub.com.ua/images/product_variants/64-00080.jpg</picture>
             <name>Анальна пробка Jawellery Red Silikon PLUG SmallBlue Diamond</name>
             <Отображать>Да</Отображать>
-            <stock>23</stock>
+            <stock>22</stock>
             <vendor>BOSS SERIES</vendor>
             <model>Анальна пробка Jawellery Red Silikon PLUG SmallBlue Diamond</model>
             <description>Анальна пробка з кольоровим кристалом виготовлена з високоякісного медичного силікону, який абсолютно безпечний для шкіри. Він дуже приємний на дотик і не викликає роздратування. Завдяки ніжній формі і відповідним розмірам, його можуть використовувати як новачки, так і досвідчені любителі анальної гри. Загальна довжина 7 см. Діаметр 2,7 см. Стильна упаковка у вигляді замшевого футляра. </description>
@@ -75413,6 +75425,28 @@ ONE Super Sensitive — для тих, хто хоче відчувати біл
             <description_ua>12 місяців з цими спокусливими красунями гарантуватимуть гарний настрій впродовж цілого 2025 року. Календар має розмір : 21*30 см &lt;br /&gt;
 </description_ua>
             </offer>
+        <offer id="93-0745" available="true">
+                <erp>93-0745</erp>
+            <barcode />
+            <quantity_in_stock>24</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32464-prezervativi_one_classic_select_</url>
+            <price>48.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3246068de487e6335a.jpg</picture>
+            <name>Презервативи ONE Classic Select </name>
+            <Отображать>Да</Отображать>
+            <stock>24</stock>
+            <vendor>ONE (США)</vendor>
+            <model>Презервативи ONE Classic Select </model>
+            <description>Презервативи ONE Classic Select Contest Collection поєднують класичну форму, додаткову змазку для комфорту та унікальний дизайн упаковки. Кожен кондом запакований у круглу обгортку з малюнком — переможцем міжнародного конкурсу ONE Design Contest, де свої ідеї представляли як аматори, так і професійні дизайнери. Таке оформлення привертає увагу до важливості безпечного сексу й робить використання більш особливим.&lt;br /&gt;
+&lt;br /&gt;
+Виготовлені з високоякісного латексу за запатентованою формулою Sensatex, презервативи мають прямі еластичні стінки, що забезпечують щільне та комфортне прилягання (до 19 см довжини). Для додаткової зручності кожен презерватив змащений преміальним силіконовим лубрикантом MOVE, який подовжує ковзання та зменшує тертя.</description>
+            <name_ua>Презервативи ONE Classic Select </name_ua>
+            <description_ua>Презервативи ONE Classic Select Contest Collection поєднують класичну форму, додаткову змазку для комфорту та унікальний дизайн упаковки. Кожен кондом запакований у круглу обгортку з малюнком — переможцем міжнародного конкурсу ONE Design Contest, де свої ідеї представляли як аматори, так і професійні дизайнери. Таке оформлення привертає увагу до важливості безпечного сексу й робить використання більш особливим.&lt;br /&gt;
+&lt;br /&gt;
+Виготовлені з високоякісного латексу за запатентованою формулою Sensatex, презервативи мають прямі еластичні стінки, що забезпечують щільне та комфортне прилягання (до 19 см довжини). Для додаткової зручності кожен презерватив змащений преміальним силіконовим лубрикантом MOVE, який подовжує ковзання та зменшує тертя.</description_ua>
+            </offer>
         <offer id="42-07000880000" available="true">
                 <erp>42-07000880000</erp>
             <barcode>4029811224777</barcode>
@@ -75478,28 +75512,6 @@ ONE Super Sensitive — для тих, хто хоче відчувати біл
             <description>Збуджуючі краплі SPANISCHE FLIEGE, 5 мл</description>
             <name_ua>Збуджуючі краплі SPANISCHE FLIEGE, 5 мл</name_ua>
             <description_ua>Збуджуючі краплі SPANISCHE FLIEGE, 5 мл</description_ua>
-            </offer>
-        <offer id="93-0745" available="true">
-                <erp>93-0745</erp>
-            <barcode />
-            <quantity_in_stock>29</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32464-prezervativi_one_classic_select_</url>
-            <price>48.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>96</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3246068de487e6335a.jpg</picture>
-            <name>Презервативи ONE Classic Select </name>
-            <Отображать>Да</Отображать>
-            <stock>29</stock>
-            <vendor>ONE (США)</vendor>
-            <model>Презервативи ONE Classic Select </model>
-            <description>Презервативи ONE Classic Select Contest Collection поєднують класичну форму, додаткову змазку для комфорту та унікальний дизайн упаковки. Кожен кондом запакований у круглу обгортку з малюнком — переможцем міжнародного конкурсу ONE Design Contest, де свої ідеї представляли як аматори, так і професійні дизайнери. Таке оформлення привертає увагу до важливості безпечного сексу й робить використання більш особливим.&lt;br /&gt;
-&lt;br /&gt;
-Виготовлені з високоякісного латексу за запатентованою формулою Sensatex, презервативи мають прямі еластичні стінки, що забезпечують щільне та комфортне прилягання (до 19 см довжини). Для додаткової зручності кожен презерватив змащений преміальним силіконовим лубрикантом MOVE, який подовжує ковзання та зменшує тертя.</description>
-            <name_ua>Презервативи ONE Classic Select </name_ua>
-            <description_ua>Презервативи ONE Classic Select Contest Collection поєднують класичну форму, додаткову змазку для комфорту та унікальний дизайн упаковки. Кожен кондом запакований у круглу обгортку з малюнком — переможцем міжнародного конкурсу ONE Design Contest, де свої ідеї представляли як аматори, так і професійні дизайнери. Таке оформлення привертає увагу до важливості безпечного сексу й робить використання більш особливим.&lt;br /&gt;
-&lt;br /&gt;
-Виготовлені з високоякісного латексу за запатентованою формулою Sensatex, презервативи мають прямі еластичні стінки, що забезпечують щільне та комфортне прилягання (до 19 см довжини). Для додаткової зручності кожен презерватив змащений преміальним силіконовим лубрикантом MOVE, який подовжує ковзання та зменшує тертя.</description_ua>
             </offer>
         <offer id="11-50050" available="true">
                 <erp>11-50050</erp>
@@ -75688,7 +75700,7 @@ ONE Super Sensitive — для тих, хто хоче відчувати біл
         <offer id="93-0747" available="true">
                 <erp>93-0747</erp>
             <barcode />
-            <quantity_in_stock>49</quantity_in_stock>
+            <quantity_in_stock>43</quantity_in_stock>
             <url>http://blissclub.com.ua/product/32184-prezervativi_one_glowing_pleasures</url>
             <price>60.00</price>
             <currencyId>UAH</currencyId>
@@ -75706,7 +75718,7 @@ ONE Super Sensitive — для тих, хто хоче відчувати біл
             <picture>https://blissclub.com.ua/images/product_variants/product_68556dc212ba7.png</picture>
             <name>Презерватив ONE Glowing Pleasures, 1 шт</name>
             <Отображать>Да</Отображать>
-            <stock>49</stock>
+            <stock>43</stock>
             <vendor>ONE (США)</vendor>
             <model>Презерватив ONE Glowing Pleasures, 1 шт</model>
             <description>Презерватив з &lt;b&gt;фосфоресцентним покриттям&lt;/b&gt; One Glowing Pleasures, що створює романтичну атмосферу завдяки яскравому світінню в темряві. Після 30-секундного впливу світла виріб світиться протягом 15 хвилин, додаючи інтимності вашим стосункам.&lt;br /&gt;
@@ -75745,6 +75757,42 @@ ONE Super Sensitive — для тих, хто хоче відчувати біл
 Смак: Без смаку (нейтральний)&lt;br /&gt;
 Запах: Без запаху (нейтральний)</description_ua>
             </offer>
+        <offer id="93-0761" available="true">
+                <erp>93-0761</erp>
+            <barcode />
+            <quantity_in_stock>50</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32179-prezervativi_one_legend_xl</url>
+            <price>53.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3217568556ee0457c4.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68556ef27a095.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68556ef28ea35.png</picture>
+            <name>Презервативи ONE Legend XL</name>
+            <Отображать>Да</Отображать>
+            <stock>50</stock>
+            <vendor>ONE (США)</vendor>
+            <model>Презервативи ONE Legend XL</model>
+            <description>ONE Legend XL — коли розмір має значення&lt;br /&gt;
+Для тих, хто не вписується в стандарти — і пишається цим.&lt;br /&gt;
+ONE Legend XL створені спеціально для пенісів більших за середній. Вони забезпечують простір там, де інші тиснуть, та комфорт там, де потрібна надійність. Модель адаптована для довжини до 21 см, має розширення в зоні головки та щільну посадку біля основи — щоб кожен рух був впевненим, вільним і неймовірно приємним.&lt;br /&gt;
+&lt;br /&gt;
+Презерватив виготовлений із високоякісного натурального каучукового латексу без запаху й кольору — лише чисте задоволення та максимальна чутливість.&lt;br /&gt;
+&lt;br /&gt;
+ONE Legend XL — це не просто великий розмір. Це легендарний комфорт, який ти заслуговуєш.&lt;br /&gt;
+&lt;br /&gt;
+</description>
+            <name_ua>Презервативи ONE Legend XL</name_ua>
+            <description_ua>ONE Legend XL — коли розмір має значення&lt;br /&gt;
+Для тих, хто не вписується в стандарти — і пишається цим.&lt;br /&gt;
+ONE Legend XL створені спеціально для пенісів більших за середній. Вони забезпечують простір там, де інші тиснуть, та комфорт там, де потрібна надійність. Модель адаптована для довжини до 21 см, має розширення в зоні головки та щільну посадку біля основи — щоб кожен рух був впевненим, вільним і неймовірно приємним.&lt;br /&gt;
+&lt;br /&gt;
+Презерватив виготовлений із високоякісного натурального каучукового латексу без запаху й кольору — лише чисте задоволення та максимальна чутливість.&lt;br /&gt;
+&lt;br /&gt;
+ONE Legend XL — це не просто великий розмір. Це легендарний комфорт, який ти заслуговуєш.&lt;br /&gt;
+&lt;br /&gt;
+</description_ua>
+            </offer>
         <offer id="93-0778" available="true">
                 <erp>93-0778</erp>
             <barcode />
@@ -75780,42 +75828,6 @@ ONE Vanish Hyperthin — ультратонкі презервативи, які
 &lt;br /&gt;
 </description_ua>
             </offer>
-        <offer id="93-0761" available="true">
-                <erp>93-0761</erp>
-            <barcode />
-            <quantity_in_stock>55</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32179-prezervativi_one_legend_xl</url>
-            <price>53.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>96</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3217568556ee0457c4.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68556ef27a095.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68556ef28ea35.png</picture>
-            <name>Презервативи ONE Legend XL</name>
-            <Отображать>Да</Отображать>
-            <stock>55</stock>
-            <vendor>ONE (США)</vendor>
-            <model>Презервативи ONE Legend XL</model>
-            <description>ONE Legend XL — коли розмір має значення&lt;br /&gt;
-Для тих, хто не вписується в стандарти — і пишається цим.&lt;br /&gt;
-ONE Legend XL створені спеціально для пенісів більших за середній. Вони забезпечують простір там, де інші тиснуть, та комфорт там, де потрібна надійність. Модель адаптована для довжини до 21 см, має розширення в зоні головки та щільну посадку біля основи — щоб кожен рух був впевненим, вільним і неймовірно приємним.&lt;br /&gt;
-&lt;br /&gt;
-Презерватив виготовлений із високоякісного натурального каучукового латексу без запаху й кольору — лише чисте задоволення та максимальна чутливість.&lt;br /&gt;
-&lt;br /&gt;
-ONE Legend XL — це не просто великий розмір. Це легендарний комфорт, який ти заслуговуєш.&lt;br /&gt;
-&lt;br /&gt;
-</description>
-            <name_ua>Презервативи ONE Legend XL</name_ua>
-            <description_ua>ONE Legend XL — коли розмір має значення&lt;br /&gt;
-Для тих, хто не вписується в стандарти — і пишається цим.&lt;br /&gt;
-ONE Legend XL створені спеціально для пенісів більших за середній. Вони забезпечують простір там, де інші тиснуть, та комфорт там, де потрібна надійність. Модель адаптована для довжини до 21 см, має розширення в зоні головки та щільну посадку біля основи — щоб кожен рух був впевненим, вільним і неймовірно приємним.&lt;br /&gt;
-&lt;br /&gt;
-Презерватив виготовлений із високоякісного натурального каучукового латексу без запаху й кольору — лише чисте задоволення та максимальна чутливість.&lt;br /&gt;
-&lt;br /&gt;
-ONE Legend XL — це не просто великий розмір. Це легендарний комфорт, який ти заслуговуєш.&lt;br /&gt;
-&lt;br /&gt;
-</description_ua>
-            </offer>
         <offer id="93-0245" available="true">
                 <erp>93-0245</erp>
             <barcode />
@@ -75837,7 +75849,7 @@ ONE Legend XL — це не просто великий розмір. Це ле�
         <offer id="93-0777" available="true">
                 <erp>93-0777</erp>
             <barcode />
-            <quantity_in_stock>80</quantity_in_stock>
+            <quantity_in_stock>74</quantity_in_stock>
             <url>http://blissclub.com.ua/product/32187-prezervativi_one_super_studs</url>
             <price>53.00</price>
             <currencyId>UAH</currencyId>
@@ -75847,7 +75859,7 @@ ONE Legend XL — це не просто великий розмір. Це ле�
             <picture>https://blissclub.com.ua/images/product_variants/product_6855672e4985b.jpg</picture>
             <name>Презервативи ONE Super Studs</name>
             <Отображать>Да</Отображать>
-            <stock>80</stock>
+            <stock>74</stock>
             <vendor>ONE (США)</vendor>
             <model>Презервативи ONE Super Studs</model>
             <description>ONE Super Studs — більше дотиків, більше збудження&lt;br /&gt;
