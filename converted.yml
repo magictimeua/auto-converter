@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-02-19 10:15">
+<yml_catalog date="2026-02-19 11:30">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -307,24 +307,6 @@
             <description>Парфуми для жінок. Приємний і енергійний аромат, який розвивається і змінює тон з часом після розпилення на тіло. Ємність 50 мл</description>
             <name_ua>Парфуми Taboo Espiegle for Her, 50 мл</name_ua>
             <description_ua>Парфуми для жінок. Приємний і енергійний аромат, який розвивається і змінює тон з часом після розпилення на тіло. Ємність 50 мл</description_ua>
-            </offer>
-        <offer id="19-3075" available="true">
-                <erp>19-3075</erp>
-            <barcode>3548960030752</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2435-lubrikant_taboo_pleasure_gel_for_her</url>
-            <price>539.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>42</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/19-3075.jpg</picture>
-            <name>Стимулюючий гель для жінок Ruf Taboo Pleasure, 30 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>RUF</vendor>
-            <model>Cтимулюючий гель для жінок Taboo Pleasure gel for her</model>
-            <description>Taboo Pleasure гель - підвищує сексуальне збудження і викликає бажання сексу у жінок. Після використання гелю жінка  стає більш сексуально збудженою. Препарат стимулює і сенсибілізує клітор і допомагає досягти максимального сексуального задоволення.</description>
-            <name_ua>Стимулюючий гель для жінок Ruf Taboo Pleasure, 30 мл</name_ua>
-            <description_ua>Taboo Pleasure гель - підвищує сексуальне збудження і викликає бажання сексу у жінок. Після використання гелю жінка  стає більш сексуально збудженою. Препарат стимулює і сенсибілізує клітор і допомагає досягти максимального сексуального задоволення.</description_ua>
             </offer>
         <offer id="19-31161" available="true">
                 <erp>19-31161</erp>
@@ -74110,7 +74092,7 @@ POWER tabs використовує склад з витяжок різних т
         <offer id="93-0747" available="true">
                 <erp>93-0747</erp>
             <barcode />
-            <quantity_in_stock>43</quantity_in_stock>
+            <quantity_in_stock>38</quantity_in_stock>
             <url>http://blissclub.com.ua/product/32184-prezervativi_one_glowing_pleasures</url>
             <price>60.00</price>
             <currencyId>UAH</currencyId>
@@ -74128,7 +74110,7 @@ POWER tabs використовує склад з витяжок різних т
             <picture>https://blissclub.com.ua/images/product_variants/product_68556dc212ba7.png</picture>
             <name>Презерватив ONE Glowing Pleasures, 1 шт</name>
             <Отображать>Да</Отображать>
-            <stock>43</stock>
+            <stock>38</stock>
             <vendor>ONE (США)</vendor>
             <model>Презерватив ONE Glowing Pleasures, 1 шт</model>
             <description>Презерватив з &lt;b&gt;фосфоресцентним покриттям&lt;/b&gt; One Glowing Pleasures, що створює романтичну атмосферу завдяки яскравому світінню в темряві. Після 30-секундного впливу світла виріб світиться протягом 15 хвилин, додаючи інтимності вашим стосункам.&lt;br /&gt;
