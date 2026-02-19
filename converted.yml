@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-02-19 09:30">
+<yml_catalog date="2026-02-19 10:15">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
     <url>http://blissclub.com.ua/</url>
-    <eurate>51.60</eurate>
+    <eurate>51.50</eurate>
     <currencies>
             <currency id="UAH" rate="1" />
         </currencies>
@@ -10688,6 +10688,24 @@ Magoon – запорука приємних і захоплюючих моме�
 Форма випуску: Масло&lt;/br&gt;&lt;br /&gt;
 Запах: Ваніль&lt;/br&gt;&lt;br /&gt;
 Смак: Без смаку (нейтральний)&lt;/br&gt;</description_ua>
+            </offer>
+        <offer id="32-00084" available="true">
+                <erp>32-00084</erp>
+            <barcode>5905669259200</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30953-parfumi_tester__for_him_pherostrong_for_men_1ml</url>
+            <price>284.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>81</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3095065d1cb3e422e9.jpeg</picture>
+            <name>Парфуми TESTER J for Him PheroStrong for Men 1ml</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>MEDICA</vendor>
+            <model>Парфуми TESTER J for Him PheroStrong for Men 1ml</model>
+            <description>Парфуми TESTER J for Him PheroStrong for Men 1ml</description>
+            <name_ua>Парфуми TESTER J for Him PheroStrong for Men 1ml</name_ua>
+            <description_ua>Парфуми TESTER J for Him PheroStrong for Men 1ml</description_ua>
             </offer>
         <offer id="68-LU0005" available="true">
                 <erp>68-LU0005</erp>
@@ -27821,23 +27839,69 @@ USB перезаряджається&lt;br /&gt;
 Водонепроникність: Так&lt;/br&gt;&lt;br /&gt;
 Живлення: Акумулятор&lt;/br&gt;</description_ua>
             </offer>
-        <offer id="32-00084" available="true">
-                <erp>32-00084</erp>
-            <barcode>5905669259200</barcode>
+        <offer id="BI-014962R" available="true">
+                <erp>BI-014962R</erp>
+            <barcode>6959532326956</barcode>
             <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30953-parfumi_tester__for_him_pherostrong_for_men_1ml</url>
-            <price>284.00</price>
+            <url>http://blissclub.com.ua/product/30967-vibrator_pretty_love_easter_bunny_30_vibration_functions</url>
+            <price>601.00</price>
             <currencyId>UAH</currencyId>
-            <categoryId>81</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3095065d1cb3e422e9.jpeg</picture>
-            <name>Парфуми TESTER J for Him PheroStrong for Men 1ml</name>
+            <categoryId>27</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3096465d1c7e969241.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d1c7e77c6f9.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d1c7e7984ef.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d1c7e7b342f.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d1c7e7cd930.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d1c7e7e724b.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d1c7e80dcc7.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d1c7e82802c.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d1c7e845200.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d1c7e85fd35.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65d1c7e87aa20.jpeg</picture>
+            <name>Вібратор Pretty Love Easter Bunny, тілесний</name>
             <Отображать>Да</Отображать>
             <stock>2</stock>
-            <vendor>MEDICA</vendor>
-            <model>Парфуми TESTER J for Him PheroStrong for Men 1ml</model>
-            <description>Парфуми TESTER J for Him PheroStrong for Men 1ml</description>
-            <name_ua>Парфуми TESTER J for Him PheroStrong for Men 1ml</name_ua>
-            <description_ua>Парфуми TESTER J for Him PheroStrong for Men 1ml</description_ua>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Вібратор Pretty Love Easter Bunny, тілесний</model>
+            <description>Інтимна іграшка для подвійної стимуляції з &lt;b&gt;двома незалежними моторами&lt;/b&gt; та 30 варіантами вібрації. Поєднує анатомічну форму основної частини з додатковим відростком для зовнішнього впливу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Виготовлений з термопластичної гуми та пластику, забезпечує комфортне ковзання завдяки &lt;b&gt;реалістичній текстурі&lt;/b&gt; з рельєфними деталями. Зручна рукоятка з елементами керування дозволяє легко змінювати інтенсивність під час використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Працює від двох батарейок ААА, підходить для застосування з лубрикантами на водній основі. Після використання рекомендується очищення спеціальними засобами та зберігання в чохлі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Термопластична гума (TPR), Пластик&lt;/br&gt;&lt;br /&gt;
+Текстура: Реалістик&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 19.2&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 10&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 3.3&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
+Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
+Наявність присоски: Ні&lt;/br&gt;</description>
+            <name_ua>Вібратор Pretty Love Easter Bunny, тілесний</name_ua>
+            <description_ua>Інтимна іграшка для подвійної стимуляції з &lt;b&gt;двома незалежними моторами&lt;/b&gt; та 30 варіантами вібрації. Поєднує анатомічну форму основної частини з додатковим відростком для зовнішнього впливу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Виготовлений з термопластичної гуми та пластику, забезпечує комфортне ковзання завдяки &lt;b&gt;реалістичній текстурі&lt;/b&gt; з рельєфними деталями. Зручна рукоятка з елементами керування дозволяє легко змінювати інтенсивність під час використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Працює від двох батарейок ААА, підходить для застосування з лубрикантами на водній основі. Після використання рекомендується очищення спеціальними засобами та зберігання в чохлі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Термопластична гума (TPR), Пластик&lt;/br&gt;&lt;br /&gt;
+Текстура: Реалістик&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 19.2&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 10&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 3.3&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
+Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
+Наявність присоски: Ні&lt;/br&gt;</description_ua>
             </offer>
         <offer id="BI-026250" available="true">
                 <erp>BI-026250</erp>
@@ -40349,70 +40413,6 @@ Woman №8 — аромат чистоти, ніжності та природн
 Живлення: Акумулятор&lt;/br&gt;&lt;br /&gt;
 Наявність присоски: Ні&lt;/br&gt;</description_ua>
             </offer>
-        <offer id="BI-014962R" available="true">
-                <erp>BI-014962R</erp>
-            <barcode>6959532326956</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30967-vibrator_pretty_love_easter_bunny_30_vibration_functions</url>
-            <price>601.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>27</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3096465d1c7e969241.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d1c7e77c6f9.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d1c7e7984ef.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d1c7e7b342f.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d1c7e7cd930.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d1c7e7e724b.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d1c7e80dcc7.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d1c7e82802c.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d1c7e845200.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d1c7e85fd35.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65d1c7e87aa20.jpeg</picture>
-            <name>Вібратор Pretty Love Easter Bunny, тілесний</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Вібратор Pretty Love Easter Bunny, тілесний</model>
-            <description>Інтимна іграшка для подвійної стимуляції з &lt;b&gt;двома незалежними моторами&lt;/b&gt; та 30 варіантами вібрації. Поєднує анатомічну форму основної частини з додатковим відростком для зовнішнього впливу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Виготовлений з термопластичної гуми та пластику, забезпечує комфортне ковзання завдяки &lt;b&gt;реалістичній текстурі&lt;/b&gt; з рельєфними деталями. Зручна рукоятка з елементами керування дозволяє легко змінювати інтенсивність під час використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Працює від двох батарейок ААА, підходить для застосування з лубрикантами на водній основі. Після використання рекомендується очищення спеціальними засобами та зберігання в чохлі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Термопластична гума (TPR), Пластик&lt;/br&gt;&lt;br /&gt;
-Текстура: Реалістик&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 19.2&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 10&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.3&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
-Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
-Наявність присоски: Ні&lt;/br&gt;</description>
-            <name_ua>Вібратор Pretty Love Easter Bunny, тілесний</name_ua>
-            <description_ua>Інтимна іграшка для подвійної стимуляції з &lt;b&gt;двома незалежними моторами&lt;/b&gt; та 30 варіантами вібрації. Поєднує анатомічну форму основної частини з додатковим відростком для зовнішнього впливу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Виготовлений з термопластичної гуми та пластику, забезпечує комфортне ковзання завдяки &lt;b&gt;реалістичній текстурі&lt;/b&gt; з рельєфними деталями. Зручна рукоятка з елементами керування дозволяє легко змінювати інтенсивність під час використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Працює від двох батарейок ААА, підходить для застосування з лубрикантами на водній основі. Після використання рекомендується очищення спеціальними засобами та зберігання в чохлі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Термопластична гума (TPR), Пластик&lt;/br&gt;&lt;br /&gt;
-Текстура: Реалістик&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 19.2&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 10&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.3&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
-Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
-Наявність присоски: Ні&lt;/br&gt;</description_ua>
-            </offer>
         <offer id="BI-210306" available="true">
                 <erp>BI-210306</erp>
             <barcode>6959532334333</barcode>
@@ -43681,6 +43681,47 @@ Ultra Strong Massager — чудовий вибір для людей, які ш
 Текстура: Гладенька&lt;br /&gt;
 Живлення: Батарейки АА (3 шт.)&lt;br /&gt;
 Наявність вібрації: Ні</description_ua>
+            </offer>
+        <offer id="18-4015378" available="true">
+                <erp>18-4015378</erp>
+            <barcode>4061504015378</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32029-penyyuar_cautious_cat_xl</url>
+            <price>1000.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>60</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3202567e1782b973c2.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67e1785686750.jpg</picture>
+            <name>Пеньюар Penthouse Cautious Cat, чорний, XL</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor>PENTHOUSE</vendor>
+            <model>Пеньюар Penthouse Cautious Cat, чорний, XL</model>
+            <description>Спокусливий пеньюар Penthouse Cautious Cat у чорному кольорі розміру XL створений для жінок, які прагнують підкреслити свою привабливість. &lt;b&gt;Сітчастий матеріал з квітковим орнаментом&lt;/b&gt; та щільна вставка на грудях формують елегантний силует, а відкрита спинка додає образу інтриги.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Виготовлений з комфортного поєднання &lt;b&gt;92% нейлону та 8% еластану&lt;/b&gt;, пеньюар приємно прилягає до тіла та забезпечує зручність носіння. Коротка довжина міні та облягаючий крій вигідно підкреслюють фігуру, створюючи жіночний та витончений образ.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Цей елемент білизни стане чудовим доповненням до романтичного вечора чи особливого моменту. Розмір XL розрахований на окружність грудей 98-110 см, талії 82-92 см та стегон 103-118 см.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Penthouse Lingerie&lt;/br&gt;&lt;br /&gt;
+Виробник: Penthouse Lingerie&lt;/br&gt;&lt;br /&gt;
+Для кого: Для жінок&lt;/br&gt;&lt;br /&gt;
+Матеріал: Нейлон, Еластан&lt;/br&gt;</description>
+            <name_ua>Пеньюар Penthouse Cautious Cat, чорний, XL</name_ua>
+            <description_ua>Спокусливий пеньюар Penthouse Cautious Cat у чорному кольорі розміру XL створений для жінок, які прагнують підкреслити свою привабливість. &lt;b&gt;Сітчастий матеріал з квітковим орнаментом&lt;/b&gt; та щільна вставка на грудях формують елегантний силует, а відкрита спинка додає образу інтриги.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Виготовлений з комфортного поєднання &lt;b&gt;92% нейлону та 8% еластану&lt;/b&gt;, пеньюар приємно прилягає до тіла та забезпечує зручність носіння. Коротка довжина міні та облягаючий крій вигідно підкреслюють фігуру, створюючи жіночний та витончений образ.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Цей елемент білизни стане чудовим доповненням до романтичного вечора чи особливого моменту. Розмір XL розрахований на окружність грудей 98-110 см, талії 82-92 см та стегон 103-118 см.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Penthouse Lingerie&lt;/br&gt;&lt;br /&gt;
+Виробник: Penthouse Lingerie&lt;/br&gt;&lt;br /&gt;
+Для кого: Для жінок&lt;/br&gt;&lt;br /&gt;
+Матеріал: Нейлон, Еластан&lt;/br&gt;</description_ua>
             </offer>
         <offer id="69-17526" available="true">
                 <erp>69-17526</erp>
@@ -52729,47 +52770,6 @@ Zachwyć się 36 unikalnymi funkcjami wibracji i stymulującego tappingu, które
 Керування з додатку: Ні&lt;br /&gt;
 Живлення: Батарейки АА (2 шт.)</description_ua>
             </offer>
-        <offer id="18-4015378" available="true">
-                <erp>18-4015378</erp>
-            <barcode>4061504015378</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32029-penyyuar_cautious_cat_xl</url>
-            <price>1000.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>60</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3202567e1782b973c2.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67e1785686750.jpg</picture>
-            <name>Пеньюар Penthouse Cautious Cat, чорний, XL</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>PENTHOUSE</vendor>
-            <model>Пеньюар Penthouse Cautious Cat, чорний, XL</model>
-            <description>Спокусливий пеньюар Penthouse Cautious Cat у чорному кольорі розміру XL створений для жінок, які прагнують підкреслити свою привабливість. &lt;b&gt;Сітчастий матеріал з квітковим орнаментом&lt;/b&gt; та щільна вставка на грудях формують елегантний силует, а відкрита спинка додає образу інтриги.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Виготовлений з комфортного поєднання &lt;b&gt;92% нейлону та 8% еластану&lt;/b&gt;, пеньюар приємно прилягає до тіла та забезпечує зручність носіння. Коротка довжина міні та облягаючий крій вигідно підкреслюють фігуру, створюючи жіночний та витончений образ.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Цей елемент білизни стане чудовим доповненням до романтичного вечора чи особливого моменту. Розмір XL розрахований на окружність грудей 98-110 см, талії 82-92 см та стегон 103-118 см.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Penthouse Lingerie&lt;/br&gt;&lt;br /&gt;
-Виробник: Penthouse Lingerie&lt;/br&gt;&lt;br /&gt;
-Для кого: Для жінок&lt;/br&gt;&lt;br /&gt;
-Матеріал: Нейлон, Еластан&lt;/br&gt;</description>
-            <name_ua>Пеньюар Penthouse Cautious Cat, чорний, XL</name_ua>
-            <description_ua>Спокусливий пеньюар Penthouse Cautious Cat у чорному кольорі розміру XL створений для жінок, які прагнують підкреслити свою привабливість. &lt;b&gt;Сітчастий матеріал з квітковим орнаментом&lt;/b&gt; та щільна вставка на грудях формують елегантний силует, а відкрита спинка додає образу інтриги.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Виготовлений з комфортного поєднання &lt;b&gt;92% нейлону та 8% еластану&lt;/b&gt;, пеньюар приємно прилягає до тіла та забезпечує зручність носіння. Коротка довжина міні та облягаючий крій вигідно підкреслюють фігуру, створюючи жіночний та витончений образ.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Цей елемент білизни стане чудовим доповненням до романтичного вечора чи особливого моменту. Розмір XL розрахований на окружність грудей 98-110 см, талії 82-92 см та стегон 103-118 см.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Penthouse Lingerie&lt;/br&gt;&lt;br /&gt;
-Виробник: Penthouse Lingerie&lt;/br&gt;&lt;br /&gt;
-Для кого: Для жінок&lt;/br&gt;&lt;br /&gt;
-Матеріал: Нейлон, Еластан&lt;/br&gt;</description_ua>
-            </offer>
         <offer id="52-00017" available="true">
                 <erp>52-00017</erp>
             <barcode>5903661805807</barcode>
@@ -59131,6 +59131,24 @@ Diilon допомагає відстрочити еякуляцію, подов�
 Об'єм (мл): 9.5&lt;br /&gt;
 Форма випуску: Рідина&lt;br /&gt;
 Основа (складу): Спиртова</description_ua>
+            </offer>
+        <offer id="90-214400" available="true">
+                <erp>90-214400</erp>
+            <barcode>3760196025962</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32118-popers_rush_butanol_10ml</url>
+            <price>301.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>128</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_321146835c4a6ec273.jpg</picture>
+            <name>Поперс Rush Butanol, 10 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor />
+            <model>Поперс Rush Butanol, 10 мл</model>
+            <description>Поперс Rush Butanol, 10 мл</description>
+            <name_ua>Поперс Rush Butanol, 10 мл</name_ua>
+            <description_ua>Поперс Rush Butanol, 10 мл</description_ua>
             </offer>
         <offer id="73-4065878" available="true">
                 <erp>73-4065878</erp>
@@ -66149,24 +66167,6 @@ OLO Extra Large спеціально розроблені для чоловік�
             <name_ua>Набір свічок троянда, червоні</name_ua>
             <description_ua>Набір свічок троянда, червоні</description_ua>
             </offer>
-        <offer id="90-214400" available="true">
-                <erp>90-214400</erp>
-            <barcode>3760196025962</barcode>
-            <quantity_in_stock>7</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32118-popers_rush_butanol_10ml</url>
-            <price>301.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>128</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_321146835c4a6ec273.jpg</picture>
-            <name>Поперс Rush Butanol, 10 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>7</stock>
-            <vendor />
-            <model>Поперс Rush Butanol, 10 мл</model>
-            <description>Поперс Rush Butanol, 10 мл</description>
-            <name_ua>Поперс Rush Butanol, 10 мл</name_ua>
-            <description_ua>Поперс Rush Butanol, 10 мл</description_ua>
-            </offer>
         <offer id="94-0742" available="true">
                 <erp>94-0742</erp>
             <barcode>4820273030742</barcode>
@@ -68665,6 +68665,61 @@ H2O UNI Gel - це універсальний і надійний лубрика
 Кільце дуже елегантне та виготовлене з силікону - гнучкого, гіпоалергенного, легкого для чищення та дуже міцного матеріалу.&lt;br /&gt;
 Він має 7 рівнів сильної вібрації та захищений від бризок.</description_ua>
             </offer>
+        <offer id="42-06239110000" available="true">
+                <erp>42-06239110000</erp>
+            <barcode>4024144623921</barcode>
+            <quantity_in_stock>9</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/3092-gely_lubrikant_ust_glide_water_50</url>
+            <price>219.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>46</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_30926176c5e3dad0e.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6176c5e026464.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6176c5e03fc91.jpg</picture>
+            <name>Лубрикант Just Glide Water, 50 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>9</stock>
+            <vendor>ORION</vendor>
+            <model>Лубрикант Just Glide Water, 50 мл</model>
+            <description>Лубрикант Just Glide Water на водній основі створений для комфортного та безпечного інтимного досвіду. &lt;b&gt;Дерматологічно протестована формула&lt;/b&gt; на натуральних компонентах підходить навіть людям зі схильністю до алергічних реакцій, забезпечуючи м'яке проникнення без подразнень.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Консистенція максимально наближена до природної жіночої змазки, що гарантує природні відчуття для обох партнерів. &lt;b&gt;Водна основа&lt;/b&gt; робить засіб сумісним з латексними виробами та іграшками з кібершкіри й силікону, не порушуючи їх цілісність.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Практичний у використанні завдяки компактному об'єму 50 мл. Не залишає плям на тканинах, легко змивається водою. Нейтральний склад без додаткових ароматизаторів та смакових добавок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Just Glide&lt;/br&gt;&lt;br /&gt;
+Виробник: Just Glide&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: Без ефектів&lt;/br&gt;</description>
+            <param name="Країна">Німеччина</param>
+            <param name="Колір">прозорий</param>
+            <param name="Основа">Водна</param>
+            <param name="Місткість (мл)">50</param>
+            <param name="Марка/Лінія">Orion/Just Glide</param>
+            <param name="Запах">Без запаха</param>
+            <param name="Їстівний">Ні</param>
+            <name_ua>Лубрикант Just Glide Water, 50 мл</name_ua>
+            <description_ua>Лубрикант Just Glide Water на водній основі створений для комфортного та безпечного інтимного досвіду. &lt;b&gt;Дерматологічно протестована формула&lt;/b&gt; на натуральних компонентах підходить навіть людям зі схильністю до алергічних реакцій, забезпечуючи м'яке проникнення без подразнень.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Консистенція максимально наближена до природної жіночої змазки, що гарантує природні відчуття для обох партнерів. &lt;b&gt;Водна основа&lt;/b&gt; робить засіб сумісним з латексними виробами та іграшками з кібершкіри й силікону, не порушуючи їх цілісність.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Практичний у використанні завдяки компактному об'єму 50 мл. Не залишає плям на тканинах, легко змивається водою. Нейтральний склад без додаткових ароматизаторів та смакових добавок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Just Glide&lt;/br&gt;&lt;br /&gt;
+Виробник: Just Glide&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: Без ефектів&lt;/br&gt;</description_ua>
+            </offer>
         <offer id="48-11891" available="true">
                 <erp>48-11891</erp>
             <barcode>4028403118913</barcode>
@@ -70280,61 +70335,6 @@ Woman №9 — аромат пристрасті, елегантності та 
             <description_ua>Дуже якісний анальний інтимний гель на водній основі. Створено в першу чергу для запобігання потертостей епідермісу в цій ніжній інтимній частині. Гель створює зволоження, дуже схоже на натуральне. Завдяки H2O ANAL анальний секс стає емоційнішим, приємнішим і, головне, безпечнішим. Особливо рекомендуємо використовувати гель новачкам. Цей гель зробить анальний секс приємним досвідом, до якого ви із задоволенням повернетеся. Створено для роботи з вашим тілом. Ідеальне зволоження, що нагадує натуральне. Не залишає плям. Має приємний свіжий аромат. Безпечний і оксамитовий для дуже ніжної шкіри в цій області. Він довго тримається на шкірі, що робить його економним. Не залишає відчуття липкості. GyK&lt;br /&gt;
 &lt;br /&gt;
 Інгредієнти: вода, гліцерин, касторова олія peg-40, гідроксиетилцелюлоза, сорбат калію, бензоат натрію, ароматизатор.</description_ua>
-            </offer>
-        <offer id="42-06239110000" available="true">
-                <erp>42-06239110000</erp>
-            <barcode>4024144623921</barcode>
-            <quantity_in_stock>10</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/3092-gely_lubrikant_ust_glide_water_50</url>
-            <price>219.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_30926176c5e3dad0e.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6176c5e026464.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6176c5e03fc91.jpg</picture>
-            <name>Лубрикант Just Glide Water, 50 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>10</stock>
-            <vendor>ORION</vendor>
-            <model>Лубрикант Just Glide Water, 50 мл</model>
-            <description>Лубрикант Just Glide Water на водній основі створений для комфортного та безпечного інтимного досвіду. &lt;b&gt;Дерматологічно протестована формула&lt;/b&gt; на натуральних компонентах підходить навіть людям зі схильністю до алергічних реакцій, забезпечуючи м'яке проникнення без подразнень.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Консистенція максимально наближена до природної жіночої змазки, що гарантує природні відчуття для обох партнерів. &lt;b&gt;Водна основа&lt;/b&gt; робить засіб сумісним з латексними виробами та іграшками з кібершкіри й силікону, не порушуючи їх цілісність.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Практичний у використанні завдяки компактному об'єму 50 мл. Не залишає плям на тканинах, легко змивається водою. Нейтральний склад без додаткових ароматизаторів та смакових добавок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Just Glide&lt;/br&gt;&lt;br /&gt;
-Виробник: Just Glide&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: Без ефектів&lt;/br&gt;</description>
-            <param name="Країна">Німеччина</param>
-            <param name="Колір">прозорий</param>
-            <param name="Основа">Водна</param>
-            <param name="Місткість (мл)">50</param>
-            <param name="Марка/Лінія">Orion/Just Glide</param>
-            <param name="Запах">Без запаха</param>
-            <param name="Їстівний">Ні</param>
-            <name_ua>Лубрикант Just Glide Water, 50 мл</name_ua>
-            <description_ua>Лубрикант Just Glide Water на водній основі створений для комфортного та безпечного інтимного досвіду. &lt;b&gt;Дерматологічно протестована формула&lt;/b&gt; на натуральних компонентах підходить навіть людям зі схильністю до алергічних реакцій, забезпечуючи м'яке проникнення без подразнень.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Консистенція максимально наближена до природної жіночої змазки, що гарантує природні відчуття для обох партнерів. &lt;b&gt;Водна основа&lt;/b&gt; робить засіб сумісним з латексними виробами та іграшками з кібершкіри й силікону, не порушуючи їх цілісність.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Практичний у використанні завдяки компактному об'єму 50 мл. Не залишає плям на тканинах, легко змивається водою. Нейтральний склад без додаткових ароматизаторів та смакових добавок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Just Glide&lt;/br&gt;&lt;br /&gt;
-Виробник: Just Glide&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: Без ефектів&lt;/br&gt;</description_ua>
             </offer>
         <offer id="42-06239460000" available="true">
                 <erp>42-06239460000</erp>
@@ -72364,6 +72364,38 @@ Just Glide Toylube - це відмінний вибір для тих, хто ш
 Розмір засобу захисту: Стандартний&lt;br /&gt;
 К-сть штук в упаковці (шт.): 3</description_ua>
             </offer>
+        <offer id="95-04516" available="true">
+                <erp>95-04516</erp>
+            <barcode>6970503684516</barcode>
+            <quantity_in_stock>12</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35668-supertonk_prezervativi_muaisi_001_blackwet_tube_12sht_z_dodatkovim_mastilom</url>
+            <price>497.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_35664692d8fc1e1aef.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692d8fc068a64.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692d8fc076390.jpg</picture>
+            <name>Супертонкі презервативи Muaisi 001 BlackWet Tube 12шт з додатковим мастилом</name>
+            <Отображать>Да</Отображать>
+            <stock>12</stock>
+            <vendor>OLO</vendor>
+            <model>Супертонкі презервативи Muaisi 001 BlackWet Tube 12шт з додатковим мастилом</model>
+            <description>Високоякісні латексні резервативи з гладким рельєфом та підвищеною кількістю мастила для максимально природних відчуттів.  Презервативи виготовлені з ультратонкого міцного латексу завтовшки 0.02 мікрона. Кожен презерватив поміщений у персональний контейнер, а також рясно змащений ультра-ковзним мастилом для максимального задоволення та захисту від натирань.&lt;br /&gt;
+Довжина - ≥160 мм;&lt;br /&gt;
+Діаметр – 52±2 mm;&lt;br /&gt;
+Товщина: 0,02 м;&lt;br /&gt;
+Матеріал – 100% натуральний латекс;&lt;br /&gt;
+Рельєф – гладкий;&lt;br /&gt;
+В упаковці 12 шт</description>
+            <name_ua>Супертонкі презервативи Muaisi 001 BlackWet Tube 12шт з додатковим мастилом</name_ua>
+            <description_ua>Високоякісні латексні резервативи з гладким рельєфом та підвищеною кількістю мастила для максимально природних відчуттів.  Презервативи виготовлені з ультратонкого міцного латексу завтовшки 0.02 мікрона. Кожен презерватив поміщений у персональний контейнер, а також рясно змащений ультра-ковзним мастилом для максимального задоволення та захисту від натирань.&lt;br /&gt;
+Довжина - ≥160 мм;&lt;br /&gt;
+Діаметр – 52±2 mm;&lt;br /&gt;
+Товщина: 0,02 м;&lt;br /&gt;
+Матеріал – 100% натуральний латекс;&lt;br /&gt;
+Рельєф – гладкий;&lt;br /&gt;
+В упаковці 12 шт</description_ua>
+            </offer>
         <offer id="19-1071" available="true">
                 <erp>19-1071</erp>
             <barcode>3548960010716</barcode>
@@ -72626,38 +72658,6 @@ Just Glide Toylube - це відмінний вибір для тих, хто ш
 Смак: Без смаку (нейтральний)&lt;br /&gt;
 Додаткові ефекти: Без ефектів, Без гліцерину&lt;br /&gt;
 Їстівне: Ні</description_ua>
-            </offer>
-        <offer id="95-04516" available="true">
-                <erp>95-04516</erp>
-            <barcode>6970503684516</barcode>
-            <quantity_in_stock>13</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/35668-supertonk_prezervativi_muaisi_001_blackwet_tube_12sht_z_dodatkovim_mastilom</url>
-            <price>497.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>96</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_35664692d8fc1e1aef.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_692d8fc068a64.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_692d8fc076390.jpg</picture>
-            <name>Супертонкі презервативи Muaisi 001 BlackWet Tube 12шт з додатковим мастилом</name>
-            <Отображать>Да</Отображать>
-            <stock>13</stock>
-            <vendor>OLO</vendor>
-            <model>Супертонкі презервативи Muaisi 001 BlackWet Tube 12шт з додатковим мастилом</model>
-            <description>Високоякісні латексні резервативи з гладким рельєфом та підвищеною кількістю мастила для максимально природних відчуттів.  Презервативи виготовлені з ультратонкого міцного латексу завтовшки 0.02 мікрона. Кожен презерватив поміщений у персональний контейнер, а також рясно змащений ультра-ковзним мастилом для максимального задоволення та захисту від натирань.&lt;br /&gt;
-Довжина - ≥160 мм;&lt;br /&gt;
-Діаметр – 52±2 mm;&lt;br /&gt;
-Товщина: 0,02 м;&lt;br /&gt;
-Матеріал – 100% натуральний латекс;&lt;br /&gt;
-Рельєф – гладкий;&lt;br /&gt;
-В упаковці 12 шт</description>
-            <name_ua>Супертонкі презервативи Muaisi 001 BlackWet Tube 12шт з додатковим мастилом</name_ua>
-            <description_ua>Високоякісні латексні резервативи з гладким рельєфом та підвищеною кількістю мастила для максимально природних відчуттів.  Презервативи виготовлені з ультратонкого міцного латексу завтовшки 0.02 мікрона. Кожен презерватив поміщений у персональний контейнер, а також рясно змащений ультра-ковзним мастилом для максимального задоволення та захисту від натирань.&lt;br /&gt;
-Довжина - ≥160 мм;&lt;br /&gt;
-Діаметр – 52±2 mm;&lt;br /&gt;
-Товщина: 0,02 м;&lt;br /&gt;
-Матеріал – 100% натуральний латекс;&lt;br /&gt;
-Рельєф – гладкий;&lt;br /&gt;
-В упаковці 12 шт</description_ua>
             </offer>
         <offer id="92-077008" available="true">
                 <erp>92-077008</erp>
