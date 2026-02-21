@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-02-21 11:15">
+<yml_catalog date="2026-02-21 12:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -12555,6 +12555,50 @@ Desirable Flirt збільшить темп еротичних ігор до м�
 &lt;br /&gt;
 «Patty» — відмінний вибір для всіх жінок, які шукають якісний, безпечний і приємний продукт, який подарує незабутні враження та виправдає очікування навіть найвибагливіших користувачів.</description_ua>
             </offer>
+        <offer id="32-00100" available="true">
+                <erp>32-00100</erp>
+            <barcode>5904405351314</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31474-parfumi_pherostrong_your_choice_for_women_50ml</url>
+            <price>2315.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>80</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3147166ed5294a487a.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66ed5293506b1.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66ed5293803c6.jpeg</picture>
+            <name>Парфуми PheroStrong Your Choice for Women, 50 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>MEDICA</vendor>
+            <model>Парфуми PheroStrong Your Choice for Women, 50 мл</model>
+            <description>Жіночі парфуми з феромонами PheroStrong Your Choice створені для підкреслення природної привабливості та чарівності. &lt;b&gt;Унікальна формула з феромонами&lt;/b&gt; допомагає посилити впевненість у собі та створити незабутнє враження на оточуючих.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Аромат розкривається яскравими верхніми нотами &lt;b&gt;манго та бергамоту&lt;/b&gt;, які створюють свіжий фруктовий початок. Серцеві ноти жасмину та ладану додають композиції квіткової витонченості, а базові ноти сандалу та ванілі забезпечують теплий деревно-солодкий шлейф.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Спиртова основа гарантує стійкість аромату протягом дня, а зручний флакон з розпилювачем забезпечує рівномірне нанесення. Парфуми підходять для щоденного використання та особливих випадків.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Medica Group&lt;/br&gt;&lt;br /&gt;
+Виробник: Medica Group&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
+Форма випуску: Рідина&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Спиртова&lt;/br&gt;</description>
+            <name_ua>Парфуми PheroStrong Your Choice for Women, 50 мл</name_ua>
+            <description_ua>Жіночі парфуми з феромонами PheroStrong Your Choice створені для підкреслення природної привабливості та чарівності. &lt;b&gt;Унікальна формула з феромонами&lt;/b&gt; допомагає посилити впевненість у собі та створити незабутнє враження на оточуючих.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Аромат розкривається яскравими верхніми нотами &lt;b&gt;манго та бергамоту&lt;/b&gt;, які створюють свіжий фруктовий початок. Серцеві ноти жасмину та ладану додають композиції квіткової витонченості, а базові ноти сандалу та ванілі забезпечують теплий деревно-солодкий шлейф.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Спиртова основа гарантує стійкість аромату протягом дня, а зручний флакон з розпилювачем забезпечує рівномірне нанесення. Парфуми підходять для щоденного використання та особливих випадків.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Medica Group&lt;/br&gt;&lt;br /&gt;
+Виробник: Medica Group&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
+Форма випуску: Рідина&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Спиртова&lt;/br&gt;</description_ua>
+            </offer>
         <offer id="36-OU895BLK" available="true">
                 <erp>36-OU895BLK</erp>
             <barcode>8714273051202</barcode>
@@ -16333,32 +16377,6 @@ Desirable Flirt збільшить темп еротичних ігор до м�
 Менш калорійний порівняно з цукром (майже в 2 рази). Має пребіотичні властивості, які сприяють розвитку мікрофлори шлунку.&lt;br /&gt;
 Маса одного: 17 г</description>
             <name_ua>Цукерки льодяник піструнець Мохіто</name_ua>
-            <description_ua>Найкорисніший та найсмачніший льодяник без цукру!&lt;br /&gt;
-У складі Ви знайдете лише натуральний замінник цукру та натуральний ароматизатор&lt;br /&gt;
-Менш калорійний порівняно з цукром (майже в 2 рази). Має пребіотичні властивості, які сприяють розвитку мікрофлори шлунку.&lt;br /&gt;
-Маса одного: 17 г</description_ua>
-            </offer>
-        <offer id="94-0711" available="true">
-                <erp>94-0711</erp>
-            <barcode>4820273030711</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32358-tsukerki_lyodyanik_rozkishnitsya_beylis</url>
-            <price>215.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>93</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3235468b9c5101a0eb.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68b9c65d00853.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68b9c65d12c1d.jpg</picture>
-            <name>Цукерки льодяники Розкішниця Бейліс</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>ФОП КАЮ</vendor>
-            <model>Цукерки льодяники Розкішниця Бейліс</model>
-            <description>Найкорисніший та найсмачніший льодяник без цукру!&lt;br /&gt;
-У складі Ви знайдете лише натуральний замінник цукру та натуральний ароматизатор&lt;br /&gt;
-Менш калорійний порівняно з цукром (майже в 2 рази). Має пребіотичні властивості, які сприяють розвитку мікрофлори шлунку.&lt;br /&gt;
-Маса одного: 17 г</description>
-            <name_ua>Цукерки льодяники Розкішниця Бейліс</name_ua>
             <description_ua>Найкорисніший та найсмачніший льодяник без цукру!&lt;br /&gt;
 У складі Ви знайдете лише натуральний замінник цукру та натуральний ароматизатор&lt;br /&gt;
 Менш калорійний порівняно з цукром (майже в 2 рази). Має пребіотичні властивості, які сприяють розвитку мікрофлори шлунку.&lt;br /&gt;
@@ -22486,24 +22504,6 @@ AQUAglide Vanilla - це відмінний вибір для тих, хто х�
 Діаметр (см): 2.5&lt;/br&gt;&lt;br /&gt;
 Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
 Живлення: Батарейки LR44 (3 шт.)&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="61-00002" available="true">
-                <erp>61-00002</erp>
-            <barcode>5903661804213</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/18799-naruchniki_fetish_boss_seriesfurry_cuffs_red</url>
-            <price>454.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>64</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/61-00002.jpg</picture>
-            <name>Наручники Fetish Boss Series Furry Cuffs, червоні</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>FETISH BOSS SERIES</vendor>
-            <model>Наручники Fetish Boss SeriesFurry Cuffs Red</model>
-            <description>Міцні та стійкі металеві наручники для зап'ястя. Механізм блокування має кнопку швидкого розблокування на випадок втрати ключа, а манжети легко регулюються під будь-які розміри Міцні, міцні металеві манжети на зап'ясті, оббиті м'яким плюшем червоного кольору.. Внутрішній діаметр 7 см (змінений), з'єднувальний ланцюг довжиною 7,5 см. Вага 180 г.</description>
-            <name_ua>Наручники Fetish Boss Series Furry Cuffs, червоні</name_ua>
-            <description_ua>Міцні та стійкі металеві наручники для зап'ястя. Механізм блокування має кнопку швидкого розблокування на випадок втрати ключа, а манжети легко регулюються під будь-які розміри Міцні, міцні металеві манжети на зап'ясті, оббиті м'яким плюшем червоного кольору.. Внутрішній діаметр 7 см (змінений), з'єднувальний ланцюг довжиною 7,5 см. Вага 180 г.</description_ua>
             </offer>
         <offer id="61-00003" available="true">
                 <erp>61-00003</erp>
@@ -28820,50 +28820,6 @@ USB перезаряджається&lt;br /&gt;
 &lt;br /&gt;
 Колір: тілесний;</description_ua>
             </offer>
-        <offer id="32-00100" available="true">
-                <erp>32-00100</erp>
-            <barcode>5904405351314</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31474-parfumi_pherostrong_your_choice_for_women_50ml</url>
-            <price>2315.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>80</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3147166ed5294a487a.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed5293506b1.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed5293803c6.jpeg</picture>
-            <name>Парфуми PheroStrong Your Choice for Women, 50 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>MEDICA</vendor>
-            <model>Парфуми PheroStrong Your Choice for Women, 50 мл</model>
-            <description>Жіночі парфуми з феромонами PheroStrong Your Choice створені для підкреслення природної привабливості та чарівності. &lt;b&gt;Унікальна формула з феромонами&lt;/b&gt; допомагає посилити впевненість у собі та створити незабутнє враження на оточуючих.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Аромат розкривається яскравими верхніми нотами &lt;b&gt;манго та бергамоту&lt;/b&gt;, які створюють свіжий фруктовий початок. Серцеві ноти жасмину та ладану додають композиції квіткової витонченості, а базові ноти сандалу та ванілі забезпечують теплий деревно-солодкий шлейф.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Спиртова основа гарантує стійкість аромату протягом дня, а зручний флакон з розпилювачем забезпечує рівномірне нанесення. Парфуми підходять для щоденного використання та особливих випадків.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Medica Group&lt;/br&gt;&lt;br /&gt;
-Виробник: Medica Group&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
-Форма випуску: Рідина&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Спиртова&lt;/br&gt;</description>
-            <name_ua>Парфуми PheroStrong Your Choice for Women, 50 мл</name_ua>
-            <description_ua>Жіночі парфуми з феромонами PheroStrong Your Choice створені для підкреслення природної привабливості та чарівності. &lt;b&gt;Унікальна формула з феромонами&lt;/b&gt; допомагає посилити впевненість у собі та створити незабутнє враження на оточуючих.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Аромат розкривається яскравими верхніми нотами &lt;b&gt;манго та бергамоту&lt;/b&gt;, які створюють свіжий фруктовий початок. Серцеві ноти жасмину та ладану додають композиції квіткової витонченості, а базові ноти сандалу та ванілі забезпечують теплий деревно-солодкий шлейф.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Спиртова основа гарантує стійкість аромату протягом дня, а зручний флакон з розпилювачем забезпечує рівномірне нанесення. Парфуми підходять для щоденного використання та особливих випадків.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Medica Group&lt;/br&gt;&lt;br /&gt;
-Виробник: Medica Group&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
-Форма випуску: Рідина&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Спиртова&lt;/br&gt;</description_ua>
-            </offer>
         <offer id="42-05145350000" available="true">
                 <erp>42-05145350000</erp>
             <barcode>677613305343</barcode>
@@ -32949,6 +32905,38 @@ Woman №8 — аромат чистоти, ніжності та природн
 &lt;br /&gt;
 Цей сучасний пристрій поєднує в собі технології, безпеку та потужність, пропонуючи повний контроль над ритмом та інтенсивністю вашого зціджування.</description_ua>
             </offer>
+        <offer id="56-2025" available="true">
+                <erp>56-2025</erp>
+            <barcode>5903661809874</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35736-analyna_chervona_vibro_probka_rose_rotating_anal_beads</url>
+            <price>1932.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>150</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_357326974ca44412dc.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6974ca3eea794.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6974ca3f11c12.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6974ca3f24489.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6974ca3f39d85.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6974ca3f4f639.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6974ca3f687b4.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6974ca3f873c7.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6974ca3f98b88.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6974ca3fa6214.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6974ca3fb4442.jpg</picture>
+            <name>Анальна червона вібро пробка Rose rotating anal beads</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Анальна червона вібро пробка Rose rotating anal beads</model>
+            <description>Ця анальна пробка пропонує 10 різних типів вібрацій і 10 унікальних рухів, які забезпечать вам неймовірну стимуляцію. Ви можете керувати ним за допомогою пульта дистанційного керування  Виготовлений із високоякісного силікону, наш анальний вібратор безпечний для тіла та легко чиститься. Його повністю водонепроникний дизайн дозволяє вам досліджувати нові межі задоволення в будь-якому середовищі, від купання у ванні до басейну.&lt;br /&gt;
+&lt;br /&gt;
+Завдяки вбудованій літій-іонній батареї та USB-зарядці наша пробка проста у використанні та готова до тривалих сеансів задоволення. Має сертифікати CE RoHS, що підтверджує його високу якість і безпеку.</description>
+            <name_ua>Анальна червона вібро пробка Rose rotating anal beads</name_ua>
+            <description_ua>Ця анальна пробка пропонує 10 різних типів вібрацій і 10 унікальних рухів, які забезпечать вам неймовірну стимуляцію. Ви можете керувати ним за допомогою пульта дистанційного керування  Виготовлений із високоякісного силікону, наш анальний вібратор безпечний для тіла та легко чиститься. Його повністю водонепроникний дизайн дозволяє вам досліджувати нові межі задоволення в будь-якому середовищі, від купання у ванні до басейну.&lt;br /&gt;
+&lt;br /&gt;
+Завдяки вбудованій літій-іонній батареї та USB-зарядці наша пробка проста у використанні та готова до тривалих сеансів задоволення. Має сертифікати CE RoHS, що підтверджує його високу якість і безпеку.</description_ua>
+            </offer>
         <offer id="16-250622" available="true">
                 <erp>16-250622</erp>
             <barcode>796494401163</barcode>
@@ -33330,6 +33318,61 @@ Woman №8 — аромат чистоти, ніжності та природн
             <description>Чорна прикладом пробка з насосом, для неї і для нього. Шланг з насосною лампою і клапаном скидання тиску.</description>
             <name_ua>Анальний розштрювачTrue Black Anal Анальна пробка </name_ua>
             <description_ua>Чорна прикладом пробка з насосом, для неї і для нього. Шланг з насосною лампою і клапаном скидання тиску.</description_ua>
+            </offer>
+        <offer id="42-06239110000" available="true">
+                <erp>42-06239110000</erp>
+            <barcode>4024144623921</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/3092-gely_lubrikant_ust_glide_water_50</url>
+            <price>219.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>46</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_30926176c5e3dad0e.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6176c5e026464.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6176c5e03fc91.jpg</picture>
+            <name>Лубрикант Just Glide Water, 50 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor>ORION</vendor>
+            <model>Лубрикант Just Glide Water, 50 мл</model>
+            <description>Лубрикант Just Glide Water на водній основі створений для комфортного та безпечного інтимного досвіду. &lt;b&gt;Дерматологічно протестована формула&lt;/b&gt; на натуральних компонентах підходить навіть людям зі схильністю до алергічних реакцій, забезпечуючи м'яке проникнення без подразнень.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Консистенція максимально наближена до природної жіночої змазки, що гарантує природні відчуття для обох партнерів. &lt;b&gt;Водна основа&lt;/b&gt; робить засіб сумісним з латексними виробами та іграшками з кібершкіри й силікону, не порушуючи їх цілісність.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Практичний у використанні завдяки компактному об'єму 50 мл. Не залишає плям на тканинах, легко змивається водою. Нейтральний склад без додаткових ароматизаторів та смакових добавок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Just Glide&lt;/br&gt;&lt;br /&gt;
+Виробник: Just Glide&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: Без ефектів&lt;/br&gt;</description>
+            <param name="Країна">Німеччина</param>
+            <param name="Колір">прозорий</param>
+            <param name="Основа">Водна</param>
+            <param name="Місткість (мл)">50</param>
+            <param name="Марка/Лінія">Orion/Just Glide</param>
+            <param name="Запах">Без запаха</param>
+            <param name="Їстівний">Ні</param>
+            <name_ua>Лубрикант Just Glide Water, 50 мл</name_ua>
+            <description_ua>Лубрикант Just Glide Water на водній основі створений для комфортного та безпечного інтимного досвіду. &lt;b&gt;Дерматологічно протестована формула&lt;/b&gt; на натуральних компонентах підходить навіть людям зі схильністю до алергічних реакцій, забезпечуючи м'яке проникнення без подразнень.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Консистенція максимально наближена до природної жіночої змазки, що гарантує природні відчуття для обох партнерів. &lt;b&gt;Водна основа&lt;/b&gt; робить засіб сумісним з латексними виробами та іграшками з кібершкіри й силікону, не порушуючи їх цілісність.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Практичний у використанні завдяки компактному об'єму 50 мл. Не залишає плям на тканинах, легко змивається водою. Нейтральний склад без додаткових ароматизаторів та смакових добавок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Just Glide&lt;/br&gt;&lt;br /&gt;
+Виробник: Just Glide&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: Без ефектів&lt;/br&gt;</description_ua>
             </offer>
         <offer id="42-05213370000" available="true">
                 <erp>42-05213370000</erp>
@@ -44252,6 +44295,33 @@ Pretty Love Kython — реалістичний страпон, який поє�
 Це чудовий подарунок для парубочої чи дівич-вечора, або як кумедний штрих під час пікніка.&lt;br /&gt;
 Для тих, хто любить поєднувати флірт, сміх та нотку еротичної напруги.</description_ua>
             </offer>
+        <offer id="29-00272" available="true">
+                <erp>29-00272</erp>
+            <barcode>5904012317468</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35695-zabavniy_kuhonniy_fartuh_z_napisom_gra_zakinchena_</url>
+            <price>839.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>88</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_356916974cabc5991a.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6974cab7164ac.jpg</picture>
+            <name>Забавний кухонний фартух з написом «Гра закінчена» </name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor>ORION</vendor>
+            <model>Забавний кухонний фартух з написом «Гра закінчена» </model>
+            <description>Забавний кухонний фартух з написом «Гра закінчена» – ідеальний подарунок для чоловіків з почуттям гумору.&lt;br /&gt;
+Виготовлений з високоякісного матеріалу, він міцний, легкий і легко чиститься.&lt;br /&gt;
+Принт зображує мускулисте чоловіче тіло в джинсах, руки зв'язані мотузкою, та напис «Гра закінчена», що надає йому грайливого та оригінального вигляду.&lt;br /&gt;
+Чудова ідея подарунка для партнера, парубочої вечірки чи веселої вечірки. Він додасть нотку гумору та трохи пікантного веселощів вашим кухонним справам!&lt;br /&gt;
+Стиль: «Гра закінчена»</description>
+            <name_ua>Забавний кухонний фартух з написом «Гра закінчена» </name_ua>
+            <description_ua>Забавний кухонний фартух з написом «Гра закінчена» – ідеальний подарунок для чоловіків з почуттям гумору.&lt;br /&gt;
+Виготовлений з високоякісного матеріалу, він міцний, легкий і легко чиститься.&lt;br /&gt;
+Принт зображує мускулисте чоловіче тіло в джинсах, руки зв'язані мотузкою, та напис «Гра закінчена», що надає йому грайливого та оригінального вигляду.&lt;br /&gt;
+Чудова ідея подарунка для партнера, парубочої вечірки чи веселої вечірки. Він додасть нотку гумору та трохи пікантного веселощів вашим кухонним справам!&lt;br /&gt;
+Стиль: «Гра закінчена»</description_ua>
+            </offer>
         <offer id="BW-022107" available="true">
                 <erp>BW-022107</erp>
             <barcode>6959532363241</barcode>
@@ -44577,38 +44647,6 @@ Pretty Love Kython — реалістичний страпон, який поє�
 &lt;br /&gt;
 Завдяки вбудованій літій-іонній батареї та USB-зарядці наша пробка проста у використанні та готова до тривалих сеансів задоволення. Має сертифікати CE RoHS, що підтверджує його високу якість і безпеку.</description>
             <name_ua>Анальна червона вібро пробка Rose rotating anal plug</name_ua>
-            <description_ua>Ця анальна пробка пропонує 10 різних типів вібрацій і 10 унікальних рухів, які забезпечать вам неймовірну стимуляцію. Ви можете керувати ним за допомогою пульта дистанційного керування  Виготовлений із високоякісного силікону, наш анальний вібратор безпечний для тіла та легко чиститься. Його повністю водонепроникний дизайн дозволяє вам досліджувати нові межі задоволення в будь-якому середовищі, від купання у ванні до басейну.&lt;br /&gt;
-&lt;br /&gt;
-Завдяки вбудованій літій-іонній батареї та USB-зарядці наша пробка проста у використанні та готова до тривалих сеансів задоволення. Має сертифікати CE RoHS, що підтверджує його високу якість і безпеку.</description_ua>
-            </offer>
-        <offer id="56-2025" available="true">
-                <erp>56-2025</erp>
-            <barcode>5903661809874</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/35736-analyna_chervona_vibro_probka_rose_rotating_anal_beads</url>
-            <price>1932.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>150</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_357326974ca44412dc.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974ca3eea794.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974ca3f11c12.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974ca3f24489.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974ca3f39d85.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974ca3f4f639.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974ca3f687b4.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974ca3f873c7.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974ca3f98b88.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974ca3fa6214.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974ca3fb4442.jpg</picture>
-            <name>Анальна червона вібро пробка Rose rotating anal beads</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Анальна червона вібро пробка Rose rotating anal beads</model>
-            <description>Ця анальна пробка пропонує 10 різних типів вібрацій і 10 унікальних рухів, які забезпечать вам неймовірну стимуляцію. Ви можете керувати ним за допомогою пульта дистанційного керування  Виготовлений із високоякісного силікону, наш анальний вібратор безпечний для тіла та легко чиститься. Його повністю водонепроникний дизайн дозволяє вам досліджувати нові межі задоволення в будь-якому середовищі, від купання у ванні до басейну.&lt;br /&gt;
-&lt;br /&gt;
-Завдяки вбудованій літій-іонній батареї та USB-зарядці наша пробка проста у використанні та готова до тривалих сеансів задоволення. Має сертифікати CE RoHS, що підтверджує його високу якість і безпеку.</description>
-            <name_ua>Анальна червона вібро пробка Rose rotating anal beads</name_ua>
             <description_ua>Ця анальна пробка пропонує 10 різних типів вібрацій і 10 унікальних рухів, які забезпечать вам неймовірну стимуляцію. Ви можете керувати ним за допомогою пульта дистанційного керування  Виготовлений із високоякісного силікону, наш анальний вібратор безпечний для тіла та легко чиститься. Його повністю водонепроникний дизайн дозволяє вам досліджувати нові межі задоволення в будь-якому середовищі, від купання у ванні до басейну.&lt;br /&gt;
 &lt;br /&gt;
 Завдяки вбудованій літій-іонній батареї та USB-зарядці наша пробка проста у використанні та готова до тривалих сеансів задоволення. Має сертифікати CE RoHS, що підтверджує його високу якість і безпеку.</description_ua>
@@ -51286,6 +51324,53 @@ Zachwyć się 36 unikalnymi funkcjami wibracji i stymulującego tappingu, które
 Загальна довжина 9,2 см&lt;br /&gt;
 Діаметр 2,8 см</description_ua>
             </offer>
+        <offer id="68-CL0001" available="true">
+                <erp>68-CL0001</erp>
+            <barcode>5600304015516</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31862-vidbilyuyuchiy_krem_dlya_tila_intt_lumiere_intimus_skin_lightening_cream_15_ml</url>
+            <price>855.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>138</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_31858678b742563bff.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_678b742411288.jpeg</picture>
+            <name>Крем для відбілювання шкіри Intt Lumiere Intimus, 15 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>INTT COSMETICS</vendor>
+            <model>Крем для відбілювання шкіри Intt Lumiere Intimus, 15 мл</model>
+            <description>Освітлюючий крем для інтимних зон Intt Lumiere Intimus забезпечує &lt;b&gt;вирівнювання тону шкіри&lt;/b&gt; та усунення темних плям у делікатних ділянках тіла. Спеціальна формула ефективно працює з потемніннями в області паху, пахв та інших проблемних зонах, надаючи шкірі більш рівномірний відтінок.&lt;br /&gt;
+&lt;br /&gt;
+Засіб підходить для використання як жінками, так і чоловіками. Наноситься на &lt;b&gt;чисту суху шкіру&lt;/b&gt; легкими масажними рухами до повного вбирання. Нейтральний склад без додаткових ароматизаторів та смакових добавок забезпечує комфортне застосування навіть на найчутливіших ділянках.&lt;br /&gt;
+&lt;br /&gt;
+Результат стає помітним вже після перших застосувань. Компактний об'єм дозволяє зручно використовувати крем протягом тривалого періоду завдяки економічній витраті засобу.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Intt&lt;br /&gt;
+Виробник: Intt&lt;br /&gt;
+Об'єм (мл): 15&lt;br /&gt;
+Форма випуску: Крем&lt;br /&gt;
+Додаткові ефекти: Відбілюючі&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;br /&gt;
+Запах: Без запаху (нейтральний)</description>
+            <name_ua>Крем для відбілювання шкіри Intt Lumiere Intimus, 15 мл</name_ua>
+            <description_ua>Освітлюючий крем для інтимних зон Intt Lumiere Intimus забезпечує &lt;b&gt;вирівнювання тону шкіри&lt;/b&gt; та усунення темних плям у делікатних ділянках тіла. Спеціальна формула ефективно працює з потемніннями в області паху, пахв та інших проблемних зонах, надаючи шкірі більш рівномірний відтінок.&lt;br /&gt;
+&lt;br /&gt;
+Засіб підходить для використання як жінками, так і чоловіками. Наноситься на &lt;b&gt;чисту суху шкіру&lt;/b&gt; легкими масажними рухами до повного вбирання. Нейтральний склад без додаткових ароматизаторів та смакових добавок забезпечує комфортне застосування навіть на найчутливіших ділянках.&lt;br /&gt;
+&lt;br /&gt;
+Результат стає помітним вже після перших застосувань. Компактний об'єм дозволяє зручно використовувати крем протягом тривалого періоду завдяки економічній витраті засобу.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Intt&lt;br /&gt;
+Виробник: Intt&lt;br /&gt;
+Об'єм (мл): 15&lt;br /&gt;
+Форма випуску: Крем&lt;br /&gt;
+Додаткові ефекти: Відбілюючі&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;br /&gt;
+Запах: Без запаху (нейтральний)</description_ua>
+            </offer>
         <offer id="BI-014976" available="true">
                 <erp>BI-014976</erp>
             <barcode>6959532327687</barcode>
@@ -53121,6 +53206,55 @@ Woman №7 — твій аромат свободи, енергії та нев�
 &lt;br /&gt;
 Woman №7 — твій аромат свободи, енергії та невимушеної жіночності.</description_ua>
             </offer>
+        <offer id="74-1681" available="true">
+                <erp>74-1681</erp>
+            <barcode>4029811181681</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35567-keramichniy_kuholy_puhnasti_pishnoti_300_ml</url>
+            <price>630.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>97</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_35563692737d5863b8.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692737d00918e.jpg</picture>
+            <name>Кухоль керамічний «Пухнасті Пишноти», 300 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>GRAJMY RAZEM</vendor>
+            <model>Кухоль керамічний «Пухнасті Пишноти», 300 мл</model>
+            <description>Оригінальний і кумедний кухоль у формі жіночих грудей — стильний жартівливий подарунок, який підніме настрій і приверне увагу. Виготовлений із якісної кераміки, має об’єм 300 мл і зручну форму для улюблених напоїв: від кави й чаю до пива.&lt;br /&gt;
+&lt;br /&gt;
+Натуральні дрібні пори та мінімальні нерівності поверхні є характерною рисою ручного лиття та додають виробу автентичності. Чудовий вибір для подарунку другу, партнеру або як веселий аксесуар на вечірці чи холостяцькому святкуванні.&lt;br /&gt;
+&lt;br /&gt;
+Переваги:&lt;br /&gt;
+&lt;br /&gt;
+незвичайний дизайн у формі грудей;&lt;br /&gt;
+&lt;br /&gt;
+міцна кераміка;&lt;br /&gt;
+&lt;br /&gt;
+об’єм 300 мл;&lt;br /&gt;
+&lt;br /&gt;
+ідея для розіграшу, тематичної вечірки чи подарунка з гумором.&lt;br /&gt;
+&lt;br /&gt;
+Розмір: 14 × 9 × 11 см&lt;br /&gt;
+Вага: 0,38 кг</description>
+            <name_ua>Кухоль керамічний «Пухнасті Пишноти», 300 мл</name_ua>
+            <description_ua>Оригінальний і кумедний кухоль у формі жіночих грудей — стильний жартівливий подарунок, який підніме настрій і приверне увагу. Виготовлений із якісної кераміки, має об’єм 300 мл і зручну форму для улюблених напоїв: від кави й чаю до пива.&lt;br /&gt;
+&lt;br /&gt;
+Натуральні дрібні пори та мінімальні нерівності поверхні є характерною рисою ручного лиття та додають виробу автентичності. Чудовий вибір для подарунку другу, партнеру або як веселий аксесуар на вечірці чи холостяцькому святкуванні.&lt;br /&gt;
+&lt;br /&gt;
+Переваги:&lt;br /&gt;
+&lt;br /&gt;
+незвичайний дизайн у формі грудей;&lt;br /&gt;
+&lt;br /&gt;
+міцна кераміка;&lt;br /&gt;
+&lt;br /&gt;
+об’єм 300 мл;&lt;br /&gt;
+&lt;br /&gt;
+ідея для розіграшу, тематичної вечірки чи подарунка з гумором.&lt;br /&gt;
+&lt;br /&gt;
+Розмір: 14 × 9 × 11 см&lt;br /&gt;
+Вага: 0,38 кг</description_ua>
+            </offer>
         <offer id="810-00101" available="true">
                 <erp>810-00101</erp>
             <barcode>8433345710082</barcode>
@@ -53321,33 +53455,6 @@ Woman №7 — твій аромат свободи, енергії та нев�
 Це ідеальний аксесуар для тих, хто любить гумор, перспективу та трохи пікантних жартів під час спільного приготування їжі.&lt;br /&gt;
 Він ідеально підходить для вечірок, барбекю, тематичних вечорів, а також як подарунок, який обов’язково викличе сміх.&lt;br /&gt;
 Фантастична ідея для покращення настрою та додавання трохи м’язів до ваших кухонних моментів.</description_ua>
-            </offer>
-        <offer id="29-00272" available="true">
-                <erp>29-00272</erp>
-            <barcode>5904012317468</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/35695-zabavniy_kuhonniy_fartuh_z_napisom_gra_zakinchena_</url>
-            <price>839.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>88</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_356916974cabc5991a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974cab7164ac.jpg</picture>
-            <name>Забавний кухонний фартух з написом «Гра закінчена» </name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>ORION</vendor>
-            <model>Забавний кухонний фартух з написом «Гра закінчена» </model>
-            <description>Забавний кухонний фартух з написом «Гра закінчена» – ідеальний подарунок для чоловіків з почуттям гумору.&lt;br /&gt;
-Виготовлений з високоякісного матеріалу, він міцний, легкий і легко чиститься.&lt;br /&gt;
-Принт зображує мускулисте чоловіче тіло в джинсах, руки зв'язані мотузкою, та напис «Гра закінчена», що надає йому грайливого та оригінального вигляду.&lt;br /&gt;
-Чудова ідея подарунка для партнера, парубочої вечірки чи веселої вечірки. Він додасть нотку гумору та трохи пікантного веселощів вашим кухонним справам!&lt;br /&gt;
-Стиль: «Гра закінчена»</description>
-            <name_ua>Забавний кухонний фартух з написом «Гра закінчена» </name_ua>
-            <description_ua>Забавний кухонний фартух з написом «Гра закінчена» – ідеальний подарунок для чоловіків з почуттям гумору.&lt;br /&gt;
-Виготовлений з високоякісного матеріалу, він міцний, легкий і легко чиститься.&lt;br /&gt;
-Принт зображує мускулисте чоловіче тіло в джинсах, руки зв'язані мотузкою, та напис «Гра закінчена», що надає йому грайливого та оригінального вигляду.&lt;br /&gt;
-Чудова ідея подарунка для партнера, парубочої вечірки чи веселої вечірки. Він додасть нотку гумору та трохи пікантного веселощів вашим кухонним справам!&lt;br /&gt;
-Стиль: «Гра закінчена»</description_ua>
             </offer>
         <offer id="BI-210344" available="true">
                 <erp>BI-210344</erp>
@@ -53901,6 +54008,70 @@ Woman №7 — твій аромат свободи, енергії та нев�
             <description>Рукав пеніса реалістичної форми з кільцем яєчка. Він гнучкий і підійде до будь-якого пеніса. З рожевим жолудем і виразними прожилками.</description>
             <name_ua>Насадка на член You2Toys T&amp;B Extension</name_ua>
             <description_ua>Рукав пеніса реалістичної форми з кільцем яєчка. Він гнучкий і підійде до будь-якого пеніса. З рожевим жолудем і виразними прожилками.</description_ua>
+            </offer>
+        <offer id="42-07735140000" available="true">
+                <erp>42-07735140000</erp>
+            <barcode>4024144773510</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/3099-maska_augenmasken_2er_set</url>
+            <price>316.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>86</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/42-07735140000.jpg</picture>
+            <name>Маска для очей Cottelli Accessoires, 2 шт</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>ORION</vendor>
+            <model>Маска для очей Cottelli Accessoires, 2 шт</model>
+            <description>Набір з двох &lt;b&gt;масок для очей Cottelli Accessoires&lt;/b&gt; забезпечує повне затемнення для інтимних ігор та комфортного відпочинку. Комплект включає дві маски різних кольорів - червону та чорну, виготовлені з м'якого поліаміду.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Еластичні резинки&lt;/b&gt; дозволяють підлаштувати маски під будь-який розмір голови, забезпечуючи зручну посадку без тиску. Щільна тканина надійно блокує світло, створюючи абсолютну темряву для посилення тактильних відчуттів.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Універсальний аксесуар підходить як для романтичних експериментів, так і для якісного сну в будь-яких умовах освітлення.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Cottelli Collection&lt;/br&gt;&lt;br /&gt;
+Виробник: Cottelli Collection&lt;/br&gt;&lt;br /&gt;
+Для кого: Унісекс&lt;/br&gt;&lt;br /&gt;
+Матеріал: Поліамід&lt;/br&gt;&lt;br /&gt;
+Кількість в наборі: 2 шт&lt;/br&gt;&lt;br /&gt;
+Колір: Червоний, чорний&lt;/br&gt;&lt;br /&gt;
+Розмір: Універсальний&lt;/br&gt;</description>
+            <name_ua>Маска для очей Cottelli Accessoires, 2 шт</name_ua>
+            <description_ua>Набір з двох &lt;b&gt;масок для очей Cottelli Accessoires&lt;/b&gt; забезпечує повне затемнення для інтимних ігор та комфортного відпочинку. Комплект включає дві маски різних кольорів - червону та чорну, виготовлені з м'якого поліаміду.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Еластичні резинки&lt;/b&gt; дозволяють підлаштувати маски під будь-який розмір голови, забезпечуючи зручну посадку без тиску. Щільна тканина надійно блокує світло, створюючи абсолютну темряву для посилення тактильних відчуттів.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Універсальний аксесуар підходить як для романтичних експериментів, так і для якісного сну в будь-яких умовах освітлення.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Cottelli Collection&lt;/br&gt;&lt;br /&gt;
+Виробник: Cottelli Collection&lt;/br&gt;&lt;br /&gt;
+Для кого: Унісекс&lt;/br&gt;&lt;br /&gt;
+Матеріал: Поліамід&lt;/br&gt;&lt;br /&gt;
+Кількість в наборі: 2 шт&lt;/br&gt;&lt;br /&gt;
+Колір: Червоний, чорний&lt;/br&gt;&lt;br /&gt;
+Розмір: Універсальний&lt;/br&gt;</description_ua>
+            </offer>
+        <offer id="42-07770640000" available="true">
+                <erp>42-07770640000</erp>
+            <barcode>4024144777068</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/3146-maska_stimmungsaugenmaske</url>
+            <price>314.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>86</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_31466177daae3e0ff.jpg</picture>
+            <name>Маска для сну Mood Blindfold</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>ORION</vendor>
+            <model>Маска Mood Blindfold</model>
+            <description>Прикривати очі під час еротичних розваг — один із найпростіших і найкращих способів урізноманітнити секс. Без зору ви заново відкриваєте силу дотику, нюху, смаку та слуху. Ось дві пов’язані очі з кумедними та провокаційними написами: «Не сьогодні!» і «Доторкнись мене!». Подаруйте їх другій половинці та отримайте задоволення, відкриваючи себе заново! </description>
+            <name_ua>Маска для сну Mood Blindfold</name_ua>
+            <description_ua>Прикривати очі під час еротичних розваг — один із найпростіших і найкращих способів урізноманітнити секс. Без зору ви заново відкриваєте силу дотику, нюху, смаку та слуху. Ось дві пов’язані очі з кумедними та провокаційними написами: «Не сьогодні!» і «Доторкнись мене!». Подаруйте їх другій половинці та отримайте задоволення, відкриваючи себе заново! </description_ua>
             </offer>
         <offer id="42-05098090000" available="true">
                 <erp>42-05098090000</erp>
@@ -56333,6 +56504,26 @@ Woman №7 — твій аромат свободи, енергії та нев�
             <name_ua>Затискачі для сосків Fetish B - Series Stymulator Exclusive Nipple Clamps No. 15, червоні</name_ua>
             <description_ua>Міцні металеві затискачі, покриті м'якою гумою, ці затискачі ідеально підходять для новачків і ентузіастів. Силу затиску соски можна регулювати обертанням гвинта.Елегантний ланцюжок з дрібними прикрасами з'єднує обидва соски, створюючи неймовірну стимуляцію при кожному русі. Вага: 27 г. Загальна довжина 40 см. </description_ua>
             </offer>
+        <offer id="90-409657" available="true">
+                <erp>90-409657</erp>
+            <barcode>2010000409657</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/29885-popers_amsterdam_24_ml</url>
+            <price>580.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>128</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_29885632db1c38ddcd.jpg</picture>
+            <name>Поперс Amsterdam 24 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor />
+            <model>Поперс Amsterdam 24 мл</model>
+            <description>Поперс Amsterdam - якісний та сильний попперс Флакон поперс 24 мл. Пропілнітрит, який входить до складу поперса, забезпечує м'яке розслаблення м'язів, ефективно і досить швидко підіймає настрій та сприяє сексуальному збудженню.&lt;br /&gt;
+</description>
+            <name_ua>Поперс Amsterdam 24 мл</name_ua>
+            <description_ua>Поперс Amsterdam - якісний та сильний попперс Флакон поперс 24 мл. Пропілнітрит, який входить до складу поперса, забезпечує м'яке розслаблення м'язів, ефективно і досить швидко підіймає настрій та сприяє сексуальному збудженню.&lt;br /&gt;
+</description_ua>
+            </offer>
         <offer id="BI-014910W" available="true">
                 <erp>BI-014910W</erp>
             <barcode>6959532333855</barcode>
@@ -57691,53 +57882,6 @@ Woman №7 — твій аромат свободи, енергії та нев�
 Загальна довжина 10,5 см&lt;br /&gt;
 Діаметр 3,2 см</description_ua>
             </offer>
-        <offer id="68-CL0001" available="true">
-                <erp>68-CL0001</erp>
-            <barcode>5600304015516</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31862-vidbilyuyuchiy_krem_dlya_tila_intt_lumiere_intimus_skin_lightening_cream_15_ml</url>
-            <price>855.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>138</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_31858678b742563bff.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_678b742411288.jpeg</picture>
-            <name>Крем для відбілювання шкіри Intt Lumiere Intimus, 15 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>INTT COSMETICS</vendor>
-            <model>Крем для відбілювання шкіри Intt Lumiere Intimus, 15 мл</model>
-            <description>Освітлюючий крем для інтимних зон Intt Lumiere Intimus забезпечує &lt;b&gt;вирівнювання тону шкіри&lt;/b&gt; та усунення темних плям у делікатних ділянках тіла. Спеціальна формула ефективно працює з потемніннями в області паху, пахв та інших проблемних зонах, надаючи шкірі більш рівномірний відтінок.&lt;br /&gt;
-&lt;br /&gt;
-Засіб підходить для використання як жінками, так і чоловіками. Наноситься на &lt;b&gt;чисту суху шкіру&lt;/b&gt; легкими масажними рухами до повного вбирання. Нейтральний склад без додаткових ароматизаторів та смакових добавок забезпечує комфортне застосування навіть на найчутливіших ділянках.&lt;br /&gt;
-&lt;br /&gt;
-Результат стає помітним вже після перших застосувань. Компактний об'єм дозволяє зручно використовувати крем протягом тривалого періоду завдяки економічній витраті засобу.&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Intt&lt;br /&gt;
-Виробник: Intt&lt;br /&gt;
-Об'єм (мл): 15&lt;br /&gt;
-Форма випуску: Крем&lt;br /&gt;
-Додаткові ефекти: Відбілюючі&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;br /&gt;
-Запах: Без запаху (нейтральний)</description>
-            <name_ua>Крем для відбілювання шкіри Intt Lumiere Intimus, 15 мл</name_ua>
-            <description_ua>Освітлюючий крем для інтимних зон Intt Lumiere Intimus забезпечує &lt;b&gt;вирівнювання тону шкіри&lt;/b&gt; та усунення темних плям у делікатних ділянках тіла. Спеціальна формула ефективно працює з потемніннями в області паху, пахв та інших проблемних зонах, надаючи шкірі більш рівномірний відтінок.&lt;br /&gt;
-&lt;br /&gt;
-Засіб підходить для використання як жінками, так і чоловіками. Наноситься на &lt;b&gt;чисту суху шкіру&lt;/b&gt; легкими масажними рухами до повного вбирання. Нейтральний склад без додаткових ароматизаторів та смакових добавок забезпечує комфортне застосування навіть на найчутливіших ділянках.&lt;br /&gt;
-&lt;br /&gt;
-Результат стає помітним вже після перших застосувань. Компактний об'єм дозволяє зручно використовувати крем протягом тривалого періоду завдяки економічній витраті засобу.&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Intt&lt;br /&gt;
-Виробник: Intt&lt;br /&gt;
-Об'єм (мл): 15&lt;br /&gt;
-Форма випуску: Крем&lt;br /&gt;
-Додаткові ефекти: Відбілюючі&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;br /&gt;
-Запах: Без запаху (нейтральний)</description_ua>
-            </offer>
         <offer id="BI-210331" available="true">
                 <erp>BI-210331</erp>
             <barcode>6959532361469</barcode>
@@ -58921,55 +59065,6 @@ Pretty Love Cayla — це поєднання розкоші, технологі
 Об'єм: 15 ml&lt;br /&gt;
 Виробник: Miyoshi Miyagi</description_ua>
             </offer>
-        <offer id="74-1681" available="true">
-                <erp>74-1681</erp>
-            <barcode>4029811181681</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/35567-keramichniy_kuholy_puhnasti_pishnoti_300_ml</url>
-            <price>630.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>97</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_35563692737d5863b8.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_692737d00918e.jpg</picture>
-            <name>Кухоль керамічний «Пухнасті Пишноти», 300 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>GRAJMY RAZEM</vendor>
-            <model>Кухоль керамічний «Пухнасті Пишноти», 300 мл</model>
-            <description>Оригінальний і кумедний кухоль у формі жіночих грудей — стильний жартівливий подарунок, який підніме настрій і приверне увагу. Виготовлений із якісної кераміки, має об’єм 300 мл і зручну форму для улюблених напоїв: від кави й чаю до пива.&lt;br /&gt;
-&lt;br /&gt;
-Натуральні дрібні пори та мінімальні нерівності поверхні є характерною рисою ручного лиття та додають виробу автентичності. Чудовий вибір для подарунку другу, партнеру або як веселий аксесуар на вечірці чи холостяцькому святкуванні.&lt;br /&gt;
-&lt;br /&gt;
-Переваги:&lt;br /&gt;
-&lt;br /&gt;
-незвичайний дизайн у формі грудей;&lt;br /&gt;
-&lt;br /&gt;
-міцна кераміка;&lt;br /&gt;
-&lt;br /&gt;
-об’єм 300 мл;&lt;br /&gt;
-&lt;br /&gt;
-ідея для розіграшу, тематичної вечірки чи подарунка з гумором.&lt;br /&gt;
-&lt;br /&gt;
-Розмір: 14 × 9 × 11 см&lt;br /&gt;
-Вага: 0,38 кг</description>
-            <name_ua>Кухоль керамічний «Пухнасті Пишноти», 300 мл</name_ua>
-            <description_ua>Оригінальний і кумедний кухоль у формі жіночих грудей — стильний жартівливий подарунок, який підніме настрій і приверне увагу. Виготовлений із якісної кераміки, має об’єм 300 мл і зручну форму для улюблених напоїв: від кави й чаю до пива.&lt;br /&gt;
-&lt;br /&gt;
-Натуральні дрібні пори та мінімальні нерівності поверхні є характерною рисою ручного лиття та додають виробу автентичності. Чудовий вибір для подарунку другу, партнеру або як веселий аксесуар на вечірці чи холостяцькому святкуванні.&lt;br /&gt;
-&lt;br /&gt;
-Переваги:&lt;br /&gt;
-&lt;br /&gt;
-незвичайний дизайн у формі грудей;&lt;br /&gt;
-&lt;br /&gt;
-міцна кераміка;&lt;br /&gt;
-&lt;br /&gt;
-об’єм 300 мл;&lt;br /&gt;
-&lt;br /&gt;
-ідея для розіграшу, тематичної вечірки чи подарунка з гумором.&lt;br /&gt;
-&lt;br /&gt;
-Розмір: 14 × 9 × 11 см&lt;br /&gt;
-Вага: 0,38 кг</description_ua>
-            </offer>
         <offer id="94-FF001006" available="true">
                 <erp>94-FF001006</erp>
             <barcode>8606033510053</barcode>
@@ -59528,70 +59623,6 @@ Clitoris Spray Stimulating - це відмінний вибір для тих, �
             <description>Червоний дзвіночок із чорними літературами Прибл. розмір: 5,5 см, діаметр 8 см. Матеріал: метал.</description>
             <name_ua>Подарунок дзвіночок Ring for Sex Klinge</name_ua>
             <description_ua>Червоний дзвіночок із чорними літературами Прибл. розмір: 5,5 см, діаметр 8 см. Матеріал: метал.</description_ua>
-            </offer>
-        <offer id="42-07735140000" available="true">
-                <erp>42-07735140000</erp>
-            <barcode>4024144773510</barcode>
-            <quantity_in_stock>6</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/3099-maska_augenmasken_2er_set</url>
-            <price>316.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>86</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-07735140000.jpg</picture>
-            <name>Маска для очей Cottelli Accessoires, 2 шт</name>
-            <Отображать>Да</Отображать>
-            <stock>6</stock>
-            <vendor>ORION</vendor>
-            <model>Маска для очей Cottelli Accessoires, 2 шт</model>
-            <description>Набір з двох &lt;b&gt;масок для очей Cottelli Accessoires&lt;/b&gt; забезпечує повне затемнення для інтимних ігор та комфортного відпочинку. Комплект включає дві маски різних кольорів - червону та чорну, виготовлені з м'якого поліаміду.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Еластичні резинки&lt;/b&gt; дозволяють підлаштувати маски під будь-який розмір голови, забезпечуючи зручну посадку без тиску. Щільна тканина надійно блокує світло, створюючи абсолютну темряву для посилення тактильних відчуттів.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Універсальний аксесуар підходить як для романтичних експериментів, так і для якісного сну в будь-яких умовах освітлення.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Cottelli Collection&lt;/br&gt;&lt;br /&gt;
-Виробник: Cottelli Collection&lt;/br&gt;&lt;br /&gt;
-Для кого: Унісекс&lt;/br&gt;&lt;br /&gt;
-Матеріал: Поліамід&lt;/br&gt;&lt;br /&gt;
-Кількість в наборі: 2 шт&lt;/br&gt;&lt;br /&gt;
-Колір: Червоний, чорний&lt;/br&gt;&lt;br /&gt;
-Розмір: Універсальний&lt;/br&gt;</description>
-            <name_ua>Маска для очей Cottelli Accessoires, 2 шт</name_ua>
-            <description_ua>Набір з двох &lt;b&gt;масок для очей Cottelli Accessoires&lt;/b&gt; забезпечує повне затемнення для інтимних ігор та комфортного відпочинку. Комплект включає дві маски різних кольорів - червону та чорну, виготовлені з м'якого поліаміду.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Еластичні резинки&lt;/b&gt; дозволяють підлаштувати маски під будь-який розмір голови, забезпечуючи зручну посадку без тиску. Щільна тканина надійно блокує світло, створюючи абсолютну темряву для посилення тактильних відчуттів.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Універсальний аксесуар підходить як для романтичних експериментів, так і для якісного сну в будь-яких умовах освітлення.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Cottelli Collection&lt;/br&gt;&lt;br /&gt;
-Виробник: Cottelli Collection&lt;/br&gt;&lt;br /&gt;
-Для кого: Унісекс&lt;/br&gt;&lt;br /&gt;
-Матеріал: Поліамід&lt;/br&gt;&lt;br /&gt;
-Кількість в наборі: 2 шт&lt;/br&gt;&lt;br /&gt;
-Колір: Червоний, чорний&lt;/br&gt;&lt;br /&gt;
-Розмір: Універсальний&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="42-07770640000" available="true">
-                <erp>42-07770640000</erp>
-            <barcode>4024144777068</barcode>
-            <quantity_in_stock>6</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/3146-maska_stimmungsaugenmaske</url>
-            <price>314.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>86</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_31466177daae3e0ff.jpg</picture>
-            <name>Маска для сну Mood Blindfold</name>
-            <Отображать>Да</Отображать>
-            <stock>6</stock>
-            <vendor>ORION</vendor>
-            <model>Маска Mood Blindfold</model>
-            <description>Прикривати очі під час еротичних розваг — один із найпростіших і найкращих способів урізноманітнити секс. Без зору ви заново відкриваєте силу дотику, нюху, смаку та слуху. Ось дві пов’язані очі з кумедними та провокаційними написами: «Не сьогодні!» і «Доторкнись мене!». Подаруйте їх другій половинці та отримайте задоволення, відкриваючи себе заново! </description>
-            <name_ua>Маска для сну Mood Blindfold</name_ua>
-            <description_ua>Прикривати очі під час еротичних розваг — один із найпростіших і найкращих способів урізноманітнити секс. Без зору ви заново відкриваєте силу дотику, нюху, смаку та слуху. Ось дві пов’язані очі з кумедними та провокаційними написами: «Не сьогодні!» і «Доторкнись мене!». Подаруйте їх другій половинці та отримайте задоволення, відкриваючи себе заново! </description_ua>
             </offer>
         <offer id="19-2061" available="true">
                 <erp>19-2061</erp>
@@ -65465,61 +65496,6 @@ AbsolutSex Super Penis - це ефективний крем для стимул�
 &lt;br /&gt;
 Ємкість: 30 мл.</description_ua>
             </offer>
-        <offer id="42-06239110000" available="true">
-                <erp>42-06239110000</erp>
-            <barcode>4024144623921</barcode>
-            <quantity_in_stock>8</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/3092-gely_lubrikant_ust_glide_water_50</url>
-            <price>219.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_30926176c5e3dad0e.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6176c5e026464.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6176c5e03fc91.jpg</picture>
-            <name>Лубрикант Just Glide Water, 50 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>8</stock>
-            <vendor>ORION</vendor>
-            <model>Лубрикант Just Glide Water, 50 мл</model>
-            <description>Лубрикант Just Glide Water на водній основі створений для комфортного та безпечного інтимного досвіду. &lt;b&gt;Дерматологічно протестована формула&lt;/b&gt; на натуральних компонентах підходить навіть людям зі схильністю до алергічних реакцій, забезпечуючи м'яке проникнення без подразнень.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Консистенція максимально наближена до природної жіночої змазки, що гарантує природні відчуття для обох партнерів. &lt;b&gt;Водна основа&lt;/b&gt; робить засіб сумісним з латексними виробами та іграшками з кібершкіри й силікону, не порушуючи їх цілісність.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Практичний у використанні завдяки компактному об'єму 50 мл. Не залишає плям на тканинах, легко змивається водою. Нейтральний склад без додаткових ароматизаторів та смакових добавок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Just Glide&lt;/br&gt;&lt;br /&gt;
-Виробник: Just Glide&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: Без ефектів&lt;/br&gt;</description>
-            <param name="Країна">Німеччина</param>
-            <param name="Колір">прозорий</param>
-            <param name="Основа">Водна</param>
-            <param name="Місткість (мл)">50</param>
-            <param name="Марка/Лінія">Orion/Just Glide</param>
-            <param name="Запах">Без запаха</param>
-            <param name="Їстівний">Ні</param>
-            <name_ua>Лубрикант Just Glide Water, 50 мл</name_ua>
-            <description_ua>Лубрикант Just Glide Water на водній основі створений для комфортного та безпечного інтимного досвіду. &lt;b&gt;Дерматологічно протестована формула&lt;/b&gt; на натуральних компонентах підходить навіть людям зі схильністю до алергічних реакцій, забезпечуючи м'яке проникнення без подразнень.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Консистенція максимально наближена до природної жіночої змазки, що гарантує природні відчуття для обох партнерів. &lt;b&gt;Водна основа&lt;/b&gt; робить засіб сумісним з латексними виробами та іграшками з кібершкіри й силікону, не порушуючи їх цілісність.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Практичний у використанні завдяки компактному об'єму 50 мл. Не залишає плям на тканинах, легко змивається водою. Нейтральний склад без додаткових ароматизаторів та смакових добавок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Just Glide&lt;/br&gt;&lt;br /&gt;
-Виробник: Just Glide&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: Без ефектів&lt;/br&gt;</description_ua>
-            </offer>
         <offer id="42-07722670000" available="true">
                 <erp>42-07722670000</erp>
             <barcode>4024144772810</barcode>
@@ -66435,6 +66411,28 @@ AbsolutSex Super Penis - це ефективний крем для стимул�
             <description>Презервативи UNIMIL SKYN BOX 3 ORIGINAL</description>
             <name_ua>Презервативи UNIMIL SKYN BOX 3 ORIGINAL</name_ua>
             <description_ua>Презервативи UNIMIL SKYN BOX 3 ORIGINAL</description_ua>
+            </offer>
+        <offer id="74-9434" available="true">
+                <erp>74-9434</erp>
+            <barcode>402981125943</barcode>
+            <quantity_in_stock>8</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31267-karti_gralyni_kama_sutra_</url>
+            <price>236.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>92</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3126466640a8c991a3.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_671f8957570b7.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_671f895774458.jpg</picture>
+            <name>Карти гральні Kama Sutra</name>
+            <Отображать>Да</Отображать>
+            <stock>8</stock>
+            <vendor />
+            <model>Карти гральні Kama Sutra </model>
+            <description>Розваги з різними сексуальними позиціями!&lt;br /&gt;
+Карткова гра з 54 барвистими картками, на яких зображена зухвала комічна пара в різних сексуальних позах з Камасутри. Надихає та заохочує спробувати їх на собі! Ідеально підходить як зухвалий або неслухняний подарунок. На кожній картці також є відповідні символи (серця, ромби, піки та трефи). Картон.</description>
+            <name_ua>Карти гральні Kama Sutra</name_ua>
+            <description_ua>Розваги з різними сексуальними позиціями!&lt;br /&gt;
+Карткова гра з 54 барвистими картками, на яких зображена зухвала комічна пара в різних сексуальних позах з Камасутри. Надихає та заохочує спробувати їх на собі! Ідеально підходить як зухвалий або неслухняний подарунок. На кожній картці також є відповідні символи (серця, ромби, піки та трефи). Картон.</description_ua>
             </offer>
         <offer id="74-7378" available="true">
                 <erp>74-7378</erp>
@@ -68126,28 +68124,6 @@ H2O UNI Gel - це універсальний і надійний лубрика
 Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
 Їстівне: Ні&lt;/br&gt;</description_ua>
             </offer>
-        <offer id="74-9434" available="true">
-                <erp>74-9434</erp>
-            <barcode>402981125943</barcode>
-            <quantity_in_stock>9</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31267-karti_gralyni_kama_sutra_</url>
-            <price>236.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>92</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3126466640a8c991a3.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_671f8957570b7.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_671f895774458.jpg</picture>
-            <name>Карти гральні Kama Sutra</name>
-            <Отображать>Да</Отображать>
-            <stock>9</stock>
-            <vendor />
-            <model>Карти гральні Kama Sutra </model>
-            <description>Розваги з різними сексуальними позиціями!&lt;br /&gt;
-Карткова гра з 54 барвистими картками, на яких зображена зухвала комічна пара в різних сексуальних позах з Камасутри. Надихає та заохочує спробувати їх на собі! Ідеально підходить як зухвалий або неслухняний подарунок. На кожній картці також є відповідні символи (серця, ромби, піки та трефи). Картон.</description>
-            <name_ua>Карти гральні Kama Sutra</name_ua>
-            <description_ua>Розваги з різними сексуальними позиціями!&lt;br /&gt;
-Карткова гра з 54 барвистими картками, на яких зображена зухвала комічна пара в різних сексуальних позах з Камасутри. Надихає та заохочує спробувати їх на собі! Ідеально підходить як зухвалий або неслухняний подарунок. На кожній картці також є відповідні символи (серця, ромби, піки та трефи). Картон.</description_ua>
-            </offer>
         <offer id="BI-300086" available="true">
                 <erp>BI-300086</erp>
             <barcode>6959532360745</barcode>
@@ -69411,26 +69387,6 @@ Flutschi Anal - це відмінний вибір для тих, хто шук�
 Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
 Запах: М'ята&lt;/br&gt;&lt;br /&gt;
 Їстівне: Ні&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="90-409657" available="true">
-                <erp>90-409657</erp>
-            <barcode>2010000409657</barcode>
-            <quantity_in_stock>10</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29885-popers_amsterdam_24_ml</url>
-            <price>580.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>128</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_29885632db1c38ddcd.jpg</picture>
-            <name>Поперс Amsterdam 24 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>10</stock>
-            <vendor />
-            <model>Поперс Amsterdam 24 мл</model>
-            <description>Поперс Amsterdam - якісний та сильний попперс Флакон поперс 24 мл. Пропілнітрит, який входить до складу поперса, забезпечує м'яке розслаблення м'язів, ефективно і досить швидко підіймає настрій та сприяє сексуальному збудженню.&lt;br /&gt;
-</description>
-            <name_ua>Поперс Amsterdam 24 мл</name_ua>
-            <description_ua>Поперс Amsterdam - якісний та сильний попперс Флакон поперс 24 мл. Пропілнітрит, який входить до складу поперса, забезпечує м'яке розслаблення м'язів, ефективно і досить швидко підіймає настрій та сприяє сексуальному збудженню.&lt;br /&gt;
-</description_ua>
             </offer>
         <offer id="37-3368" available="true">
                 <erp>37-3368</erp>
@@ -70968,6 +70924,56 @@ Virgin Tight - це відмінний вибір для тих, хто шука
             <name_ua>Поперс Wings Black 10ml</name_ua>
             <description_ua>Задоволення та сила, об'єднані у флаконі попперса об'ємом 10мл . Завжди більш інтенсивні відчуття з Fist 10ml l на основі пентилнітриту.</description_ua>
             </offer>
+        <offer id="42-06311830000" available="true">
+                <erp>42-06311830000</erp>
+            <barcode>4024144498659</barcode>
+            <quantity_in_stock>14</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32052-ochishtuvach_dlya_igrashok_ust_glide_cleaner_250_ml</url>
+            <price>550.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>129</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3204867fc166771d75.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67fc166642695.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67fc16664a293.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67fc1666519fe.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67fc166658b92.jpeg</picture>
+            <name>Антибактеріальний спрей для очищення секс-іграшок Just Glide Toy Cleaner, 250 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>14</stock>
+            <vendor>COBECO</vendor>
+            <model>Антибактеріальний спрей для очищення секс-іграшок Just Glide Toy Cleaner, 250 мл</model>
+            <description>Антибактеріальний засіб Just Glide Toy Cleaner забезпечує &lt;b&gt;ефективне очищення інтимних аксесуарів&lt;/b&gt; від бактерій та забруднень. Формула на водній основі з ізопропіловим спиртом та молочною кислотою надає засобу потужні антисептичні властивості, гарантуючи стерильність ваших особистих речей.&lt;br /&gt;
+&lt;br /&gt;
+Спрей сумісний з &lt;b&gt;різними матеріалами&lt;/b&gt; - силіконом, гумою, латексом, ПВХ та пластиком. Засіб не має запаху та смаку, що робить його використання максимально комфортним. Зручний флакон з розпилювачем об'ємом 250 мл дозволяє рівномірно нанести продукт на поверхню.&lt;br /&gt;
+&lt;br /&gt;
+Застосування просте: розпиліть невелику кількість на поверхню аксесуара та протріть чистою серветкою. За потреби процедуру можна повторити для досягнення ідеальної чистоти.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Just Glide&lt;br /&gt;
+Виробник: Just Glide&lt;br /&gt;
+Об'єм (мл): 250&lt;br /&gt;
+Форма випуску: Рідина&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;br /&gt;
+Їстівне: Ні</description>
+            <name_ua>Антибактеріальний спрей для очищення секс-іграшок Just Glide Toy Cleaner, 250 мл</name_ua>
+            <description_ua>Антибактеріальний засіб Just Glide Toy Cleaner забезпечує &lt;b&gt;ефективне очищення інтимних аксесуарів&lt;/b&gt; від бактерій та забруднень. Формула на водній основі з ізопропіловим спиртом та молочною кислотою надає засобу потужні антисептичні властивості, гарантуючи стерильність ваших особистих речей.&lt;br /&gt;
+&lt;br /&gt;
+Спрей сумісний з &lt;b&gt;різними матеріалами&lt;/b&gt; - силіконом, гумою, латексом, ПВХ та пластиком. Засіб не має запаху та смаку, що робить його використання максимально комфортним. Зручний флакон з розпилювачем об'ємом 250 мл дозволяє рівномірно нанести продукт на поверхню.&lt;br /&gt;
+&lt;br /&gt;
+Застосування просте: розпиліть невелику кількість на поверхню аксесуара та протріть чистою серветкою. За потреби процедуру можна повторити для досягнення ідеальної чистоти.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Just Glide&lt;br /&gt;
+Виробник: Just Glide&lt;br /&gt;
+Об'єм (мл): 250&lt;br /&gt;
+Форма випуску: Рідина&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;br /&gt;
+Їстівне: Ні</description_ua>
+            </offer>
         <offer id="42-05143060000" available="true">
                 <erp>42-05143060000</erp>
             <barcode>4024144514304</barcode>
@@ -71357,56 +71363,6 @@ ONE Super Sensitive — для тих, хто хоче відчувати біл
             <name_ua>Шипучі серця для ванни, 10 шт</name_ua>
             <description_ua>Шипучі серця для ванни, 10 шт. у текстильному мішечку близько 12 г, </description_ua>
             </offer>
-        <offer id="42-06311830000" available="true">
-                <erp>42-06311830000</erp>
-            <barcode>4024144498659</barcode>
-            <quantity_in_stock>18</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32052-ochishtuvach_dlya_igrashok_ust_glide_cleaner_250_ml</url>
-            <price>550.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>129</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3204867fc166771d75.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67fc166642695.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67fc16664a293.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67fc1666519fe.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67fc166658b92.jpeg</picture>
-            <name>Антибактеріальний спрей для очищення секс-іграшок Just Glide Toy Cleaner, 250 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>18</stock>
-            <vendor>COBECO</vendor>
-            <model>Антибактеріальний спрей для очищення секс-іграшок Just Glide Toy Cleaner, 250 мл</model>
-            <description>Антибактеріальний засіб Just Glide Toy Cleaner забезпечує &lt;b&gt;ефективне очищення інтимних аксесуарів&lt;/b&gt; від бактерій та забруднень. Формула на водній основі з ізопропіловим спиртом та молочною кислотою надає засобу потужні антисептичні властивості, гарантуючи стерильність ваших особистих речей.&lt;br /&gt;
-&lt;br /&gt;
-Спрей сумісний з &lt;b&gt;різними матеріалами&lt;/b&gt; - силіконом, гумою, латексом, ПВХ та пластиком. Засіб не має запаху та смаку, що робить його використання максимально комфортним. Зручний флакон з розпилювачем об'ємом 250 мл дозволяє рівномірно нанести продукт на поверхню.&lt;br /&gt;
-&lt;br /&gt;
-Застосування просте: розпиліть невелику кількість на поверхню аксесуара та протріть чистою серветкою. За потреби процедуру можна повторити для досягнення ідеальної чистоти.&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Just Glide&lt;br /&gt;
-Виробник: Just Glide&lt;br /&gt;
-Об'єм (мл): 250&lt;br /&gt;
-Форма випуску: Рідина&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;br /&gt;
-Їстівне: Ні</description>
-            <name_ua>Антибактеріальний спрей для очищення секс-іграшок Just Glide Toy Cleaner, 250 мл</name_ua>
-            <description_ua>Антибактеріальний засіб Just Glide Toy Cleaner забезпечує &lt;b&gt;ефективне очищення інтимних аксесуарів&lt;/b&gt; від бактерій та забруднень. Формула на водній основі з ізопропіловим спиртом та молочною кислотою надає засобу потужні антисептичні властивості, гарантуючи стерильність ваших особистих речей.&lt;br /&gt;
-&lt;br /&gt;
-Спрей сумісний з &lt;b&gt;різними матеріалами&lt;/b&gt; - силіконом, гумою, латексом, ПВХ та пластиком. Засіб не має запаху та смаку, що робить його використання максимально комфортним. Зручний флакон з розпилювачем об'ємом 250 мл дозволяє рівномірно нанести продукт на поверхню.&lt;br /&gt;
-&lt;br /&gt;
-Застосування просте: розпиліть невелику кількість на поверхню аксесуара та протріть чистою серветкою. За потреби процедуру можна повторити для досягнення ідеальної чистоти.&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Just Glide&lt;br /&gt;
-Виробник: Just Glide&lt;br /&gt;
-Об'єм (мл): 250&lt;br /&gt;
-Форма випуску: Рідина&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;br /&gt;
-Їстівне: Ні</description_ua>
-            </offer>
         <offer id="BI-014191" available="true">
                 <erp>BI-014191</erp>
             <barcode>6959532311181</barcode>
@@ -71604,7 +71560,7 @@ POWER tabs використовує склад з витяжок різних т
         <offer id="64-00080" available="true">
                 <erp>64-00080</erp>
             <barcode>5903661800970</barcode>
-            <quantity_in_stock>21</quantity_in_stock>
+            <quantity_in_stock>20</quantity_in_stock>
             <url>http://blissclub.com.ua/product/28962-analyna_probka___awellery_red_silikon_plug_smallblue_diamond</url>
             <price>322.00</price>
             <currencyId>UAH</currencyId>
@@ -71612,7 +71568,7 @@ POWER tabs використовує склад з витяжок різних т
             <picture>https://blissclub.com.ua/images/product_variants/64-00080.jpg</picture>
             <name>Анальна пробка Jawellery Red Silikon PLUG SmallBlue Diamond</name>
             <Отображать>Да</Отображать>
-            <stock>21</stock>
+            <stock>20</stock>
             <vendor>BOSS SERIES</vendor>
             <model>Анальна пробка Jawellery Red Silikon PLUG SmallBlue Diamond</model>
             <description>Анальна пробка з кольоровим кристалом виготовлена з високоякісного медичного силікону, який абсолютно безпечний для шкіри. Він дуже приємний на дотик і не викликає роздратування. Завдяки ніжній формі і відповідним розмірам, його можуть використовувати як новачки, так і досвідчені любителі анальної гри. Загальна довжина 7 см. Діаметр 2,7 см. Стильна упаковка у вигляді замшевого футляра. </description>
