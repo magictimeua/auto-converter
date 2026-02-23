@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-02-23 14:30">
+<yml_catalog date="2026-02-23 15:45">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
     <url>http://blissclub.com.ua/</url>
-    <eurate>51.50</eurate>
+    <eurate>51.60</eurate>
     <currencies>
             <currency id="UAH" rate="1" />
         </currencies>
@@ -763,6 +763,61 @@ LoveCloneX Achilles — це вібратор, що поєднує реаліс�
             <description_ua>Чуттєво звужений вібратор з 10 потужними вібраційними режимами та практичним провідним пультом дистанційного керування. Інтенсивно підколює кінчик пеніса та вуздечку.&lt;br /&gt;
 &lt;br /&gt;
 Загальна довжина 8,5 см, внутрішня Ø 4 см, довжина кабелю 80 см. Силікон із поліуретановим покриттям, ABS. Замовляйте батареї окремо: 2 x AAA.</description_ua>
+            </offer>
+        <offer id="42-06239110000" available="true">
+                <erp>42-06239110000</erp>
+            <barcode>4024144623921</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/3092-gely_lubrikant_ust_glide_water_50</url>
+            <price>219.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>46</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_30926176c5e3dad0e.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6176c5e026464.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6176c5e03fc91.jpg</picture>
+            <name>Лубрикант Just Glide Water, 50 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>ORION</vendor>
+            <model>Лубрикант Just Glide Water, 50 мл</model>
+            <description>Лубрикант Just Glide Water на водній основі створений для комфортного та безпечного інтимного досвіду. &lt;b&gt;Дерматологічно протестована формула&lt;/b&gt; на натуральних компонентах підходить навіть людям зі схильністю до алергічних реакцій, забезпечуючи м'яке проникнення без подразнень.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Консистенція максимально наближена до природної жіночої змазки, що гарантує природні відчуття для обох партнерів. &lt;b&gt;Водна основа&lt;/b&gt; робить засіб сумісним з латексними виробами та іграшками з кібершкіри й силікону, не порушуючи їх цілісність.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Практичний у використанні завдяки компактному об'єму 50 мл. Не залишає плям на тканинах, легко змивається водою. Нейтральний склад без додаткових ароматизаторів та смакових добавок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Just Glide&lt;/br&gt;&lt;br /&gt;
+Виробник: Just Glide&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: Без ефектів&lt;/br&gt;</description>
+            <param name="Країна">Німеччина</param>
+            <param name="Колір">прозорий</param>
+            <param name="Основа">Водна</param>
+            <param name="Місткість (мл)">50</param>
+            <param name="Марка/Лінія">Orion/Just Glide</param>
+            <param name="Запах">Без запаха</param>
+            <param name="Їстівний">Ні</param>
+            <name_ua>Лубрикант Just Glide Water, 50 мл</name_ua>
+            <description_ua>Лубрикант Just Glide Water на водній основі створений для комфортного та безпечного інтимного досвіду. &lt;b&gt;Дерматологічно протестована формула&lt;/b&gt; на натуральних компонентах підходить навіть людям зі схильністю до алергічних реакцій, забезпечуючи м'яке проникнення без подразнень.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Консистенція максимально наближена до природної жіночої змазки, що гарантує природні відчуття для обох партнерів. &lt;b&gt;Водна основа&lt;/b&gt; робить засіб сумісним з латексними виробами та іграшками з кібершкіри й силікону, не порушуючи їх цілісність.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Практичний у використанні завдяки компактному об'єму 50 мл. Не залишає плям на тканинах, легко змивається водою. Нейтральний склад без додаткових ароматизаторів та смакових добавок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Just Glide&lt;/br&gt;&lt;br /&gt;
+Виробник: Just Glide&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: Без ефектів&lt;/br&gt;</description_ua>
             </offer>
         <offer id="42-05026000000" available="true">
                 <erp>42-05026000000</erp>
@@ -2641,6 +2696,64 @@ The Black Velvets Cock &amp; Ball Ring with Butt Plug — це комбінов�
 Живлення: Акумулятор&lt;/br&gt;&lt;br /&gt;
 Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
 Наявність присоски: Ні&lt;/br&gt;</description_ua>
+            </offer>
+        <offer id="BI-014374W" available="true">
+                <erp>BI-014374W</erp>
+            <barcode>6959532316155</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/13930-pretty_love_arvin_12_function</url>
+            <price>793.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>21</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/BI-014374W.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63f606c4aa23c.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63f606c4c2ea3.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63f606c4d0a98.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63f606c4df156.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63f606c4eeec8.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_63f606c50a961.png</picture>
+            <name>Віброяйце з пультом дистанційного керування Pretty Love Arvin, фіолетове</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Віброяйце з пультом дистанційного керування Pretty Love Arvin, фіолетове</model>
+            <description>Віброяйце Pretty Love Arvin фіолетового кольору з дистанційним пультом створене для інтенсивних відчуттів завдяки &lt;b&gt;12 режимам вібрації&lt;/b&gt;. Виготовлене з м'якого силікону з оксамитовою текстурою, що забезпечує комфортне використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Компактні розміри та зручна петелька для витягування роблять цю модель практичною у використанні. &lt;b&gt;Дистанційне керування&lt;/b&gt; дозволяє легко перемикати режими, а одна кнопка на самому пристрої спрощує управління. Живлення забезпечують 3 батарейки AAA - дві для віброяйця та одна для пульта.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Підходить для різноманітних інтимних ігор та експериментів з партнером або для індивідуального використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Силікон, Пластик&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька, Оксамитова&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 7.9&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 7.9&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 3.2&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (3 шт.)&lt;/br&gt;</description>
+            <name_ua>Віброяйце з пультом дистанційного керування Pretty Love Arvin, фіолетове</name_ua>
+            <description_ua>Віброяйце Pretty Love Arvin фіолетового кольору з дистанційним пультом створене для інтенсивних відчуттів завдяки &lt;b&gt;12 режимам вібрації&lt;/b&gt;. Виготовлене з м'якого силікону з оксамитовою текстурою, що забезпечує комфортне використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Компактні розміри та зручна петелька для витягування роблять цю модель практичною у використанні. &lt;b&gt;Дистанційне керування&lt;/b&gt; дозволяє легко перемикати режими, а одна кнопка на самому пристрої спрощує управління. Живлення забезпечують 3 батарейки AAA - дві для віброяйця та одна для пульта.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Підходить для різноманітних інтимних ігор та експериментів з партнером або для індивідуального використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Силікон, Пластик&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька, Оксамитова&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 7.9&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 7.9&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 3.2&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (3 шт.)&lt;/br&gt;</description_ua>
             </offer>
         <offer id="BI-014490-2" available="true">
                 <erp>BI-014490-2</erp>
@@ -14916,6 +15029,39 @@ Desirable Flirt збільшить темп еротичних ігор до м�
 Наявність вібрації: Ні&lt;br /&gt;
 Живлення: Не потребує</description_ua>
             </offer>
+        <offer id="36-SLI227" available="true">
+                <erp>36-SLI227</erp>
+            <barcode>8714273051608</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32100-masturbator_flight_attendant___anal_masturbator___flesh</url>
+            <price>474.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>51</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_320966835bdc3595ec.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6835bdc1990dd.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6835bdc1b44a8.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6835bdc1c68c4.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6835bdc1ddf5b.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6835bdc1f10eb.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6835bdc20f741.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6835bdc21eba4.jpeg</picture>
+            <name>Мастурбатор S-Line Flight Attendant Anal, тілесний</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>SHOTS</vendor>
+            <model>Мастурбатор S-Line Flight Attendant Anal, тілесний</model>
+            <description>Воно здійснить ваші найсміливіші фантазії! Вона просто сексуальна, що гарантовано розпалить ваше бажання розкішних рольових ігор. Виготовлений з найякіснішого TPR-матеріалу, він буде настільки реалістичним, що перенесе вас у країну насолод, де фантазія та реальність переплітаються. Приготуйтеся зануритися у світ задоволення, цей мастурбатор має приголомшливу текстуру Це ваш квиток у світ неперевершеного задоволення. Розкрийте свої бажання та зробіть кожну сольну сесію незабутньою! Цей чохол водонепроникний, захищений від бризок та не містить фталатів. Бажаю гарного проведення часу!&lt;br /&gt;
+Вага виробу 142 грами&lt;br /&gt;
+Діаметр виробу 5,5 см&lt;br /&gt;
+Довжина вставки 10 см&lt;br /&gt;
+ТПР-матеріали</description>
+            <name_ua>Мастурбатор S-Line Flight Attendant Anal, тілесний</name_ua>
+            <description_ua>Воно здійснить ваші найсміливіші фантазії! Вона просто сексуальна, що гарантовано розпалить ваше бажання розкішних рольових ігор. Виготовлений з найякіснішого TPR-матеріалу, він буде настільки реалістичним, що перенесе вас у країну насолод, де фантазія та реальність переплітаються. Приготуйтеся зануритися у світ задоволення, цей мастурбатор має приголомшливу текстуру Це ваш квиток у світ неперевершеного задоволення. Розкрийте свої бажання та зробіть кожну сольну сесію незабутньою! Цей чохол водонепроникний, захищений від бризок та не містить фталатів. Бажаю гарного проведення часу!&lt;br /&gt;
+Вага виробу 142 грами&lt;br /&gt;
+Діаметр виробу 5,5 см&lt;br /&gt;
+Довжина вставки 10 см&lt;br /&gt;
+ТПР-матеріали</description_ua>
+            </offer>
         <offer id="49-2598" available="true">
                 <erp>49-2598</erp>
             <barcode>5901688252598</barcode>
@@ -20019,62 +20165,6 @@ AQUAglide Vanilla - це відмінний вибір для тих, хто х�
 Живлення: Акумулятор&lt;/br&gt;&lt;br /&gt;
 Наявність присоски: Ні&lt;/br&gt;</description_ua>
             </offer>
-        <offer id="BI-014194" available="true">
-                <erp>BI-014194</erp>
-            <barcode>6959532312119</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/13875-pretty_love_beck_10_function</url>
-            <price>468.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>102</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_1387561e4140c85a26.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140ab7a28.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140ac5a2f.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140ad465a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140ae1674.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140aec21b.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61e4140b047c8.jpg</picture>
-            <name>Вібратор Pretty Love Beck, рожевий</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Вібратор Pretty Love Beck, рожевий</model>
-            <description>Вібратор Pretty Love Beck створений для інтенсивної стимуляції завдяки &lt;b&gt;10 режимам вібрації&lt;/b&gt; різної швидкості та ритму. Силіконовий корпус з анатомічною формою та злегка зігнутою головкою забезпечує комфортне використання та цілеспрямований вплив на чутливі зони.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Гладенька реалістична текстура з вираженими деталями виготовлена з &lt;b&gt;гіпоалергенного силікону&lt;/b&gt;, який не викликає подразнення навіть у чутливих користувачів. Управління всіма режимами здійснюється однією кнопкою на основі пристрою, що робить використання максимально зручним.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Компактні розміри та автономне живлення від однієї батарейки ААА роблять цей вібратор ідеальним для особистого використання. Сумісний виключно з лубрикантами на водній основі для збереження властивостей силікону.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
-Текстура: Реалістик, Гладенька&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 12&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 9&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 2.2&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (1 шт.)&lt;/br&gt;</description>
-            <name_ua>Вібратор Pretty Love Beck, рожевий</name_ua>
-            <description_ua>Вібратор Pretty Love Beck створений для інтенсивної стимуляції завдяки &lt;b&gt;10 режимам вібрації&lt;/b&gt; різної швидкості та ритму. Силіконовий корпус з анатомічною формою та злегка зігнутою головкою забезпечує комфортне використання та цілеспрямований вплив на чутливі зони.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Гладенька реалістична текстура з вираженими деталями виготовлена з &lt;b&gt;гіпоалергенного силікону&lt;/b&gt;, який не викликає подразнення навіть у чутливих користувачів. Управління всіма режимами здійснюється однією кнопкою на основі пристрою, що робить використання максимально зручним.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Компактні розміри та автономне живлення від однієї батарейки ААА роблять цей вібратор ідеальним для особистого використання. Сумісний виключно з лубрикантами на водній основі для збереження властивостей силікону.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
-Текстура: Реалістик, Гладенька&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 12&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 9&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 2.2&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (1 шт.)&lt;/br&gt;</description_ua>
-            </offer>
         <offer id="BI-014219" available="true">
                 <erp>BI-014219</erp>
             <barcode>6959532311662</barcode>
@@ -20357,6 +20447,66 @@ AQUAglide Vanilla - це відмінний вибір для тих, хто х�
 Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
 Водонепроникність: Так&lt;/br&gt;&lt;br /&gt;
 Наявність присоски: Ні&lt;/br&gt;</description_ua>
+            </offer>
+        <offer id="BI-014466" available="true">
+                <erp>BI-014466</erp>
+            <barcode>6959532319019</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/13951-pretty_love_emily_10_function</url>
+            <price>570.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>102</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_13951620a1f0f9b767.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_620a1f0e27a02.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_620a1f0e34632.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_620a1f0e40f70.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_620a1f0e4c81a.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_620a1f0e58d7c.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_620a1f0e63775.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_620a1f0e6eb0e.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_620a1f0e7ed5f.png</picture>
+            <name>Вібратор Pretty Love Emily, фіолетовий</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor />
+            <model>Вібратор Pretty Love Emily, фіолетовий</model>
+            <description>Вібратор Emily від Pretty Love стане &lt;b&gt;ідеальним супутником для інтимних моментів&lt;/b&gt;, завдяки своєму компактному розміру та реалістичному дизайну. Виготовлений з &lt;b&gt;м'якого силікону з оксамитовою текстурою&lt;/b&gt;, цей пристрій забезпечує комфортні відчуття та безпечне використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Модель оснащена &lt;b&gt;10 різними режимами вібрації&lt;/b&gt;, які легко контролюються однією кнопкою на основі пристрою. Загальна довжина становить 12,7 см при робочій довжині 9,5 см та діаметрі 2,5 см, що робить його зручним для користувачів-початківців. Живлення здійснюється від &lt;b&gt;однієї батарейки ААА&lt;/b&gt;, забезпечуючи потужну та водночас тиху роботу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Пристрій сумісний виключно з лубрикантами на водній основі. Після використання рекомендується очищення спеціальними засобами для догляду за інтимними іграшками та зберігання в чохлі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька, Реалістик, Оксамитова&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 12.7&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 9.5&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 2.5&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (1 шт.)&lt;/br&gt;</description>
+            <name_ua>Вібратор Pretty Love Emily, фіолетовий</name_ua>
+            <description_ua>Вібратор Emily від Pretty Love стане &lt;b&gt;ідеальним супутником для інтимних моментів&lt;/b&gt;, завдяки своєму компактному розміру та реалістичному дизайну. Виготовлений з &lt;b&gt;м'якого силікону з оксамитовою текстурою&lt;/b&gt;, цей пристрій забезпечує комфортні відчуття та безпечне використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Модель оснащена &lt;b&gt;10 різними режимами вібрації&lt;/b&gt;, які легко контролюються однією кнопкою на основі пристрою. Загальна довжина становить 12,7 см при робочій довжині 9,5 см та діаметрі 2,5 см, що робить його зручним для користувачів-початківців. Живлення здійснюється від &lt;b&gt;однієї батарейки ААА&lt;/b&gt;, забезпечуючи потужну та водночас тиху роботу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Пристрій сумісний виключно з лубрикантами на водній основі. Після використання рекомендується очищення спеціальними засобами для догляду за інтимними іграшками та зберігання в чохлі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька, Реалістик, Оксамитова&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 12.7&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 9.5&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 2.5&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (1 шт.)&lt;/br&gt;</description_ua>
             </offer>
         <offer id="BI-014534-1" available="true">
                 <erp>BI-014534-1</erp>
@@ -27459,6 +27609,56 @@ USB перезаряджається&lt;br /&gt;
 Вага: 230 г - Об'єм: 80 мл&lt;br /&gt;
 Розміри ящика: висота 80 мм, ширина 75 мм, глибина 75 мм</description_ua>
             </offer>
+        <offer id="32-00086" available="true">
+                <erp>32-00086</erp>
+            <barcode>5904405351093</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31151-zbudzhuyuchiy_krem_dlya_zhinok_orgasm_power_cream_for_women_50ml</url>
+            <price>607.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>42</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_31148664505185f725.jpg</picture>
+            <name>Збуджуючий крем для жінок Orgasm Power+ Cream For Women, 50 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor />
+            <model>Збуджуючий крем для жінок Orgasm Power+ Cream For Women, 50 мл</model>
+            <description>Збуджувальний крем Orgasm Power+ підвищує чутливість інтимних зон та сприяє досягненню більш яскравих відчуттів. &lt;b&gt;Формула з кофеїном, екстрактом гінкго білоба та арніки&lt;/b&gt; активізує кровообіг, а олія солодкого мигдалю та масло ши живлять делікатну шкіру.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Крем має легку текстуру, що швидко вбирається без липкості. &lt;b&gt;Нейтральний аромат та смак&lt;/b&gt; роблять використання комфортним, а натуральні компоненти забезпечують м'який вплив на шкіру. Алое в складі додатково зволожує та заспокоює.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Застосовується перед інтимною близькістю для посилення збудження та отримання більш інтенсивних відчуттів. &lt;b&gt;Об'єм 50 мл&lt;/b&gt; забезпечує тривале використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Medica Group&lt;/br&gt;&lt;br /&gt;
+Виробник: Medica Group&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
+Форма випуску: Крем&lt;/br&gt;&lt;br /&gt;
+Призначення: Комбіновані&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: Збуджуючі/стимулюючі, З алое&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Їстівне: Ні&lt;/br&gt;</description>
+            <name_ua>Збуджуючий крем для жінок Orgasm Power+ Cream For Women, 50 мл</name_ua>
+            <description_ua>Збуджувальний крем Orgasm Power+ підвищує чутливість інтимних зон та сприяє досягненню більш яскравих відчуттів. &lt;b&gt;Формула з кофеїном, екстрактом гінкго білоба та арніки&lt;/b&gt; активізує кровообіг, а олія солодкого мигдалю та масло ши живлять делікатну шкіру.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Крем має легку текстуру, що швидко вбирається без липкості. &lt;b&gt;Нейтральний аромат та смак&lt;/b&gt; роблять використання комфортним, а натуральні компоненти забезпечують м'який вплив на шкіру. Алое в складі додатково зволожує та заспокоює.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Застосовується перед інтимною близькістю для посилення збудження та отримання більш інтенсивних відчуттів. &lt;b&gt;Об'єм 50 мл&lt;/b&gt; забезпечує тривале використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Medica Group&lt;/br&gt;&lt;br /&gt;
+Виробник: Medica Group&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
+Форма випуску: Крем&lt;/br&gt;&lt;br /&gt;
+Призначення: Комбіновані&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: Збуджуючі/стимулюючі, З алое&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Їстівне: Ні&lt;/br&gt;</description_ua>
+            </offer>
         <offer id="47-D591" available="true">
                 <erp>47-D591</erp>
             <barcode>3760139882836</barcode>
@@ -30656,39 +30856,6 @@ USB-C – швидка зарядка, завжди готовий до вико
 Довжина загальна (см): 18&lt;br /&gt;
 Діаметр (см): 3.5&lt;br /&gt;
 Наявність вібрації: Ні</description_ua>
-            </offer>
-        <offer id="36-SLI227" available="true">
-                <erp>36-SLI227</erp>
-            <barcode>8714273051608</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32100-masturbator_flight_attendant___anal_masturbator___flesh</url>
-            <price>474.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>51</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_320966835bdc3595ec.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6835bdc1990dd.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6835bdc1b44a8.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6835bdc1c68c4.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6835bdc1ddf5b.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6835bdc1f10eb.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6835bdc20f741.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6835bdc21eba4.jpeg</picture>
-            <name>Мастурбатор S-Line Flight Attendant Anal, тілесний</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>SHOTS</vendor>
-            <model>Мастурбатор S-Line Flight Attendant Anal, тілесний</model>
-            <description>Воно здійснить ваші найсміливіші фантазії! Вона просто сексуальна, що гарантовано розпалить ваше бажання розкішних рольових ігор. Виготовлений з найякіснішого TPR-матеріалу, він буде настільки реалістичним, що перенесе вас у країну насолод, де фантазія та реальність переплітаються. Приготуйтеся зануритися у світ задоволення, цей мастурбатор має приголомшливу текстуру Це ваш квиток у світ неперевершеного задоволення. Розкрийте свої бажання та зробіть кожну сольну сесію незабутньою! Цей чохол водонепроникний, захищений від бризок та не містить фталатів. Бажаю гарного проведення часу!&lt;br /&gt;
-Вага виробу 142 грами&lt;br /&gt;
-Діаметр виробу 5,5 см&lt;br /&gt;
-Довжина вставки 10 см&lt;br /&gt;
-ТПР-матеріали</description>
-            <name_ua>Мастурбатор S-Line Flight Attendant Anal, тілесний</name_ua>
-            <description_ua>Воно здійснить ваші найсміливіші фантазії! Вона просто сексуальна, що гарантовано розпалить ваше бажання розкішних рольових ігор. Виготовлений з найякіснішого TPR-матеріалу, він буде настільки реалістичним, що перенесе вас у країну насолод, де фантазія та реальність переплітаються. Приготуйтеся зануритися у світ задоволення, цей мастурбатор має приголомшливу текстуру Це ваш квиток у світ неперевершеного задоволення. Розкрийте свої бажання та зробіть кожну сольну сесію незабутньою! Цей чохол водонепроникний, захищений від бризок та не містить фталатів. Бажаю гарного проведення часу!&lt;br /&gt;
-Вага виробу 142 грами&lt;br /&gt;
-Діаметр виробу 5,5 см&lt;br /&gt;
-Довжина вставки 10 см&lt;br /&gt;
-ТПР-матеріали</description_ua>
             </offer>
         <offer id="36-SLI247MUL1" available="true">
                 <erp>36-SLI247MUL1</erp>
@@ -39484,56 +39651,6 @@ ORGASM MAX для жінок призначений для значної під
 Живлення: Акумулятор&lt;/br&gt;&lt;br /&gt;
 Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
 Наявність присоски: Ні&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="32-00086" available="true">
-                <erp>32-00086</erp>
-            <barcode>5904405351093</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31151-zbudzhuyuchiy_krem_dlya_zhinok_orgasm_power_cream_for_women_50ml</url>
-            <price>607.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>42</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_31148664505185f725.jpg</picture>
-            <name>Збуджуючий крем для жінок Orgasm Power+ Cream For Women, 50 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor />
-            <model>Збуджуючий крем для жінок Orgasm Power+ Cream For Women, 50 мл</model>
-            <description>Збуджувальний крем Orgasm Power+ підвищує чутливість інтимних зон та сприяє досягненню більш яскравих відчуттів. &lt;b&gt;Формула з кофеїном, екстрактом гінкго білоба та арніки&lt;/b&gt; активізує кровообіг, а олія солодкого мигдалю та масло ши живлять делікатну шкіру.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Крем має легку текстуру, що швидко вбирається без липкості. &lt;b&gt;Нейтральний аромат та смак&lt;/b&gt; роблять використання комфортним, а натуральні компоненти забезпечують м'який вплив на шкіру. Алое в складі додатково зволожує та заспокоює.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Застосовується перед інтимною близькістю для посилення збудження та отримання більш інтенсивних відчуттів. &lt;b&gt;Об'єм 50 мл&lt;/b&gt; забезпечує тривале використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Medica Group&lt;/br&gt;&lt;br /&gt;
-Виробник: Medica Group&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
-Форма випуску: Крем&lt;/br&gt;&lt;br /&gt;
-Призначення: Комбіновані&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: Збуджуючі/стимулюючі, З алое&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Їстівне: Ні&lt;/br&gt;</description>
-            <name_ua>Збуджуючий крем для жінок Orgasm Power+ Cream For Women, 50 мл</name_ua>
-            <description_ua>Збуджувальний крем Orgasm Power+ підвищує чутливість інтимних зон та сприяє досягненню більш яскравих відчуттів. &lt;b&gt;Формула з кофеїном, екстрактом гінкго білоба та арніки&lt;/b&gt; активізує кровообіг, а олія солодкого мигдалю та масло ши живлять делікатну шкіру.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Крем має легку текстуру, що швидко вбирається без липкості. &lt;b&gt;Нейтральний аромат та смак&lt;/b&gt; роблять використання комфортним, а натуральні компоненти забезпечують м'який вплив на шкіру. Алое в складі додатково зволожує та заспокоює.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Застосовується перед інтимною близькістю для посилення збудження та отримання більш інтенсивних відчуттів. &lt;b&gt;Об'єм 50 мл&lt;/b&gt; забезпечує тривале використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Medica Group&lt;/br&gt;&lt;br /&gt;
-Виробник: Medica Group&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 50&lt;/br&gt;&lt;br /&gt;
-Форма випуску: Крем&lt;/br&gt;&lt;br /&gt;
-Призначення: Комбіновані&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: Збуджуючі/стимулюючі, З алое&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Їстівне: Ні&lt;/br&gt;</description_ua>
             </offer>
         <offer id="87-5220" available="true">
                 <erp>87-5220</erp>
