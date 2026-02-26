@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-02-26 08:30">
+<yml_catalog date="2026-02-26 09:30">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
     <url>http://blissclub.com.ua/</url>
-    <eurate>51.50</eurate>
+    <eurate>51.40</eurate>
     <currencies>
             <currency id="UAH" rate="1" />
         </currencies>
