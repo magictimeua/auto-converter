@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-03-04 16:15">
+<yml_catalog date="2026-03-04 17:15">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
     <url>http://blissclub.com.ua/</url>
-    <eurate>51.20</eurate>
+    <eurate>51.40</eurate>
     <currencies>
             <currency id="UAH" rate="1" />
         </currencies>
@@ -49399,6 +49399,30 @@ PJUR WOMAN Алое адаптовано до природного pH балан
 Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
 Живлення: Акумулятор&lt;/br&gt;</description_ua>
             </offer>
+        <offer id="BW-008104ZR" available="true">
+                <erp>BW-008104ZR</erp>
+            <barcode>6959532327106</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30998-faloimitator_z_moshonkoyu_ta__vibro_baile_beautiful_bahamut_94</url>
+            <price>939.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>132</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3099565f53e9c29b2a.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e95d7693.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e95e7e34.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e96034dd.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e9612cc2.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e96223d6.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e9632347.gif</picture>
+            <name>Фалоімітатор з мошонкою та  вібро BAILE-Beautiful Bahamut 9.4</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Фалоімітатор з мошонкою та  вібро BAILE-Beautiful Bahamut 9.4</model>
+            <description>Фалоімітатор з мошонкою та  вібро BAILE-Beautiful Bahamut 9.4</description>
+            <name_ua>Фалоімітатор з мошонкою та  вібро BAILE-Beautiful Bahamut 9.4</name_ua>
+            <description_ua>Фалоімітатор з мошонкою та  вібро BAILE-Beautiful Bahamut 9.4</description_ua>
+            </offer>
         <offer id="110-00002" available="true">
                 <erp>110-00002</erp>
             <barcode>5903661809317</barcode>
@@ -57551,30 +57575,6 @@ Just Glide Toylube - це відмінний вибір для тих, хто ш
 Водонепроникність: Так&lt;/br&gt;&lt;br /&gt;
 Живлення: Батарейки АА (1 шт.)&lt;/br&gt;</description_ua>
             </offer>
-        <offer id="BW-008104ZR" available="true">
-                <erp>BW-008104ZR</erp>
-            <barcode>6959532327106</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30998-faloimitator_z_moshonkoyu_ta__vibro_baile_beautiful_bahamut_94</url>
-            <price>939.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>132</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3099565f53e9c29b2a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e95d7693.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e95e7e34.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e96034dd.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e9612cc2.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e96223d6.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e9632347.gif</picture>
-            <name>Фалоімітатор з мошонкою та  вібро BAILE-Beautiful Bahamut 9.4</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Фалоімітатор з мошонкою та  вібро BAILE-Beautiful Bahamut 9.4</model>
-            <description>Фалоімітатор з мошонкою та  вібро BAILE-Beautiful Bahamut 9.4</description>
-            <name_ua>Фалоімітатор з мошонкою та  вібро BAILE-Beautiful Bahamut 9.4</name_ua>
-            <description_ua>Фалоімітатор з мошонкою та  вібро BAILE-Beautiful Bahamut 9.4</description_ua>
-            </offer>
         <offer id="11-60356" available="true">
                 <erp>11-60356</erp>
             <barcode>4019514603566</barcode>
@@ -63108,70 +63108,6 @@ Cananga Odorata Flower Oil — антисептична та релаксува�
 Наявність присоски: Ні&lt;br /&gt;
 Керування з додатку: Ні</description_ua>
             </offer>
-        <offer id="BM-009241N" available="true">
-                <erp>BM-009241N</erp>
-            <barcode>6959532329216</barcode>
-            <quantity_in_stock>6</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31998-podviyniy_masturbator_vagina_rotik_crazy_bull__zoey_tpr</url>
-            <price>578.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>156</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3199467b4f7720807c.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f7700e4e9.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f77029e30.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f77043a71.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f7705b845.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f77076a74.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f7708ee69.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f770a6489.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f770c11c3.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f770e56d1.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f7711725f.jpeg</picture>
-            <name>Подвійний мастурбатор вагіна ротик Crazy Bull Zoey, тілесний</name>
-            <Отображать>Да</Отображать>
-            <stock>6</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Подвійний мастурбатор вагіна ротик CRAZY BULL  Zoey, TPR</model>
-            <description>Подвійний мастурбатор Crazy Bull Zoey пропонує &lt;b&gt;два різні види стимуляції в одному виробі&lt;/b&gt; - імітацію орального та вагінального контакту. Виготовлений з термопластичної гуми, забезпечує м'яку та еластичну текстуру для комфортного використання.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Конструкція включає &lt;b&gt;наскрізний канал з різною внутрішньою рельєфністю&lt;/b&gt; на кожному кінці. Одна сторона відтворює ротову порожнину з об'ємними губами та язиком, доповнену ребристою поверхнею всередині. Протилежний бік має реалістичну вульву з делікатними статевими губами, а внутрішній рукав містить пухирці та дрібні ребра для різноманітних тактильних відчуттів.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Для догляду рекомендується використовувати лубрикант на водній основі та спеціальний засіб для очищення після застосування. Компактні розміри дозволяють зручно зберігати виріб.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Бренд: Crazy Bull&lt;br /&gt;&lt;br /&gt;
-Виробник: Baile&lt;br /&gt;&lt;br /&gt;
-Матеріал: Термопластична гума (TPR)&lt;br /&gt;&lt;br /&gt;
-Довжина загальна (см): 17&lt;br /&gt;&lt;br /&gt;
-Глибина (см): 17&lt;br /&gt;&lt;br /&gt;
-Діаметр (см): 8.2&lt;br /&gt;&lt;br /&gt;
-Діаметр каналу (см): 1.5&lt;br /&gt;&lt;br /&gt;
-Текстура: Реалістик, Ребриста, З пухирцями&lt;br /&gt;&lt;br /&gt;
-Наявність вібрації: Ні&lt;br /&gt;&lt;br /&gt;
-Керування з додатку: Ні&lt;br /&gt;&lt;br /&gt;
-Живлення: Не потребує</description>
-            <name_ua>Подвійний мастурбатор вагіна ротик Crazy Bull Zoey, тілесний</name_ua>
-            <description_ua>Подвійний мастурбатор Crazy Bull Zoey пропонує &lt;b&gt;два різні види стимуляції в одному виробі&lt;/b&gt; - імітацію орального та вагінального контакту. Виготовлений з термопластичної гуми, забезпечує м'яку та еластичну текстуру для комфортного використання.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Конструкція включає &lt;b&gt;наскрізний канал з різною внутрішньою рельєфністю&lt;/b&gt; на кожному кінці. Одна сторона відтворює ротову порожнину з об'ємними губами та язиком, доповнену ребристою поверхнею всередині. Протилежний бік має реалістичну вульву з делікатними статевими губами, а внутрішній рукав містить пухирці та дрібні ребра для різноманітних тактильних відчуттів.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Для догляду рекомендується використовувати лубрикант на водній основі та спеціальний засіб для очищення після застосування. Компактні розміри дозволяють зручно зберігати виріб.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Бренд: Crazy Bull&lt;br /&gt;&lt;br /&gt;
-Виробник: Baile&lt;br /&gt;&lt;br /&gt;
-Матеріал: Термопластична гума (TPR)&lt;br /&gt;&lt;br /&gt;
-Довжина загальна (см): 17&lt;br /&gt;&lt;br /&gt;
-Глибина (см): 17&lt;br /&gt;&lt;br /&gt;
-Діаметр (см): 8.2&lt;br /&gt;&lt;br /&gt;
-Діаметр каналу (см): 1.5&lt;br /&gt;&lt;br /&gt;
-Текстура: Реалістик, Ребриста, З пухирцями&lt;br /&gt;&lt;br /&gt;
-Наявність вібрації: Ні&lt;br /&gt;&lt;br /&gt;
-Керування з додатку: Ні&lt;br /&gt;&lt;br /&gt;
-Живлення: Не потребує</description_ua>
-            </offer>
         <offer id="BW-055019" available="true">
                 <erp>BW-055019</erp>
             <barcode>6959532361216</barcode>
@@ -64262,6 +64198,57 @@ H2O UNI Gel - це універсальний і надійний лубрика
             <description_ua>Формула з активними інгредієнтами рослин з тропічних лісів Амазонки забезпечує сильні вібраційні відчуття на губах та інтимних зонах. Electric Fellatio ідеально підходить для того, щоб здивувати та розслабити свого партнера. &lt;br /&gt;
 Аква, гліцерин, сорбіт, спирт, полісорбат 80, бензоат натрію, гідрогенізоване касторове масло Peg-40, аромат, карбомер, амінометилпропанол, лимонен, екстракт омеацели акмели, Bht, евгенол, Ci 14700, пропіленгліколь, цитраль, ліналоол&lt;br /&gt;
 </description_ua>
+            </offer>
+        <offer id="69-21074" available="true">
+                <erp>69-21074</erp>
+            <barcode>5600298351072</barcode>
+            <quantity_in_stock>7</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/16435-lubrikant_lube_tube_cool_150_ml</url>
+            <price>521.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>46</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/69-21074.jpg</picture>
+            <name>Лубрикант Orgie Lube Tube Cooling, 150 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>7</stock>
+            <vendor>ORGIE COSMETICS</vendor>
+            <model>Лубрикант Orgie Lube Tube Cooling, 150 мл</model>
+            <description>Лубрикант Orgie Lube Tube Cooling забезпечує &lt;b&gt;охолоджуючий ефект&lt;/b&gt; під час інтимної близькості, створюючи приємні відчуття прохолоди та легкого поколювання в ерогенних зонах. Змазка на водній основі має нейтральний смак і запах, що робить її універсальною для різних видів інтимності.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Завдяки &lt;b&gt;водній основі&lt;/b&gt; продукт сумісний з латексними виробами та інтим-іграшками з силікону й кібершкіри. Об'єм 150 мл у зручному тюбику забезпечує тривале використання та легке дозування.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Змазка підходить парам, які прагнуть урізноманітнити інтимні стосунки новими тактильними відчуттями та посилити чутливість під час близькості.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Orgie&lt;/br&gt;&lt;br /&gt;
+Виробник: Orgie&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 150&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: Охолоджуючі&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;</description>
+            <param name="Країна">Португалия</param>
+            <param name="Основа">Водна</param>
+            <param name="Місткість (мл)">150</param>
+            <param name="Марка/Лінія">Orgie</param>
+            <param name="Запах">Без запаха</param>
+            <name_ua>Лубрикант Orgie Lube Tube Cooling, 150 мл</name_ua>
+            <description_ua>Лубрикант Orgie Lube Tube Cooling забезпечує &lt;b&gt;охолоджуючий ефект&lt;/b&gt; під час інтимної близькості, створюючи приємні відчуття прохолоди та легкого поколювання в ерогенних зонах. Змазка на водній основі має нейтральний смак і запах, що робить її універсальною для різних видів інтимності.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Завдяки &lt;b&gt;водній основі&lt;/b&gt; продукт сумісний з латексними виробами та інтим-іграшками з силікону й кібершкіри. Об'єм 150 мл у зручному тюбику забезпечує тривале використання та легке дозування.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Змазка підходить парам, які прагнуть урізноманітнити інтимні стосунки новими тактильними відчуттями та посилити чутливість під час близькості.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Orgie&lt;/br&gt;&lt;br /&gt;
+Виробник: Orgie&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 150&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: Охолоджуючі&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;</description_ua>
             </offer>
         <offer id="BI-014706-1" available="true">
                 <erp>BI-014706-1</erp>
@@ -65506,33 +65493,6 @@ H2O UNI Gel - це універсальний і надійний лубрика
 Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
 Смак: Без смаку (нейтральний)&lt;/br&gt;</description_ua>
             </offer>
-        <offer id="BM-009247N" available="true">
-                <erp>BM-009247N</erp>
-            <barcode>6959532329278</barcode>
-            <quantity_in_stock>7</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31420-masturbator_crazy_bull_hannah</url>
-            <price>615.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>156</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3141766b3bebb92419.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66b3beb98550e.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66b3beb99bea5.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66b3beb9be9d0.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66b3beb9d47e7.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66b3beb9f071b.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66b3beba146fc.gif</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66b3beba2b571.gif</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66b3beba46753.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66b3beba5c1b8.jpg</picture>
-            <name>Мастурбатор CRAZY BULL HANNAH</name>
-            <Отображать>Да</Отображать>
-            <stock>7</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Мастурбатор CRAZY BULL HANNAH</model>
-            <description>Мастурбатор CRAZY BULL HANNAH</description>
-            <name_ua>Мастурбатор CRAZY BULL HANNAH</name_ua>
-            <description_ua>Мастурбатор CRAZY BULL HANNAH</description_ua>
-            </offer>
         <offer id="96-034973" available="true">
                 <erp>96-034973</erp>
             <barcode>2901000034973</barcode>
@@ -65852,6 +65812,70 @@ H2O UNI Gel - це універсальний і надійний лубрика
             <description>Набір свічок троянда, червоні</description>
             <name_ua>Набір свічок троянда, червоні</name_ua>
             <description_ua>Набір свічок троянда, червоні</description_ua>
+            </offer>
+        <offer id="BM-009241N" available="true">
+                <erp>BM-009241N</erp>
+            <barcode>6959532329216</barcode>
+            <quantity_in_stock>7</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31998-podviyniy_masturbator_vagina_rotik_crazy_bull__zoey_tpr</url>
+            <price>578.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>156</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3199467b4f7720807c.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f7700e4e9.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f77029e30.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f77043a71.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f7705b845.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f77076a74.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f7708ee69.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f770a6489.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f770c11c3.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f770e56d1.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67b4f7711725f.jpeg</picture>
+            <name>Подвійний мастурбатор вагіна ротик Crazy Bull Zoey, тілесний</name>
+            <Отображать>Да</Отображать>
+            <stock>7</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Подвійний мастурбатор вагіна ротик CRAZY BULL  Zoey, TPR</model>
+            <description>Подвійний мастурбатор Crazy Bull Zoey пропонує &lt;b&gt;два різні види стимуляції в одному виробі&lt;/b&gt; - імітацію орального та вагінального контакту. Виготовлений з термопластичної гуми, забезпечує м'яку та еластичну текстуру для комфортного використання.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Конструкція включає &lt;b&gt;наскрізний канал з різною внутрішньою рельєфністю&lt;/b&gt; на кожному кінці. Одна сторона відтворює ротову порожнину з об'ємними губами та язиком, доповнену ребристою поверхнею всередині. Протилежний бік має реалістичну вульву з делікатними статевими губами, а внутрішній рукав містить пухирці та дрібні ребра для різноманітних тактильних відчуттів.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Для догляду рекомендується використовувати лубрикант на водній основі та спеціальний засіб для очищення після застосування. Компактні розміри дозволяють зручно зберігати виріб.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Бренд: Crazy Bull&lt;br /&gt;&lt;br /&gt;
+Виробник: Baile&lt;br /&gt;&lt;br /&gt;
+Матеріал: Термопластична гума (TPR)&lt;br /&gt;&lt;br /&gt;
+Довжина загальна (см): 17&lt;br /&gt;&lt;br /&gt;
+Глибина (см): 17&lt;br /&gt;&lt;br /&gt;
+Діаметр (см): 8.2&lt;br /&gt;&lt;br /&gt;
+Діаметр каналу (см): 1.5&lt;br /&gt;&lt;br /&gt;
+Текстура: Реалістик, Ребриста, З пухирцями&lt;br /&gt;&lt;br /&gt;
+Наявність вібрації: Ні&lt;br /&gt;&lt;br /&gt;
+Керування з додатку: Ні&lt;br /&gt;&lt;br /&gt;
+Живлення: Не потребує</description>
+            <name_ua>Подвійний мастурбатор вагіна ротик Crazy Bull Zoey, тілесний</name_ua>
+            <description_ua>Подвійний мастурбатор Crazy Bull Zoey пропонує &lt;b&gt;два різні види стимуляції в одному виробі&lt;/b&gt; - імітацію орального та вагінального контакту. Виготовлений з термопластичної гуми, забезпечує м'яку та еластичну текстуру для комфортного використання.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Конструкція включає &lt;b&gt;наскрізний канал з різною внутрішньою рельєфністю&lt;/b&gt; на кожному кінці. Одна сторона відтворює ротову порожнину з об'ємними губами та язиком, доповнену ребристою поверхнею всередині. Протилежний бік має реалістичну вульву з делікатними статевими губами, а внутрішній рукав містить пухирці та дрібні ребра для різноманітних тактильних відчуттів.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Для догляду рекомендується використовувати лубрикант на водній основі та спеціальний засіб для очищення після застосування. Компактні розміри дозволяють зручно зберігати виріб.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Бренд: Crazy Bull&lt;br /&gt;&lt;br /&gt;
+Виробник: Baile&lt;br /&gt;&lt;br /&gt;
+Матеріал: Термопластична гума (TPR)&lt;br /&gt;&lt;br /&gt;
+Довжина загальна (см): 17&lt;br /&gt;&lt;br /&gt;
+Глибина (см): 17&lt;br /&gt;&lt;br /&gt;
+Діаметр (см): 8.2&lt;br /&gt;&lt;br /&gt;
+Діаметр каналу (см): 1.5&lt;br /&gt;&lt;br /&gt;
+Текстура: Реалістик, Ребриста, З пухирцями&lt;br /&gt;&lt;br /&gt;
+Наявність вібрації: Ні&lt;br /&gt;&lt;br /&gt;
+Керування з додатку: Ні&lt;br /&gt;&lt;br /&gt;
+Живлення: Не потребує</description_ua>
             </offer>
         <offer id="BI-026286" available="true">
                 <erp>BI-026286</erp>
@@ -67126,57 +67150,6 @@ Flutschi Anal - це відмінний вибір для тих, хто шук�
 &lt;br /&gt;
 Колір: тілесний;</description_ua>
             </offer>
-        <offer id="69-21074" available="true">
-                <erp>69-21074</erp>
-            <barcode>5600298351072</barcode>
-            <quantity_in_stock>8</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/16435-lubrikant_lube_tube_cool_150_ml</url>
-            <price>521.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/69-21074.jpg</picture>
-            <name>Лубрикант Orgie Lube Tube Cooling, 150 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>8</stock>
-            <vendor>ORGIE COSMETICS</vendor>
-            <model>Лубрикант Orgie Lube Tube Cooling, 150 мл</model>
-            <description>Лубрикант Orgie Lube Tube Cooling забезпечує &lt;b&gt;охолоджуючий ефект&lt;/b&gt; під час інтимної близькості, створюючи приємні відчуття прохолоди та легкого поколювання в ерогенних зонах. Змазка на водній основі має нейтральний смак і запах, що робить її універсальною для різних видів інтимності.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Завдяки &lt;b&gt;водній основі&lt;/b&gt; продукт сумісний з латексними виробами та інтим-іграшками з силікону й кібершкіри. Об'єм 150 мл у зручному тюбику забезпечує тривале використання та легке дозування.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Змазка підходить парам, які прагнуть урізноманітнити інтимні стосунки новими тактильними відчуттями та посилити чутливість під час близькості.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Orgie&lt;/br&gt;&lt;br /&gt;
-Виробник: Orgie&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 150&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: Охолоджуючі&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;</description>
-            <param name="Країна">Португалия</param>
-            <param name="Основа">Водна</param>
-            <param name="Місткість (мл)">150</param>
-            <param name="Марка/Лінія">Orgie</param>
-            <param name="Запах">Без запаха</param>
-            <name_ua>Лубрикант Orgie Lube Tube Cooling, 150 мл</name_ua>
-            <description_ua>Лубрикант Orgie Lube Tube Cooling забезпечує &lt;b&gt;охолоджуючий ефект&lt;/b&gt; під час інтимної близькості, створюючи приємні відчуття прохолоди та легкого поколювання в ерогенних зонах. Змазка на водній основі має нейтральний смак і запах, що робить її універсальною для різних видів інтимності.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Завдяки &lt;b&gt;водній основі&lt;/b&gt; продукт сумісний з латексними виробами та інтим-іграшками з силікону й кібершкіри. Об'єм 150 мл у зручному тюбику забезпечує тривале використання та легке дозування.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Змазка підходить парам, які прагнуть урізноманітнити інтимні стосунки новими тактильними відчуттями та посилити чутливість під час близькості.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Orgie&lt;/br&gt;&lt;br /&gt;
-Виробник: Orgie&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 150&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: Охолоджуючі&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;</description_ua>
-            </offer>
         <offer id="71-8253" available="true">
                 <erp>71-8253</erp>
             <barcode>8052742680035</barcode>
@@ -68035,6 +68008,33 @@ Flutschi Anal - це відмінний вибір для тих, хто шук�
             <description>Сексуальна відкривачка для пляшок з магнітом</description>
             <name_ua>Сексуальна відкривачка для пляшок з магнітом</name_ua>
             <description_ua>Сексуальна відкривачка для пляшок з магнітом</description_ua>
+            </offer>
+        <offer id="BM-009247N" available="true">
+                <erp>BM-009247N</erp>
+            <barcode>6959532329278</barcode>
+            <quantity_in_stock>8</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31420-masturbator_crazy_bull_hannah</url>
+            <price>615.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>156</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3141766b3bebb92419.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66b3beb98550e.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66b3beb99bea5.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66b3beb9be9d0.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66b3beb9d47e7.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66b3beb9f071b.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66b3beba146fc.gif</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66b3beba2b571.gif</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66b3beba46753.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66b3beba5c1b8.jpg</picture>
+            <name>Мастурбатор CRAZY BULL HANNAH</name>
+            <Отображать>Да</Отображать>
+            <stock>8</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Мастурбатор CRAZY BULL HANNAH</model>
+            <description>Мастурбатор CRAZY BULL HANNAH</description>
+            <name_ua>Мастурбатор CRAZY BULL HANNAH</name_ua>
+            <description_ua>Мастурбатор CRAZY BULL HANNAH</description_ua>
             </offer>
         <offer id="BI-026227-2" available="true">
                 <erp>BI-026227-2</erp>
