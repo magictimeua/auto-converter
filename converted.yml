@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-03-17 23:15">
+<yml_catalog date="2026-03-18 00:15">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -351,6 +351,48 @@ Silicone Boss of Toys - це ідеальний вибір для тих, хто
             <name_ua>Страпон B-Series Real Atena, 6,5 см</name_ua>
             <description_ua>Страпон ATENA Strap On-LOVECLONEX 6,5</description_ua>
             </offer>
+        <offer id="26-00009" available="true">
+                <erp>26-00009</erp>
+            <barcode>5906233080343</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2382-lalka_krystyna</url>
+            <price>903.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>70</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_238262dff1e1068b5.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62dff1dfce2e4.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62dff1dfee481.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62dff1e00e44e.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62dff1e0247d0.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62dff1e0365a8.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62dff1e049427.png</picture>
+            <name>Секс-лялька B - Series Lyla Lalka Krystyna</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Секс-лялька B - Series Lyla Lalka Krystyna</model>
+            <description>Висота ляльки всього 156 сантиметрів, що відповідає зросту тендітної дівчини. Обличчя Krystyna відрізняється милим дизайном, а фігура - спокусливими параметрами, пишним бюстом і еротично розсунутими ніжками. Лялька виконана з   полівінілхлориду - це гладкий, приємний на дотик матеріал. Крім того, вона оснащена трьома функціональними робочими отворами - ротиком, анусом і піхвою.</description>
+            <name_ua>Секс-лялька B - Series Lyla Lalka Krystyna</name_ua>
+            <description_ua>Висота ляльки всього 156 сантиметрів, що відповідає зросту тендітної дівчини. Обличчя Krystyna відрізняється милим дизайном, а фігура - спокусливими параметрами, пишним бюстом і еротично розсунутими ніжками. Лялька виконана з   полівінілхлориду - це гладкий, приємний на дотик матеріал. Крім того, вона оснащена трьома функціональними робочими отворами - ротиком, анусом і піхвою.</description_ua>
+            </offer>
+        <offer id="26-00012" available="true">
+                <erp>26-00012</erp>
+            <barcode>8466216000128</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2384-lalka_floryda</url>
+            <price>879.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>70</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/26-00012.jpg</picture>
+            <name>Секс-лялька B - Series Lyla Lalka Floryda</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Секс-лялька B - Series Lyla Lalka Floryda</model>
+            <description>Флорида - лялька кохання. Красива надувна лялька кохання з чарівним друкованим обличчям. Вона в натуральну величину, має гарні, великі та міцні груди та 3 отвори.  Лялька відрізняється як функціональністю, так і естетичністю виконання. </description>
+            <name_ua>Секс-лялька B - Series Lyla Lalka Floryda</name_ua>
+            <description_ua>Флорида - лялька кохання. Красива надувна лялька кохання з чарівним друкованим обличчям. Вона в натуральну величину, має гарні, великі та міцні груди та 3 отвори.  Лялька відрізняється як функціональністю, так і естетичністю виконання. </description_ua>
+            </offer>
         <offer id="19-1204" available="true">
                 <erp>19-1204</erp>
             <barcode>3548960014011</barcode>
@@ -430,6 +472,24 @@ Silicone Boss of Toys - це ідеальний вибір для тих, хто
             <name_ua>Стимулюючий крем для жінок Ruf G Power, 30 мл</name_ua>
             <description_ua>Крем, який стимулює і підвищує чутливість інтимних зон у жінок.&lt;br /&gt;
 Ємкість: 30 мл</description_ua>
+            </offer>
+        <offer id="26-00013" available="true">
+                <erp>26-00013</erp>
+            <barcode>8466216000135</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2460-lalka_suzuki</url>
+            <price>903.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>70</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/26-00013.jpg</picture>
+            <name>Секс-лялька B - Series Lyla Lalka Suzuki</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Секс-лялька B - Series Lyla Lalka Suzuki</model>
+            <description>Екзотична секс-лялька, яку можна надути до натуральної величини. Має три любовні отвори. Висота приблизно 150 см. </description>
+            <name_ua>Секс-лялька B - Series Lyla Lalka Suzuki</name_ua>
+            <description_ua>Екзотична секс-лялька, яку можна надути до натуральної величини. Має три любовні отвори. Висота приблизно 150 см. </description_ua>
             </offer>
         <offer id="21-00006" available="true">
                 <erp>21-00006</erp>
@@ -2028,6 +2088,26 @@ LoveCloneX Achilles — це вібратор, що поєднує реаліс�
             <description>Мастурбатор вагіна тілесного кольору. Виконаний з високоякісного гіпоалергенного матеріалу, безпечного для здоров'я та дуже еластичного і приємного на дотик. 9 функцій для інтенсивної вібрації, пульсації Присоска, що нагвинчується, прикріпить мастурбатор у зручному положенні до будь-якої гладкої поверхні. Присоска з кутовим поворотом. Зовнішній діаметр:  8,2 см. USB зарядк. Загальна довжина:  28 см</description>
             <name_ua>Мастурбатор вагінальний B - Series Lyla Delidht</name_ua>
             <description_ua>Мастурбатор вагіна тілесного кольору. Виконаний з високоякісного гіпоалергенного матеріалу, безпечного для здоров'я та дуже еластичного і приємного на дотик. 9 функцій для інтенсивної вібрації, пульсації Присоска, що нагвинчується, прикріпить мастурбатор у зручному положенні до будь-якої гладкої поверхні. Присоска з кутовим поворотом. Зовнішній діаметр:  8,2 см. USB зарядк. Загальна довжина:  28 см</description_ua>
+            </offer>
+        <offer id="26-00075" available="true">
+                <erp>26-00075</erp>
+            <barcode>5903661802073</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/3700-masturbator_vagina_double_delight_35_function_usb</url>
+            <price>1199.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>110</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/26-00075.jpg</picture>
+            <name>Мастурбатор B - Series Lyla Vagina Double Delight</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Подвійний мастурбатор Masturbator-Vagina Double Delight 35 function USB</model>
+            <description>Подвійний мастурбатор (рот з одного боку, вагіна з іншого). 2 потужні двигуни дозволяють здійснювати регульований масаж по всій довжині пеніса. 35 функцій інтенсивної вібрації, пульсації та ескалації. М'який і реалістичний матеріал&lt;br /&gt;
+- кібершкіра. Зовнішній діаметр 7 см. Довжина: 21,5 см</description>
+            <name_ua>Мастурбатор B - Series Lyla Vagina Double Delight</name_ua>
+            <description_ua>Подвійний мастурбатор (рот з одного боку, вагіна з іншого). 2 потужні двигуни дозволяють здійснювати регульований масаж по всій довжині пеніса. 35 функцій інтенсивної вібрації, пульсації та ескалації. М'який і реалістичний матеріал&lt;br /&gt;
+- кібершкіра. Зовнішній діаметр 7 см. Довжина: 21,5 см</description_ua>
             </offer>
         <offer id="42-05513330000" available="true">
                 <erp>42-05513330000</erp>
