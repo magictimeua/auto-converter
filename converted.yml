@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-03-17 22:15">
+<yml_catalog date="2026-03-17 23:15">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -370,6 +370,28 @@ Silicone Boss of Toys - це ідеальний вибір для тих, хто
             <name_ua>Збуджуючі краплі Ruf Aphrodict Sexsovital, 20 мл</name_ua>
             <description_ua>Сексовітал - оригінальна харчова добавка на травах, яка є універсальною.  До складу засобу входить перцева м'ята, імбир, чабер і ін. Завдяки такому складу препарат стимулює сексуальність, сприяє бажанню, підсилює тонус. &lt;br /&gt;
 Об'єм в мл 20</description_ua>
+            </offer>
+        <offer id="19-3011" available="true">
+                <erp>19-3011</erp>
+            <barcode>3548960030110</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2425-lubrikant_penis_dev_cream_100_ml</url>
+            <price>503.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>101</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/19-3011.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6851adf6d2e9b.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6851ae18a90f4.png</picture>
+            <name>Крем для збільшення Penis Dev Cream 100 ml</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>RUF</vendor>
+            <model>Крем для збільшення Penis Dev Cream 100 ml</model>
+            <description>Крем для ерекції Penis Dev Cream. Крем для чоловіків, призначений для вирішення інтимних проблем чоловіків різного віку. Він посилює сексуальне збудження. Крем має ніжним запахом і приємною консистенцією.&lt;br /&gt;
+крем Penis DEV містить екстракти золотарника, чорної смородини, каштана, виноградної лози та мигдалю, які при приготуванні в правильних умовах діють як афродизіак.</description>
+            <name_ua>Крем для збільшення Penis Dev Cream 100 ml</name_ua>
+            <description_ua>Крем для ерекції Penis Dev Cream. Крем для чоловіків, призначений для вирішення інтимних проблем чоловіків різного віку. Він посилює сексуальне збудження. Крем має ніжним запахом і приємною консистенцією.&lt;br /&gt;
+крем Penis DEV містить екстракти золотарника, чорної смородини, каштана, виноградної лози та мигдалю, які при приготуванні в правильних умовах діють як афродизіак.</description_ua>
             </offer>
         <offer id="19-3051" available="true">
                 <erp>19-3051</erp>
