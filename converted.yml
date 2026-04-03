@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-04-03 09:00">
+<yml_catalog date="2026-04-03 10:45">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
     <url>http://blissclub.com.ua/</url>
-    <eurate>50.80</eurate>
+    <eurate>50.60</eurate>
     <currencies>
             <currency id="UAH" rate="1" />
         </currencies>
@@ -4308,7 +4308,7 @@ BIOglide Neutral - це ідеальний лубрикант для тих, х�
                 <erp>BI-014027</erp>
             <barcode>6959532303841</barcode>
             <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/17851-baile_eleanora_vibrating_egg</url>
+            <url>http://blissclub.com.ua/product/17851-malenke_vbruyuche_yayce_baile_eleanora</url>
             <price>196.00</price>
             <currencyId>UAH</currencyId>
             <categoryId>21</categoryId>
@@ -4318,14 +4318,14 @@ BIOglide Neutral - це ідеальний лубрикант для тих, х�
             <picture>https://blissclub.com.ua/images/product_variants/product_617875c62cb7a.png</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_617875c6475bb.png</picture>
             <picture>https://blissclub.com.ua/images/product_variants/product_617875c65d28f.png</picture>
-            <name>Вагінальні кульки з вібрацією Baile Eleanora</name>
+            <name>Маленьке вібруюче яйце Baile Eleanora</name>
             <Отображать>Да</Отображать>
             <stock>1</stock>
-            <vendor />
+            <vendor>BAILE</vendor>
             <model>Вагінальні кульки з вібрацією Baile Eleanora</model>
-            <description>Маленьке вібруюче яйце, покрите м’яким матеріалом,  Вібрація регулюються за допомогою виносного пульта управління. Стимулятор підійде для ігор удвох або для індивідуального використання. Довжина іграшки - 9 см, діаметр - 3,4 см.</description>
-            <name_ua>Вагінальні кульки з вібрацією Baile Eleanora</name_ua>
-            <description_ua>Маленьке вібруюче яйце, покрите м’яким матеріалом,  Вібрація регулюються за допомогою виносного пульта управління. Стимулятор підійде для ігор удвох або для індивідуального використання. Довжина іграшки - 9 см, діаметр - 3,4 см.</description_ua>
+            <description>&lt;p&gt;Маленьке вібруюче яйце, покрите м’яким матеріалом, Вібрація регулюються за допомогою виносного пульта управління. Стимулятор підійде для ігор удвох або для індивідуального використання. Довжина іграшки - 9 см, діаметр - 3,4 см.&lt;/p&gt;</description>
+            <name_ua>Маленьке вібруюче яйце Baile Eleanora</name_ua>
+            <description_ua>&lt;p&gt;Маленьке вібруюче яйце, покрите м’яким матеріалом, Вібрація регулюються за допомогою виносного пульта управління. Стимулятор підійде для ігор удвох або для індивідуального використання. Довжина іграшки - 9 см, діаметр - 3,4 см.&lt;/p&gt;</description_ua>
             </offer>
         <offer id="BI-014362HP" available="true">
                 <erp>BI-014362HP</erp>
