@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-04-03 18:15">
+<yml_catalog date="2026-04-03 19:15">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -55258,15 +55258,15 @@ Woman №7 — твій аромат свободи, енергії та нев�
             <price>161.00</price>
             <currencyId>UAH</currencyId>
             <categoryId>96</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_35741699db156b5915.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3574169cfe2a602deb.png</picture>
             <name>Серветка для оральних пестощів EXS Oral Latex Dam полуниця</name>
             <Отображать>Да</Отображать>
             <stock>4</stock>
             <vendor>LOVE MATCH CONDOMS</vendor>
             <model>Серветка для оральних пестощів EXS Oral Latex Dam полуниця</model>
-            <description>Серветка для оральних пестощів EXS Oral Latex Dam полуниця</description>
+            <description>&lt;p&gt;Серветка для оральних пестощів EXS Oral Latex Dam полуниця&lt;/p&gt;</description>
             <name_ua>Серветка для оральних пестощів EXS Oral Latex Dam полуниця</name_ua>
-            <description_ua>Серветка для оральних пестощів EXS Oral Latex Dam полуниця</description_ua>
+            <description_ua>&lt;p&gt;Серветка для оральних пестощів EXS Oral Latex Dam полуниця&lt;/p&gt;</description_ua>
             </offer>
         <offer id="12-DAMSEXSPLAIN" available="true">
                 <erp>12-DAMSEXSPLAIN</erp>
