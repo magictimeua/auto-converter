@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-04-20 15:45">
+<yml_catalog date="2026-04-20 17:15">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -60134,32 +60134,25 @@ OLO RedSilver мають високу теплопровідність, швид
             <price>641.00</price>
             <currencyId>UAH</currencyId>
             <categoryId>109</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3576669bc73cc6245f.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69bc7360be249.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69bc7360d1807.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69bc7360e43a7.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69bc736102e5d.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69bc73611623d.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69bc73612b833.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69bc73613e8a0.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69bc73c717c01.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69bc73c72f52f.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69bc73c74252b.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69bc73c756779.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69bc73c76aa62.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69bc73c77f37c.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69bc73c794178.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69bc73c7a7b6c.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69bc73c7babfa.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69bc73c7cf59f.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3576669e632f15308a.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69e632ef7c5cc.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69e632ef929d2.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69e632efa8beb.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69e632efbe361.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69e632efd31fa.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69e632efe5792.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69e632f005804.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69e632f019e7d.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69e632f030af3.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69e632f04607a.gif</picture>
             <name>Віброкільце PRETTY LOVE Powerful ring, 10 vibration functions</name>
             <Отображать>Да</Отображать>
             <stock>5</stock>
             <vendor>PRETTY LOVE/BAILE</vendor>
             <model>Віброкільце PRETTY LOVE Powerful ring, 10 vibration functions</model>
-            <description>Ерекційне кільце з еластичного силікону з ребристою поверхнею і невеликим виступом, для додаткової стимуляції клітора, з масажним вибростимулятором. Дивайс підтримує 10 режимів роботи.</description>
+            <description>&lt;p&gt;Ерекційне кільце з еластичного силікону з ребристою поверхнею і невеликим виступом, для додаткової стимуляції клітора, з масажним вибростимулятором. Дивайс підтримує 10 режимів роботи.&lt;/p&gt;</description>
             <name_ua>Віброкільце PRETTY LOVE Powerful ring, 10 vibration functions</name_ua>
-            <description_ua>Ерекційне кільце з еластичного силікону з ребристою поверхнею і невеликим виступом, для додаткової стимуляції клітора, з масажним вибростимулятором. Дивайс підтримує 10 режимів роботи.</description_ua>
+            <description_ua>&lt;p&gt;Ерекційне кільце з еластичного силікону з ребристою поверхнею і невеликим виступом, для додаткової стимуляції клітора, з масажним вибростимулятором. Дивайс підтримує 10 режимів роботи.&lt;/p&gt;</description_ua>
             </offer>
         <offer id="BI-040216-MR" available="true">
                 <erp>BI-040216-MR</erp>
