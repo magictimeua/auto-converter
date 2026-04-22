@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-04-22 09:15">
+<yml_catalog date="2026-04-22 11:15">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
     <url>http://blissclub.com.ua/</url>
-    <eurate>52.10</eurate>
+    <eurate>51.90</eurate>
     <currencies>
             <currency id="UAH" rate="1" />
         </currencies>
@@ -3283,6 +3283,62 @@ EROS Aqua - це надійний лубрикант, який забезпеч�
             <name_ua>Секс-лялька Banger Babe Jessica</name_ua>
             <description_ua>Секс-лялька Banger Babe Jessica</description_ua>
             </offer>
+        <offer id="BI-014174" available="true">
+                <erp>BI-014174</erp>
+            <barcode>6959532310962</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/13870-pretty_love_brighty_30_function</url>
+            <price>674.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>143</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/BI-014174.jpg</picture>
+            <name>Вібратор кролик Pretty Love Brighty, фіолетовий</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor />
+            <model>Вібратор кролик Pretty Love Brighty, фіолетовий</model>
+            <description>Вібратор-кролик Pretty Love Brighty фіолетового кольору забезпечує &lt;b&gt;подвійну стимуляцію&lt;/b&gt; завдяки двом незалежним віброелементам у головці та кліторальному відростку. Обтічна анатомічна форма з гнучкого силікону адаптується під індивідуальні особливості, гарантуючи комфортне використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Пристрій пропонує &lt;b&gt;30 різноманітних режимів вібрації&lt;/b&gt;, які легко перемикаються кнопками на рукоятці. Оксамитова текстура силіконової поверхні створює приємні тактильні відчуття, а компактні розміри роблять іграшку зручною для керування однією рукою.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Працює від двох батарейок ААА, що забезпечує автономність використання. Підходить для застосування з лубрикантами на водній основі, потребує очищення антибактеріальними засобами після кожного використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Силікон, Пластик&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька, Оксамитова&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 20&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 10.5&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 3.4&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
+Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
+Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
+Керування з додатку: Ні&lt;/br&gt;</description>
+            <name_ua>Вібратор кролик Pretty Love Brighty, фіолетовий</name_ua>
+            <description_ua>Вібратор-кролик Pretty Love Brighty фіолетового кольору забезпечує &lt;b&gt;подвійну стимуляцію&lt;/b&gt; завдяки двом незалежним віброелементам у головці та кліторальному відростку. Обтічна анатомічна форма з гнучкого силікону адаптується під індивідуальні особливості, гарантуючи комфортне використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Пристрій пропонує &lt;b&gt;30 різноманітних режимів вібрації&lt;/b&gt;, які легко перемикаються кнопками на рукоятці. Оксамитова текстура силіконової поверхні створює приємні тактильні відчуття, а компактні розміри роблять іграшку зручною для керування однією рукою.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Працює від двох батарейок ААА, що забезпечує автономність використання. Підходить для застосування з лубрикантами на водній основі, потребує очищення антибактеріальними засобами після кожного використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Силікон, Пластик&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька, Оксамитова&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 20&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 10.5&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 3.4&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
+Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
+Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
+Керування з додатку: Ні&lt;/br&gt;</description_ua>
+            </offer>
         <offer id="BI-014219" available="true">
                 <erp>BI-014219</erp>
             <barcode>6959532311662</barcode>
@@ -6327,31 +6383,6 @@ EROS Aqua - це надійний лубрикант, який забезпеч�
             <name_ua>Фалоімітатор The Big Penis 5.3, тілесний</name_ua>
             <description_ua>Фалоімітатор BAILE The Big Penis</description_ua>
             </offer>
-        <offer id="BW-007011Z" available="true">
-                <erp>BW-007011Z</erp>
-            <barcode>6959532306675</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/24510-baile_the_big_penis</url>
-            <price>670.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>132</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/BW-007011Z.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_620a6a8e96d66.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_620a6a8ea2861.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_620a6a8eaed65.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_620a6a8ebbc76.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_620a6a8ec60d9.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_620a6a8ed129f.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_620a6a8edbd8d.png</picture>
-            <name>Вібратор BAILE The Big Penis</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor />
-            <model>Вібратор BAILE The Big Penis</model>
-            <description>Вібратор BAILE The Big Penis - це гладкий і текстурований натуральний фаллоімітатор для захоплюючої стимуляці.  Гнучкий і міцний Multispeed сильна вібрація. Управління за допомогою дистанційного керування.Він має міцну присоску в основі. Розміри: 23,5 x 5,3 см</description>
-            <name_ua>Вібратор BAILE The Big Penis</name_ua>
-            <description_ua>Вібратор BAILE The Big Penis - це гладкий і текстурований натуральний фаллоімітатор для захоплюючої стимуляці.  Гнучкий і міцний Multispeed сильна вібрація. Управління за допомогою дистанційного керування.Він має міцну присоску в основі. Розміри: 23,5 x 5,3 см</description_ua>
-            </offer>
         <offer id="BW-010025B" available="true">
                 <erp>BW-010025B</erp>
             <barcode>6959532306958</barcode>
@@ -8759,62 +8790,6 @@ POWER tabs використовує склад з витяжок різних т
             <description>Мастурбатор B - Series Power Passion Cup Vagina</description>
             <name_ua>Мастурбатор B - Series Power Passion Cup Vagina</name_ua>
             <description_ua>Мастурбатор B - Series Power Passion Cup Vagina</description_ua>
-            </offer>
-        <offer id="BI-014447" available="true">
-                <erp>BI-014447</erp>
-            <barcode>6959532318449</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29624-vibropulya_pretty_love_edwina</url>
-            <price>709.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>21</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_2962462bda27850697.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62bda27646c26.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62bda2766504e.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62bda27673249.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62bda27682eb1.png</picture>
-            <name>Віброяйце Pretty Love Edwina, рожеве</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor />
-            <model>Віброяйце Pretty Love Edwina, рожеве</model>
-            <description>Віброяйце Pretty Love Edwina рожевого кольору створене для інтимного задоволення завдяки &lt;b&gt;12 режимам вібрації&lt;/b&gt; та компактним розмірам. Силіконовий корпус забезпечує м'яке оксамитове дотикання, а інтуїтивне керування однією кнопкою робить використання максимально простим.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Пристрій має &lt;b&gt;довжину 9,2 см та діаметр 3,1 см&lt;/b&gt;, що дозволяє зручно тримати його завдяки спеціальній петельці. Тиха, але потужна робота забезпечує комфортне використання, а живлення від однієї батарейки ААА гарантує автономність.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Підходить для використання з лубрикантами на водній основі. Після застосування рекомендується очищення спеціальними засобами та зберігання в чохлі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька, Оксамитова&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 9.2&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 9.2&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.1&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (1 шт.)&lt;/br&gt;</description>
-            <name_ua>Віброяйце Pretty Love Edwina, рожеве</name_ua>
-            <description_ua>Віброяйце Pretty Love Edwina рожевого кольору створене для інтимного задоволення завдяки &lt;b&gt;12 режимам вібрації&lt;/b&gt; та компактним розмірам. Силіконовий корпус забезпечує м'яке оксамитове дотикання, а інтуїтивне керування однією кнопкою робить використання максимально простим.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Пристрій має &lt;b&gt;довжину 9,2 см та діаметр 3,1 см&lt;/b&gt;, що дозволяє зручно тримати його завдяки спеціальній петельці. Тиха, але потужна робота забезпечує комфортне використання, а живлення від однієї батарейки ААА гарантує автономність.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Підходить для використання з лубрикантами на водній основі. Після застосування рекомендується очищення спеціальними засобами та зберігання в чохлі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька, Оксамитова&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 9.2&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 9.2&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.1&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (1 шт.)&lt;/br&gt;</description_ua>
             </offer>
         <offer id="CN-101454726" available="true">
                 <erp>CN-101454726</erp>
@@ -13231,72 +13206,6 @@ POWER tabs використовує склад з витяжок різних т
             <name_ua>Симулятор орального сексу для жінок Pretty Love Ford, фіолетовий</name_ua>
             <description_ua>Вібратор PRETTY LOVE FORD Memory function</description_ua>
             </offer>
-        <offer id="BI-014812-A3" available="true">
-                <erp>BI-014812-A3</erp>
-            <barcode>6959532360516</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31558-silikonoviy_vibrator_pretty_love_elemental_black</url>
-            <price>576.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>143</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3155566ed8c4d54605.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed8c4a14318.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed8c4a457ed.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed8c4a79124.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed8c4aad955.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed8c4ae37aa.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed8c4b275af.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed8c4b6666e.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed8c4bac00d.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed8c4bdcdc5.gif</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66ed8c4c24c6b.jpeg</picture>
-            <name>Вібратор для точки G Pretty Love Elemental, чорний</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Вібратор для точки G Pretty Love Elemental, чорний</model>
-            <description>Інтимна іграшка Pretty Love Elemental створена для &lt;b&gt;цілеспрямованої стимуляції G-точки&lt;/b&gt; завдяки анатомічній формі та спеціальному вигину. Реалістичний дизайн забезпечує природні відчуття під час використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Модель пропонує &lt;b&gt;30 різних режимів вібрації&lt;/b&gt;, які легко перемикаються двома кнопками на основі - верхня змінює програми, нижня вмикає пристрій. Комбінація м'якого силікону та міцного пластику створює приємну оксамитову текстуру з гладенькою поверхнею.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Компактні розміри та зручне керування роблять цю модель підходящою як для початківців, так і для досвідчених користувачів. Працює від двох батарейок ААА, сумісна з лубрикантами на водній основі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 19&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 11.8&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.2&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон, Пластик&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька, Оксамитова&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
-Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
-Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
-Керування з додатку: Ні&lt;/br&gt;</description>
-            <name_ua>Вібратор для точки G Pretty Love Elemental, чорний</name_ua>
-            <description_ua>Інтимна іграшка Pretty Love Elemental створена для &lt;b&gt;цілеспрямованої стимуляції G-точки&lt;/b&gt; завдяки анатомічній формі та спеціальному вигину. Реалістичний дизайн забезпечує природні відчуття під час використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Модель пропонує &lt;b&gt;30 різних режимів вібрації&lt;/b&gt;, які легко перемикаються двома кнопками на основі - верхня змінює програми, нижня вмикає пристрій. Комбінація м'якого силікону та міцного пластику створює приємну оксамитову текстуру з гладенькою поверхнею.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Компактні розміри та зручне керування роблять цю модель підходящою як для початківців, так і для досвідчених користувачів. Працює від двох батарейок ААА, сумісна з лубрикантами на водній основі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 19&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 11.8&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.2&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон, Пластик&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька, Оксамитова&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
-Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
-Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
-Керування з додатку: Ні&lt;/br&gt;</description_ua>
-            </offer>
         <offer id="BI-040126" available="true">
                 <erp>BI-040126</erp>
             <barcode>6959532334043</barcode>
@@ -13466,32 +13375,6 @@ POWER tabs використовує склад з витяжок різних т
 Портативний і перезаряджається через USB: працює від акумуляторної батареї USB, ідеально підходить для того, щоб брати з собою куди завгодно - завжди готовий доставити вам задоволення будь-де.&lt;br /&gt;
 Гнучкість і м'якість: гнучка і м'яка конструкція забезпечує відмінну посадку і комфорт, а також інтенсивне ніжне і глибоке відчуття.&lt;br /&gt;
 Цей вібратор у формі рота є поєднанням передових технологій і чуттєвого задоволення, яке виведе ваш досвід на абсолютно новий рівень.</description_ua>
-            </offer>
-        <offer id="BW-001009R-1" available="true">
-                <erp>BW-001009R-1</erp>
-            <barcode>6959532336528</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31610-vibrator_baile_barbara_bob_88_multi_speed_vibration</url>
-            <price>250.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>143</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3160766edb6853a188.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edb6832c056.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edb683534ac.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edb68376027.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edb6839aeaa.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edb683bd212.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edb683dad0a.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edb684055ae.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edb68426942.jpeg</picture>
-            <name>Вібратор BAILE barbara Bob 8.8'', MULTI-SPEED VIBRATION</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Вібратор BAILE barbara Bob 8.8'', MULTI-SPEED VIBRATION</model>
-            <description>Універсальний вібромасажер у кольорі латино.Його реалістична форма дуже стимулює. Регульовані вібрації. Загальна довжина: 22,5 см. Максимальна довжина проникнення: 19 см. Діаметр: 4,2 см. Працює від 2 батарейок типу ААА. Склад: TPR, ABS</description>
-            <name_ua>Вібратор BAILE barbara Bob 8.8'', MULTI-SPEED VIBRATION</name_ua>
-            <description_ua>Універсальний вібромасажер у кольорі латино.Його реалістична форма дуже стимулює. Регульовані вібрації. Загальна довжина: 22,5 см. Максимальна довжина проникнення: 19 см. Діаметр: 4,2 см. Працює від 2 батарейок типу ААА. Склад: TPR, ABS</description_ua>
             </offer>
         <offer id="BW-008111W" available="true">
                 <erp>BW-008111W</erp>
@@ -17862,6 +17745,53 @@ ONE Vanish Hyperthin — ультратонкі презервативи, які
 &lt;br /&gt;
 Ідеальний вибір для чоловіків, які хочуть звучати яскраво, діяти впевнено і притягувати погляди без зайвих слів.</description_ua>
             </offer>
+        <offer id="6-9249" available="true">
+                <erp>6-9249</erp>
+            <barcode>5903661809249</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35551-feromoni_dlya_cholovikiv_miyoshi_miyagi_ph_pheromone_1_15_ml</url>
+            <price>514.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>81</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_355476927369b83cc8.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692736960af2c.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6927369627296.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692736963b3ce.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692736964e5cb.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6927369663c4a.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6927369680e97.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69273696a3cda.jpg</picture>
+            <name>Феромони для чоловіків Miyoshi Miyagi PH Pheromone №1, 15 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>WPJ</vendor>
+            <model>Феромони для чоловіків Miyoshi Miyagi PH Pheromone №1, 15 мл</model>
+            <description>Сильні чоловічі феромони із серії Feromon Collection, створені для посилення привабливості та впевненості. Аромат — аналог BOSS Green, свіжий, енергійний і чуттєвий. Формула діє на рівні інстинкту, підсилює увагу жінок і пробуджує інтерес на підсвідомому рівні.&lt;br /&gt;
+&lt;br /&gt;
+Феромони мають насичений, стійкий аромат, а завдяки компактній пляшечці їх легко носити із собою. Достатньо 1–3 розпилень на шкіру або одяг.&lt;br /&gt;
+&lt;br /&gt;
+Особливості:&lt;br /&gt;
+• інтенсивний феромонний ефект&lt;br /&gt;
+• аромат-аналог BOSS Green&lt;br /&gt;
+• підсилює привабливість та впевненість&lt;br /&gt;
+• компактний формат 15 ml — ідеальний для щоденного використання&lt;br /&gt;
+&lt;br /&gt;
+Об'єм: 15 ml&lt;br /&gt;
+Виробник: Miyoshi Miyagi</description>
+            <name_ua>Феромони для чоловіків Miyoshi Miyagi PH Pheromone №1, 15 мл</name_ua>
+            <description_ua>Сильні чоловічі феромони із серії Feromon Collection, створені для посилення привабливості та впевненості. Аромат — аналог BOSS Green, свіжий, енергійний і чуттєвий. Формула діє на рівні інстинкту, підсилює увагу жінок і пробуджує інтерес на підсвідомому рівні.&lt;br /&gt;
+&lt;br /&gt;
+Феромони мають насичений, стійкий аромат, а завдяки компактній пляшечці їх легко носити із собою. Достатньо 1–3 розпилень на шкіру або одяг.&lt;br /&gt;
+&lt;br /&gt;
+Особливості:&lt;br /&gt;
+• інтенсивний феромонний ефект&lt;br /&gt;
+• аромат-аналог BOSS Green&lt;br /&gt;
+• підсилює привабливість та впевненість&lt;br /&gt;
+• компактний формат 15 ml — ідеальний для щоденного використання&lt;br /&gt;
+&lt;br /&gt;
+Об'єм: 15 ml&lt;br /&gt;
+Виробник: Miyoshi Miyagi</description_ua>
+            </offer>
         <offer id="74-1681" available="true">
                 <erp>74-1681</erp>
             <barcode>4029811181681</barcode>
@@ -18471,40 +18401,6 @@ ONE Vanish Hyperthin — ультратонкі презервативи, які
 ЯК ЧИСТИТИ МЕНСТРУАЛЬНУ ЧАШУ? Зніміть чашу над унітазом або в душі та спорожніть її. Ретельно вимийте теплою водою з милом без запаху. Завжди мийте руки перед тим, як виймати та вставляти чашу. Для повної гігієни кип'ятіть чашу 3 хвилини в чистій воді. Висушіть та зберігайте в сухому, затіненому місці. Вимийте пакет м'яким милом та дайте йому висохнути на повітрі. Продукт Fun Factory – комфорт та безпека, яким ви можете довіряти. Місткість: 20 мл&lt;br /&gt;
 Загальна довжина: 5,3 см&lt;br /&gt;
 Ширина: 4 см</description_ua>
-            </offer>
-        <offer id="32-00123" available="true">
-                <erp>32-00123</erp>
-            <barcode>5904405351673</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/35801-parfumi_pherostrong_pheromone__glow_up_for_women_1_ml</url>
-            <price>228.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>80</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3579769bc6ffed210b.jpg</picture>
-            <name>Парфуми PheroStrong Pheromone  Glow up for Women 1 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>MEDICA</vendor>
-            <model>Парфуми PheroStrong Pheromone  Glow up for Women 1 мл</model>
-            <description>PheroStrong Pheromone Glow Up для жінок – це аромат, що прославляє жіночність у легкій, сучасній версії.&lt;br /&gt;
-Композиція створює сяючу та привабливу ауру, яка тонко підкреслює присутність та стиль.&lt;br /&gt;
-Верхні ноти поєднують соковитий лічі, бергамот та персик, надаючи свіжості з ніжною солодкістю.&lt;br /&gt;
-Серце аромату розкривається квітковим букетом – півонія, квітка апельсина, жасмин та петалія огортають шкіру м’яким ароматом.&lt;br /&gt;
-База складається з мускусу, моху та деревних нот, що забезпечують глибину та елегантний післясмак.&lt;br /&gt;
-Формула збагачена феромонами PheroStrong®, які можуть підтримувати позитивне сприйняття в соціальних стосунках.&lt;br /&gt;
-Аромат допомагає справити перше враження та підкреслити впевненість у собі.&lt;br /&gt;
-Ідеально підходить для повсякденних ситуацій, зустрічей та особливих випадків.&lt;br /&gt;
-Він підкреслює індивідуальність, залишаючись витонченим та гармонійним.</description>
-            <name_ua>Парфуми PheroStrong Pheromone  Glow up for Women 1 мл</name_ua>
-            <description_ua>PheroStrong Pheromone Glow Up для жінок – це аромат, що прославляє жіночність у легкій, сучасній версії.&lt;br /&gt;
-Композиція створює сяючу та привабливу ауру, яка тонко підкреслює присутність та стиль.&lt;br /&gt;
-Верхні ноти поєднують соковитий лічі, бергамот та персик, надаючи свіжості з ніжною солодкістю.&lt;br /&gt;
-Серце аромату розкривається квітковим букетом – півонія, квітка апельсина, жасмин та петалія огортають шкіру м’яким ароматом.&lt;br /&gt;
-База складається з мускусу, моху та деревних нот, що забезпечують глибину та елегантний післясмак.&lt;br /&gt;
-Формула збагачена феромонами PheroStrong®, які можуть підтримувати позитивне сприйняття в соціальних стосунках.&lt;br /&gt;
-Аромат допомагає справити перше враження та підкреслити впевненість у собі.&lt;br /&gt;
-Ідеально підходить для повсякденних ситуацій, зустрічей та особливих випадків.&lt;br /&gt;
-Він підкреслює індивідуальність, залишаючись витонченим та гармонійним.</description_ua>
             </offer>
         <offer id="16-25013" available="true">
                 <erp>16-25013</erp>
@@ -20576,62 +20472,6 @@ ONE Vanish Hyperthin — ультратонкі презервативи, які
 Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
 Живлення: Не потребує&lt;/br&gt;&lt;br /&gt;
 Наявність вібрації: Ні&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="BI-014174" available="true">
-                <erp>BI-014174</erp>
-            <barcode>6959532310962</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/13870-pretty_love_brighty_30_function</url>
-            <price>674.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>143</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/BI-014174.jpg</picture>
-            <name>Вібратор кролик Pretty Love Brighty, фіолетовий</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor />
-            <model>Вібратор кролик Pretty Love Brighty, фіолетовий</model>
-            <description>Вібратор-кролик Pretty Love Brighty фіолетового кольору забезпечує &lt;b&gt;подвійну стимуляцію&lt;/b&gt; завдяки двом незалежним віброелементам у головці та кліторальному відростку. Обтічна анатомічна форма з гнучкого силікону адаптується під індивідуальні особливості, гарантуючи комфортне використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Пристрій пропонує &lt;b&gt;30 різноманітних режимів вібрації&lt;/b&gt;, які легко перемикаються кнопками на рукоятці. Оксамитова текстура силіконової поверхні створює приємні тактильні відчуття, а компактні розміри роблять іграшку зручною для керування однією рукою.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Працює від двох батарейок ААА, що забезпечує автономність використання. Підходить для застосування з лубрикантами на водній основі, потребує очищення антибактеріальними засобами після кожного використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон, Пластик&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька, Оксамитова&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 20&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 10.5&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.4&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
-Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
-Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
-Керування з додатку: Ні&lt;/br&gt;</description>
-            <name_ua>Вібратор кролик Pretty Love Brighty, фіолетовий</name_ua>
-            <description_ua>Вібратор-кролик Pretty Love Brighty фіолетового кольору забезпечує &lt;b&gt;подвійну стимуляцію&lt;/b&gt; завдяки двом незалежним віброелементам у головці та кліторальному відростку. Обтічна анатомічна форма з гнучкого силікону адаптується під індивідуальні особливості, гарантуючи комфортне використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Пристрій пропонує &lt;b&gt;30 різноманітних режимів вібрації&lt;/b&gt;, які легко перемикаються кнопками на рукоятці. Оксамитова текстура силіконової поверхні створює приємні тактильні відчуття, а компактні розміри роблять іграшку зручною для керування однією рукою.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Працює від двох батарейок ААА, що забезпечує автономність використання. Підходить для застосування з лубрикантами на водній основі, потребує очищення антибактеріальними засобами після кожного використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон, Пластик&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька, Оксамитова&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 20&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 10.5&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.4&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
-Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
-Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
-Керування з додатку: Ні&lt;/br&gt;</description_ua>
             </offer>
         <offer id="BI-014232-1" available="true">
                 <erp>BI-014232-1</erp>
@@ -24214,6 +24054,24 @@ AQUAglide Massage+Glide Lemongrass - це ідеальний вибір для �
             <name_ua>Анальна пробка B - Series HeavyFun Jawellery Gold Heart, рожева</name_ua>
             <description_ua>Ексклюзивні анальні прикраси з нержавіючої сталі. Високоякісна нержавіюча сталь гарантує безпеку вашого тіла. Пробка ідеально гладка, без гострих країв і не подразнює шкіру. Ідеально підходить для новачків і досвідчених любителів анальних ігор. Виготовлений з металу дає нам можливість охолодити або зігріти його, щоб покращити враження. Гарний діамант, прикріплений до основи, елегантний і чуттєвий. Пробка ідеально профільована, особлива анатомічна форма полегшує нанесення. Цибулинова форма чудово стимулює. З іншого боку, вузьке горлечко з ромбовою основою дозволить м’язам обгортатися і утримувати пробку на місці, запобігаючи поглинанню. Загальна довжина 7 см. Діаметр 2,7 см. Стильна упаковка у вигляді замшевого футляра. </description_ua>
             </offer>
+        <offer id="63-00005" available="true">
+                <erp>63-00005</erp>
+            <barcode>6972775511378</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/28977-stimulator_silicone_panty_vibrator__usb_10_function__heating__voice_control</url>
+            <price>1561.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>27</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/63-00005.jpg</picture>
+            <name>Вібратор B - Series Fox Foxshow Silicone Panty, з підігрівом</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Вібратор B - Series Fox Foxshow Silicone Panty, з підігрівом</model>
+            <description>Panty Vibrator - це зручний масажер на точку G. Завдяки потужному двигуну та інноваційним технологіям ця іграшка повністю задовольнить вас. Функція нагріву та режим бездротового управління та голосове управління дадуть вам більше задоволення. Ви можете дозволити своєму партнеру приєднатися до гри. Масажер виготовлений з високоякісного м’якого силікону, який пестить своїм оксамитовим дотиком. Заряджається іграшка за допомогою USB -кабелю. Користуйтесь безпечно у ванній або під душем, тому що іграшка повністю водонепроникна та занурюється, потім її можна легко очистити за допомогою засобу для чищення іграшок та промити теплою водою. Безпечний для організму, не містить фталатів. Іграшка працює єдиною кнопкою. 1. Коротко натисніть кнопку, щоб активувати масажер, ще одне коротке натискання переводить масажер у перший режим вібрації, кожне коротке натискання переводить масажер у 10 режимів вібрації. 2. Цим виробом також можна керувати за допомогою пульта дистанційного керування. Спочатку увімкніть масажер, потім коротко натисніть кнопку, щоб увімкнути пульт дистанційного керування, ще одне коротке натискання переводить масажер у перший режим вібрації, кожне коротке натискання переміщує масажер через 10 режимів вібрації. 3. У будь -якому режимі вібрації коротко натисніть бічну кнопку на пульті дистанційного керування, щоб увімкнути функцію нагріву, світлодіод загориться червоним, ще одне коротке натискання бічної кнопки вимкне функцію нагріву. 4) Натисніть і утримуйте бічну кнопку на пульті дистанційного керування, щоб перевести масажер в режим голосового управління, і ще раз натисніть бічну кнопку знову, щоб вимкнути режим керованого голосом.</description>
+            <name_ua>Вібратор B - Series Fox Foxshow Silicone Panty, з підігрівом</name_ua>
+            <description_ua>Panty Vibrator - це зручний масажер на точку G. Завдяки потужному двигуну та інноваційним технологіям ця іграшка повністю задовольнить вас. Функція нагріву та режим бездротового управління та голосове управління дадуть вам більше задоволення. Ви можете дозволити своєму партнеру приєднатися до гри. Масажер виготовлений з високоякісного м’якого силікону, який пестить своїм оксамитовим дотиком. Заряджається іграшка за допомогою USB -кабелю. Користуйтесь безпечно у ванній або під душем, тому що іграшка повністю водонепроникна та занурюється, потім її можна легко очистити за допомогою засобу для чищення іграшок та промити теплою водою. Безпечний для організму, не містить фталатів. Іграшка працює єдиною кнопкою. 1. Коротко натисніть кнопку, щоб активувати масажер, ще одне коротке натискання переводить масажер у перший режим вібрації, кожне коротке натискання переводить масажер у 10 режимів вібрації. 2. Цим виробом також можна керувати за допомогою пульта дистанційного керування. Спочатку увімкніть масажер, потім коротко натисніть кнопку, щоб увімкнути пульт дистанційного керування, ще одне коротке натискання переводить масажер у перший режим вібрації, кожне коротке натискання переміщує масажер через 10 режимів вібрації. 3. У будь -якому режимі вібрації коротко натисніть бічну кнопку на пульті дистанційного керування, щоб увімкнути функцію нагріву, світлодіод загориться червоним, ще одне коротке натискання бічної кнопки вимкне функцію нагріву. 4) Натисніть і утримуйте бічну кнопку на пульті дистанційного керування, щоб перевести масажер в режим голосового управління, і ще раз натисніть бічну кнопку знову, щоб вимкнути режим керованого голосом.</description_ua>
+            </offer>
         <offer id="63-00010" available="true">
                 <erp>63-00010</erp>
             <barcode>6970075608569</barcode>
@@ -26531,6 +26389,27 @@ Just Glide Premium Anal - це ідеальний вибір для тих, хт
 Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
 Гарантія: 1 рік&lt;/br&gt;</description_ua>
             </offer>
+        <offer id="66-LVBT-17" available="true">
+                <erp>66-LVBT-17</erp>
+            <barcode>697026090853</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30564-vibropulya_x_basic_bullet_mini</url>
+            <price>216.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>102</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3056464b2bc9a68377.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64b2bc9792add.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64b2bc97b1588.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64b2bc97c42a1.jpg</picture>
+            <name>Вібропуля X-Basic Bullet Mini</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor />
+            <model>Вібропуля X-Basic Bullet Mini</model>
+            <description>Вібропуля 1 швидкість. Матеріал: ABS. 5,9 см/1,7 см. Батарейки 3 x AG13 (у комплекті)</description>
+            <name_ua>Вібропуля X-Basic Bullet Mini</name_ua>
+            <description_ua>Вібропуля 1 швидкість. Матеріал: ABS. 5,9 см/1,7 см. Батарейки 3 x AG13 (у комплекті)</description_ua>
+            </offer>
         <offer id="BI-014598" available="true">
                 <erp>BI-014598</erp>
             <barcode>6959532331301</barcode>
@@ -26801,6 +26680,28 @@ Just Glide Premium Anal - це ідеальний вибір для тих, хт
 Живлення: Акумулятор&lt;/br&gt;&lt;br /&gt;
 Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
 Наявність присоски: Ні&lt;/br&gt;</description_ua>
+            </offer>
+        <offer id="26-00161" available="true">
+                <erp>26-00161</erp>
+            <barcode>5903661807023</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30694-viibrator_arlene_usb__pink</url>
+            <price>1719.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>18</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_306916500896452469.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6500896285cb3.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65008962b46da.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65008962db7ff.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65008963106b0.jpg</picture>
+            <name>Віібратор Arlene USB -Pink</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Віібратор Arlene USB -Pink</model>
+            <description>Віібратор Arlene USB -Pink</description>
+            <name_ua>Віібратор Arlene USB -Pink</name_ua>
+            <description_ua>Віібратор Arlene USB -Pink</description_ua>
             </offer>
         <offer id="26-00169" available="true">
                 <erp>26-00169</erp>
@@ -32795,53 +32696,6 @@ Woman №7 — твій аромат свободи, енергії та нев�
 &lt;br /&gt;
 Woman №7 — твій аромат свободи, енергії та невимушеної жіночності.</description_ua>
             </offer>
-        <offer id="6-9249" available="true">
-                <erp>6-9249</erp>
-            <barcode>5903661809249</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/35551-feromoni_dlya_cholovikiv_miyoshi_miyagi_ph_pheromone_1_15_ml</url>
-            <price>514.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>81</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_355476927369b83cc8.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_692736960af2c.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6927369627296.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_692736963b3ce.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_692736964e5cb.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6927369663c4a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6927369680e97.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69273696a3cda.jpg</picture>
-            <name>Феромони для чоловіків Miyoshi Miyagi PH Pheromone №1, 15 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>WPJ</vendor>
-            <model>Феромони для чоловіків Miyoshi Miyagi PH Pheromone №1, 15 мл</model>
-            <description>Сильні чоловічі феромони із серії Feromon Collection, створені для посилення привабливості та впевненості. Аромат — аналог BOSS Green, свіжий, енергійний і чуттєвий. Формула діє на рівні інстинкту, підсилює увагу жінок і пробуджує інтерес на підсвідомому рівні.&lt;br /&gt;
-&lt;br /&gt;
-Феромони мають насичений, стійкий аромат, а завдяки компактній пляшечці їх легко носити із собою. Достатньо 1–3 розпилень на шкіру або одяг.&lt;br /&gt;
-&lt;br /&gt;
-Особливості:&lt;br /&gt;
-• інтенсивний феромонний ефект&lt;br /&gt;
-• аромат-аналог BOSS Green&lt;br /&gt;
-• підсилює привабливість та впевненість&lt;br /&gt;
-• компактний формат 15 ml — ідеальний для щоденного використання&lt;br /&gt;
-&lt;br /&gt;
-Об'єм: 15 ml&lt;br /&gt;
-Виробник: Miyoshi Miyagi</description>
-            <name_ua>Феромони для чоловіків Miyoshi Miyagi PH Pheromone №1, 15 мл</name_ua>
-            <description_ua>Сильні чоловічі феромони із серії Feromon Collection, створені для посилення привабливості та впевненості. Аромат — аналог BOSS Green, свіжий, енергійний і чуттєвий. Формула діє на рівні інстинкту, підсилює увагу жінок і пробуджує інтерес на підсвідомому рівні.&lt;br /&gt;
-&lt;br /&gt;
-Феромони мають насичений, стійкий аромат, а завдяки компактній пляшечці їх легко носити із собою. Достатньо 1–3 розпилень на шкіру або одяг.&lt;br /&gt;
-&lt;br /&gt;
-Особливості:&lt;br /&gt;
-• інтенсивний феромонний ефект&lt;br /&gt;
-• аромат-аналог BOSS Green&lt;br /&gt;
-• підсилює привабливість та впевненість&lt;br /&gt;
-• компактний формат 15 ml — ідеальний для щоденного використання&lt;br /&gt;
-&lt;br /&gt;
-Об'єм: 15 ml&lt;br /&gt;
-Виробник: Miyoshi Miyagi</description_ua>
-            </offer>
         <offer id="810-00102" available="true">
                 <erp>810-00102</erp>
             <barcode>8433345710075</barcode>
@@ -35524,6 +35378,62 @@ Plaisir Secret Vanilla – це більше, ніж просто олія – �
 Діаметр (см): 2.2&lt;/br&gt;&lt;br /&gt;
 Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
 Живлення: Батарейки ААА (1 шт.)&lt;/br&gt;</description_ua>
+            </offer>
+        <offer id="BI-014220" available="true">
+                <erp>BI-014220</erp>
+            <barcode>6959532312126</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/13884-pretty_love_bishop_30_function</url>
+            <price>559.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>143</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/BI-014220.jpg</picture>
+            <name>Вібратор для точки G Pretty Love Bishop, рожевий</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor />
+            <model>Вібратор для точки G Pretty Love Bishop, рожевий</model>
+            <description>Вібратор Pretty Love Bishop створений спеціально для &lt;b&gt;стимуляції точки G&lt;/b&gt; завдяки вигнутій формі та розширеній голівці. Корпус виготовлений з міцного пластику, а робоча поверхня покрита &lt;b&gt;м'яким гіпоалергенним силіконом&lt;/b&gt; з гладенькою текстурою для комфортного використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Пристрій пропонує &lt;b&gt;30 різних режимів вібрації&lt;/b&gt;, які легко перемикаються однією кнопкою з підсвіткою. Друга кнопка керує увімкненням та вимкненням. Компактні розміри та зручне управління роблять використання простим навіть у темряві.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Працює від двох батарейок ААА, що забезпечує автономність використання. Рекомендується застосовувати лише лубриканти на водній основі та регулярно очищувати спеціальними засобами для догляду за інтимними аксесуарами.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Пластик, Силікон&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 18.2&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 11&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 3.1&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
+Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
+Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
+Керування з додатку: Ні&lt;/br&gt;</description>
+            <name_ua>Вібратор для точки G Pretty Love Bishop, рожевий</name_ua>
+            <description_ua>Вібратор Pretty Love Bishop створений спеціально для &lt;b&gt;стимуляції точки G&lt;/b&gt; завдяки вигнутій формі та розширеній голівці. Корпус виготовлений з міцного пластику, а робоча поверхня покрита &lt;b&gt;м'яким гіпоалергенним силіконом&lt;/b&gt; з гладенькою текстурою для комфортного використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Пристрій пропонує &lt;b&gt;30 різних режимів вібрації&lt;/b&gt;, які легко перемикаються однією кнопкою з підсвіткою. Друга кнопка керує увімкненням та вимкненням. Компактні розміри та зручне управління роблять використання простим навіть у темряві.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Працює від двох батарейок ААА, що забезпечує автономність використання. Рекомендується застосовувати лише лубриканти на водній основі та регулярно очищувати спеціальними засобами для догляду за інтимними аксесуарами.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Пластик, Силікон&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 18.2&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 11&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 3.1&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
+Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
+Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
+Керування з додатку: Ні&lt;/br&gt;</description_ua>
             </offer>
         <offer id="BI-014223" available="true">
                 <erp>BI-014223</erp>
@@ -38250,24 +38160,6 @@ Satisfyer Pro 4 Couples – це інноваційна іграшка, яка �
             <name_ua>Анальна пробка B - Series HeavyFun Jewellery, червоно-золотиста</name_ua>
             <description_ua>Виключні аналітичні прикраси з нержавіючої столиці. Якісна нержавіюча стійка гарантує безпеку для вашого тіла. Пробка ідеально гладка, без гострих країн і не дратує школу. Ідеально підходить для початківців та досвідчених улюблених аналогічної гри. Виготовлення з металу дозволяє нам шукати або нагрівати його для покращення досвіду. Прекрасний діамант, прикріплений до основ, елегантний та чутливий. Пробка ідеально підходить для профілактики, спеціальна анатомічна форма полегшує нанесення. Цибулінна форма чудово стимулює. Вузька горловина з діамантової основи, навпаки, дозволить мусульманам обертатися та підтримувати пробіпуну. Загальна довжина 7 см; Діаметр 2,7 см.</description_ua>
             </offer>
-        <offer id="63-00005" available="true">
-                <erp>63-00005</erp>
-            <barcode>6972775511378</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/28977-stimulator_silicone_panty_vibrator__usb_10_function__heating__voice_control</url>
-            <price>1561.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>27</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/63-00005.jpg</picture>
-            <name>Вібратор B - Series Fox Foxshow Silicone Panty, з підігрівом</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Вібратор B - Series Fox Foxshow Silicone Panty, з підігрівом</model>
-            <description>Panty Vibrator - це зручний масажер на точку G. Завдяки потужному двигуну та інноваційним технологіям ця іграшка повністю задовольнить вас. Функція нагріву та режим бездротового управління та голосове управління дадуть вам більше задоволення. Ви можете дозволити своєму партнеру приєднатися до гри. Масажер виготовлений з високоякісного м’якого силікону, який пестить своїм оксамитовим дотиком. Заряджається іграшка за допомогою USB -кабелю. Користуйтесь безпечно у ванній або під душем, тому що іграшка повністю водонепроникна та занурюється, потім її можна легко очистити за допомогою засобу для чищення іграшок та промити теплою водою. Безпечний для організму, не містить фталатів. Іграшка працює єдиною кнопкою. 1. Коротко натисніть кнопку, щоб активувати масажер, ще одне коротке натискання переводить масажер у перший режим вібрації, кожне коротке натискання переводить масажер у 10 режимів вібрації. 2. Цим виробом також можна керувати за допомогою пульта дистанційного керування. Спочатку увімкніть масажер, потім коротко натисніть кнопку, щоб увімкнути пульт дистанційного керування, ще одне коротке натискання переводить масажер у перший режим вібрації, кожне коротке натискання переміщує масажер через 10 режимів вібрації. 3. У будь -якому режимі вібрації коротко натисніть бічну кнопку на пульті дистанційного керування, щоб увімкнути функцію нагріву, світлодіод загориться червоним, ще одне коротке натискання бічної кнопки вимкне функцію нагріву. 4) Натисніть і утримуйте бічну кнопку на пульті дистанційного керування, щоб перевести масажер в режим голосового управління, і ще раз натисніть бічну кнопку знову, щоб вимкнути режим керованого голосом.</description>
-            <name_ua>Вібратор B - Series Fox Foxshow Silicone Panty, з підігрівом</name_ua>
-            <description_ua>Panty Vibrator - це зручний масажер на точку G. Завдяки потужному двигуну та інноваційним технологіям ця іграшка повністю задовольнить вас. Функція нагріву та режим бездротового управління та голосове управління дадуть вам більше задоволення. Ви можете дозволити своєму партнеру приєднатися до гри. Масажер виготовлений з високоякісного м’якого силікону, який пестить своїм оксамитовим дотиком. Заряджається іграшка за допомогою USB -кабелю. Користуйтесь безпечно у ванній або під душем, тому що іграшка повністю водонепроникна та занурюється, потім її можна легко очистити за допомогою засобу для чищення іграшок та промити теплою водою. Безпечний для організму, не містить фталатів. Іграшка працює єдиною кнопкою. 1. Коротко натисніть кнопку, щоб активувати масажер, ще одне коротке натискання переводить масажер у перший режим вібрації, кожне коротке натискання переводить масажер у 10 режимів вібрації. 2. Цим виробом також можна керувати за допомогою пульта дистанційного керування. Спочатку увімкніть масажер, потім коротко натисніть кнопку, щоб увімкнути пульт дистанційного керування, ще одне коротке натискання переводить масажер у перший режим вібрації, кожне коротке натискання переміщує масажер через 10 режимів вібрації. 3. У будь -якому режимі вібрації коротко натисніть бічну кнопку на пульті дистанційного керування, щоб увімкнути функцію нагріву, світлодіод загориться червоним, ще одне коротке натискання бічної кнопки вимкне функцію нагріву. 4) Натисніть і утримуйте бічну кнопку на пульті дистанційного керування, щоб перевести масажер в режим голосового управління, і ще раз натисніть бічну кнопку знову, щоб вимкнути режим керованого голосом.</description_ua>
-            </offer>
         <offer id="67-00005" available="true">
                 <erp>67-00005</erp>
             <barcode>5903661801168</barcode>
@@ -40045,27 +39937,6 @@ Satisfyer Pro 4 Couples – це інноваційна іграшка, яка �
 Керування з додатку: Ні&lt;/br&gt;&lt;br /&gt;
 Живлення: Не потребує&lt;/br&gt;</description_ua>
             </offer>
-        <offer id="66-LVBT-17" available="true">
-                <erp>66-LVBT-17</erp>
-            <barcode>697026090853</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30564-vibropulya_x_basic_bullet_mini</url>
-            <price>216.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>102</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3056464b2bc9a68377.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64b2bc9792add.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64b2bc97b1588.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64b2bc97c42a1.jpg</picture>
-            <name>Вібропуля X-Basic Bullet Mini</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor />
-            <model>Вібропуля X-Basic Bullet Mini</model>
-            <description>Вібропуля 1 швидкість. Матеріал: ABS. 5,9 см/1,7 см. Батарейки 3 x AG13 (у комплекті)</description>
-            <name_ua>Вібропуля X-Basic Bullet Mini</name_ua>
-            <description_ua>Вібропуля 1 швидкість. Матеріал: ABS. 5,9 см/1,7 см. Батарейки 3 x AG13 (у комплекті)</description_ua>
-            </offer>
         <offer id="69-17236" available="true">
                 <erp>69-17236</erp>
             <barcode>5600742917236</barcode>
@@ -40405,28 +40276,6 @@ Satisfyer Pro 4 Couples – це інноваційна іграшка, яка �
             <description>Неймовірна багатофункціональна секс-іграшка: вібрація, підігрів до 42 градусі за Цельсієм, симулятор оральних пестощів та пульсція. Вагінальний стовбур злегка вигнутий та покритий ребристим рельєфом, зверху на головці розміщений функціональний плоский язичок, який подарує відчуття оральних пестощів, такі ж три язички знаходяться на кліторальному відростку. Функціоналом комфортно керувати на руків'ї, комбінуючи між собою режими та обираючи ту комбінацію, яка приносить найбільше задоволення. Довжина - 24 см, діаметр - 3,5 см.</description>
             <name_ua>Вібратор для подвійної стимуляції Fanny Pink</name_ua>
             <description_ua>Неймовірна багатофункціональна секс-іграшка: вібрація, підігрів до 42 градусі за Цельсієм, симулятор оральних пестощів та пульсція. Вагінальний стовбур злегка вигнутий та покритий ребристим рельєфом, зверху на головці розміщений функціональний плоский язичок, який подарує відчуття оральних пестощів, такі ж три язички знаходяться на кліторальному відростку. Функціоналом комфортно керувати на руків'ї, комбінуючи між собою режими та обираючи ту комбінацію, яка приносить найбільше задоволення. Довжина - 24 см, діаметр - 3,5 см.</description_ua>
-            </offer>
-        <offer id="26-00161" available="true">
-                <erp>26-00161</erp>
-            <barcode>5903661807023</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30694-viibrator_arlene_usb__pink</url>
-            <price>1719.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>18</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_306916500896452469.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6500896285cb3.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65008962b46da.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65008962db7ff.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65008963106b0.jpg</picture>
-            <name>Віібратор Arlene USB -Pink</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Віібратор Arlene USB -Pink</model>
-            <description>Віібратор Arlene USB -Pink</description>
-            <name_ua>Віібратор Arlene USB -Pink</name_ua>
-            <description_ua>Віібратор Arlene USB -Pink</description_ua>
             </offer>
         <offer id="BW-063004" available="true">
                 <erp>BW-063004</erp>
@@ -44760,6 +44609,57 @@ USB-акумулятор&lt;br /&gt;
 Їстівне: Так&lt;br /&gt;
 Додаткові ефекти: Зігріваючі, Масажні</description_ua>
             </offer>
+        <offer id="69-17960" available="true">
+                <erp>69-17960</erp>
+            <barcode>5600742917960</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32333-sprey_dlya_glibokih_oralynih_lasok_orgie_oral_ease_deepthroat_</url>
+            <price>867.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>145</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3232968a829fa58a1f.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68a829f4248d7.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68a829f437a87.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68a829f449d9a.jpg</picture>
+            <name>Спрей для мінету Orgie Oral Ease Deepthroat, м'ята, 15 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor>ORGIE COSMETICS</vendor>
+            <model>Спрей для мінету Orgie Oral Ease Deepthroat, м'ята, 15 мл</model>
+            <description>Спрей Orgie Oral Ease Deepthroat створений для &lt;b&gt;комфортного глибокого орального сексу&lt;/b&gt; завдяки зниженню блювотного рефлексу. Засіб на водній основі м'яко впливає на слизові оболонки рота та горла, покращуючи ковзання без використання агресивних анестетиків.&lt;br /&gt;
+&lt;br /&gt;
+Формула з екстрактом Spilanthes Acmella та ментолом забезпечує &lt;b&gt;приємний охолоджуючий ефект&lt;/b&gt; і свіжий м'ятний смак. Спрей рівномірно розподіляється завдяки зручному розпилювачу, створюючи комфортні умови для інтимної близькості.&lt;br /&gt;
+&lt;br /&gt;
+Продукт підходить для людей з чутливістю до бензокаїну та інших анестетиків. Компактний флакон об'ємом 15 мл зручний у використанні та зберіганні.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Orgie&lt;br /&gt;
+Виробник: Orgie&lt;br /&gt;
+Об'єм (мл): 15&lt;br /&gt;
+Основа (складу): Водна&lt;br /&gt;
+Смак: М'ята&lt;br /&gt;
+Запах: М'ята&lt;br /&gt;
+Їстівне: Так&lt;br /&gt;
+Додаткові ефекти: Розслабляючі</description>
+            <name_ua>Спрей для мінету Orgie Oral Ease Deepthroat, м'ята, 15 мл</name_ua>
+            <description_ua>Спрей Orgie Oral Ease Deepthroat створений для &lt;b&gt;комфортного глибокого орального сексу&lt;/b&gt; завдяки зниженню блювотного рефлексу. Засіб на водній основі м'яко впливає на слизові оболонки рота та горла, покращуючи ковзання без використання агресивних анестетиків.&lt;br /&gt;
+&lt;br /&gt;
+Формула з екстрактом Spilanthes Acmella та ментолом забезпечує &lt;b&gt;приємний охолоджуючий ефект&lt;/b&gt; і свіжий м'ятний смак. Спрей рівномірно розподіляється завдяки зручному розпилювачу, створюючи комфортні умови для інтимної близькості.&lt;br /&gt;
+&lt;br /&gt;
+Продукт підходить для людей з чутливістю до бензокаїну та інших анестетиків. Компактний флакон об'ємом 15 мл зручний у використанні та зберіганні.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Orgie&lt;br /&gt;
+Виробник: Orgie&lt;br /&gt;
+Об'єм (мл): 15&lt;br /&gt;
+Основа (складу): Водна&lt;br /&gt;
+Смак: М'ята&lt;br /&gt;
+Запах: М'ята&lt;br /&gt;
+Їстівне: Так&lt;br /&gt;
+Додаткові ефекти: Розслабляючі</description_ua>
+            </offer>
         <offer id="94-0742" available="true">
                 <erp>94-0742</erp>
             <barcode>4820273030742</barcode>
@@ -46991,62 +46891,6 @@ Real Deal – це не просто іграшка, а спосіб відкр�
 Водонепроникність: Так&lt;/br&gt;&lt;br /&gt;
 Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
 Наявність присоски: Ні&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="BI-014220" available="true">
-                <erp>BI-014220</erp>
-            <barcode>6959532312126</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/13884-pretty_love_bishop_30_function</url>
-            <price>559.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>143</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/BI-014220.jpg</picture>
-            <name>Вібратор для точки G Pretty Love Bishop, рожевий</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor />
-            <model>Вібратор для точки G Pretty Love Bishop, рожевий</model>
-            <description>Вібратор Pretty Love Bishop створений спеціально для &lt;b&gt;стимуляції точки G&lt;/b&gt; завдяки вигнутій формі та розширеній голівці. Корпус виготовлений з міцного пластику, а робоча поверхня покрита &lt;b&gt;м'яким гіпоалергенним силіконом&lt;/b&gt; з гладенькою текстурою для комфортного використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Пристрій пропонує &lt;b&gt;30 різних режимів вібрації&lt;/b&gt;, які легко перемикаються однією кнопкою з підсвіткою. Друга кнопка керує увімкненням та вимкненням. Компактні розміри та зручне управління роблять використання простим навіть у темряві.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Працює від двох батарейок ААА, що забезпечує автономність використання. Рекомендується застосовувати лише лубриканти на водній основі та регулярно очищувати спеціальними засобами для догляду за інтимними аксесуарами.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Пластик, Силікон&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 18.2&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 11&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.1&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
-Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
-Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
-Керування з додатку: Ні&lt;/br&gt;</description>
-            <name_ua>Вібратор для точки G Pretty Love Bishop, рожевий</name_ua>
-            <description_ua>Вібратор Pretty Love Bishop створений спеціально для &lt;b&gt;стимуляції точки G&lt;/b&gt; завдяки вигнутій формі та розширеній голівці. Корпус виготовлений з міцного пластику, а робоча поверхня покрита &lt;b&gt;м'яким гіпоалергенним силіконом&lt;/b&gt; з гладенькою текстурою для комфортного використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Пристрій пропонує &lt;b&gt;30 різних режимів вібрації&lt;/b&gt;, які легко перемикаються однією кнопкою з підсвіткою. Друга кнопка керує увімкненням та вимкненням. Компактні розміри та зручне управління роблять використання простим навіть у темряві.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Працює від двох батарейок ААА, що забезпечує автономність використання. Рекомендується застосовувати лише лубриканти на водній основі та регулярно очищувати спеціальними засобами для догляду за інтимними аксесуарами.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Пластик, Силікон&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 18.2&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 11&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.1&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
-Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
-Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
-Керування з додатку: Ні&lt;/br&gt;</description_ua>
             </offer>
         <offer id="BI-014287" available="true">
                 <erp>BI-014287</erp>
@@ -52857,57 +52701,6 @@ USB-акумулятор&lt;br /&gt;
 Смак: Ожина (їстівний)&lt;br /&gt;
 Безпечний для шкіри, іграшок та презервативів&lt;br /&gt;
 Нелипкий, легко змивається</description_ua>
-            </offer>
-        <offer id="69-17960" available="true">
-                <erp>69-17960</erp>
-            <barcode>5600742917960</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32333-sprey_dlya_glibokih_oralynih_lasok_orgie_oral_ease_deepthroat_</url>
-            <price>867.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>145</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3232968a829fa58a1f.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68a829f4248d7.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68a829f437a87.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68a829f449d9a.jpg</picture>
-            <name>Спрей для мінету Orgie Oral Ease Deepthroat, м'ята, 15 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>ORGIE COSMETICS</vendor>
-            <model>Спрей для мінету Orgie Oral Ease Deepthroat, м'ята, 15 мл</model>
-            <description>Спрей Orgie Oral Ease Deepthroat створений для &lt;b&gt;комфортного глибокого орального сексу&lt;/b&gt; завдяки зниженню блювотного рефлексу. Засіб на водній основі м'яко впливає на слизові оболонки рота та горла, покращуючи ковзання без використання агресивних анестетиків.&lt;br /&gt;
-&lt;br /&gt;
-Формула з екстрактом Spilanthes Acmella та ментолом забезпечує &lt;b&gt;приємний охолоджуючий ефект&lt;/b&gt; і свіжий м'ятний смак. Спрей рівномірно розподіляється завдяки зручному розпилювачу, створюючи комфортні умови для інтимної близькості.&lt;br /&gt;
-&lt;br /&gt;
-Продукт підходить для людей з чутливістю до бензокаїну та інших анестетиків. Компактний флакон об'ємом 15 мл зручний у використанні та зберіганні.&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Orgie&lt;br /&gt;
-Виробник: Orgie&lt;br /&gt;
-Об'єм (мл): 15&lt;br /&gt;
-Основа (складу): Водна&lt;br /&gt;
-Смак: М'ята&lt;br /&gt;
-Запах: М'ята&lt;br /&gt;
-Їстівне: Так&lt;br /&gt;
-Додаткові ефекти: Розслабляючі</description>
-            <name_ua>Спрей для мінету Orgie Oral Ease Deepthroat, м'ята, 15 мл</name_ua>
-            <description_ua>Спрей Orgie Oral Ease Deepthroat створений для &lt;b&gt;комфортного глибокого орального сексу&lt;/b&gt; завдяки зниженню блювотного рефлексу. Засіб на водній основі м'яко впливає на слизові оболонки рота та горла, покращуючи ковзання без використання агресивних анестетиків.&lt;br /&gt;
-&lt;br /&gt;
-Формула з екстрактом Spilanthes Acmella та ментолом забезпечує &lt;b&gt;приємний охолоджуючий ефект&lt;/b&gt; і свіжий м'ятний смак. Спрей рівномірно розподіляється завдяки зручному розпилювачу, створюючи комфортні умови для інтимної близькості.&lt;br /&gt;
-&lt;br /&gt;
-Продукт підходить для людей з чутливістю до бензокаїну та інших анестетиків. Компактний флакон об'ємом 15 мл зручний у використанні та зберіганні.&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Orgie&lt;br /&gt;
-Виробник: Orgie&lt;br /&gt;
-Об'єм (мл): 15&lt;br /&gt;
-Основа (складу): Водна&lt;br /&gt;
-Смак: М'ята&lt;br /&gt;
-Запах: М'ята&lt;br /&gt;
-Їстівне: Так&lt;br /&gt;
-Додаткові ефекти: Розслабляючі</description_ua>
             </offer>
         <offer id="BI-040045W-MR" available="true">
                 <erp>BI-040045W-MR</erp>
@@ -60463,6 +60256,24 @@ H2O UNI Gel - це універсальний і надійний лубрика
             <name_ua>Тампони Soft-Tampons mini, box of 10</name_ua>
             <description_ua>Тампони Soft-Tampons minil -це тампони для жінок, які ведуть активний спосіб життя. Тампони виготовлені з комфортного та екологічного матеріалу. Легко адаптуються під форму тіла , тому вони зовсім не відчуваються в середині. Можна використовувати під час відвідин байну чи сауни. Коробка - 10 шт.</description_ua>
             </offer>
+        <offer id="48-12201" available="true">
+                <erp>48-12201</erp>
+            <barcode>4028403122019</barcode>
+            <quantity_in_stock>6</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/6926-tampony_soft_tampons_normal_box_of_10</url>
+            <price>782.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>124</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/48-12201.jpg</picture>
+            <name>Тампони Tampony-Soft-Tampons normal, box of 10</name>
+            <Отображать>Да</Отображать>
+            <stock>6</stock>
+            <vendor>JOYDIVISION</vendor>
+            <model>Тампони Tampony-Soft-Tampons normal, box of 10</model>
+            <description>Tampony-Soft-Tampons normal  (10 одиниць) -  гігієнічні тампони, які легко застосовуються без ниточок, спеціально розроблені для максимального захисту та комфорту. Тампони розроблені відповідно до останніх знань гінекології для використання в сауні, під час спорту, плавання... а також для гігієни в інтимних стосунках. Тепер, завдяки анатомічній формі, віна полегшує введення, а наявність кільця забезпечує ще більш комфортне та безпечне його усунення.</description>
+            <name_ua>Тампони Tampony-Soft-Tampons normal, box of 10</name_ua>
+            <description_ua>Tampony-Soft-Tampons normal  (10 одиниць) -  гігієнічні тампони, які легко застосовуються без ниточок, спеціально розроблені для максимального захисту та комфорту. Тампони розроблені відповідно до останніх знань гінекології для використання в сауні, під час спорту, плавання... а також для гігієни в інтимних стосунках. Тепер, завдяки анатомічній формі, віна полегшує введення, а наявність кільця забезпечує ще більш комфортне та безпечне його усунення.</description_ua>
+            </offer>
         <offer id="42-24902421001" available="true">
                 <erp>42-24902421001</erp>
             <barcode>4024144002245</barcode>
@@ -66290,24 +66101,6 @@ AQUAglide Liquid - це ідеальний вибір для тих, хто шу
             <name_ua>Тампони JoyDivision Soft, 50 шт</name_ua>
             <description_ua>Тампони Soft-Tampons normal -це тампони для жінок, які ведуть активний спосіб життя. Тампони виготовлені з комфортного та екологічного матеріалу. Легко адаптуються під форму тіла , тому вони зовсім не відчуваються в середині. Коробка - 50 шт.</description_ua>
             </offer>
-        <offer id="48-12201" available="true">
-                <erp>48-12201</erp>
-            <barcode>4028403122019</barcode>
-            <quantity_in_stock>8</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/6926-tampony_soft_tampons_normal_box_of_10</url>
-            <price>782.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>124</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/48-12201.jpg</picture>
-            <name>Тампони Tampony-Soft-Tampons normal, box of 10</name>
-            <Отображать>Да</Отображать>
-            <stock>8</stock>
-            <vendor>JOYDIVISION</vendor>
-            <model>Тампони Tampony-Soft-Tampons normal, box of 10</model>
-            <description>Tampony-Soft-Tampons normal  (10 одиниць) -  гігієнічні тампони, які легко застосовуються без ниточок, спеціально розроблені для максимального захисту та комфорту. Тампони розроблені відповідно до останніх знань гінекології для використання в сауні, під час спорту, плавання... а також для гігієни в інтимних стосунках. Тепер, завдяки анатомічній формі, віна полегшує введення, а наявність кільця забезпечує ще більш комфортне та безпечне його усунення.</description>
-            <name_ua>Тампони Tampony-Soft-Tampons normal, box of 10</name_ua>
-            <description_ua>Tampony-Soft-Tampons normal  (10 одиниць) -  гігієнічні тампони, які легко застосовуються без ниточок, спеціально розроблені для максимального захисту та комфорту. Тампони розроблені відповідно до останніх знань гінекології для використання в сауні, під час спорту, плавання... а також для гігієни в інтимних стосунках. Тепер, завдяки анатомічній формі, віна полегшує введення, а наявність кільця забезпечує ще більш комфортне та безпечне його усунення.</description_ua>
-            </offer>
         <offer id="BI-014218" available="true">
                 <erp>BI-014218</erp>
             <barcode>6959532311761</barcode>
@@ -66948,6 +66741,24 @@ AQUAglide Liquid - це ідеальний вибір для тих, хто шу
             <description>Стильний, водонепроникний вібратор з 10 функціями вібрації, пульсації та ескалації, а також функцією нагріву. Футуристичний вигляд та сучасний дизайн роблять цю модель виділяється серед усіх секс -іграшок, які ми пропонуємо. Виріб виготовлено з мікроскопічною точністю, не містить токсичних речовин, не виділяє запаху. Надзвичайно легкий за своїми розмірами. Злегка вигнутий, ідеально призначений для стимуляції точки G або стимуляції простати. Дизайн вібратора був створений провідними дизайнерами. Приємні на дотик, як шовк, властивості медичного силікону, який був використаний для створення цього дива задоволення. Зарядка здійснюється за допомогою зарядного пристрою USB. Вбудована батарея збільшує час роботи вібратора до максимуму. Він на 100% водонепроникний, його можна використовувати, наприклад під душем, виготовлений із силіконового сейфу медичного класу. Прелюдія з таким гаджетом, безумовно, стане приємним і новим еротичним досвідом.</description>
             <name_ua>Вібромасажер точки G B - Series Fox Silicone G-spot Massager, з нагріванням, чорний</name_ua>
             <description_ua>Стильний, водонепроникний вібратор з 10 функціями вібрації, пульсації та ескалації, а також функцією нагріву. Футуристичний вигляд та сучасний дизайн роблять цю модель виділяється серед усіх секс -іграшок, які ми пропонуємо. Виріб виготовлено з мікроскопічною точністю, не містить токсичних речовин, не виділяє запаху. Надзвичайно легкий за своїми розмірами. Злегка вигнутий, ідеально призначений для стимуляції точки G або стимуляції простати. Дизайн вібратора був створений провідними дизайнерами. Приємні на дотик, як шовк, властивості медичного силікону, який був використаний для створення цього дива задоволення. Зарядка здійснюється за допомогою зарядного пристрою USB. Вбудована батарея збільшує час роботи вібратора до максимуму. Він на 100% водонепроникний, його можна використовувати, наприклад під душем, виготовлений із силіконового сейфу медичного класу. Прелюдія з таким гаджетом, безумовно, стане приємним і новим еротичним досвідом.</description_ua>
+            </offer>
+        <offer id="61-00006" available="true">
+                <erp>61-00006</erp>
+            <barcode>5903661804176</barcode>
+            <quantity_in_stock>8</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/29031-naruchniki_fetish_boss_seriesfurry_cuffs_white</url>
+            <price>493.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>64</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/61-00006.jpg</picture>
+            <name>Наручники Fetish B - Series Fetish Boss Series Furry, білі</name>
+            <Отображать>Да</Отображать>
+            <stock>8</stock>
+            <vendor>FETISH BOSS SERIES</vendor>
+            <model>Наручники Fetish B - Series Fetish Boss Series Furry, білі</model>
+            <description>Плюш і сталь - захоплююче з'єднання! Важки, міцні наручники з коротким з'єднанням з ланцюгом і знімними плюшевими чохлами. Включає два ключі, але їх також можна відкрити за допомогою ручок. Внутрішній діаметр 7 см (змінений), з'єднувальний ланцюг довжиною 7,5 см. Вага 180 г. Немає нічого кращого, ніж поручники для любовного подарунка. Ця ексклюзивна секс -іграшка - перший крок до любовної гри! Ідеальний подарунок до Дня Святого Валентина, Діда Мороза або навіть Різдва! Наручники регулюються так, що вони можуть носити навколо зап'ястя або над щиколотками. Щоб збагатити відчуття, наручники загортають в оксамітовий пухнастий плюш. Додайте трохи спеціальностей у своє ліжко за допомогою цих сексуальних порушників. Захопіть свого партнера та покажіть, хто тут керує. Ви обмежуєтесь лише власною уявою.</description>
+            <name_ua>Наручники Fetish B - Series Fetish Boss Series Furry, білі</name_ua>
+            <description_ua>Плюш і сталь - захоплююче з'єднання! Важки, міцні наручники з коротким з'єднанням з ланцюгом і знімними плюшевими чохлами. Включає два ключі, але їх також можна відкрити за допомогою ручок. Внутрішній діаметр 7 см (змінений), з'єднувальний ланцюг довжиною 7,5 см. Вага 180 г. Немає нічого кращого, ніж поручники для любовного подарунка. Ця ексклюзивна секс -іграшка - перший крок до любовної гри! Ідеальний подарунок до Дня Святого Валентина, Діда Мороза або навіть Різдва! Наручники регулюються так, що вони можуть носити навколо зап'ястя або над щиколотками. Щоб збагатити відчуття, наручники загортають в оксамітовий пухнастий плюш. Додайте трохи спеціальностей у своє ліжко за допомогою цих сексуальних порушників. Захопіть свого партнера та покажіть, хто тут керує. Ви обмежуєтесь лише власною уявою.</description_ua>
             </offer>
         <offer id="67-00006" available="true">
                 <erp>67-00006</erp>
@@ -68884,24 +68695,6 @@ LoveToy Small Anal Plug — ніжний і безпечний спосіб по
             <name_ua>Анальна пробка  -Jawellery Gold PLUGRose</name_ua>
             <description_ua>Виключні аналітичні прикраси з нержавіючої столиці. Високоякісна нержавіюча стійка гарантує безпеку вашого тіла. Пробка ідеально гладка, без гостричних країн та не підпорядкована шкірі. Ідеально підходить для новачків та досвідчених улюблених аналогічних гри. Виготовлення з металу дозволяє нам охороняти або нагрівати його, щоб покращити відновлення. Гарний діамант, прикріплений до основ, елегантний та чутливий. Ідеально профільована, спеціально анатомічна форма полегшує нанесення. Цибулінна форма чудово стимулює. Вузька шия з алмазною основою, навпаки, дозволить м'яз оберігатися та підтримувати пробку на місці. Загальна довжина 7 см. Діаметр 2,7 см. Стильна упаковка у вигляді замшевого чола.</description_ua>
             </offer>
-        <offer id="61-00006" available="true">
-                <erp>61-00006</erp>
-            <barcode>5903661804176</barcode>
-            <quantity_in_stock>9</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29031-naruchniki_fetish_boss_seriesfurry_cuffs_white</url>
-            <price>493.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>64</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/61-00006.jpg</picture>
-            <name>Наручники Fetish B - Series Fetish Boss Series Furry, білі</name>
-            <Отображать>Да</Отображать>
-            <stock>9</stock>
-            <vendor>FETISH BOSS SERIES</vendor>
-            <model>Наручники Fetish B - Series Fetish Boss Series Furry, білі</model>
-            <description>Плюш і сталь - захоплююче з'єднання! Важки, міцні наручники з коротким з'єднанням з ланцюгом і знімними плюшевими чохлами. Включає два ключі, але їх також можна відкрити за допомогою ручок. Внутрішній діаметр 7 см (змінений), з'єднувальний ланцюг довжиною 7,5 см. Вага 180 г. Немає нічого кращого, ніж поручники для любовного подарунка. Ця ексклюзивна секс -іграшка - перший крок до любовної гри! Ідеальний подарунок до Дня Святого Валентина, Діда Мороза або навіть Різдва! Наручники регулюються так, що вони можуть носити навколо зап'ястя або над щиколотками. Щоб збагатити відчуття, наручники загортають в оксамітовий пухнастий плюш. Додайте трохи спеціальностей у своє ліжко за допомогою цих сексуальних порушників. Захопіть свого партнера та покажіть, хто тут керує. Ви обмежуєтесь лише власною уявою.</description>
-            <name_ua>Наручники Fetish B - Series Fetish Boss Series Furry, білі</name_ua>
-            <description_ua>Плюш і сталь - захоплююче з'єднання! Важки, міцні наручники з коротким з'єднанням з ланцюгом і знімними плюшевими чохлами. Включає два ключі, але їх також можна відкрити за допомогою ручок. Внутрішній діаметр 7 см (змінений), з'єднувальний ланцюг довжиною 7,5 см. Вага 180 г. Немає нічого кращого, ніж поручники для любовного подарунка. Ця ексклюзивна секс -іграшка - перший крок до любовної гри! Ідеальний подарунок до Дня Святого Валентина, Діда Мороза або навіть Різдва! Наручники регулюються так, що вони можуть носити навколо зап'ястя або над щиколотками. Щоб збагатити відчуття, наручники загортають в оксамітовий пухнастий плюш. Додайте трохи спеціальностей у своє ліжко за допомогою цих сексуальних порушників. Захопіть свого партнера та покажіть, хто тут керує. Ви обмежуєтесь лише власною уявою.</description_ua>
-            </offer>
         <offer id="MC-29" available="true">
                 <erp>MC-29</erp>
             <barcode>6937526503385</barcode>
@@ -69538,6 +69331,26 @@ Woman №9 — аромат пристрасті, елегантності та 
             <name_ua>Гель-лубрикант Waterglide Anal 300 ml </name_ua>
             <description_ua>&lt;p&gt;Waterglide Anal - це спеціалізований лубрикант на водній основі, розроблений для забезпечення максимального комфорту і безпеки під час анального сексу. Завдяки своїй густій текстурі та спеціально підібраному складу, цей гель забезпечує тривале зволоження і плавне ковзання.&lt;br /&gt;&lt;br /&gt;Основні переваги:&lt;br /&gt;&lt;br /&gt;1. Спеціально для анального використання: Гель має спеціально розроблену формулу для зменшення тертя і забезпечення максимального комфорту під час анального сексу.&lt;br /&gt;2. Густа текстура: Waterglide Anal має густу і насичену текстуру, що забезпечує тривале зволоження і плавне ковзання, зменшуючи ризик дискомфорту.&lt;br /&gt;3. Водна основа: Лубрикант має водну основу, що забезпечує легке очищення і сумісність з латексними презервативами та секс-іграшками.&lt;br /&gt;4. Великий об’єм: Флакон об’ємом 300 мл є економічним і забезпечує тривале використання, що робить його відмінним вибором для регулярного застосування.&lt;br /&gt;5. Безпечний склад: Не містить агресивних компонентів і ароматизаторів, що робить його підходящим для чутливої шкіри і знижує ризик алергічних реакцій.&lt;br /&gt;&lt;br /&gt;Спосіб застосування:&lt;br /&gt;&lt;br /&gt;Нанесіть необхідну кількість гелю на анальну область або на секс-іграшку перед використанням. Рівномірно розподіліть для досягнення оптимального зволоження і комфорту. Після використання промийте зони, на які був нанесений гель, водою.&lt;br /&gt;&lt;br /&gt;Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;• Уникайте контакту з очима.&lt;br /&gt;• Зберігайте у недоступному для дітей місці.&lt;br /&gt;• Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;• Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;Чому обирають Waterglide Anal:&lt;br /&gt;&lt;br /&gt;Waterglide Anal - це ідеальний вибір для тих, хто шукає високоякісний лубрикант для анального використання. Його густая текстура і спеціально розроблена формула забезпечують комфорт і безпеку, що робить кожен інтимний момент більш приємним і безпечним.&lt;/p&gt;</description_ua>
             </offer>
+        <offer id="19-2041" available="true">
+                <erp>19-2041</erp>
+            <barcode>3548960020418</barcode>
+            <quantity_in_stock>10</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2417-feromony_sex_spray_15_ml</url>
+            <price>508.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>81</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_241768501a2f4bbcd.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68501a2d0a7d3.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68501a2d32348.jpg</picture>
+            <name>Парфуми Ruf Sex Spray, 15 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>10</stock>
+            <vendor>RUF</vendor>
+            <model>Парфуми Ruf Sex Spray, 15 мл</model>
+            <description>Феромони – це природні речовини, які впливають на підсвідомість непомітним для зору: вони підвищують інтерес жінок, стимулюють і концентрують їхню увагу на чоловікові, створюючи навколо чоловіка ауру панування. Концентрована форма і відповідні пропорції т. зв Ароматичні атрактанти додатково посилюються дієвістю феромонів, що виробляються кожним з нас. Цей процес дуже помітний у тваринному світі, і тепер, завдяки досягненню технологій, ми можемо використовувати ці знання щодня. Читайте статтю про користь феромонів у житті кожного, хто хотів би допомогти своїй чарівності, щоб справити гарне перше враження, налагодити стосунки або зберегти пристрасть у постійних стосунках</description>
+            <name_ua>Парфуми Ruf Sex Spray, 15 мл</name_ua>
+            <description_ua>Феромони – це природні речовини, які впливають на підсвідомість непомітним для зору: вони підвищують інтерес жінок, стимулюють і концентрують їхню увагу на чоловікові, створюючи навколо чоловіка ауру панування. Концентрована форма і відповідні пропорції т. зв Ароматичні атрактанти додатково посилюються дієвістю феромонів, що виробляються кожним з нас. Цей процес дуже помітний у тваринному світі, і тепер, завдяки досягненню технологій, ми можемо використовувати ці знання щодня. Читайте статтю про користь феромонів у житті кожного, хто хотів би допомогти своїй чарівності, щоб справити гарне перше враження, налагодити стосунки або зберегти пристрасть у постійних стосунках</description_ua>
+            </offer>
         <offer id="19-3065" available="true">
                 <erp>19-3065</erp>
             <barcode>3548960030653</barcode>
@@ -69953,6 +69766,31 @@ Woman №9 — аромат пристрасті, елегантності та 
             <description>&lt;p&gt;Два силіконових кільця Satisfyer Spectacular Duo створюють ефект гіперемії на пенісі та яєчках. Кліторальний масажер забезпечує додаткову стимуляцію. Кільце для пеніса привертає увагу своїм привабливим футуристичним дизайном. Виготовлений з надзвичайно м’якого, безпечного для шкіри медичного силікону, гладкого на дотик і надзвичайно гігієнічного більша витривалість за рахунок одночасного впливу гіперемії в статевому члені і яєчках ідеальний продукт для пар Приготуйтеся до вражаючого досвіду! Satisfyer Spectacular Duo – це високоякісне силіконове кільце для пеніса та яєчок, яке забезпечує більш інтенсивні відчуття та покращує витривалість під час статевого акту. Внутрішнє кільце оточує ваш пеніс, а зовнішнє оточує ваші яєчка, створюючи захоплюючий ефект гіперемії. Кліторальний масажер одночасно пестить вашого партнера - завдяки своїй товстій формі він забезпечує особливо точну стимуляцію. 12 програм вібрації можна легко перемикати одним натисканням кнопки, яка розташована збоку пристрою.Satisfyer Spectacular Duo привертає увагу своїм спортивним дизайном і неоновим кольором, а також вражає високоякісним матеріалом. Гаджет виготовлений з надзвичайно гігієнічного та безпечного для шкіри силікону. Ви б хотіли пограти у воді? Немає проблем - завдяки своїй водонепроникності (IPX7) Satisfyer Spectacular Duo задовольнить вас як під душем, так і у ванні. Потім промийте його теплою водою з невеликою кількістю м’якого мила, а також скористайтеся спеціальним дезінфікуючим засобом для секс-гаджетів. Якщо кільце для пеніса закінчиться, його можна зарядити за допомогою USB-кабелю, що входить в комплект.&lt;/p&gt;</description>
             <name_ua>Віброкільце для члена Satisfyer Spectacular Duo, жовте</name_ua>
             <description_ua>&lt;p&gt;Два силіконових кільця Satisfyer Spectacular Duo створюють ефект гіперемії на пенісі та яєчках. Кліторальний масажер забезпечує додаткову стимуляцію. Кільце для пеніса привертає увагу своїм привабливим футуристичним дизайном. Виготовлений з надзвичайно м’якого, безпечного для шкіри медичного силікону, гладкого на дотик і надзвичайно гігієнічного більша витривалість за рахунок одночасного впливу гіперемії в статевому члені і яєчках ідеальний продукт для пар Приготуйтеся до вражаючого досвіду! Satisfyer Spectacular Duo – це високоякісне силіконове кільце для пеніса та яєчок, яке забезпечує більш інтенсивні відчуття та покращує витривалість під час статевого акту. Внутрішнє кільце оточує ваш пеніс, а зовнішнє оточує ваші яєчка, створюючи захоплюючий ефект гіперемії. Кліторальний масажер одночасно пестить вашого партнера - завдяки своїй товстій формі він забезпечує особливо точну стимуляцію. 12 програм вібрації можна легко перемикати одним натисканням кнопки, яка розташована збоку пристрою.Satisfyer Spectacular Duo привертає увагу своїм спортивним дизайном і неоновим кольором, а також вражає високоякісним матеріалом. Гаджет виготовлений з надзвичайно гігієнічного та безпечного для шкіри силікону. Ви б хотіли пограти у воді? Немає проблем - завдяки своїй водонепроникності (IPX7) Satisfyer Spectacular Duo задовольнить вас як під душем, так і у ванні. Потім промийте його теплою водою з невеликою кількістю м’якого мила, а також скористайтеся спеціальним дезінфікуючим засобом для секс-гаджетів. Якщо кільце для пеніса закінчиться, його можна зарядити за допомогою USB-кабелю, що входить в комплект.&lt;/p&gt;</description_ua>
+            </offer>
+        <offer id="BI-026238" available="true">
+                <erp>BI-026238</erp>
+            <barcode>6959532325805</barcode>
+            <quantity_in_stock>10</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/29730-nasadka__na_penis_baile___sex_toys_big_man</url>
+            <price>213.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>36</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_2973062ee930e536c6.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee930bc2d92.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee930bdc073.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee930be9f5c.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee930c06dea.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee930c14628.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee930c22bce.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee930c33816.png</picture>
+            <name>Насадка на член Baile Sex Toys Big Man, тілесна</name>
+            <Отображать>Да</Отображать>
+            <stock>10</stock>
+            <vendor />
+            <model>Насадка на член Baile Sex Toys Big Man, тілесна</model>
+            <description>Насадка на член Baile Sex Toys Big Man, тілесна</description>
+            <name_ua>Насадка на член Baile Sex Toys Big Man, тілесна</name_ua>
+            <description_ua>Насадка на член Baile Sex Toys Big Man, тілесна</description_ua>
             </offer>
         <offer id="69-21128" available="true">
                 <erp>69-21128</erp>
@@ -70588,26 +70426,6 @@ Intt Hot &amp; Cold Lubricant - це чудовий вибір для тих, х
 Цей продукт обов'язково оживить атмосферу, зруйнує стереотипи та додасть гумору – ідеально підходить для різних випадків та незвичайних сценаріїв.&lt;br /&gt;
 Гарантований вау-ефект, який може оживити навіть найзапеклішу вечірку... </description_ua>
             </offer>
-        <offer id="19-2041" available="true">
-                <erp>19-2041</erp>
-            <barcode>3548960020418</barcode>
-            <quantity_in_stock>11</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2417-feromony_sex_spray_15_ml</url>
-            <price>508.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>81</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_241768501a2f4bbcd.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68501a2d0a7d3.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68501a2d32348.jpg</picture>
-            <name>Парфуми Ruf Sex Spray, 15 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>11</stock>
-            <vendor>RUF</vendor>
-            <model>Парфуми Ruf Sex Spray, 15 мл</model>
-            <description>Феромони – це природні речовини, які впливають на підсвідомість непомітним для зору: вони підвищують інтерес жінок, стимулюють і концентрують їхню увагу на чоловікові, створюючи навколо чоловіка ауру панування. Концентрована форма і відповідні пропорції т. зв Ароматичні атрактанти додатково посилюються дієвістю феромонів, що виробляються кожним з нас. Цей процес дуже помітний у тваринному світі, і тепер, завдяки досягненню технологій, ми можемо використовувати ці знання щодня. Читайте статтю про користь феромонів у житті кожного, хто хотів би допомогти своїй чарівності, щоб справити гарне перше враження, налагодити стосунки або зберегти пристрасть у постійних стосунках</description>
-            <name_ua>Парфуми Ruf Sex Spray, 15 мл</name_ua>
-            <description_ua>Феромони – це природні речовини, які впливають на підсвідомість непомітним для зору: вони підвищують інтерес жінок, стимулюють і концентрують їхню увагу на чоловікові, створюючи навколо чоловіка ауру панування. Концентрована форма і відповідні пропорції т. зв Ароматичні атрактанти додатково посилюються дієвістю феромонів, що виробляються кожним з нас. Цей процес дуже помітний у тваринному світі, і тепер, завдяки досягненню технологій, ми можемо використовувати ці знання щодня. Читайте статтю про користь феромонів у житті кожного, хто хотів би допомогти своїй чарівності, щоб справити гарне перше враження, налагодити стосунки або зберегти пристрасть у постійних стосунках</description_ua>
-            </offer>
         <offer id="19-2072" available="true">
                 <erp>19-2072</erp>
             <barcode>3548960020722</barcode>
@@ -70965,31 +70783,6 @@ Virgin Tight - це відмінний вибір для тих, хто шука
             <description>Він призначений як для початківців, так і для досвідчених користувачів. Форма для максимальної насолоди з прожилчастим верхом для нескінченної насолоди. Керуйте вібраціями на різних швидкостях за допомогою зручної ручки на основі, яка легко тримається. Ручка частково водонепроникна і може використовуватися разом із мастилом. Цей донг TPR вартий кожної копійки - спробуйте цього прекрасного малюка, і ви не пошкодуєте.</description>
             <name_ua>Вібратор DWARF Soft Skin, 21 см</name_ua>
             <description_ua>Він призначений як для початківців, так і для досвідчених користувачів. Форма для максимальної насолоди з прожилчастим верхом для нескінченної насолоди. Керуйте вібраціями на різних швидкостях за допомогою зручної ручки на основі, яка легко тримається. Ручка частково водонепроникна і може використовуватися разом із мастилом. Цей донг TPR вартий кожної копійки - спробуйте цього прекрасного малюка, і ви не пошкодуєте.</description_ua>
-            </offer>
-        <offer id="BI-026238" available="true">
-                <erp>BI-026238</erp>
-            <barcode>6959532325805</barcode>
-            <quantity_in_stock>11</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29730-nasadka__na_penis_baile___sex_toys_big_man</url>
-            <price>213.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>36</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_2973062ee930e536c6.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee930bc2d92.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee930bdc073.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee930be9f5c.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee930c06dea.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee930c14628.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee930c22bce.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee930c33816.png</picture>
-            <name>Насадка на член Baile Sex Toys Big Man, тілесна</name>
-            <Отображать>Да</Отображать>
-            <stock>11</stock>
-            <vendor />
-            <model>Насадка на член Baile Sex Toys Big Man, тілесна</model>
-            <description>Насадка на член Baile Sex Toys Big Man, тілесна</description>
-            <name_ua>Насадка на член Baile Sex Toys Big Man, тілесна</name_ua>
-            <description_ua>Насадка на член Baile Sex Toys Big Man, тілесна</description_ua>
             </offer>
         <offer id="810-00108" available="true">
                 <erp>810-00108</erp>
