@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-08 17:15">
+<yml_catalog date="2026-05-08 19:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -35958,24 +35958,6 @@ Sumner поєднує вишуканий стиль з інтуїтивно зр
             <name_ua>Нашийник Bad Kitty Halsband Strass</name_ua>
             <description_ua>Нашийник Bad Kitty Halsband Strass</description_ua>
             </offer>
-        <offer id="32-00016" available="true">
-                <erp>32-00016</erp>
-            <barcode>5905669259163</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/7875-feromony_pherostrong_strong_dla_kobiet_15_ml</url>
-            <price>786.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>80</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/32-00016.jpg</picture>
-            <name>Парфуми Medica Pherostrong для жінок, 15 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>MEDICA</vendor>
-            <model>Парфуми Medica Pherostrong для жінок, 15 мл</model>
-            <description>Парфуми Medica Pherostrong для жінок, 15 мл</description>
-            <name_ua>Парфуми Medica Pherostrong для жінок, 15 мл</name_ua>
-            <description_ua>Парфуми Medica Pherostrong для жінок, 15 мл</description_ua>
-            </offer>
         <offer id="48-11791" available="true">
                 <erp>48-11791</erp>
             <barcode>4028403117916</barcode>
@@ -47980,6 +47962,24 @@ AbsolutSex Super Penis - це ефективний крем для стимул�
             <name_ua>Ерекційне кільце Steely Cockring-Vibrator</name_ua>
             <description_ua>Поєднання щільного кільця для пеніса та кільця для яєчок. Кільце ø 2,4 і 3,7 см. Чорний. Матеріал: силікон, без фталатів відповідно до регламенту ЄС REACH.</description_ua>
             </offer>
+        <offer id="32-00016" available="true">
+                <erp>32-00016</erp>
+            <barcode>5905669259163</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/7875-feromony_pherostrong_strong_dla_kobiet_15_ml</url>
+            <price>786.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>80</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/32-00016.jpg</picture>
+            <name>Парфуми Medica Pherostrong для жінок, 15 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>MEDICA</vendor>
+            <model>Парфуми Medica Pherostrong для жінок, 15 мл</model>
+            <description>Парфуми Medica Pherostrong для жінок, 15 мл</description>
+            <name_ua>Парфуми Medica Pherostrong для жінок, 15 мл</name_ua>
+            <description_ua>Парфуми Medica Pherostrong для жінок, 15 мл</description_ua>
+            </offer>
         <offer id="6-0003805" available="true">
                 <erp>6-0003805</erp>
             <barcode>6-0003805</barcode>
@@ -54990,49 +54990,6 @@ USB-акумулятор&lt;br /&gt;
 Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
 Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
 Їстівне: Ні&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="95-03732" available="true">
-                <erp>95-03732</erp>
-            <barcode>6934439723732</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/32403-prezervativi_olo_redsilver_10sht_ulytratonki_z_gialuronovoyu_zmazkoyu</url>
-            <price>348.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>96</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3239968d56badbe54a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68d56bac29824.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68d56bac5ae04.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68d56bac6f5a1.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68d56bac7b3f9.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68d56bac87f54.jpg</picture>
-            <name>Презервативи Olo RedSilver, ультратонкі, з термоефектом та гіалуроновою змазкою, 10 шт</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>OLO</vendor>
-            <model>Презервативи Olo RedSilver 10шт ультратонкі з термоефектом та гіалуроновою змазкою </model>
-            <description>Презервативи OLO RedSilver — ультратонкі з гіалуроновою змазкою&lt;br /&gt;
-Товщина всього — 0.02 мм. У цих захисних виробах силіконове мастило замінює 100% гіалуронова кислота, яка не висихає. Гіалуронова кислота є природним компонентом шкіри, що підтримує нормальний водний баланс.&lt;br /&gt;
-OLO RedSilver мають високу теплопровідність, швидко передають тепло шкірі партнера для натуральніших відчуттів. Мають м'якшу та гладкішу поверхню. Упаковані в блістер, який легко відкривається, захищає продукт і запобігає пошкодженню під час відкривання.&lt;br /&gt;
-&lt;br /&gt;
-Особливості:&lt;br /&gt;
-Ширина: 52 мм&lt;br /&gt;
-Товщина: 0.02 мм&lt;br /&gt;
-Довжина: 160 мм&lt;br /&gt;
-Матеріал: Латекс&lt;br /&gt;
-Колір: Прозорий&lt;br /&gt;
-Мастило: З гіалуроновою кислотою</description>
-            <name_ua>Презервативи Olo RedSilver, ультратонкі, з термоефектом та гіалуроновою змазкою, 10 шт</name_ua>
-            <description_ua>Презервативи OLO RedSilver — ультратонкі з гіалуроновою змазкою&lt;br /&gt;
-Товщина всього — 0.02 мм. У цих захисних виробах силіконове мастило замінює 100% гіалуронова кислота, яка не висихає. Гіалуронова кислота є природним компонентом шкіри, що підтримує нормальний водний баланс.&lt;br /&gt;
-OLO RedSilver мають високу теплопровідність, швидко передають тепло шкірі партнера для натуральніших відчуттів. Мають м'якшу та гладкішу поверхню. Упаковані в блістер, який легко відкривається, захищає продукт і запобігає пошкодженню під час відкривання.&lt;br /&gt;
-&lt;br /&gt;
-Особливості:&lt;br /&gt;
-Ширина: 52 мм&lt;br /&gt;
-Товщина: 0.02 мм&lt;br /&gt;
-Довжина: 160 мм&lt;br /&gt;
-Матеріал: Латекс&lt;br /&gt;
-Колір: Прозорий&lt;br /&gt;
-Мастило: З гіалуроновою кислотою</description_ua>
             </offer>
         <offer id="BI-026268" available="true">
                 <erp>BI-026268</erp>
@@ -62328,37 +62285,6 @@ Anal Just Glide характеризується високоякісним ре
 Загальна довжина 10,5 см&lt;br /&gt;
 Діаметр 3,2 см</description_ua>
             </offer>
-        <offer id="4-33579" available="true">
-                <erp>4-33579</erp>
-            <barcode>8433345335797</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31917-batig_chervoniy_flogger_long_leather</url>
-            <price>693.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>67</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3191367b444cbbbd15.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67b444c934a37.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67b444c950813.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67b444c9697e9.jpg</picture>
-            <name>Батіг червоний Flogger Long Leather</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>CNEX</vendor>
-            <model>Батіг червоний Flogger Long Leather</model>
-            <description>Довгий батіг Red Fantasy&lt;br /&gt;
-Торгова марка: Alive&lt;br /&gt;
-&lt;br /&gt;
-Батіг довгий червоний, шкірозамінник, довжина 69 см.&lt;br /&gt;
-Ідеально підходить для навчання партнерів.&lt;br /&gt;
-Склад: ПУ</description>
-            <name_ua>Батіг червоний Flogger Long Leather</name_ua>
-            <description_ua>Довгий батіг Red Fantasy&lt;br /&gt;
-Торгова марка: Alive&lt;br /&gt;
-&lt;br /&gt;
-Батіг довгий червоний, шкірозамінник, довжина 69 см.&lt;br /&gt;
-Ідеально підходить для навчання партнерів.&lt;br /&gt;
-Склад: ПУ</description_ua>
-            </offer>
         <offer id="BI-040175" available="true">
                 <erp>BI-040175</erp>
             <barcode>6959532361162</barcode>
@@ -63090,6 +63016,49 @@ Anal Just Glide характеризується високоякісним ре
 В асортименті&lt;br /&gt;
 Об'єм:&lt;br /&gt;
 200 мл</description_ua>
+            </offer>
+        <offer id="95-03732" available="true">
+                <erp>95-03732</erp>
+            <barcode>6934439723732</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32403-prezervativi_olo_redsilver_10sht_ulytratonki_z_gialuronovoyu_zmazkoyu</url>
+            <price>348.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3239968d56badbe54a.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d56bac29824.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d56bac5ae04.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d56bac6f5a1.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d56bac7b3f9.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d56bac87f54.jpg</picture>
+            <name>Презервативи Olo RedSilver, ультратонкі, з термоефектом та гіалуроновою змазкою, 10 шт</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>OLO</vendor>
+            <model>Презервативи Olo RedSilver 10шт ультратонкі з термоефектом та гіалуроновою змазкою </model>
+            <description>Презервативи OLO RedSilver — ультратонкі з гіалуроновою змазкою&lt;br /&gt;
+Товщина всього — 0.02 мм. У цих захисних виробах силіконове мастило замінює 100% гіалуронова кислота, яка не висихає. Гіалуронова кислота є природним компонентом шкіри, що підтримує нормальний водний баланс.&lt;br /&gt;
+OLO RedSilver мають високу теплопровідність, швидко передають тепло шкірі партнера для натуральніших відчуттів. Мають м'якшу та гладкішу поверхню. Упаковані в блістер, який легко відкривається, захищає продукт і запобігає пошкодженню під час відкривання.&lt;br /&gt;
+&lt;br /&gt;
+Особливості:&lt;br /&gt;
+Ширина: 52 мм&lt;br /&gt;
+Товщина: 0.02 мм&lt;br /&gt;
+Довжина: 160 мм&lt;br /&gt;
+Матеріал: Латекс&lt;br /&gt;
+Колір: Прозорий&lt;br /&gt;
+Мастило: З гіалуроновою кислотою</description>
+            <name_ua>Презервативи Olo RedSilver, ультратонкі, з термоефектом та гіалуроновою змазкою, 10 шт</name_ua>
+            <description_ua>Презервативи OLO RedSilver — ультратонкі з гіалуроновою змазкою&lt;br /&gt;
+Товщина всього — 0.02 мм. У цих захисних виробах силіконове мастило замінює 100% гіалуронова кислота, яка не висихає. Гіалуронова кислота є природним компонентом шкіри, що підтримує нормальний водний баланс.&lt;br /&gt;
+OLO RedSilver мають високу теплопровідність, швидко передають тепло шкірі партнера для натуральніших відчуттів. Мають м'якшу та гладкішу поверхню. Упаковані в блістер, який легко відкривається, захищає продукт і запобігає пошкодженню під час відкривання.&lt;br /&gt;
+&lt;br /&gt;
+Особливості:&lt;br /&gt;
+Ширина: 52 мм&lt;br /&gt;
+Товщина: 0.02 мм&lt;br /&gt;
+Довжина: 160 мм&lt;br /&gt;
+Матеріал: Латекс&lt;br /&gt;
+Колір: Прозорий&lt;br /&gt;
+Мастило: З гіалуроновою кислотою</description_ua>
             </offer>
         <offer id="19-2052" available="true">
                 <erp>19-2052</erp>
@@ -66741,6 +66710,37 @@ Cananga Odorata Flower Oil — антисептична та релаксува�
 Смак: Без смаку (нейтральний)&lt;br /&gt;
 Наявність вібрації: Ні&lt;br /&gt;
 Живлення: Не потребує</description_ua>
+            </offer>
+        <offer id="4-33579" available="true">
+                <erp>4-33579</erp>
+            <barcode>8433345335797</barcode>
+            <quantity_in_stock>6</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31917-batig_chervoniy_flogger_long_leather</url>
+            <price>693.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>67</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3191367b444cbbbd15.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67b444c934a37.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67b444c950813.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67b444c9697e9.jpg</picture>
+            <name>Батіг червоний Flogger Long Leather</name>
+            <Отображать>Да</Отображать>
+            <stock>6</stock>
+            <vendor>CNEX</vendor>
+            <model>Батіг червоний Flogger Long Leather</model>
+            <description>Довгий батіг Red Fantasy&lt;br /&gt;
+Торгова марка: Alive&lt;br /&gt;
+&lt;br /&gt;
+Батіг довгий червоний, шкірозамінник, довжина 69 см.&lt;br /&gt;
+Ідеально підходить для навчання партнерів.&lt;br /&gt;
+Склад: ПУ</description>
+            <name_ua>Батіг червоний Flogger Long Leather</name_ua>
+            <description_ua>Довгий батіг Red Fantasy&lt;br /&gt;
+Торгова марка: Alive&lt;br /&gt;
+&lt;br /&gt;
+Батіг довгий червоний, шкірозамінник, довжина 69 см.&lt;br /&gt;
+Ідеально підходить для навчання партнерів.&lt;br /&gt;
+Склад: ПУ</description_ua>
             </offer>
         <offer id="16-27121" available="true">
                 <erp>16-27121</erp>
@@ -76730,25 +76730,6 @@ Super Rutscher - це ідеальний лубрикант для тих, хт�
             <name_ua>Вібратор BAILE Waves of pleasure fantasy vibes</name_ua>
             <description_ua>Реалістичний вібратор з яскраво вираженою голівкою і венозної основою. Багатошвидкісні вібрації. Живлення 2AA Матеріал: ПВХ. Довжина - 23 см, діаметр - 3,9 см</description_ua>
             </offer>
-        <offer id="6-00101" available="true">
-                <erp>6-00101</erp>
-            <barcode>5907776187506</barcode>
-            <quantity_in_stock>11</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30115-parfumi_dlya_cholovikiv_feromony_pherluxe_silver_for_men_33_ml_spray_</url>
-            <price>905.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>81</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_301156972ae1b4f104.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6972ae0c33f23.jpg</picture>
-            <name>Парфуми для чоловіків Feromony-Pherluxe Silver, 33 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>11</stock>
-            <vendor />
-            <model>Парфуми для чоловіків Feromony-Pherluxe Silver, 33 мл</model>
-            <description>&lt;p&gt;Парфуми для чоловіків Feromony-Pherluxe Silver for men 33 ml spray&lt;/p&gt;</description>
-            <name_ua>Парфуми для чоловіків Feromony-Pherluxe Silver, 33 мл</name_ua>
-            <description_ua>&lt;p&gt;Парфуми для чоловіків Feromony-Pherluxe Silver for men 33 ml spray&lt;/p&gt;</description_ua>
-            </offer>
         <offer id="810-00108" available="true">
                 <erp>810-00108</erp>
             <barcode>8433345711454</barcode>
@@ -77483,6 +77464,25 @@ Just Glide Toylube - це відмінний вибір для тих, хто ш
             <name_ua>Подвійний мастурбатор FOXSHOW</name_ua>
             <description_ua>Пропонуємо Вашій увазі шикарний двосторонній мастурбатор Vibrating Masturbation Cup. Мастурбатор виготовлений з найніжнішої кібершкіри та обрамлений пластиковою міцною склянкою. Іграшка має два входи, один має конструкцію піхви, і імітує вагінальний секс, другий по конструкції - ротик, завдяки чому мастурбація цією стороною девайса максимально буде схожа на мінет.&lt;br /&gt;
 Довжина мастурбатора 19,5 см. Діаметр девайсу 7,5 см. Іграшка оснащена віброелементом і працює від акумулятора, заряджається девайс від USB заряджання. Мастурбатор має функцію голосу, тому, використовуючи навушники (в комплект входить) можна, мастурбуючи, насолоджуватися повноцінним сексом.</description_ua>
+            </offer>
+        <offer id="6-00101" available="true">
+                <erp>6-00101</erp>
+            <barcode>5907776187506</barcode>
+            <quantity_in_stock>12</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30115-parfumi_dlya_cholovikiv_feromony_pherluxe_silver_for_men_33_ml_spray_</url>
+            <price>905.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>81</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_301156972ae1b4f104.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6972ae0c33f23.jpg</picture>
+            <name>Парфуми для чоловіків Feromony-Pherluxe Silver, 33 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>12</stock>
+            <vendor />
+            <model>Парфуми для чоловіків Feromony-Pherluxe Silver, 33 мл</model>
+            <description>&lt;p&gt;Парфуми для чоловіків Feromony-Pherluxe Silver for men 33 ml spray&lt;/p&gt;</description>
+            <name_ua>Парфуми для чоловіків Feromony-Pherluxe Silver, 33 мл</name_ua>
+            <description_ua>&lt;p&gt;Парфуми для чоловіків Feromony-Pherluxe Silver for men 33 ml spray&lt;/p&gt;</description_ua>
             </offer>
         <offer id="BI-014173L" available="true">
                 <erp>BI-014173L</erp>
