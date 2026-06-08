@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-06-08 15:15">
+<yml_catalog date="2026-06-08 19:30">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -6612,6 +6612,26 @@ AQUAglide Massage+Glide Lemongrass - це ідеальний вибір для �
             <name_ua>Еротичний набір Bra and String, червоний, L/XL</name_ua>
             <description_ua>Еротичний набір Bra and String, червоний, L/XL</description_ua>
             </offer>
+        <offer id="67-00092" available="true">
+                <erp>67-00092</erp>
+            <barcode>5903661803025</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/24885-masturbator_vagina_vibrating</url>
+            <price>710.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>52</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/67-00092.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64ef2ba6516d9.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_64ef2bdd8a3f9.jpg</picture>
+            <name>Мастурбатор Vagina Vibrating</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Мастурбатор Vagina Vibrating</model>
+            <description>Чоловічий мастурбатор має красиво контурні, м’які піхви губ. Мастурбатор виготовлений з ультрареалістичного матеріалу (CyberSkin®). Щільні продихи піхви мають всередині численні смужки, які з точністю та ніжним масажем пеніса дають відчуття справжніх відчуттів. Для кращого ефекту використовуйте зволожуючі гелі. Додатковою перевагою є вібраційне яйце з регулюванням швидкості, що входить у комплект. Все, що вам потрібно зробити, це розмістити їх у задньому отворі мастурбатора, і ви зможете насолоджуватися вібраційним задоволенням. Яйце також ідеально підходить для стимулювання вашого партнера самостійно. Завдяки пульту дистанційного керування, що входить до комплекту, ви можете вільно контролювати вибрану швидкість вібрації.Розміри: 16 см / 14 см / 5 см</description>
+            <name_ua>Мастурбатор Vagina Vibrating</name_ua>
+            <description_ua>Чоловічий мастурбатор має красиво контурні, м’які піхви губ. Мастурбатор виготовлений з ультрареалістичного матеріалу (CyberSkin®). Щільні продихи піхви мають всередині численні смужки, які з точністю та ніжним масажем пеніса дають відчуття справжніх відчуттів. Для кращого ефекту використовуйте зволожуючі гелі. Додатковою перевагою є вібраційне яйце з регулюванням швидкості, що входить у комплект. Все, що вам потрібно зробити, це розмістити їх у задньому отворі мастурбатора, і ви зможете насолоджуватися вібраційним задоволенням. Яйце також ідеально підходить для стимулювання вашого партнера самостійно. Завдяки пульту дистанційного керування, що входить до комплекту, ви можете вільно контролювати вибрану швидкість вібрації.Розміри: 16 см / 14 см / 5 см</description_ua>
+            </offer>
         <offer id="BW-027004" available="true">
                 <erp>BW-027004</erp>
             <barcode>6959532302783</barcode>
@@ -12004,26 +12024,6 @@ AQUAglide Massage+Glide Lemongrass - це ідеальний вибір для �
 Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
 Живлення: Не потребує&lt;/br&gt;&lt;br /&gt;
 Наявність вібрації: Ні&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="28-00114" available="true">
-                <erp>28-00114</erp>
-            <barcode>6095423379356</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31288-rozheviy_pivniy_sholom_z_printom_panna_moda</url>
-            <price>1143.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>93</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3128567a4805405d02.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67a480517dd4a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67a480518ccf4.jpg</picture>
-            <name>Пивний шолом, рожевий</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>Propa</vendor>
-            <model>Рожевий пивний шолом </model>
-            <description>Рожевий пивний шолом з принтом для дівич-вечора.</description>
-            <name_ua>Пивний шолом, рожевий</name_ua>
-            <description_ua>Рожевий пивний шолом з принтом для дівич-вечора.</description_ua>
             </offer>
         <offer id="32-00085" available="true">
                 <erp>32-00085</erp>
@@ -18171,36 +18171,6 @@ Mane — ідеальний варіант для тих, хто хоче поє
             <description_ua>Цукерка карамельна розкішниця  mini &lt;br /&gt;
 </description_ua>
             </offer>
-        <offer id="BW-008141N" available="true">
-                <erp>BW-008141N</erp>
-            <barcode>6959532337822</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/35701-faloimitator_pretty_love_orton_92_super_soft_liuid_silicone_dildo</url>
-            <price>1009.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>22</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_356976974cb549f157.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974cb4f4fca8.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974cb4f648c2.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974cb4f7632d.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974cb4f873c8.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974cb4f9a18c.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974cb4fabd1d.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974cb4fbdfc3.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974cb4fcf037.jpg</picture>
-            <name>Фалоімітатор Pretty Love Orton 9.2 Super Soft Liquid Silicone Dildo</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Фалоімітатор Pretty Love Orton 9.2 Super Soft Liquid Silicone Dildo</model>
-            <description>Цей реалістичний фалоімітатор обов'язково виправдає всі ваші очікування! Виготовлений з м'якого, оксамитового силікону, він вражає своєю реалістично виліпленою формою, яка точно відтворює природний вигляд і відчуття. Він має чітко окреслену головку та прожилки, які інтенсивно стимулюють та посилюють відчуття під час гри. Завдяки стабільній присосці, сумісній з ремнем безпеки, ви можете насолоджуватися грою без використання рук – самостійно чи з партнером. Фалоімітатор повністю водонепроникний, що дозволяє використовувати його в душі або ванні. Легко чистити – достатньо теплої води та засобу для чищення іграшок, щоб він завжди був готовий до задоволення. Функція: присоска, сумісна з ремнем безпеки. Матеріал: силікон. Водонепроникність: так. Упаковка: 280 x 120 x 85 мм. Загальна довжина 23,5 см&lt;br /&gt;
-Довжина 17,5 см&lt;br /&gt;
-Зовнішній діаметр 4,9 см</description>
-            <name_ua>Фалоімітатор Pretty Love Orton 9.2 Super Soft Liquid Silicone Dildo</name_ua>
-            <description_ua>Цей реалістичний фалоімітатор обов'язково виправдає всі ваші очікування! Виготовлений з м'якого, оксамитового силікону, він вражає своєю реалістично виліпленою формою, яка точно відтворює природний вигляд і відчуття. Він має чітко окреслену головку та прожилки, які інтенсивно стимулюють та посилюють відчуття під час гри. Завдяки стабільній присосці, сумісній з ремнем безпеки, ви можете насолоджуватися грою без використання рук – самостійно чи з партнером. Фалоімітатор повністю водонепроникний, що дозволяє використовувати його в душі або ванні. Легко чистити – достатньо теплої води та засобу для чищення іграшок, щоб він завжди був готовий до задоволення. Функція: присоска, сумісна з ремнем безпеки. Матеріал: силікон. Водонепроникність: так. Упаковка: 280 x 120 x 85 мм. Загальна довжина 23,5 см&lt;br /&gt;
-Довжина 17,5 см&lt;br /&gt;
-Зовнішній діаметр 4,9 см</description_ua>
-            </offer>
         <offer id="66-LV1061-11" available="true">
                 <erp>66-LV1061-11</erp>
             <barcode>6970260909884</barcode>
@@ -24304,26 +24274,6 @@ PJUR WOMAN Алое адаптовано до природного pH балан
             <description>Подвійні фалоімітатори пропонують реалістичні деталі, оригінальний дизайн головки пеніса та текстури вен. Спеціально розроблений для гри в парі або соло. Супер гнучкий матеріал з подвійними фалоімітаторами пропонує реалістичні деталі, оригінальний дизайн головки пеніса та текстури вен. Спеціально розроблений для гри в парі або соло. Супер гнучкий матеріал. Цей подвійний донг можна використовувати з гелем на водній основі для збільшення стимуляції. лисиці. Ці подвійні фалоімітатори можна використовувати з гелем на водній основі для збільшення стимуляції. Загальна довжина 33,5 см, діаметр 3,6 см</description>
             <name_ua>Подвійний фалоімітатор B - Series EasyLove Flexible Double Dong, червоний</name_ua>
             <description_ua>Подвійні фалоімітатори пропонують реалістичні деталі, оригінальний дизайн головки пеніса та текстури вен. Спеціально розроблений для гри в парі або соло. Супер гнучкий матеріал з подвійними фалоімітаторами пропонує реалістичні деталі, оригінальний дизайн головки пеніса та текстури вен. Спеціально розроблений для гри в парі або соло. Супер гнучкий матеріал. Цей подвійний донг можна використовувати з гелем на водній основі для збільшення стимуляції. лисиці. Ці подвійні фалоімітатори можна використовувати з гелем на водній основі для збільшення стимуляції. Загальна довжина 33,5 см, діаметр 3,6 см</description_ua>
-            </offer>
-        <offer id="67-00092" available="true">
-                <erp>67-00092</erp>
-            <barcode>5903661803025</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/24885-masturbator_vagina_vibrating</url>
-            <price>710.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>52</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/67-00092.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64ef2ba6516d9.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_64ef2bdd8a3f9.jpg</picture>
-            <name>Мастурбатор Vagina Vibrating</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Мастурбатор Vagina Vibrating</model>
-            <description>Чоловічий мастурбатор має красиво контурні, м’які піхви губ. Мастурбатор виготовлений з ультрареалістичного матеріалу (CyberSkin®). Щільні продихи піхви мають всередині численні смужки, які з точністю та ніжним масажем пеніса дають відчуття справжніх відчуттів. Для кращого ефекту використовуйте зволожуючі гелі. Додатковою перевагою є вібраційне яйце з регулюванням швидкості, що входить у комплект. Все, що вам потрібно зробити, це розмістити їх у задньому отворі мастурбатора, і ви зможете насолоджуватися вібраційним задоволенням. Яйце також ідеально підходить для стимулювання вашого партнера самостійно. Завдяки пульту дистанційного керування, що входить до комплекту, ви можете вільно контролювати вибрану швидкість вібрації.Розміри: 16 см / 14 см / 5 см</description>
-            <name_ua>Мастурбатор Vagina Vibrating</name_ua>
-            <description_ua>Чоловічий мастурбатор має красиво контурні, м’які піхви губ. Мастурбатор виготовлений з ультрареалістичного матеріалу (CyberSkin®). Щільні продихи піхви мають всередині численні смужки, які з точністю та ніжним масажем пеніса дають відчуття справжніх відчуттів. Для кращого ефекту використовуйте зволожуючі гелі. Додатковою перевагою є вібраційне яйце з регулюванням швидкості, що входить у комплект. Все, що вам потрібно зробити, це розмістити їх у задньому отворі мастурбатора, і ви зможете насолоджуватися вібраційним задоволенням. Яйце також ідеально підходить для стимулювання вашого партнера самостійно. Завдяки пульту дистанційного керування, що входить до комплекту, ви можете вільно контролювати вибрану швидкість вібрації.Розміри: 16 см / 14 см / 5 см</description_ua>
             </offer>
         <offer id="67-00082" available="true">
                 <erp>67-00082</erp>
@@ -55157,6 +55107,28 @@ Clitoris Spray Stimulating - це відмінний вибір для тих, �
             <description_ua>Сексовітал - оригінальна харчова добавка на травах, яка є універсальною.  До складу засобу входить перцева м'ята, імбир, чабер і ін. Завдяки такому складу препарат стимулює сексуальність, сприяє бажанню, підсилює тонус. &lt;br /&gt;
 Об'єм в мл 20</description_ua>
             </offer>
+        <offer id="19-3011" available="true">
+                <erp>19-3011</erp>
+            <barcode>3548960030110</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2425-lubrikant_penis_dev_cream_100_ml</url>
+            <price>543.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>101</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/19-3011.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6851adf6d2e9b.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6851ae18a90f4.png</picture>
+            <name>Крем для збільшення Penis Dev Cream 100 ml</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>RUF</vendor>
+            <model>Крем для збільшення Penis Dev Cream 100 ml</model>
+            <description>Крем для ерекції Penis Dev Cream. Крем для чоловіків, призначений для вирішення інтимних проблем чоловіків різного віку. Він посилює сексуальне збудження. Крем має ніжним запахом і приємною консистенцією.&lt;br /&gt;
+крем Penis DEV містить екстракти золотарника, чорної смородини, каштана, виноградної лози та мигдалю, які при приготуванні в правильних умовах діють як афродизіак.</description>
+            <name_ua>Крем для збільшення Penis Dev Cream 100 ml</name_ua>
+            <description_ua>Крем для ерекції Penis Dev Cream. Крем для чоловіків, призначений для вирішення інтимних проблем чоловіків різного віку. Він посилює сексуальне збудження. Крем має ніжним запахом і приємною консистенцією.&lt;br /&gt;
+крем Penis DEV містить екстракти золотарника, чорної смородини, каштана, виноградної лози та мигдалю, які при приготуванні в правильних умовах діють як афродизіак.</description_ua>
+            </offer>
         <offer id="19-3021" available="true">
                 <erp>19-3021</erp>
             <barcode>3548960030219</barcode>
@@ -60090,28 +60062,6 @@ Jaylen приносить неймовірне задоволення завдя
             <description>Моніка - красива надувна любовна лялька з чарівним друкованим обличчям і стоячим положенням. Вона у натуральну величину, має груди і 3 спокусливі любовні отвори.</description>
             <name_ua>Секс лялька Lalka  Monika</name_ua>
             <description_ua>Моніка - красива надувна любовна лялька з чарівним друкованим обличчям і стоячим положенням. Вона у натуральну величину, має груди і 3 спокусливі любовні отвори.</description_ua>
-            </offer>
-        <offer id="19-3011" available="true">
-                <erp>19-3011</erp>
-            <barcode>3548960030110</barcode>
-            <quantity_in_stock>6</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2425-lubrikant_penis_dev_cream_100_ml</url>
-            <price>543.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>101</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/19-3011.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6851adf6d2e9b.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6851ae18a90f4.png</picture>
-            <name>Крем для збільшення Penis Dev Cream 100 ml</name>
-            <Отображать>Да</Отображать>
-            <stock>6</stock>
-            <vendor>RUF</vendor>
-            <model>Крем для збільшення Penis Dev Cream 100 ml</model>
-            <description>Крем для ерекції Penis Dev Cream. Крем для чоловіків, призначений для вирішення інтимних проблем чоловіків різного віку. Він посилює сексуальне збудження. Крем має ніжним запахом і приємною консистенцією.&lt;br /&gt;
-крем Penis DEV містить екстракти золотарника, чорної смородини, каштана, виноградної лози та мигдалю, які при приготуванні в правильних умовах діють як афродизіак.</description>
-            <name_ua>Крем для збільшення Penis Dev Cream 100 ml</name_ua>
-            <description_ua>Крем для ерекції Penis Dev Cream. Крем для чоловіків, призначений для вирішення інтимних проблем чоловіків різного віку. Він посилює сексуальне збудження. Крем має ніжним запахом і приємною консистенцією.&lt;br /&gt;
-крем Penis DEV містить екстракти золотарника, чорної смородини, каштана, виноградної лози та мигдалю, які при приготуванні в правильних умовах діють як афродизіак.</description_ua>
             </offer>
         <offer id="19-3035" available="true">
                 <erp>19-3035</erp>
