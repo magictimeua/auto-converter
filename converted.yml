@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-06-09 14:45">
+<yml_catalog date="2026-06-09 17:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -203,6 +203,24 @@
             <description>Збуджуючі краплі Men Power Ginseng Drops 30ml</description>
             <name_ua>Збуджуючі краплі Men Power Ginseng Drops 30ml</name_ua>
             <description_ua>Збуджуючі краплі Men Power Ginseng Drops 30ml</description_ua>
+            </offer>
+        <offer id="2-00090" available="true">
+                <erp>2-00090</erp>
+            <barcode>1400000000212</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/431-feromony_pherofem_eau_de_parfum_15ml</url>
+            <price>505.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>80</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/2-00090.jpg</picture>
+            <name>Парфуми Cobeco PheroFem, 15 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>COBECO</vendor>
+            <model>Парфуми Cobeco PheroFem, 15 мл</model>
+            <description>Парфуми PheroFem Eau de Parfum 15ml</description>
+            <name_ua>Парфуми Cobeco PheroFem, 15 мл</name_ua>
+            <description_ua>Парфуми PheroFem Eau de Parfum 15ml</description_ua>
             </offer>
         <offer id="30-12485-X-PINK" available="true">
                 <erp>30-12485-X-PINK</erp>
@@ -1065,6 +1083,28 @@ Bunny Tail Plug - це анальна пробка, виконана з ніжн
 Злегка вигнутий вібратор Happy від Sweet Smile з характерною голівкою пеніса. 7 режимів вібрації зручно керувати однією кнопкою.&lt;br /&gt;
 Будь ласка, замовляйте батареї окремо: 2 x AA.ина 22 см, діаметр 2,5-3,8 см.&lt;br /&gt;
 Силікон, АБС.</description_ua>
+            </offer>
+        <offer id="42-24909601001" available="true">
+                <erp>42-24909601001</erp>
+            <barcode>4024144152773</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/3269-pecz_24909601001_bk_minigerte_herz_pecz</url>
+            <price>485.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>67</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/42-24909601001.jpg</picture>
+            <name>Маленький чорний хлист з лопаткою BK Minigerte Herz-Pejcz</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>ORION</vendor>
+            <model>Маленький чорний хлист з лопаткою BK Minigerte Herz-Pejcz</model>
+            <description>Маленький чорний хлист з лопаткою (оптика може бути різною). Одна сторона шкіряна, інша зі штучного хутра. Червона строчка.&lt;br /&gt;
+&lt;br /&gt;
+Загальна довжина 25 см. Поліуретан, поліестер, пруток: поліхлорид (вініл).</description>
+            <name_ua>Маленький чорний хлист з лопаткою BK Minigerte Herz-Pejcz</name_ua>
+            <description_ua>Маленький чорний хлист з лопаткою (оптика може бути різною). Одна сторона шкіряна, інша зі штучного хутра. Червона строчка.&lt;br /&gt;
+&lt;br /&gt;
+Загальна довжина 25 см. Поліуретан, поліестер, пруток: поліхлорид (вініл).</description_ua>
             </offer>
         <offer id="42-05018910000" available="true">
                 <erp>42-05018910000</erp>
@@ -3154,24 +3194,6 @@ Bunny Tail Plug - це анальна пробка, виконана з ніжн
 Живлення: Акумулятор&lt;/br&gt;&lt;br /&gt;
 Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
 Наявність присоски: Ні&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="BI-014289" available="true">
-                <erp>BI-014289</erp>
-            <barcode>6959532313437</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/13912-pretty_love__arnd_10_function</url>
-            <price>513.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>102</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/BI-014289.jpg</picture>
-            <name>Вібратор кролик Pretty Love Arnd, рожевий</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Вібратор PRETTY LOVE  ARND, 10 function</model>
-            <description>Вібратор PRETTY LOVE  ARND, 10 function</description>
-            <name_ua>Вібратор кролик Pretty Love Arnd, рожевий</name_ua>
-            <description_ua>Вібратор PRETTY LOVE  ARND, 10 function</description_ua>
             </offer>
         <offer id="BI-014443" available="true">
                 <erp>BI-014443</erp>
@@ -6662,6 +6684,50 @@ AQUAglide Massage+Glide Lemongrass - це ідеальний вибір для �
 Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
 Живлення: Акумулятор&lt;/br&gt;</description_ua>
             </offer>
+        <offer id="42-05451120000" available="true">
+                <erp>42-05451120000</erp>
+            <barcode>4024144560943</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/26791-c_ultimate_pleasure_couples_ki</url>
+            <price>1553.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>82</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/42-05451120000.jpg</picture>
+            <name>Набір з 4 іграшок Classix Ultimate Pleasure Couples Kit, рожевий</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>ORION</vendor>
+            <model>Набір з 4 іграшок Classix Ultimate Pleasure Couples Kit, рожевий</model>
+            <description>Комплект інтимних аксесуарів з 4 предметів Classix Ultimate Pleasure Couples Kit створений для розмаїття парних та індивідуальних розваг. &lt;b&gt;Набір включає класичний вібратор, компактну віброкулю, ерекційне кільце з вібрацією та текстуровану насадку&lt;/b&gt;, що дозволяє експериментувати з різними видами стимуляції.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Основний вібратор забезпечує потужну багатошвидкісну вібрацію для внутрішньої стимуляції, а міні-куля підходить для точкового впливу на чутливі зони. &lt;b&gt;Ерекційне кільце підтримує стійкість ерекції та подовжує близькість&lt;/b&gt;, тоді як рельєфна насадка збільшує розміри та посилює відчуття партнерки. Всі елементи виготовлені з безпечних матеріалів - термопластичного еластомеру та пластику.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Комплект працює від батарейок різних типів та підходить для використання з лубрикантами на водній основі. &lt;b&gt;Універсальне рішення для пар, які прагнуть урізноманітнити інтимне життя&lt;/b&gt;.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Classix&lt;/br&gt;&lt;br /&gt;
+Виробник: Pipedream Products&lt;/br&gt;&lt;br /&gt;
+Матеріал: Термопластичний еластомер (TPE), Пластик&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька, З шипами&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;</description>
+            <name_ua>Набір з 4 іграшок Classix Ultimate Pleasure Couples Kit, рожевий</name_ua>
+            <description_ua>Комплект інтимних аксесуарів з 4 предметів Classix Ultimate Pleasure Couples Kit створений для розмаїття парних та індивідуальних розваг. &lt;b&gt;Набір включає класичний вібратор, компактну віброкулю, ерекційне кільце з вібрацією та текстуровану насадку&lt;/b&gt;, що дозволяє експериментувати з різними видами стимуляції.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Основний вібратор забезпечує потужну багатошвидкісну вібрацію для внутрішньої стимуляції, а міні-куля підходить для точкового впливу на чутливі зони. &lt;b&gt;Ерекційне кільце підтримує стійкість ерекції та подовжує близькість&lt;/b&gt;, тоді як рельєфна насадка збільшує розміри та посилює відчуття партнерки. Всі елементи виготовлені з безпечних матеріалів - термопластичного еластомеру та пластику.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Комплект працює від батарейок різних типів та підходить для використання з лубрикантами на водній основі. &lt;b&gt;Універсальне рішення для пар, які прагнуть урізноманітнити інтимне життя&lt;/b&gt;.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Classix&lt;/br&gt;&lt;br /&gt;
+Виробник: Pipedream Products&lt;/br&gt;&lt;br /&gt;
+Матеріал: Термопластичний еластомер (TPE), Пластик&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька, З шипами&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;</description_ua>
+            </offer>
         <offer id="73-4003108" available="true">
                 <erp>73-4003108</erp>
             <barcode>4061504003108</barcode>
@@ -9548,6 +9614,25 @@ AQUAglide Massage+Glide Lemongrass - це ідеальний вибір для �
 Для кого: Для жінок&lt;/br&gt;&lt;br /&gt;
 Матеріал: Еластан, Поліамід&lt;/br&gt;</description_ua>
             </offer>
+        <offer id="90-800067" available="true">
+                <erp>90-800067</erp>
+            <barcode>347922800067</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30374-lubrikant_lubrix_200_ml</url>
+            <price>527.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>46</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_303746411c0b576b50.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6411c0b42822c.jpg</picture>
+            <name>Лубрикант Lubrix, 200 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor />
+            <model>Лубрикант Lubrix, 200 мл</model>
+            <description>Lubrix-високоякісний гель-лубрикант для жінок на водно-гліцериновій основі, створений за спец. Забезпечує тривале легке ковзання під час статевого акту. . Попередньо дзвоніть і живіть, підходячи до будь-якого типу шкіри. Він не відчуває втрати здатності, не залишає плям на одязі та післябійній білизні, не містить парабенів. Не зачіпайте первісне і окреме, можна використовувати для анального сексу. Сумісний із різноманітними секс-іграшками та презервативами, легко змішується водою. Об'єм 200 мл.</description>
+            <name_ua>Лубрикант Lubrix, 200 мл</name_ua>
+            <description_ua>Lubrix-високоякісний гель-лубрикант для жінок на водно-гліцериновій основі, створений за спец. Забезпечує тривале легке ковзання під час статевого акту. . Попередньо дзвоніть і живіть, підходячи до будь-якого типу шкіри. Він не відчуває втрати здатності, не залишає плям на одязі та післябійній білизні, не містить парабенів. Не зачіпайте первісне і окреме, можна використовувати для анального сексу. Сумісний із різноманітними секс-іграшками та презервативами, легко змішується водою. Об'єм 200 мл.</description_ua>
+            </offer>
         <offer id="18-4030920" available="true">
                 <erp>18-4030920</erp>
             <barcode>4061504030920</barcode>
@@ -9694,6 +9779,26 @@ AQUAglide Massage+Glide Lemongrass - це ідеальний вибір для �
 Загальна довжина 22,5 см&lt;br /&gt;
 Зовнішній діаметр 4 см&lt;br /&gt;
 Матеріал силікон, ABS</description_ua>
+            </offer>
+        <offer id="66-LV3101" available="true">
+                <erp>66-LV3101</erp>
+            <barcode>6970260906289</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30470-falomtator_jelly_studs_medium</url>
+            <price>493.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>22</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_304706a0857014fdc6.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6a0856ffc6ab2.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6a0856ffd1491.jpg</picture>
+            <name>Фалоімітатор Jelly Studs Medium</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>LOVETOYS</vendor>
+            <model>Фалоімітатор 7 JELLY STUDS</model>
+            <description>&lt;p&gt;Фалоімітатор 7" JELLY STUDS&lt;/p&gt;</description>
+            <name_ua>Фалоімітатор Jelly Studs Medium</name_ua>
+            <description_ua>&lt;p&gt;Фалоімітатор 7" JELLY STUDS&lt;/p&gt;</description_ua>
             </offer>
         <offer id="BI-210276" available="true">
                 <erp>BI-210276</erp>
@@ -24654,50 +24759,6 @@ PJUR WOMAN Алое адаптовано до природного pH балан
 Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
 Гарантія: 1 рік&lt;/br&gt;</description_ua>
             </offer>
-        <offer id="42-05451120000" available="true">
-                <erp>42-05451120000</erp>
-            <barcode>4024144560943</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/26791-c_ultimate_pleasure_couples_ki</url>
-            <price>1553.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>82</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-05451120000.jpg</picture>
-            <name>Набір з 4 іграшок Classix Ultimate Pleasure Couples Kit, рожевий</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>ORION</vendor>
-            <model>Набір з 4 іграшок Classix Ultimate Pleasure Couples Kit, рожевий</model>
-            <description>Комплект інтимних аксесуарів з 4 предметів Classix Ultimate Pleasure Couples Kit створений для розмаїття парних та індивідуальних розваг. &lt;b&gt;Набір включає класичний вібратор, компактну віброкулю, ерекційне кільце з вібрацією та текстуровану насадку&lt;/b&gt;, що дозволяє експериментувати з різними видами стимуляції.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Основний вібратор забезпечує потужну багатошвидкісну вібрацію для внутрішньої стимуляції, а міні-куля підходить для точкового впливу на чутливі зони. &lt;b&gt;Ерекційне кільце підтримує стійкість ерекції та подовжує близькість&lt;/b&gt;, тоді як рельєфна насадка збільшує розміри та посилює відчуття партнерки. Всі елементи виготовлені з безпечних матеріалів - термопластичного еластомеру та пластику.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Комплект працює від батарейок різних типів та підходить для використання з лубрикантами на водній основі. &lt;b&gt;Універсальне рішення для пар, які прагнуть урізноманітнити інтимне життя&lt;/b&gt;.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Classix&lt;/br&gt;&lt;br /&gt;
-Виробник: Pipedream Products&lt;/br&gt;&lt;br /&gt;
-Матеріал: Термопластичний еластомер (TPE), Пластик&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька, З шипами&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;</description>
-            <name_ua>Набір з 4 іграшок Classix Ultimate Pleasure Couples Kit, рожевий</name_ua>
-            <description_ua>Комплект інтимних аксесуарів з 4 предметів Classix Ultimate Pleasure Couples Kit створений для розмаїття парних та індивідуальних розваг. &lt;b&gt;Набір включає класичний вібратор, компактну віброкулю, ерекційне кільце з вібрацією та текстуровану насадку&lt;/b&gt;, що дозволяє експериментувати з різними видами стимуляції.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Основний вібратор забезпечує потужну багатошвидкісну вібрацію для внутрішньої стимуляції, а міні-куля підходить для точкового впливу на чутливі зони. &lt;b&gt;Ерекційне кільце підтримує стійкість ерекції та подовжує близькість&lt;/b&gt;, тоді як рельєфна насадка збільшує розміри та посилює відчуття партнерки. Всі елементи виготовлені з безпечних матеріалів - термопластичного еластомеру та пластику.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Комплект працює від батарейок різних типів та підходить для використання з лубрикантами на водній основі. &lt;b&gt;Універсальне рішення для пар, які прагнуть урізноманітнити інтимне життя&lt;/b&gt;.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Classix&lt;/br&gt;&lt;br /&gt;
-Виробник: Pipedream Products&lt;/br&gt;&lt;br /&gt;
-Матеріал: Термопластичний еластомер (TPE), Пластик&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька, З шипами&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;</description_ua>
-            </offer>
         <offer id="42-05451200000" available="true">
                 <erp>42-05451200000</erp>
             <barcode>4024144560950</barcode>
@@ -25803,27 +25864,6 @@ PJUR WOMAN Алое адаптовано до природного pH балан
 Живлення: Акумулятор&lt;/br&gt;&lt;br /&gt;
 Водонепроникність: Так&lt;/br&gt;&lt;br /&gt;
 Наявність присоски: Ні&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="90-800065" available="true">
-                <erp>90-800065</erp>
-            <barcode>347922800065</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29703-lubrikant__lubrix_50_ml</url>
-            <price>311.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_2970362ee968532a3a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee9682f30bd.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee968321782.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee96832d53b.jpg</picture>
-            <name>Лубрикант Lubrix на водній основі, 50 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor />
-            <model>Лубрикант Lubrix на водній основі, 50 мл</model>
-            <description>Lubrix-високоякісний гель-лубрикант для жінок на водно-гліцериновій основі, створений за спец. Забезпечує тривале легке ковзання під час статевого акту. . Попередньо дзвоніть і живіть, підходячи до будь-якого типу шкіри. Не відчуває втрати здатності, не залишає плям на одязі та післяпосередньому білізні, не містить парабенів. Не зачіпайте первісне і окреме, можна використовувати для анального сексу. Сумісний із різноманітними секс-іграшками та презервативами, легко змішується водою. Об'єм 50 мл.</description>
-            <name_ua>Лубрикант Lubrix на водній основі, 50 мл</name_ua>
-            <description_ua>Lubrix-високоякісний гель-лубрикант для жінок на водно-гліцериновій основі, створений за спец. Забезпечує тривале легке ковзання під час статевого акту. . Попередньо дзвоніть і живіть, підходячи до будь-якого типу шкіри. Не відчуває втрати здатності, не залишає плям на одязі та післяпосередньому білізні, не містить парабенів. Не зачіпайте первісне і окреме, можна використовувати для анального сексу. Сумісний із різноманітними секс-іграшками та презервативами, легко змішується водою. Об'єм 50 мл.</description_ua>
             </offer>
         <offer id="64-00126" available="true">
                 <erp>64-00126</erp>
@@ -27301,25 +27341,6 @@ USB перезаряджається&lt;br /&gt;
 Для кого: Для жінок&lt;/br&gt;&lt;br /&gt;
 Матеріал: Поліамід, Еластан&lt;/br&gt;</description_ua>
             </offer>
-        <offer id="90-800067" available="true">
-                <erp>90-800067</erp>
-            <barcode>347922800067</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30374-lubrikant_lubrix_200_ml</url>
-            <price>527.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_303746411c0b576b50.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6411c0b42822c.jpg</picture>
-            <name>Лубрикант Lubrix, 200 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor />
-            <model>Лубрикант Lubrix, 200 мл</model>
-            <description>Lubrix-високоякісний гель-лубрикант для жінок на водно-гліцериновій основі, створений за спец. Забезпечує тривале легке ковзання під час статевого акту. . Попередньо дзвоніть і живіть, підходячи до будь-якого типу шкіри. Він не відчуває втрати здатності, не залишає плям на одязі та післябійній білизні, не містить парабенів. Не зачіпайте первісне і окреме, можна використовувати для анального сексу. Сумісний із різноманітними секс-іграшками та презервативами, легко змішується водою. Об'єм 200 мл.</description>
-            <name_ua>Лубрикант Lubrix, 200 мл</name_ua>
-            <description_ua>Lubrix-високоякісний гель-лубрикант для жінок на водно-гліцериновій основі, створений за спец. Забезпечує тривале легке ковзання під час статевого акту. . Попередньо дзвоніть і живіть, підходячи до будь-якого типу шкіри. Він не відчуває втрати здатності, не залишає плям на одязі та післябійній білизні, не містить парабенів. Не зачіпайте первісне і окреме, можна використовувати для анального сексу. Сумісний із різноманітними секс-іграшками та презервативами, легко змішується водою. Об'єм 200 мл.</description_ua>
-            </offer>
         <offer id="18-4017785" available="true">
                 <erp>18-4017785</erp>
             <barcode>4061504017785</barcode>
@@ -28275,6 +28296,29 @@ USB перезаряджається&lt;br /&gt;
 Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
 Водонепроникність: Так&lt;/br&gt;&lt;br /&gt;
 Живлення: Акумулятор&lt;/br&gt;</description_ua>
+            </offer>
+        <offer id="BI-014812L" available="true">
+                <erp>BI-014812L</erp>
+            <barcode>6959532328691</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31004-silikonoviy_vibrator_pretty_love_elemental</url>
+            <price>771.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>143</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3100165f53cefbceab.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65f53ceaa286a.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65f53ceac5493.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65f53ceae7f15.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65f53ceb174dc.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65f53ceb3a896.jpg</picture>
+            <name>Вібратор для точки G Pretty Love Elemental Youth, фіолетовий</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Силіконовий вібратор PRETTY LOVE ELEMENTAL</model>
+            <description>Гладкий вібратор з гіпоалергенного силікону високої якості. Іграшка має злегка зігнутий стовбур з масивною головкою для оптимальної стимуляції точки "G". 30 режимів вібростимуляції регулюються за допомогою вбудованого контролера. Загальна довжина - 19 см, діаметр - 3,2 см.</description>
+            <name_ua>Вібратор для точки G Pretty Love Elemental Youth, фіолетовий</name_ua>
+            <description_ua>Гладкий вібратор з гіпоалергенного силікону високої якості. Іграшка має злегка зігнутий стовбур з масивною головкою для оптимальної стимуляції точки "G". 30 режимів вібростимуляції регулюються за допомогою вбудованого контролера. Загальна довжина - 19 см, діаметр - 3,2 см.</description_ua>
             </offer>
         <offer id="11-60359" available="true">
                 <erp>11-60359</erp>
@@ -41434,29 +41478,6 @@ Ogrie Pearl Lust Massage - набір для чуттєвого інтимног
 Тип батареї Акумуляторна батарея - кабель USB в комплекті&lt;br /&gt;
 Робоча довжина 16 см</description_ua>
             </offer>
-        <offer id="BI-014812L" available="true">
-                <erp>BI-014812L</erp>
-            <barcode>6959532328691</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31004-silikonoviy_vibrator_pretty_love_elemental</url>
-            <price>771.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>143</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3100165f53cefbceab.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65f53ceaa286a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65f53ceac5493.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65f53ceae7f15.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65f53ceb174dc.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65f53ceb3a896.jpg</picture>
-            <name>Вібратор для точки G Pretty Love Elemental Youth, фіолетовий</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Силіконовий вібратор PRETTY LOVE ELEMENTAL</model>
-            <description>Гладкий вібратор з гіпоалергенного силікону високої якості. Іграшка має злегка зігнутий стовбур з масивною головкою для оптимальної стимуляції точки "G". 30 режимів вібростимуляції регулюються за допомогою вбудованого контролера. Загальна довжина - 19 см, діаметр - 3,2 см.</description>
-            <name_ua>Вібратор для точки G Pretty Love Elemental Youth, фіолетовий</name_ua>
-            <description_ua>Гладкий вібратор з гіпоалергенного силікону високої якості. Іграшка має злегка зігнутий стовбур з масивною головкою для оптимальної стимуляції точки "G". 30 режимів вібростимуляції регулюються за допомогою вбудованого контролера. Загальна довжина - 19 см, діаметр - 3,2 см.</description_ua>
-            </offer>
         <offer id="11-60356" available="true">
                 <erp>11-60356</erp>
             <barcode>4019514603566</barcode>
@@ -54090,9 +54111,41 @@ Woman №8 — аромат чистоти, ніжності та природн
             <stock>4</stock>
             <vendor>BOSS SERIES</vendor>
             <model>Вібратор Eie USB 10 функцій вібрації та обертання намистини та штовхання</model>
-            <description>Вібратор Eie USB 10 функцій вібрації та обертання намистини та штовхання</description>
+            <description>&lt;p&gt;Вібратор Eie USB 10 функцій вібрації та обертання намистини та штовхання &lt;strong data-start="0" data-end="13"&gt;Eie Bunny&lt;/strong&gt; — сучасний вібратор, створений для тих, хто цінує інновації, комфорт і яскраві відчуття. Поєднання високоякісного силікону та міцного ABS-пластику забезпечує приємний дотик, довговічність і зручність використання. Він чудово підходить як для індивідуальних моментів насолоди, так і для дослідження нових відчуттів із партнером.&lt;/p&gt;&lt;br /&gt;
+&lt;p data-start="343" data-end="665"&gt;Пристрій оснащений &lt;strong data-start="362" data-end="386"&gt;10 режимами вібрації&lt;/strong&gt;, а також функціями &lt;strong data-start="406" data-end="419"&gt;обертання&lt;/strong&gt; та &lt;strong data-start="423" data-end="440"&gt;ковзного руху&lt;/strong&gt;, що створюють інтенсивну багаторівневу стимуляцію. Спеціальні вібруючі «вушка» забезпечують точний вплив на чутливі зони, тоді як обертові кульки та рухомий стрижень доповнюють відчуття глибокою та різноманітною стимуляцією.&lt;/p&gt;&lt;br /&gt;
+&lt;p data-start="667" data-end="913"&gt;Завдяки &lt;strong data-start="675" data-end="693"&gt;USB-заряджанню&lt;/strong&gt; пристрій завжди готовий до використання. Інтуїтивне керування та ергономічна форма дозволяють легко налаштувати режим роботи відповідно до ваших уподобань, забезпечуючи максимальний комфорт під час кожного використання.&lt;/p&gt;&lt;br /&gt;
+&lt;h3 data-section-id="pf9b3p" data-start="915" data-end="934"&gt;Характеристики:&lt;/h3&gt;&lt;br /&gt;
+&lt;ul data-start="935" data-end="1279"&gt;&lt;br /&gt;
+&lt;li data-section-id="6ysc0t" data-start="935" data-end="967"&gt;Матеріал: силікон, ABS-пластик&lt;/li&gt;&lt;br /&gt;
+&lt;li data-section-id="1ljdzje" data-start="968" data-end="1000"&gt;Кількість режимів вібрації: 10&lt;/li&gt;&lt;br /&gt;
+&lt;li data-section-id="vqe1sj" data-start="1001" data-end="1044"&gt;Функції: вібрація, обертання, ковзний рух&lt;/li&gt;&lt;br /&gt;
+&lt;li data-section-id="15k94sz" data-start="1045" data-end="1071"&gt;Живлення: USB-заряджання&lt;/li&gt;&lt;br /&gt;
+&lt;li data-section-id="usf0dn" data-start="1072" data-end="1101"&gt;Загальна довжина: &lt;strong data-start="1092" data-end="1101"&gt;23 см&lt;/strong&gt;&lt;/li&gt;&lt;br /&gt;
+&lt;li data-section-id="2nixao" data-start="1102" data-end="1129"&gt;Робоча довжина: &lt;strong data-start="1120" data-end="1129"&gt;13 см&lt;/strong&gt;&lt;/li&gt;&lt;br /&gt;
+&lt;li data-section-id="18thbtr" data-start="1130" data-end="1175"&gt;Довжина кліторального стимулятора: &lt;strong data-start="1167" data-end="1175"&gt;5 см&lt;/strong&gt;&lt;/li&gt;&lt;br /&gt;
+&lt;li data-section-id="a25538" data-start="1176" data-end="1201"&gt;Діаметр: &lt;strong data-start="1187" data-end="1201"&gt;2,5–3,5 см&lt;/strong&gt;&lt;/li&gt;&lt;br /&gt;
+&lt;li data-section-id="11ldaz1" data-start="1202" data-end="1223"&gt;Ергономічний дизайн&lt;/li&gt;&lt;br /&gt;
+&lt;li data-section-id="1ji4hxk" data-start="1224" data-end="1279"&gt;Підходить для індивідуального та парного використання&lt;/li&gt;&lt;br /&gt;
+&lt;/ul&gt;&lt;br /&gt;
+&lt;p data-start="1281" data-end="1446" data-is-last-node="" data-is-only-node=""&gt;&lt;strong data-start="1281" data-end="1294"&gt;Eie Bunny&lt;/strong&gt; відкриває нові можливості для задоволення, поєднуючи передові технології, стильний дизайн і широкий вибір стимулюючих функцій для незабутнього досвіду.&lt;/p&gt;</description>
             <name_ua>Вібратор Eie USB 10 функцій вібрації та обертання намистини та штовхання</name_ua>
-            <description_ua>Вібратор Eie USB 10 функцій вібрації та обертання намистини та штовхання</description_ua>
+            <description_ua>&lt;p&gt;Вібратор Eie USB 10 функцій вібрації та обертання намистини та штовхання &lt;strong data-start="0" data-end="13"&gt;Eie Bunny&lt;/strong&gt; — сучасний вібратор, створений для тих, хто цінує інновації, комфорт і яскраві відчуття. Поєднання високоякісного силікону та міцного ABS-пластику забезпечує приємний дотик, довговічність і зручність використання. Він чудово підходить як для індивідуальних моментів насолоди, так і для дослідження нових відчуттів із партнером.&lt;/p&gt;&lt;br /&gt;
+&lt;p data-start="343" data-end="665"&gt;Пристрій оснащений &lt;strong data-start="362" data-end="386"&gt;10 режимами вібрації&lt;/strong&gt;, а також функціями &lt;strong data-start="406" data-end="419"&gt;обертання&lt;/strong&gt; та &lt;strong data-start="423" data-end="440"&gt;ковзного руху&lt;/strong&gt;, що створюють інтенсивну багаторівневу стимуляцію. Спеціальні вібруючі «вушка» забезпечують точний вплив на чутливі зони, тоді як обертові кульки та рухомий стрижень доповнюють відчуття глибокою та різноманітною стимуляцією.&lt;/p&gt;&lt;br /&gt;
+&lt;p data-start="667" data-end="913"&gt;Завдяки &lt;strong data-start="675" data-end="693"&gt;USB-заряджанню&lt;/strong&gt; пристрій завжди готовий до використання. Інтуїтивне керування та ергономічна форма дозволяють легко налаштувати режим роботи відповідно до ваших уподобань, забезпечуючи максимальний комфорт під час кожного використання.&lt;/p&gt;&lt;br /&gt;
+&lt;h3 data-section-id="pf9b3p" data-start="915" data-end="934"&gt;Характеристики:&lt;/h3&gt;&lt;br /&gt;
+&lt;ul data-start="935" data-end="1279"&gt;&lt;br /&gt;
+&lt;li data-section-id="6ysc0t" data-start="935" data-end="967"&gt;Матеріал: силікон, ABS-пластик&lt;/li&gt;&lt;br /&gt;
+&lt;li data-section-id="1ljdzje" data-start="968" data-end="1000"&gt;Кількість режимів вібрації: 10&lt;/li&gt;&lt;br /&gt;
+&lt;li data-section-id="vqe1sj" data-start="1001" data-end="1044"&gt;Функції: вібрація, обертання, ковзний рух&lt;/li&gt;&lt;br /&gt;
+&lt;li data-section-id="15k94sz" data-start="1045" data-end="1071"&gt;Живлення: USB-заряджання&lt;/li&gt;&lt;br /&gt;
+&lt;li data-section-id="usf0dn" data-start="1072" data-end="1101"&gt;Загальна довжина: &lt;strong data-start="1092" data-end="1101"&gt;23 см&lt;/strong&gt;&lt;/li&gt;&lt;br /&gt;
+&lt;li data-section-id="2nixao" data-start="1102" data-end="1129"&gt;Робоча довжина: &lt;strong data-start="1120" data-end="1129"&gt;13 см&lt;/strong&gt;&lt;/li&gt;&lt;br /&gt;
+&lt;li data-section-id="18thbtr" data-start="1130" data-end="1175"&gt;Довжина кліторального стимулятора: &lt;strong data-start="1167" data-end="1175"&gt;5 см&lt;/strong&gt;&lt;/li&gt;&lt;br /&gt;
+&lt;li data-section-id="a25538" data-start="1176" data-end="1201"&gt;Діаметр: &lt;strong data-start="1187" data-end="1201"&gt;2,5–3,5 см&lt;/strong&gt;&lt;/li&gt;&lt;br /&gt;
+&lt;li data-section-id="11ldaz1" data-start="1202" data-end="1223"&gt;Ергономічний дизайн&lt;/li&gt;&lt;br /&gt;
+&lt;li data-section-id="1ji4hxk" data-start="1224" data-end="1279"&gt;Підходить для індивідуального та парного використання&lt;/li&gt;&lt;br /&gt;
+&lt;/ul&gt;&lt;br /&gt;
+&lt;p data-start="1281" data-end="1446" data-is-last-node="" data-is-only-node=""&gt;&lt;strong data-start="1281" data-end="1294"&gt;Eie Bunny&lt;/strong&gt; відкриває нові можливості для задоволення, поєднуючи передові технології, стильний дизайн і широкий вибір стимулюючих функцій для незабутнього досвіду.&lt;/p&gt;</description_ua>
             </offer>
         <offer id="20-DS003 CAP BLUE" available="true">
                 <erp>20-DS003 CAP BLUE</erp>
@@ -56165,6 +56218,24 @@ H2O UNI Gel - це універсальний і надійний лубрика
             <name_ua>Вакуумна помпа Pompka-Powerpump Red</name_ua>
             <description_ua>Вакуумна помпа розроблена для чоловіків, які шукають нові можливості. Регулярне використання збільшує розмір пеніса і посилює ерекцію. Висока якість матеріалів, які використовуються у виробництві дивайса, зробить використання продукт приємним, безпечним і тривалим. Матеріал: силікон / ABS Загальна довжина - 22 см. Діаметр - 6,9 см. Колір червоний. </description_ua>
             </offer>
+        <offer id="60-00016" available="true">
+                <erp>60-00016</erp>
+            <barcode>5903661803858</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/14955-nasadki_na_pompi_pump_sleeve_black</url>
+            <price>123.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>71</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/60-00016.jpg</picture>
+            <name>Насадки на помпи-Pump Sleeve Black</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Насадки на помпи-Pump Sleeve Black</model>
+            <description>М'який і гнучкий універсальний ущільнювач насоса підходить до 7,5 см</description>
+            <name_ua>Насадки на помпи-Pump Sleeve Black</name_ua>
+            <description_ua>М'який і гнучкий універсальний ущільнювач насоса підходить до 7,5 см</description_ua>
+            </offer>
         <offer id="63-00018" available="true">
                 <erp>63-00018</erp>
             <barcode>6970075600020</barcode>
@@ -56395,24 +56466,6 @@ H2O UNI Gel - це універсальний і надійний лубрика
 Діаметр (см): 3.5&lt;/br&gt;&lt;br /&gt;
 Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
 Живлення: Батарейки LR41 (3 шт.)&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="26-00133" available="true">
-                <erp>26-00133</erp>
-            <barcode>5903661802912</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/18846-masturbatorcleo_double_delight_30</url>
-            <price>878.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>156</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/26-00133.jpg</picture>
-            <name>Мастурбатор Cleo Double Delight 3.0, тілесний</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Маструбатор MasturbatorCLEO Double Delight 3.0</model>
-            <description>Чоловічий мастурбатор має красиво профільовані м’які губи з одного боку та піхву з іншого. Текстурована камера має численні виступи, які будуть інтенсивно масажувати ваш член під час проникнення. Піхви Зроблено з ультрареалістичного матеріалу (CyberSkin®). Внутрішній тунель має численні смужки, які ретельно масажують пеніс з точною точністю, створюючи відчуття справжніх відчуттів. Для кращого результату можна використовувати зволожуючі гелі. М'який і реалістичний матеріал - кібершкіра, пестить своїм дотиком. Загальна довжина в см: 21,5 см Діаметр в см: 7,5 см</description>
-            <name_ua>Мастурбатор Cleo Double Delight 3.0, тілесний</name_ua>
-            <description_ua>Чоловічий мастурбатор має красиво профільовані м’які губи з одного боку та піхву з іншого. Текстурована камера має численні виступи, які будуть інтенсивно масажувати ваш член під час проникнення. Піхви Зроблено з ультрареалістичного матеріалу (CyberSkin®). Внутрішній тунель має численні смужки, які ретельно масажують пеніс з точною точністю, створюючи відчуття справжніх відчуттів. Для кращого результату можна використовувати зволожуючі гелі. М'який і реалістичний матеріал - кібершкіра, пестить своїм дотиком. Загальна довжина в см: 21,5 см Діаметр в см: 7,5 см</description_ua>
             </offer>
         <offer id="42-07774390000" available="true">
                 <erp>42-07774390000</erp>
@@ -59495,6 +59548,228 @@ Jaylen приносить неймовірне задоволення завдя
             <name_ua>Парфуми Miyoshi Miyagi Next X, 2,4 мл</name_ua>
             <description_ua>Парфуми Miyoshi Miyagi Next "X" 2,4 ml Femme</description_ua>
             </offer>
+        <offer id="95-03618" available="true">
+                <erp>95-03618</erp>
+            <barcode>6970960523618</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32402-prezervativi_olo_ulytratonki_z_termoeffektom_lid_i_polumya_10_sht</url>
+            <price>348.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3239868d56dc7877bc.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d56dc6bb6fa.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d56dc7547d1.jpg</picture>
+            <name>Презервативи OLO ультратонкі з термоеффектом, Лід і Полум'я 10 шт.</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>OLO</vendor>
+            <model>Презервативи OLO ультратонкі з термоеффектом, Лід і Полум'я 10 шт.</model>
+            <description>Ультратонкі презервативи Olo Ice and Fire.  Виготовлені із натурального гіпоалергенного латексу, товщиною всього 0,01 мм для неймовірно реалістичних відчуттів. В їх склад входить розігріваюча (збуджуюча) змазка з гіалуроновою кислотою, що робить кожний дотик ще більш чутливим.&lt;br /&gt;
+Особливістю цих презервативів є те, що вони мають дві різні функції змазки: ззовні змазка дає відчуття тепла, що стимулює жінку, а всередині змазка дає відчуття прохолоди, що допомагає чоловікові контролювати свої відчуття та подовжувати акт. Презерватив Olo Ice and Fire комбінує в собі одразу два ефекти: охолодний і розігріваючий. Один із партнерів відчуває холодок, а другий – приємне тепло. Таке поєднання дозволяє одночасно отримати різнопланове задоволення, яке найбільше підходить до особливостей пари. Olo Ice and Fire - єдині презервативи, що одночасно продовжують інтимну близькість і надають збуджуючу дію на жінку.</description>
+            <name_ua>Презервативи OLO ультратонкі з термоеффектом, Лід і Полум'я 10 шт.</name_ua>
+            <description_ua>Ультратонкі презервативи Olo Ice and Fire.  Виготовлені із натурального гіпоалергенного латексу, товщиною всього 0,01 мм для неймовірно реалістичних відчуттів. В їх склад входить розігріваюча (збуджуюча) змазка з гіалуроновою кислотою, що робить кожний дотик ще більш чутливим.&lt;br /&gt;
+Особливістю цих презервативів є те, що вони мають дві різні функції змазки: ззовні змазка дає відчуття тепла, що стимулює жінку, а всередині змазка дає відчуття прохолоди, що допомагає чоловікові контролювати свої відчуття та подовжувати акт. Презерватив Olo Ice and Fire комбінує в собі одразу два ефекти: охолодний і розігріваючий. Один із партнерів відчуває холодок, а другий – приємне тепло. Таке поєднання дозволяє одночасно отримати різнопланове задоволення, яке найбільше підходить до особливостей пари. Olo Ice and Fire - єдині презервативи, що одночасно продовжують інтимну близькість і надають збуджуючу дію на жінку.</description_ua>
+            </offer>
+        <offer id="95-04318" available="true">
+                <erp>95-04318</erp>
+            <barcode>6970960524318</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32404-prezervativi_olo_gold_indian_god_oil_10sht_z_tochkovim_ta_prolonguyuchim_efektom_</url>
+            <price>375.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3240068d56aa652494.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d56aa544760.jpg</picture>
+            <name>Презервативи Olo Gold Indian God Oil, з точковим та пролонгуючим ефектом, 10 шт</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>OLO</vendor>
+            <model>Презервативи Olo GOLD Indian god oil 10шт з точковим та пролонгуючим ефектом </model>
+            <description>Презервативи OLO GOLD Indian god oil -  з особливим стимулюючим рельєфом і мастилом, що пролонгує, &lt;br /&gt;
+Захисні вироби товщиною 0,02 мм преміум якості містять усередині мастило, яке затримує еякуляцію та допомагає продовжити статевий акт.&lt;br /&gt;
+У цих захисних виробах силіконове мастило замінює 100% гіалуронова кислота, яка не висихає та підтримує тривале ковзання, гіалуронова кислота є природним компонентом шкіри, що підтримує нормальний водний баланс.&lt;br /&gt;
+OLO GOLD Indian god oil мають високу теплопровідність, швидко передають тепло партнерові шкірі для більш натуральних відчуттів. Мають більш м'яку та гладку поверхню. Упаковані в блістер, що легко відкривається, який оберігає продукт і запобігає пошкодженню при відкритті.&lt;br /&gt;
+&lt;br /&gt;
+Особливості:&lt;br /&gt;
+&lt;br /&gt;
+Ширина: 52 мм&lt;br /&gt;
+Довжина: 160 мм&lt;br /&gt;
+Товщина: 0.02 мм&lt;br /&gt;
+Матеріал: Латекс&lt;br /&gt;
+Поверхня: Рельєфна&lt;br /&gt;
+Текстура: Крапки&lt;br /&gt;
+Змащення: Пролонгуюча з гіалуроновою кислотою&lt;br /&gt;
+Форма: Анатомічна</description>
+            <name_ua>Презервативи Olo Gold Indian God Oil, з точковим та пролонгуючим ефектом, 10 шт</name_ua>
+            <description_ua>Презервативи OLO GOLD Indian god oil -  з особливим стимулюючим рельєфом і мастилом, що пролонгує, &lt;br /&gt;
+Захисні вироби товщиною 0,02 мм преміум якості містять усередині мастило, яке затримує еякуляцію та допомагає продовжити статевий акт.&lt;br /&gt;
+У цих захисних виробах силіконове мастило замінює 100% гіалуронова кислота, яка не висихає та підтримує тривале ковзання, гіалуронова кислота є природним компонентом шкіри, що підтримує нормальний водний баланс.&lt;br /&gt;
+OLO GOLD Indian god oil мають високу теплопровідність, швидко передають тепло партнерові шкірі для більш натуральних відчуттів. Мають більш м'яку та гладку поверхню. Упаковані в блістер, що легко відкривається, який оберігає продукт і запобігає пошкодженню при відкритті.&lt;br /&gt;
+&lt;br /&gt;
+Особливості:&lt;br /&gt;
+&lt;br /&gt;
+Ширина: 52 мм&lt;br /&gt;
+Довжина: 160 мм&lt;br /&gt;
+Товщина: 0.02 мм&lt;br /&gt;
+Матеріал: Латекс&lt;br /&gt;
+Поверхня: Рельєфна&lt;br /&gt;
+Текстура: Крапки&lt;br /&gt;
+Змащення: Пролонгуюча з гіалуроновою кислотою&lt;br /&gt;
+Форма: Анатомічна</description_ua>
+            </offer>
+        <offer id="95-01783" available="true">
+                <erp>95-01783</erp>
+            <barcode>6934439721783</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32408-prezervativi_olo_gold_budda_c_gialuronovim_zmashtennyam_i_aromatom_vanili_rebristi_z_tochkami_10_sht</url>
+            <price>375.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3240468d5670ed9393.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d5670dbbe4c.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d5670ddb067.jpg</picture>
+            <name>Презервативи Olo Gold Budda з гіалуроновим змащенням і ароматом ванілі, ребристі з точками, 10 шт</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>OLO</vendor>
+            <model>Презервативи Olo Gold Budda з гіалуроновим змащенням і ароматом ванілі, ребристі з точками, 10 шт</model>
+            <description>Презервативи  OLO Gold Budda – ультратонкі, які забезпечують максимальний комфорт та задоволення завдяки своїй текстурі та ароматизації.&lt;br /&gt;
+&lt;br /&gt;
+Основні Характеристики:&lt;br /&gt;
+&lt;br /&gt;
+  - Текстура: Має ребристу та точкову текстуру для додаткової стимуляції.&lt;br /&gt;
+  - Форма: Анатомічна форма для максимального комфорту та природності.&lt;br /&gt;
+  - Змазка: Містить гіалуронову кислоту, яка не висихає і забезпечує тривале ковзання. Гіалуронова кислота підтримує водний баланс шкіри.&lt;br /&gt;
+  - Натуральний матеріал: Високої якості для надійного захисту і комфорту.&lt;br /&gt;
+  - Ароматизація: з ароматом ванілі&lt;br /&gt;
+&lt;br /&gt;
+- Розміри:&lt;br /&gt;
+  - Довжина: 160 мм .&lt;br /&gt;
+  - Ширина: 52 мм.&lt;br /&gt;
+  - Товщина: 0,018 мм.</description>
+            <name_ua>Презервативи Olo Gold Budda з гіалуроновим змащенням і ароматом ванілі, ребристі з точками, 10 шт</name_ua>
+            <description_ua>Презервативи  OLO Gold Budda – ультратонкі, які забезпечують максимальний комфорт та задоволення завдяки своїй текстурі та ароматизації.&lt;br /&gt;
+&lt;br /&gt;
+Основні Характеристики:&lt;br /&gt;
+&lt;br /&gt;
+  - Текстура: Має ребристу та точкову текстуру для додаткової стимуляції.&lt;br /&gt;
+  - Форма: Анатомічна форма для максимального комфорту та природності.&lt;br /&gt;
+  - Змазка: Містить гіалуронову кислоту, яка не висихає і забезпечує тривале ковзання. Гіалуронова кислота підтримує водний баланс шкіри.&lt;br /&gt;
+  - Натуральний матеріал: Високої якості для надійного захисту і комфорту.&lt;br /&gt;
+  - Ароматизація: з ароматом ванілі&lt;br /&gt;
+&lt;br /&gt;
+- Розміри:&lt;br /&gt;
+  - Довжина: 160 мм .&lt;br /&gt;
+  - Ширина: 52 мм.&lt;br /&gt;
+  - Товщина: 0,018 мм.</description_ua>
+            </offer>
+        <offer id="95-07815" available="true">
+                <erp>95-07815</erp>
+            <barcode>6934439727815</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32409-prezervativi_olo_001xl_10_sht_ulytratonki_zbilyshenogo_rozmiru</url>
+            <price>227.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3240568d55de5a29ae.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d55de4b8511.jpg</picture>
+            <name>Презервативи Olo 0.01 XL, ультратонкі, збільшеного розміру, 10 шт</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>OLO</vendor>
+            <model>Презервативи Olo 0.01 XL, ультратонкі, збільшеного розміру, 10 шт</model>
+            <description>Презервативи OLO Extra Large (збільшеного розміру) 10 шт&lt;br /&gt;
+&lt;br /&gt;
+OLO Extra Large спеціально розроблені для чоловіків, які потребують більше простору.&lt;br /&gt;
+&lt;br /&gt;
+Характеристики:&lt;br /&gt;
+&lt;br /&gt;
+- Матеріал: натуральний матеріал.&lt;br /&gt;
+- Силіконова змазка: Преміум-класу, що забезпечує додаткове ковзання і комфорт.&lt;br /&gt;
+- Накопичувач: Для додаткового зручності та безпеки.&lt;br /&gt;
+- Гладка текстура: Підвищує комфорт і покращує відчуття під час використання.&lt;br /&gt;
+- Зручна форма: Спеціально розроблена для кращого прилягання і додаткового комфорту.&lt;br /&gt;
+&lt;br /&gt;
+- Розміри:&lt;br /&gt;
+  - Довжина: 160 мм.&lt;br /&gt;
+  - Ширина : 55 мм.&lt;br /&gt;
+  - Товщина: 0,01 мм.&lt;br /&gt;
+&lt;br /&gt;
+Доставка&lt;br /&gt;
+Оплата&lt;br /&gt;
+Гарантія&lt;br /&gt;
+Поверненн</description>
+            <name_ua>Презервативи Olo 0.01 XL, ультратонкі, збільшеного розміру, 10 шт</name_ua>
+            <description_ua>Презервативи OLO Extra Large (збільшеного розміру) 10 шт&lt;br /&gt;
+&lt;br /&gt;
+OLO Extra Large спеціально розроблені для чоловіків, які потребують більше простору.&lt;br /&gt;
+&lt;br /&gt;
+Характеристики:&lt;br /&gt;
+&lt;br /&gt;
+- Матеріал: натуральний матеріал.&lt;br /&gt;
+- Силіконова змазка: Преміум-класу, що забезпечує додаткове ковзання і комфорт.&lt;br /&gt;
+- Накопичувач: Для додаткового зручності та безпеки.&lt;br /&gt;
+- Гладка текстура: Підвищує комфорт і покращує відчуття під час використання.&lt;br /&gt;
+- Зручна форма: Спеціально розроблена для кращого прилягання і додаткового комфорту.&lt;br /&gt;
+&lt;br /&gt;
+- Розміри:&lt;br /&gt;
+  - Довжина: 160 мм.&lt;br /&gt;
+  - Ширина : 55 мм.&lt;br /&gt;
+  - Товщина: 0,01 мм.&lt;br /&gt;
+&lt;br /&gt;
+Доставка&lt;br /&gt;
+Оплата&lt;br /&gt;
+Гарантія&lt;br /&gt;
+Поверненн</description_ua>
+            </offer>
+        <offer id="95-03076" available="true">
+                <erp>95-03076</erp>
+            <barcode>6970960523076</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32411-prezervativi_lateksni_olo_passionare_leap_10sht_tochkovi_z_gialuronovoyu_kislotoyu</url>
+            <price>209.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3240768dbe625efd29.jpg</picture>
+            <name>Презервативи латексні Olo Passionare Leap 10шт точкові з гіалуроновою кислотою</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>OLO</vendor>
+            <model>Презервативи латексні Olo Passionare Leap 10шт точкові з гіалуроновою кислотою</model>
+            <description>Презервативи Olo Passionare Leap  – це ультратонкі презервативи нового покоління, виготовлені з натурального латексу з гіалуроновою кислотою.&lt;br /&gt;
+Спеціальна точкова текстура забезпечить неймовірні тактильні відчуття, даруючи вам та вашому партнеру незабутню близькість.&lt;br /&gt;
+Замість силіконового мастила використовується гіалуронова кислота, яка забезпечує тривале зволоження та сприяє виробленню власного лубриканта та загоєнню мікротріщин.&lt;br /&gt;
+&lt;br /&gt;
+Матеріал виготовлення – натуральний латекс, який проходить багаторівневі тести на міцність та еластичність. Це гарантує надійний захист, не створюючи почуття бар'єру.&lt;br /&gt;
+&lt;br /&gt;
+Переваги:&lt;br /&gt;
+&lt;br /&gt;
+- Крапкова структура: для максимального задоволення обох партнерів.&lt;br /&gt;
+- Особлива форма: унікальна конструкція, що звужується до кінця, забезпечуючи ідеальне прилягання.&lt;br /&gt;
+- Гіалуронова кислота: зволожує та запобігає подразненню, роблячи кожен момент ще приємнішим.&lt;br /&gt;
+- 10 штук в упаковці: достатньо для довгих та пристрасних ночей.&lt;br /&gt;
+&lt;br /&gt;
+Довжина – 160 мм&lt;br /&gt;
+Ширина – 52 мм&lt;br /&gt;
+Матеріал – латекс</description>
+            <name_ua>Презервативи латексні Olo Passionare Leap 10шт точкові з гіалуроновою кислотою</name_ua>
+            <description_ua>Презервативи Olo Passionare Leap  – це ультратонкі презервативи нового покоління, виготовлені з натурального латексу з гіалуроновою кислотою.&lt;br /&gt;
+Спеціальна точкова текстура забезпечить неймовірні тактильні відчуття, даруючи вам та вашому партнеру незабутню близькість.&lt;br /&gt;
+Замість силіконового мастила використовується гіалуронова кислота, яка забезпечує тривале зволоження та сприяє виробленню власного лубриканта та загоєнню мікротріщин.&lt;br /&gt;
+&lt;br /&gt;
+Матеріал виготовлення – натуральний латекс, який проходить багаторівневі тести на міцність та еластичність. Це гарантує надійний захист, не створюючи почуття бар'єру.&lt;br /&gt;
+&lt;br /&gt;
+Переваги:&lt;br /&gt;
+&lt;br /&gt;
+- Крапкова структура: для максимального задоволення обох партнерів.&lt;br /&gt;
+- Особлива форма: унікальна конструкція, що звужується до кінця, забезпечуючи ідеальне прилягання.&lt;br /&gt;
+- Гіалуронова кислота: зволожує та запобігає подразненню, роблячи кожен момент ще приємнішим.&lt;br /&gt;
+- 10 штук в упаковці: достатньо для довгих та пристрасних ночей.&lt;br /&gt;
+&lt;br /&gt;
+Довжина – 160 мм&lt;br /&gt;
+Ширина – 52 мм&lt;br /&gt;
+Матеріал – латекс</description_ua>
+            </offer>
         <offer id="19-2052" available="true">
                 <erp>19-2052</erp>
             <barcode>3548960204252</barcode>
@@ -59590,6 +59865,208 @@ Jaylen приносить неймовірне задоволення завдя
 Форма випуску: Крем&lt;br /&gt;
 Додаткові ефекти: Без ефектів&lt;br /&gt;
 К-сть штук в упаковці (шт.): 1</description_ua>
+            </offer>
+        <offer id="95-04325" available="true">
+                <erp>95-04325</erp>
+            <barcode>6970960524325</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35670-ultratonk_prezervativi_z_prolonguyuchim_efektom_olo_blue_indian_god_oil_10_sht</url>
+            <price>375.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_35666692d8f10e804d.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692d8f0dbb863.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692d8f0dc9af1.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692d8f0dd6c21.jpg</picture>
+            <name>Презервативи Olo Blue Indian God Oil, ультратонкі, з пролонгуючим ефектом, 10 шт</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>OLO</vendor>
+            <model>Ультратонкі презервативи з пролонгуючим ефектом Olo Blue Indian God Oil 10 шт</model>
+            <description>Olo Blue Indian God Oil — це презервативи з пролонгуючим ефектом, створені для чоловіків, які прагнуть продовжити статевий акт і подарувати обом партнерам ще більше задоволення. Завдяки спеціальній змазці з Indian God Oil, презервативи допомагають контролювати кульмінацію, зберігаючи при цьому максимальну чутливість.&lt;br /&gt;
+Подовжувальна змазка на основі Indian God Oil — ефективно затримує еякуляцію, забезпечуючи триваліший контакт;&lt;br /&gt;
+Надтонкий латекс (0,02 мм) — майже не відчувається, забезпечуючи природну близькість;&lt;br /&gt;
+Гіпоалергенна формула — безпечна для чутливої шкіри, не викликає подразнень;&lt;br /&gt;
+Довжина: 160 мм&lt;br /&gt;
+Ширина: 52 мм&lt;br /&gt;
+Товщина: 0,02 мм&lt;br /&gt;
+Змазка: пролонгуюча</description>
+            <name_ua>Презервативи Olo Blue Indian God Oil, ультратонкі, з пролонгуючим ефектом, 10 шт</name_ua>
+            <description_ua>Olo Blue Indian God Oil — це презервативи з пролонгуючим ефектом, створені для чоловіків, які прагнуть продовжити статевий акт і подарувати обом партнерам ще більше задоволення. Завдяки спеціальній змазці з Indian God Oil, презервативи допомагають контролювати кульмінацію, зберігаючи при цьому максимальну чутливість.&lt;br /&gt;
+Подовжувальна змазка на основі Indian God Oil — ефективно затримує еякуляцію, забезпечуючи триваліший контакт;&lt;br /&gt;
+Надтонкий латекс (0,02 мм) — майже не відчувається, забезпечуючи природну близькість;&lt;br /&gt;
+Гіпоалергенна формула — безпечна для чутливої шкіри, не викликає подразнень;&lt;br /&gt;
+Довжина: 160 мм&lt;br /&gt;
+Ширина: 52 мм&lt;br /&gt;
+Товщина: 0,02 мм&lt;br /&gt;
+Змазка: пролонгуюча</description_ua>
+            </offer>
+        <offer id="95-03718" available="true">
+                <erp>95-03718</erp>
+            <barcode>6934439723718</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35671-ultratonk_prezervativi_z_termoefektom_olo_redblack_10_sht</url>
+            <price>348.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_35667692d8ca23c2ed.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692d8ca01ad64.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692d8ca02b412.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692d8ca03bd4e.jpg</picture>
+            <name>Презервативи Olo RedBlack, ультратонкі, з термоефектом, 10 шт</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>OLO</vendor>
+            <model>Ультратонкі презервативи з термоефектом Olo RedBlack, 10 шт</model>
+            <description>OLO RedBlack — це ультратонкі захисні вироби товщиною всього 0,02 мм, створені для найвищого рівня комфорту та натуральних відчуттів. 100% гіалуронова кислота замість силіконової змазки, що не висихає і підтримує нормальний водний баланс шкіри.&lt;br /&gt;
+Висока теплопровідність швидко передає тепло шкірі партнера для більш природних відчуттів.&lt;br /&gt;
+М'яка та гладка поверхня для додаткового комфорту.&lt;br /&gt;
+Упаковані в зручний блістер, що забезпечує захист продукту та легкість у відкритті.&lt;br /&gt;
+Ширина: 52 мм&lt;br /&gt;
+Довжина: 160 мм&lt;br /&gt;
+Товщина: 0,02 мм</description>
+            <name_ua>Презервативи Olo RedBlack, ультратонкі, з термоефектом, 10 шт</name_ua>
+            <description_ua>OLO RedBlack — це ультратонкі захисні вироби товщиною всього 0,02 мм, створені для найвищого рівня комфорту та натуральних відчуттів. 100% гіалуронова кислота замість силіконової змазки, що не висихає і підтримує нормальний водний баланс шкіри.&lt;br /&gt;
+Висока теплопровідність швидко передає тепло шкірі партнера для більш природних відчуттів.&lt;br /&gt;
+М'яка та гладка поверхня для додаткового комфорту.&lt;br /&gt;
+Упаковані в зручний блістер, що забезпечує захист продукту та легкість у відкритті.&lt;br /&gt;
+Ширина: 52 мм&lt;br /&gt;
+Довжина: 160 мм&lt;br /&gt;
+Товщина: 0,02 мм</description_ua>
+            </offer>
+        <offer id="95-03725" available="true">
+                <erp>95-03725</erp>
+            <barcode>6934439723725</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35672-ulytratonki_prezervativi_z_prolonguyuchim_efektom_olo_redgold_10_sht</url>
+            <price>348.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_35668692d8c3806966.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692d8c36863f7.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692d8c36993de.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692d8c36a54d2.jpg</picture>
+            <name>Презервативи Olo RedGold, ультратонкі, з пролонгуючим ефектом, 10 шт</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>OLO</vendor>
+            <model>Ультратонкі презервативи з пролонгуючим ефектом Olo RedGold, 10 шт</model>
+            <description>Olo Red Gold — вироби з пролонгуючим ефектом, виготовлені з високоякісного, натурального, антиалергенного каучуку. Вони забезпечують додаткове задоволення завдяки 100% гіалуроновій кислоті, яка замінює силіконову змазку, підтримуючи нормальний водний баланс шкіри.&lt;br /&gt;
+Кількість в пачці 10шт.&lt;br /&gt;
+Високоякісний каучук гарантує міцність і безпеку.&lt;br /&gt;
+М'яка та гладка поверхня для комфорту та природних відчуттів.&lt;br /&gt;
+Упаковані в зручний блістер, що забезпечує захист і легке відкриття без пошкоджень.&lt;br /&gt;
+Ширина: 52 мм&lt;br /&gt;
+Довжина: 180 мм&lt;br /&gt;
+Товщина: 0,018 мм</description>
+            <name_ua>Презервативи Olo RedGold, ультратонкі, з пролонгуючим ефектом, 10 шт</name_ua>
+            <description_ua>Olo Red Gold — вироби з пролонгуючим ефектом, виготовлені з високоякісного, натурального, антиалергенного каучуку. Вони забезпечують додаткове задоволення завдяки 100% гіалуроновій кислоті, яка замінює силіконову змазку, підтримуючи нормальний водний баланс шкіри.&lt;br /&gt;
+Кількість в пачці 10шт.&lt;br /&gt;
+Високоякісний каучук гарантує міцність і безпеку.&lt;br /&gt;
+М'яка та гладка поверхня для комфорту та природних відчуттів.&lt;br /&gt;
+Упаковані в зручний блістер, що забезпечує захист і легке відкриття без пошкоджень.&lt;br /&gt;
+Ширина: 52 мм&lt;br /&gt;
+Довжина: 180 мм&lt;br /&gt;
+Товщина: 0,018 мм</description_ua>
+            </offer>
+        <offer id="95-03687" available="true">
+                <erp>95-03687</erp>
+            <barcode>6970960523687</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35673-prezervativi_ulytratonki_olo_001_black_z_gialuronovoyu_kislotoyu_10_sht_folyga</url>
+            <price>225.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_356696930189b8ad60.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6930189a6d406.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6930189a7a10d.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6930189a87f83.jpeg</picture>
+            <name>Презервативи Olo 0.01 Black, ультратонкі, з гіалуроновою кислотою, 10 шт</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>OLO</vendor>
+            <model>Презервативи ультратонкі Olo 0.01 BLACK з гіалуроновою кислотою, 10 шт (фольга)</model>
+            <description>OLO 001 - це супертонкі, анатомічно ідеальні та бездоганно надійні презервативи, що не мають аналогів. Для більшої чутливості у чоловіка!&lt;br /&gt;
+Товщина їх стін досягла свого можливого мінімуму - 0,018 мм.&lt;br /&gt;
+А це вдвічі менше, ніж товщина стін стандартних презервативів.&lt;br /&gt;
+OLO – це нове покоління надтонких презервативів.&lt;br /&gt;
+З гіалуроновою кислотою!&lt;br /&gt;
+Ідеально сумісна з людським природним мастилом - сприяє загоєнню мікротріщин та відновленню слизової оболонки.&lt;br /&gt;
+Мастило має нелипку структуру, легко змивається водою без мила, має дуже приємний легкий аромат.&lt;br /&gt;
+Ширина – 52 мм&lt;br /&gt;
+Довжина – 160 мм&lt;br /&gt;
+Товщина – 0,018 мм</description>
+            <name_ua>Презервативи Olo 0.01 Black, ультратонкі, з гіалуроновою кислотою, 10 шт</name_ua>
+            <description_ua>OLO 001 - це супертонкі, анатомічно ідеальні та бездоганно надійні презервативи, що не мають аналогів. Для більшої чутливості у чоловіка!&lt;br /&gt;
+Товщина їх стін досягла свого можливого мінімуму - 0,018 мм.&lt;br /&gt;
+А це вдвічі менше, ніж товщина стін стандартних презервативів.&lt;br /&gt;
+OLO – це нове покоління надтонких презервативів.&lt;br /&gt;
+З гіалуроновою кислотою!&lt;br /&gt;
+Ідеально сумісна з людським природним мастилом - сприяє загоєнню мікротріщин та відновленню слизової оболонки.&lt;br /&gt;
+Мастило має нелипку структуру, легко змивається водою без мила, має дуже приємний легкий аромат.&lt;br /&gt;
+Ширина – 52 мм&lt;br /&gt;
+Довжина – 160 мм&lt;br /&gt;
+Товщина – 0,018 мм</description_ua>
+            </offer>
+        <offer id="95-04356" available="true">
+                <erp>95-04356</erp>
+            <barcode>6970960524356</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35674-prezervativi_olo_foil_001_gold_10sht_tochki_ta_rebra_gialuronova_zmazka_folyga</url>
+            <price>225.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_35670692d8b38000db.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692d8b3601577.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692d8b360e07d.jpg</picture>
+            <name>Презервативи Olo Foil 0.01 Gold, ультратонкі, з точками та ребрами, гіалуронова змазка, 10 шт</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>OLO</vendor>
+            <model>Презервативи Olo Foil 0.01 Gold, ультратонкі, з точками та ребрами, гіалуронова змазка, 10 шт</model>
+            <description>Це не просто захист – це відчуття повної близькості. Товщина всього 0.01 мм , завдяки чому презерватив практично не відчувається. Максимум природності, максимум тепла, максимум задоволення.&lt;br /&gt;
+Мастило з гіалуроновою кислотою зволожує і робить все м'яким, чуйним і делікатним. А тонкий квітковий аромат створює легкий флер романтики та пристрасті.&lt;br /&gt;
+Основні особливості&lt;br /&gt;
+10 ультратонких презервативів в індивідуальних фольгованих упаковках&lt;br /&gt;
+Ширина - 52 мм , довжина - від 160 мм.&lt;br /&gt;
+Квітковий аромат + ніжне гіалуронове мастило</description>
+            <name_ua>Презервативи Olo Foil 0.01 Gold, ультратонкі, з точками та ребрами, гіалуронова змазка, 10 шт</name_ua>
+            <description_ua>Це не просто захист – це відчуття повної близькості. Товщина всього 0.01 мм , завдяки чому презерватив практично не відчувається. Максимум природності, максимум тепла, максимум задоволення.&lt;br /&gt;
+Мастило з гіалуроновою кислотою зволожує і робить все м'яким, чуйним і делікатним. А тонкий квітковий аромат створює легкий флер романтики та пристрасті.&lt;br /&gt;
+Основні особливості&lt;br /&gt;
+10 ультратонких презервативів в індивідуальних фольгованих упаковках&lt;br /&gt;
+Ширина - 52 мм , довжина - від 160 мм.&lt;br /&gt;
+Квітковий аромат + ніжне гіалуронове мастило</description_ua>
+            </offer>
+        <offer id="95-04363" available="true">
+                <erp>95-04363</erp>
+            <barcode>6970960524363</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35675-prezervativi_zbudzhuyuchi_olo_001_red_foil_shto_zigrivayuty_z_gialuronovoyu_kislotoyu_10_sht</url>
+            <price>225.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_35671692d8a69e5e87.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692d8a6838e22.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692d8a6847405.jpg</picture>
+            <name>Презервативи Olo 0.01 Red Foil, збуджуючі, що зігрівають, з гіалуроновою кислотою, 10 шт</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>OLO</vendor>
+            <model>Презервативи збуджуючі Olo 0.01 RED Foil, що зігрівають з гіалуроновою кислотою, 10 шт.</model>
+            <description>Нове покоління ультра тонких презервативів Olo товщиною 0,01 мм преміум якості з розігрівальним ефектом, вкрите гарячим гелем, який посилює відчуття від дотиків. З точковим рельєфом для додаткової стимуляції та посилення збудження.&lt;br /&gt;
+У цих презервативах силіконове мастило замінює  100% гіалуронова кислота , яка не висихає і підтримує тривале мастило, також сприяє виробленню власного мастила. Ідеально сумісна з людським природним мастилом - сприяє загоєнню мікротріщин та відновленню слизової оболонки.&lt;br /&gt;
+Висока теплопровідність. Презерватив швидко передає тепло шкірі партнера для більш натуральних відчуттів.&lt;br /&gt;
+Гіпоалергенний матеріал.&lt;br /&gt;
+Поверхня презерватива більш м'яка та гладка.&lt;br /&gt;
+Презервативи упаковані в блістер, що легко відкривається. Він оберігає продукт та перешкоджає пошкодженню при відкритті. Упаковка чиста, стерильна, включає достатню кількість лубриканта. При відкритті упаковки, ви завжди знаєте, якою стороною лежить презерватив.</description>
+            <name_ua>Презервативи Olo 0.01 Red Foil, збуджуючі, що зігрівають, з гіалуроновою кислотою, 10 шт</name_ua>
+            <description_ua>Нове покоління ультра тонких презервативів Olo товщиною 0,01 мм преміум якості з розігрівальним ефектом, вкрите гарячим гелем, який посилює відчуття від дотиків. З точковим рельєфом для додаткової стимуляції та посилення збудження.&lt;br /&gt;
+У цих презервативах силіконове мастило замінює  100% гіалуронова кислота , яка не висихає і підтримує тривале мастило, також сприяє виробленню власного мастила. Ідеально сумісна з людським природним мастилом - сприяє загоєнню мікротріщин та відновленню слизової оболонки.&lt;br /&gt;
+Висока теплопровідність. Презерватив швидко передає тепло шкірі партнера для більш натуральних відчуттів.&lt;br /&gt;
+Гіпоалергенний матеріал.&lt;br /&gt;
+Поверхня презерватива більш м'яка та гладка.&lt;br /&gt;
+Презервативи упаковані в блістер, що легко відкривається. Він оберігає продукт та перешкоджає пошкодженню при відкритті. Упаковка чиста, стерильна, включає достатню кількість лубриканта. При відкритті упаковки, ви завжди знаєте, якою стороною лежить презерватив.</description_ua>
             </offer>
         <offer id="BI-026210-2" available="true">
                 <erp>BI-026210-2</erp>
@@ -60635,24 +61112,6 @@ Just Glide Waterbased - це відмінний вибір для тих, хто
             <name_ua>Анальна пробка -Fox TAILBrown XL</name_ua>
             <description_ua>Стильна анальна пробка з високоякісної нержавіючої сталі. Пробка ідеально гладка, без гострих країв і  завершується красивим пухнастим хвостом. Хутро штучне. Загальна довжина: 45 см, довжина пробки: 6,5 см, діаметр пробки: 2,7 см, довжина хвоста: 38,5 см</description_ua>
             </offer>
-        <offer id="60-00016" available="true">
-                <erp>60-00016</erp>
-            <barcode>5903661803858</barcode>
-            <quantity_in_stock>6</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/14955-nasadki_na_pompi_pump_sleeve_black</url>
-            <price>123.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>71</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/60-00016.jpg</picture>
-            <name>Насадки на помпи-Pump Sleeve Black</name>
-            <Отображать>Да</Отображать>
-            <stock>6</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Насадки на помпи-Pump Sleeve Black</model>
-            <description>М'який і гнучкий універсальний ущільнювач насоса підходить до 7,5 см</description>
-            <name_ua>Насадки на помпи-Pump Sleeve Black</name_ua>
-            <description_ua>М'який і гнучкий універсальний ущільнювач насоса підходить до 7,5 см</description_ua>
-            </offer>
         <offer id="40-13640-01" available="true">
                 <erp>40-13640-01</erp>
             <barcode>827160113865</barcode>
@@ -60890,6 +61349,24 @@ Cananga Odorata Flower Oil — антисептична та релаксува�
 Склад: вода, пропіленгліколь, пег-40 гідрогенізована кастролова олія, диметикон, гідроксиетилцелюлоза, сорбат калію, бензоат натрію, сахарин натрію, аромат&lt;br /&gt;
 &lt;br /&gt;
 Ємність: 150 мл</description_ua>
+            </offer>
+        <offer id="26-00133" available="true">
+                <erp>26-00133</erp>
+            <barcode>5903661802912</barcode>
+            <quantity_in_stock>6</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/18846-masturbatorcleo_double_delight_30</url>
+            <price>878.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>156</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/26-00133.jpg</picture>
+            <name>Мастурбатор Cleo Double Delight 3.0, тілесний</name>
+            <Отображать>Да</Отображать>
+            <stock>6</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Маструбатор MasturbatorCLEO Double Delight 3.0</model>
+            <description>Чоловічий мастурбатор має красиво профільовані м’які губи з одного боку та піхву з іншого. Текстурована камера має численні виступи, які будуть інтенсивно масажувати ваш член під час проникнення. Піхви Зроблено з ультрареалістичного матеріалу (CyberSkin®). Внутрішній тунель має численні смужки, які ретельно масажують пеніс з точною точністю, створюючи відчуття справжніх відчуттів. Для кращого результату можна використовувати зволожуючі гелі. М'який і реалістичний матеріал - кібершкіра, пестить своїм дотиком. Загальна довжина в см: 21,5 см Діаметр в см: 7,5 см</description>
+            <name_ua>Мастурбатор Cleo Double Delight 3.0, тілесний</name_ua>
+            <description_ua>Чоловічий мастурбатор має красиво профільовані м’які губи з одного боку та піхву з іншого. Текстурована камера має численні виступи, які будуть інтенсивно масажувати ваш член під час проникнення. Піхви Зроблено з ультрареалістичного матеріалу (CyberSkin®). Внутрішній тунель має численні смужки, які ретельно масажують пеніс з точною точністю, створюючи відчуття справжніх відчуттів. Для кращого результату можна використовувати зволожуючі гелі. М'який і реалістичний матеріал - кібершкіра, пестить своїм дотиком. Загальна довжина в см: 21,5 см Діаметр в см: 7,5 см</description_ua>
             </offer>
         <offer id="42-07739050000" available="true">
                 <erp>42-07739050000</erp>
@@ -64459,6 +64936,72 @@ AQUAglide Raspberry - це ідеальний вибір для тих, хто �
 Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
 Їстівне: Ні&lt;/br&gt;</description_ua>
             </offer>
+        <offer id="BI-014173-A3" available="true">
+                <erp>BI-014173-A3</erp>
+            <barcode>6959532360455</barcode>
+            <quantity_in_stock>7</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31693-vibrator_z_klitoralynoyu_stimulyatsiyu_pretty_love_snappy_black</url>
+            <price>622.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>27</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_316906719661ac0dfc.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6719661811b5e.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6719661831bdd.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67196618538b6.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67196618693e7.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6719661880dd6.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6719661897354.gif</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67196618b0665.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67196618c5d78.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_67196618e031f.gif</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6719661908e86.jpeg</picture>
+            <name>Вібратор кролик Pretty Love Snappy, чорний</name>
+            <Отображать>Да</Отображать>
+            <stock>7</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Вібратор кролик Pretty Love Snappy, чорний</model>
+            <description>Вібратор кролик Pretty Love Snappy забезпечує &lt;b&gt;подвійну стимуляцію&lt;/b&gt; завдяки двом моторам, що працюють одночасно для вагінальної та кліторальної стимуляції. Реалістична голівка з ребристою текстурою та легким вигином спрямована на стимуляцію точки G, а рухливий відросток приділяє увагу клітору.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Пристрій пропонує &lt;b&gt;30 різних програм вібрації&lt;/b&gt;, які керуються кнопками на рукоятці. Виготовлений з м'якого силікону та міцного пластику, забезпечує комфортне використання завдяки гладенькій поверхні та ергономічній формі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Працює від двох батарейок ААА, що дозволяє використовувати іграшку без прив'язки до мережі. Підходить для використання з лубрикантами на водній основі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Силікон, Пластик&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 19&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 9.5&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 3.5&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька, Ребриста&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
+Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
+Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
+Керування з додатку: Ні&lt;/br&gt;</description>
+            <name_ua>Вібратор кролик Pretty Love Snappy, чорний</name_ua>
+            <description_ua>Вібратор кролик Pretty Love Snappy забезпечує &lt;b&gt;подвійну стимуляцію&lt;/b&gt; завдяки двом моторам, що працюють одночасно для вагінальної та кліторальної стимуляції. Реалістична голівка з ребристою текстурою та легким вигином спрямована на стимуляцію точки G, а рухливий відросток приділяє увагу клітору.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Пристрій пропонує &lt;b&gt;30 різних програм вібрації&lt;/b&gt;, які керуються кнопками на рукоятці. Виготовлений з м'якого силікону та міцного пластику, забезпечує комфортне використання завдяки гладенькій поверхні та ергономічній формі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Працює від двох батарейок ААА, що дозволяє використовувати іграшку без прив'язки до мережі. Підходить для використання з лубрикантами на водній основі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Силікон, Пластик&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 19&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 9.5&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 3.5&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька, Ребриста&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
+Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
+Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
+Керування з додатку: Ні&lt;/br&gt;</description_ua>
+            </offer>
         <offer id="42-06295100000" available="true">
                 <erp>42-06295100000</erp>
             <barcode>4024144483211</barcode>
@@ -65134,6 +65677,24 @@ AQUAglide Raspberry - це ідеальний вибір для тих, хто �
             <description>Духи для чоловіків з додаванням феромонів - природних речовин, що викликають потяг у протилежної статі. Це найновіший і найсильніший парфум для підвищення привабливості. Немає жінки, яка б могла протистояти їм ... Ідеально підходить для будь-якого хлопця, який потребує «м'якої допомоги» у спілкуванні з жінкам</description>
             <name_ua>Парфуми Ruf Phero Spray, 15 мл</name_ua>
             <description_ua>Духи для чоловіків з додаванням феромонів - природних речовин, що викликають потяг у протилежної статі. Це найновіший і найсильніший парфум для підвищення привабливості. Немає жінки, яка б могла протистояти їм ... Ідеально підходить для будь-якого хлопця, який потребує «м'якої допомоги» у спілкуванні з жінкам</description_ua>
+            </offer>
+        <offer id="19-2071" available="true">
+                <erp>19-2071</erp>
+            <barcode>3548960020715</barcode>
+            <quantity_in_stock>8</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2419-feromony_taboo_for_him_50_ml</url>
+            <price>778.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>81</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/19-2071.jpg</picture>
+            <name>Парфуми Ruf Taboo for Him, 50 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>8</stock>
+            <vendor>RUF</vendor>
+            <model>Парфуми Ruf Taboo for Him, 50 мл</model>
+            <description>Taboo Libertin використовується не тільки як сексуальний атрактант (аттрактант), але і під час повсякденних зустрічей і розмов, де є можливість контакту з іншою людиною. Taboo Libertin є результатом багаторічних досліджень людських феромонів. Він містить найактивніші феромони в ідеальних пропорціях, в яких їх виробляє людський організм. При щоденному використанні, як і стандартний косметичний засіб, він може впливати на навколишнє середовище (на протилежну стать), що може сприймати вас більш позитивно та дружньо. Taboo Libertin може підвищити ступінь довіри і зробити людей навколо вас більш відкритими, бажаючими бути поруч з вами і ставитися до вас з повагою. Taboo Libertin може бути корисним як під час вирішення важливих справ в офісах, банках, під час важливої розмови, так і під час вечірнього відпочинку в клубі. Taboo Libertin також є пропозицією для людей, які хочуть привнести більше пристрасті та любові до їхніх стосунків. Незалежно від того, знайомі ви один одного 2 місяці чи 20 років, ви можете знову закохатися, як і раніше. Тепер все у ваших руках...</description>
+            <name_ua>Парфуми Ruf Taboo for Him, 50 мл</name_ua>
+            <description_ua>Taboo Libertin використовується не тільки як сексуальний атрактант (аттрактант), але і під час повсякденних зустрічей і розмов, де є можливість контакту з іншою людиною. Taboo Libertin є результатом багаторічних досліджень людських феромонів. Він містить найактивніші феромони в ідеальних пропорціях, в яких їх виробляє людський організм. При щоденному використанні, як і стандартний косметичний засіб, він може впливати на навколишнє середовище (на протилежну стать), що може сприймати вас більш позитивно та дружньо. Taboo Libertin може підвищити ступінь довіри і зробити людей навколо вас більш відкритими, бажаючими бути поруч з вами і ставитися до вас з повагою. Taboo Libertin може бути корисним як під час вирішення важливих справ в офісах, банках, під час важливої розмови, так і під час вечірнього відпочинку в клубі. Taboo Libertin також є пропозицією для людей, які хочуть привнести більше пристрасті та любові до їхніх стосунків. Незалежно від того, знайомі ви один одного 2 місяці чи 20 років, ви можете знову закохатися, як і раніше. Тепер все у ваших руках...</description_ua>
             </offer>
         <offer id="19-3071" available="true">
                 <erp>19-3071</erp>
@@ -66156,6 +66717,68 @@ AQUAglide Raspberry - це ідеальний вибір для тих, хто �
             <name_ua>Віброкільце для члена Boss Series Traveler Cock Ring Stay Hard, чорне</name_ua>
             <description_ua>Віброкільце для члена Boss Series Traveler Cock Ring Stay Hard, чорне</description_ua>
             </offer>
+        <offer id="BI-014943" available="true">
+                <erp>BI-014943</erp>
+            <barcode>6959532327311</barcode>
+            <quantity_in_stock>8</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30553-vibrator_pretty_love_moth</url>
+            <price>965.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>27</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_30553649191abad49d.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_649191aa20ed4.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_649191aa3e1f2.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_649191aa52055.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_649191aa68487.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_649191aa77cc8.gif</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_649191aa8d986.gif</picture>
+            <name>Вібратор Pretty Love Moth, фіолетовий</name>
+            <Отображать>Да</Отображать>
+            <stock>8</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Вібратор Pretty Love Moth, фіолетовий</model>
+            <description>Вібратор Pretty Love Moth фіолетового кольору забезпечує &lt;b&gt;одночасну стимуляцію піхви, точки G та клітора&lt;/b&gt; завдяки rabbit-конструкції з додатковим кліторальним відростком у формі метелика. Особливістю моделі є &lt;b&gt;рухомий язичок на голівці стовбура&lt;/b&gt;, який створює унікальні відчуття під час використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Іграшка виготовлена з &lt;b&gt;гіпоалергенного силікону&lt;/b&gt; з оксамитовою текстурою, має злегка вигнутий стовбур для точного потрапляння в ерогенні зони. Пристрій пропонує &lt;b&gt;12 режимів вібрації та 3 режими роботи язичка&lt;/b&gt;, керування здійснюється кнопками на корпусі. Робоча довжина 10 см при діаметрі 3.2 см підходить для комфортного використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Модель працює від двох батарейок ААА, рекомендується використання лубрикантів на водній основі та спеціальних засобів для очищення після застосування.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька, Оксамитова&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 20.7&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 10&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 3.2&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Екстра функції: З рухомим язичком&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
+Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
+Наявність присоски: Ні&lt;/br&gt;</description>
+            <name_ua>Вібратор Pretty Love Moth, фіолетовий</name_ua>
+            <description_ua>Вібратор Pretty Love Moth фіолетового кольору забезпечує &lt;b&gt;одночасну стимуляцію піхви, точки G та клітора&lt;/b&gt; завдяки rabbit-конструкції з додатковим кліторальним відростком у формі метелика. Особливістю моделі є &lt;b&gt;рухомий язичок на голівці стовбура&lt;/b&gt;, який створює унікальні відчуття під час використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Іграшка виготовлена з &lt;b&gt;гіпоалергенного силікону&lt;/b&gt; з оксамитовою текстурою, має злегка вигнутий стовбур для точного потрапляння в ерогенні зони. Пристрій пропонує &lt;b&gt;12 режимів вібрації та 3 режими роботи язичка&lt;/b&gt;, керування здійснюється кнопками на корпусі. Робоча довжина 10 см при діаметрі 3.2 см підходить для комфортного використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Модель працює від двох батарейок ААА, рекомендується використання лубрикантів на водній основі та спеціальних засобів для очищення після застосування.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька, Оксамитова&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 20.7&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 10&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 3.2&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Екстра функції: З рухомим язичком&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
+Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
+Наявність присоски: Ні&lt;/br&gt;</description_ua>
+            </offer>
         <offer id="BI-014475" available="true">
                 <erp>BI-014475</erp>
             <barcode />
@@ -66533,72 +67156,6 @@ AQUAglide Raspberry - це ідеальний вибір для тих, хто �
             <name_ua>Ерекційне кільце Pretty Love Powerful Ring, синє</name_ua>
             <description_ua>Якщо ви шукаєте додатковий «стимулятор» для себе, який збільшить вашу витривалість, і чудовий зовнішній «стимулятор» для неї, тоді Pretty Love IV Silicone Penis Sleeve — це те, що вам потрібно. Просто надіньте перше кільце на пеніс, а нижнє оберніть навколо яєчок. Тяга, що висить внизу, буде ритмічно вдаряти і по ньому, і по ній під час проникнення, додаючи ніжних погладжувань пеніса.&lt;br /&gt;
 Конструкція кріплення також включає верхній стимулятор клітора в поєднанні з потужною кулею з десятьма налаштуваннями вібрації. Цей надзвичайно м’який силіконовий рукав точно допоможе йому прослужити довше, а його інтенсивні відчуття змусять її вибухнути від задоволення! Вставте одну батарейку ААА, змастіть улюбленим лубрикантом на водній основі і пориньте в насолоду! Водонепроникна конструкція дозволяє грати в душі або ванні, а чистити легко і швидко.</description_ua>
-            </offer>
-        <offer id="BI-014173-A3" available="true">
-                <erp>BI-014173-A3</erp>
-            <barcode>6959532360455</barcode>
-            <quantity_in_stock>8</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31693-vibrator_z_klitoralynoyu_stimulyatsiyu_pretty_love_snappy_black</url>
-            <price>622.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>27</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_316906719661ac0dfc.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6719661811b5e.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6719661831bdd.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67196618538b6.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67196618693e7.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6719661880dd6.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6719661897354.gif</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67196618b0665.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67196618c5d78.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_67196618e031f.gif</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6719661908e86.jpeg</picture>
-            <name>Вібратор кролик Pretty Love Snappy, чорний</name>
-            <Отображать>Да</Отображать>
-            <stock>8</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Вібратор кролик Pretty Love Snappy, чорний</model>
-            <description>Вібратор кролик Pretty Love Snappy забезпечує &lt;b&gt;подвійну стимуляцію&lt;/b&gt; завдяки двом моторам, що працюють одночасно для вагінальної та кліторальної стимуляції. Реалістична голівка з ребристою текстурою та легким вигином спрямована на стимуляцію точки G, а рухливий відросток приділяє увагу клітору.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Пристрій пропонує &lt;b&gt;30 різних програм вібрації&lt;/b&gt;, які керуються кнопками на рукоятці. Виготовлений з м'якого силікону та міцного пластику, забезпечує комфортне використання завдяки гладенькій поверхні та ергономічній формі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Працює від двох батарейок ААА, що дозволяє використовувати іграшку без прив'язки до мережі. Підходить для використання з лубрикантами на водній основі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон, Пластик&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 19&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 9.5&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.5&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька, Ребриста&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
-Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
-Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
-Керування з додатку: Ні&lt;/br&gt;</description>
-            <name_ua>Вібратор кролик Pretty Love Snappy, чорний</name_ua>
-            <description_ua>Вібратор кролик Pretty Love Snappy забезпечує &lt;b&gt;подвійну стимуляцію&lt;/b&gt; завдяки двом моторам, що працюють одночасно для вагінальної та кліторальної стимуляції. Реалістична голівка з ребристою текстурою та легким вигином спрямована на стимуляцію точки G, а рухливий відросток приділяє увагу клітору.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Пристрій пропонує &lt;b&gt;30 різних програм вібрації&lt;/b&gt;, які керуються кнопками на рукоятці. Виготовлений з м'якого силікону та міцного пластику, забезпечує комфортне використання завдяки гладенькій поверхні та ергономічній формі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Працює від двох батарейок ААА, що дозволяє використовувати іграшку без прив'язки до мережі. Підходить для використання з лубрикантами на водній основі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон, Пластик&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 19&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 9.5&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.5&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька, Ребриста&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
-Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
-Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
-Керування з додатку: Ні&lt;/br&gt;</description_ua>
             </offer>
         <offer id="810-00113" available="true">
                 <erp>810-00113</erp>
@@ -67428,24 +67985,6 @@ Strawberry Boss of Toys - це ідеальний вибір для тих, хт
             <name_ua>Парфуми Ruf Sex Spray, 15 мл</name_ua>
             <description_ua>Феромони – це природні речовини, які впливають на підсвідомість непомітним для зору: вони підвищують інтерес жінок, стимулюють і концентрують їхню увагу на чоловікові, створюючи навколо чоловіка ауру панування. Концентрована форма і відповідні пропорції т. зв Ароматичні атрактанти додатково посилюються дієвістю феромонів, що виробляються кожним з нас. Цей процес дуже помітний у тваринному світі, і тепер, завдяки досягненню технологій, ми можемо використовувати ці знання щодня. Читайте статтю про користь феромонів у житті кожного, хто хотів би допомогти своїй чарівності, щоб справити гарне перше враження, налагодити стосунки або зберегти пристрасть у постійних стосунках</description_ua>
             </offer>
-        <offer id="19-2071" available="true">
-                <erp>19-2071</erp>
-            <barcode>3548960020715</barcode>
-            <quantity_in_stock>9</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2419-feromony_taboo_for_him_50_ml</url>
-            <price>778.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>81</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/19-2071.jpg</picture>
-            <name>Парфуми Ruf Taboo for Him, 50 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>9</stock>
-            <vendor>RUF</vendor>
-            <model>Парфуми Ruf Taboo for Him, 50 мл</model>
-            <description>Taboo Libertin використовується не тільки як сексуальний атрактант (аттрактант), але і під час повсякденних зустрічей і розмов, де є можливість контакту з іншою людиною. Taboo Libertin є результатом багаторічних досліджень людських феромонів. Він містить найактивніші феромони в ідеальних пропорціях, в яких їх виробляє людський організм. При щоденному використанні, як і стандартний косметичний засіб, він може впливати на навколишнє середовище (на протилежну стать), що може сприймати вас більш позитивно та дружньо. Taboo Libertin може підвищити ступінь довіри і зробити людей навколо вас більш відкритими, бажаючими бути поруч з вами і ставитися до вас з повагою. Taboo Libertin може бути корисним як під час вирішення важливих справ в офісах, банках, під час важливої розмови, так і під час вечірнього відпочинку в клубі. Taboo Libertin також є пропозицією для людей, які хочуть привнести більше пристрасті та любові до їхніх стосунків. Незалежно від того, знайомі ви один одного 2 місяці чи 20 років, ви можете знову закохатися, як і раніше. Тепер все у ваших руках...</description>
-            <name_ua>Парфуми Ruf Taboo for Him, 50 мл</name_ua>
-            <description_ua>Taboo Libertin використовується не тільки як сексуальний атрактант (аттрактант), але і під час повсякденних зустрічей і розмов, де є можливість контакту з іншою людиною. Taboo Libertin є результатом багаторічних досліджень людських феромонів. Він містить найактивніші феромони в ідеальних пропорціях, в яких їх виробляє людський організм. При щоденному використанні, як і стандартний косметичний засіб, він може впливати на навколишнє середовище (на протилежну стать), що може сприймати вас більш позитивно та дружньо. Taboo Libertin може підвищити ступінь довіри і зробити людей навколо вас більш відкритими, бажаючими бути поруч з вами і ставитися до вас з повагою. Taboo Libertin може бути корисним як під час вирішення важливих справ в офісах, банках, під час важливої розмови, так і під час вечірнього відпочинку в клубі. Taboo Libertin також є пропозицією для людей, які хочуть привнести більше пристрасті та любові до їхніх стосунків. Незалежно від того, знайомі ви один одного 2 місяці чи 20 років, ви можете знову закохатися, як і раніше. Тепер все у ваших руках...</description_ua>
-            </offer>
         <offer id="19-2081" available="true">
                 <erp>19-2081</erp>
             <barcode>3548960020814</barcode>
@@ -67993,68 +68532,6 @@ Strawberry Boss of Toys - це ідеальний вибір для тих, хт
 Режими вібрації: 1&lt;/br&gt;&lt;br /&gt;
 Живлення: Батарейки LR41 (3 шт.)&lt;/br&gt;&lt;br /&gt;
 Водонепроникність: Ні&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="BI-014943" available="true">
-                <erp>BI-014943</erp>
-            <barcode>6959532327311</barcode>
-            <quantity_in_stock>9</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30553-vibrator_pretty_love_moth</url>
-            <price>965.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>27</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_30553649191abad49d.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_649191aa20ed4.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_649191aa3e1f2.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_649191aa52055.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_649191aa68487.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_649191aa77cc8.gif</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_649191aa8d986.gif</picture>
-            <name>Вібратор Pretty Love Moth, фіолетовий</name>
-            <Отображать>Да</Отображать>
-            <stock>9</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Вібратор Pretty Love Moth, фіолетовий</model>
-            <description>Вібратор Pretty Love Moth фіолетового кольору забезпечує &lt;b&gt;одночасну стимуляцію піхви, точки G та клітора&lt;/b&gt; завдяки rabbit-конструкції з додатковим кліторальним відростком у формі метелика. Особливістю моделі є &lt;b&gt;рухомий язичок на голівці стовбура&lt;/b&gt;, який створює унікальні відчуття під час використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Іграшка виготовлена з &lt;b&gt;гіпоалергенного силікону&lt;/b&gt; з оксамитовою текстурою, має злегка вигнутий стовбур для точного потрапляння в ерогенні зони. Пристрій пропонує &lt;b&gt;12 режимів вібрації та 3 режими роботи язичка&lt;/b&gt;, керування здійснюється кнопками на корпусі. Робоча довжина 10 см при діаметрі 3.2 см підходить для комфортного використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Модель працює від двох батарейок ААА, рекомендується використання лубрикантів на водній основі та спеціальних засобів для очищення після застосування.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька, Оксамитова&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 20.7&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 10&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.2&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Екстра функції: З рухомим язичком&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
-Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
-Наявність присоски: Ні&lt;/br&gt;</description>
-            <name_ua>Вібратор Pretty Love Moth, фіолетовий</name_ua>
-            <description_ua>Вібратор Pretty Love Moth фіолетового кольору забезпечує &lt;b&gt;одночасну стимуляцію піхви, точки G та клітора&lt;/b&gt; завдяки rabbit-конструкції з додатковим кліторальним відростком у формі метелика. Особливістю моделі є &lt;b&gt;рухомий язичок на голівці стовбура&lt;/b&gt;, який створює унікальні відчуття під час використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Іграшка виготовлена з &lt;b&gt;гіпоалергенного силікону&lt;/b&gt; з оксамитовою текстурою, має злегка вигнутий стовбур для точного потрапляння в ерогенні зони. Пристрій пропонує &lt;b&gt;12 режимів вібрації та 3 режими роботи язичка&lt;/b&gt;, керування здійснюється кнопками на корпусі. Робоча довжина 10 см при діаметрі 3.2 см підходить для комфортного використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Модель працює від двох батарейок ААА, рекомендується використання лубрикантів на водній основі та спеціальних засобів для очищення після застосування.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька, Оксамитова&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 20.7&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 10&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.2&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Екстра функції: З рухомим язичком&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
-Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
-Наявність присоски: Ні&lt;/br&gt;</description_ua>
             </offer>
         <offer id="3-77510" available="true">
                 <erp>3-77510</erp>
@@ -69361,6 +69838,189 @@ Intt Hot &amp; Cold Lubricant - це чудовий вибір для тих, х
 Смак: Без смаку (нейтральний)&lt;br /&gt;
 Запах: Без запаху (нейтральний)</description_ua>
             </offer>
+        <offer id="95-001Black" available="true">
+                <erp>95-001Black</erp>
+            <barcode>6970960521294</barcode>
+            <quantity_in_stock>10</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32405-prezervativi_olo_001_black_10sht_ulytratonki_z_gialuronovoyu_kislotoyu</url>
+            <price>348.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3240168d55c5dbb4c1.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d55c5c9d280.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d55c5cab2de.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d55c5cbaff3.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d55c5cc8a19.jpeg</picture>
+            <name>Презервативи Olo 0.01 Black, ультратонкі, з гіалуроновою кислотою, 10 шт</name>
+            <Отображать>Да</Отображать>
+            <stock>10</stock>
+            <vendor>OLO</vendor>
+            <model>Презервативи Olo 0.01 BLACK 10шт ультратонкі з гіалуроновою кислотою</model>
+            <description>Ультратонкі презервативи OLO 0.01 Feeling Ultrathin Black, 10 шт&lt;br /&gt;
+&lt;br /&gt;
+У цих презервативах силіконовий лубрикант замінює 100% гіалуронова кислота, яка не висихає і підтримує тривале ковзання. &lt;br /&gt;
+Гіалуронова кислота є природним компонентом шкіри, який підтримує нормальний водний баланс. &lt;br /&gt;
+Ультра тонкі гладкі презервативи з натурального латексу вищої якості. Висока теплопровідність. &lt;br /&gt;
+Презерватив швидко передає тепло шкірі партнера для більш натуральних відчуттів.&lt;br /&gt;
+Гіпоалергенний матеріал.&lt;br /&gt;
+Поверхня презервативу більш м'яка та гладка.&lt;br /&gt;
+ &lt;br /&gt;
+Характеристики:&lt;br /&gt;
+&lt;br /&gt;
+Довжина - 160 мм,&lt;br /&gt;
+Ширина - 52 мм,&lt;br /&gt;
+Товщина - 0.018 мм.</description>
+            <name_ua>Презервативи Olo 0.01 Black, ультратонкі, з гіалуроновою кислотою, 10 шт</name_ua>
+            <description_ua>Ультратонкі презервативи OLO 0.01 Feeling Ultrathin Black, 10 шт&lt;br /&gt;
+&lt;br /&gt;
+У цих презервативах силіконовий лубрикант замінює 100% гіалуронова кислота, яка не висихає і підтримує тривале ковзання. &lt;br /&gt;
+Гіалуронова кислота є природним компонентом шкіри, який підтримує нормальний водний баланс. &lt;br /&gt;
+Ультра тонкі гладкі презервативи з натурального латексу вищої якості. Висока теплопровідність. &lt;br /&gt;
+Презерватив швидко передає тепло шкірі партнера для більш натуральних відчуттів.&lt;br /&gt;
+Гіпоалергенний матеріал.&lt;br /&gt;
+Поверхня презервативу більш м'яка та гладка.&lt;br /&gt;
+ &lt;br /&gt;
+Характеристики:&lt;br /&gt;
+&lt;br /&gt;
+Довжина - 160 мм,&lt;br /&gt;
+Ширина - 52 мм,&lt;br /&gt;
+Товщина - 0.018 мм.</description_ua>
+            </offer>
+        <offer id="95-001Red" available="true">
+                <erp>95-001Red</erp>
+            <barcode>6970960521317</barcode>
+            <quantity_in_stock>10</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32406-prezervativi_olo_001_red_10_sht_zbudzhuyuchi_z_gialuronovoyu_kislotoyu</url>
+            <price>348.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3240268d55d0426cc4.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d55d025c4cf.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d55d0296145.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d55d02a4507.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d55d02b41b8.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d55d02c6f1b.jpg</picture>
+            <name>Презервативи Olo 0.01 RED, збуджуючі, з гіалуроновою кислотою, 10 шт</name>
+            <Отображать>Да</Отображать>
+            <stock>10</stock>
+            <vendor>OLO</vendor>
+            <model>Презервативи Olo 0.01 RED 10 шт збуджуючі з гіалуроновою кислотою</model>
+            <description>Презервативи Olo 0.01 RED 10 шт збуджуючі з гіалуроновою кислотою&lt;br /&gt;
+У цих презервативах силіконове мастило замінює  100% гіалуронова кислота , яка не висихає і підтримує тривале мастило, також сприяє виробленню власного мастила. Ідеально сумісна з людським природним мастилом - сприяє загоєнню мікротріщин та відновленню слизової оболонки.&lt;br /&gt;
+Висока теплопровідність. Презерватив швидко передає тепло шкірі партнера для більш натуральних відчуттів.&lt;br /&gt;
+Гіпоалергенний матеріал.&lt;br /&gt;
+Поверхня презерватива більш м'яка та гладка.&lt;br /&gt;
+Презервативи упаковані в блістер, що легко відкривається. Він оберігає продукт та перешкоджає пошкодженню при відкритті. Упаковка чиста, стерильна, включає достатню кількість лубриканта. При відкритті упаковки, ви завжди знаєте, якою стороною лежить презерватив.&lt;br /&gt;
+ Укороченого розміру: довжина 160см&lt;br /&gt;
+З легким ароматом ванілі.&lt;br /&gt;
+&lt;br /&gt;
+У упаковці 10 штук.&lt;br /&gt;
+&lt;br /&gt;
+Матеріал:  натуральний латекс.</description>
+            <name_ua>Презервативи Olo 0.01 RED, збуджуючі, з гіалуроновою кислотою, 10 шт</name_ua>
+            <description_ua>Презервативи Olo 0.01 RED 10 шт збуджуючі з гіалуроновою кислотою&lt;br /&gt;
+У цих презервативах силіконове мастило замінює  100% гіалуронова кислота , яка не висихає і підтримує тривале мастило, також сприяє виробленню власного мастила. Ідеально сумісна з людським природним мастилом - сприяє загоєнню мікротріщин та відновленню слизової оболонки.&lt;br /&gt;
+Висока теплопровідність. Презерватив швидко передає тепло шкірі партнера для більш натуральних відчуттів.&lt;br /&gt;
+Гіпоалергенний матеріал.&lt;br /&gt;
+Поверхня презерватива більш м'яка та гладка.&lt;br /&gt;
+Презервативи упаковані в блістер, що легко відкривається. Він оберігає продукт та перешкоджає пошкодженню при відкритті. Упаковка чиста, стерильна, включає достатню кількість лубриканта. При відкритті упаковки, ви завжди знаєте, якою стороною лежить презерватив.&lt;br /&gt;
+ Укороченого розміру: довжина 160см&lt;br /&gt;
+З легким ароматом ванілі.&lt;br /&gt;
+&lt;br /&gt;
+У упаковці 10 штук.&lt;br /&gt;
+&lt;br /&gt;
+Матеріал:  натуральний латекс.</description_ua>
+            </offer>
+        <offer id="95-03380" available="true">
+                <erp>95-03380</erp>
+            <barcode>6970960523380</barcode>
+            <quantity_in_stock>10</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32407-prezervativi_olo_blue_budda_10sht_ulytratonki_gialuronova_prolonguyucha_zmazka</url>
+            <price>375.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3240368d55ed3b9854.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d55ed23be26.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d55ed2478d7.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d55ed256257.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d55ed2618b3.jpg</picture>
+            <name>Презервативи Olo Blue Budda, ультратонкі, з гіалуроновою пролонгуючою змазкою, 10 шт</name>
+            <Отображать>Да</Отображать>
+            <stock>10</stock>
+            <vendor>OLO</vendor>
+            <model>Презервативи Olo BLUE Budda 10шт ультратонкі, гіалуронова пролонгуюча змазка</model>
+            <description>Презервативи Olo Blue Budda забезпечують максимальну чутливість завдяки &lt;b&gt;ультратонкій структурі товщиною лише 0.02 мм&lt;/b&gt;. Латексна основа гарантує надійний захист, зберігаючи природність відчуттів під час інтимної близькості.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Кожен виріб покритий спеціальною &lt;b&gt;гіалуроновою змазкою з пролонгуючим ефектом&lt;/b&gt;, що подовжує тривалість близькості та забезпечує комфорт партнерів. Гладенька текстура та класична анатомічна форма створюють відчуття природного контакту без тиску чи дискомфорту.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Упаковка містить 10 штук стандартного розміру, підходить для регулярного використання. Вироби не мають запаху та смаку, що робить їх універсальними для будь-яких преференцій.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Бренд: Olo&lt;br /&gt;&lt;br /&gt;
+Виробник: Olo&lt;br /&gt;&lt;br /&gt;
+Матеріал: Латекс&lt;br /&gt;&lt;br /&gt;
+Довжина загальна (см): 16&lt;br /&gt;&lt;br /&gt;
+Діаметр (см): 5.2&lt;br /&gt;&lt;br /&gt;
+Розмір засобу захисту: Стандартний&lt;br /&gt;&lt;br /&gt;
+Текстура: Гладенька&lt;br /&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;br /&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)</description>
+            <name_ua>Презервативи Olo Blue Budda, ультратонкі, з гіалуроновою пролонгуючою змазкою, 10 шт</name_ua>
+            <description_ua>Презервативи Olo Blue Budda забезпечують максимальну чутливість завдяки &lt;b&gt;ультратонкій структурі товщиною лише 0.02 мм&lt;/b&gt;. Латексна основа гарантує надійний захист, зберігаючи природність відчуттів під час інтимної близькості.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Кожен виріб покритий спеціальною &lt;b&gt;гіалуроновою змазкою з пролонгуючим ефектом&lt;/b&gt;, що подовжує тривалість близькості та забезпечує комфорт партнерів. Гладенька текстура та класична анатомічна форма створюють відчуття природного контакту без тиску чи дискомфорту.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Упаковка містить 10 штук стандартного розміру, підходить для регулярного використання. Вироби не мають запаху та смаку, що робить їх універсальними для будь-яких преференцій.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Бренд: Olo&lt;br /&gt;&lt;br /&gt;
+Виробник: Olo&lt;br /&gt;&lt;br /&gt;
+Матеріал: Латекс&lt;br /&gt;&lt;br /&gt;
+Довжина загальна (см): 16&lt;br /&gt;&lt;br /&gt;
+Діаметр (см): 5.2&lt;br /&gt;&lt;br /&gt;
+Розмір засобу захисту: Стандартний&lt;br /&gt;&lt;br /&gt;
+Текстура: Гладенька&lt;br /&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;br /&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)</description_ua>
+            </offer>
+        <offer id="95-07822" available="true">
+                <erp>95-07822</erp>
+            <barcode>6934439727822</barcode>
+            <quantity_in_stock>10</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32410-prezervativi_olo_ulytratonki_001_oralyni_z_polunichnim_smakom_10sht</url>
+            <price>227.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3240668d56c4983f77.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d56c487b5b8.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68d56c4890272.jpg</picture>
+            <name>Презервативи OLO, ультратонкі, оральні, з полуничним смаком, 10 шт</name>
+            <Отображать>Да</Отображать>
+            <stock>10</stock>
+            <vendor>OLO</vendor>
+            <model>Презервативи OLO, ультратонкі, оральні, з полуничним смаком, 10 шт</model>
+            <description>Презерватив Ultrathin Oral&lt;br /&gt;
+&lt;br /&gt;
+Ультратонкі презервативи з гіалуроновою змазкою OLO з натурального латексу зі смаком полуниці, ідеально підходять для пар які планують оральний секс також ідеально підходять для вагінального сексу.&lt;br /&gt;
+&lt;br /&gt;
+Гіалуронова кислота є природним компонентом шкіри, який підтримує нормальний водний баланс. Ультра тонкі гладкі презервативи з натурального латексу вищої якості. Висока теплопровідність.  Презерватив швидко передає тепло шкірі партнера для більш натуральних відчуттів&lt;br /&gt;
+&lt;br /&gt;
+Товщина всього - 0.018 мм.&lt;br /&gt;
+Довжина: 160 - 200 мм.&lt;br /&gt;
+Ширина: 53 + - 2 мм.</description>
+            <name_ua>Презервативи OLO, ультратонкі, оральні, з полуничним смаком, 10 шт</name_ua>
+            <description_ua>Презерватив Ultrathin Oral&lt;br /&gt;
+&lt;br /&gt;
+Ультратонкі презервативи з гіалуроновою змазкою OLO з натурального латексу зі смаком полуниці, ідеально підходять для пар які планують оральний секс також ідеально підходять для вагінального сексу.&lt;br /&gt;
+&lt;br /&gt;
+Гіалуронова кислота є природним компонентом шкіри, який підтримує нормальний водний баланс. Ультра тонкі гладкі презервативи з натурального латексу вищої якості. Висока теплопровідність.  Презерватив швидко передає тепло шкірі партнера для більш натуральних відчуттів&lt;br /&gt;
+&lt;br /&gt;
+Товщина всього - 0.018 мм.&lt;br /&gt;
+Довжина: 160 - 200 мм.&lt;br /&gt;
+Ширина: 53 + - 2 мм.</description_ua>
+            </offer>
         <offer id="BI-026240Z" available="true">
                 <erp>BI-026240Z</erp>
             <barcode>6959532363081</barcode>
@@ -69440,6 +70100,70 @@ Intt Hot &amp; Cold Lubricant - це чудовий вибір для тих, х
 Довжина загальна (см): 18&lt;br /&gt;
 Розмір засобу захисту: Стандартний&lt;br /&gt;
 К-сть штук в упаковці (шт.): 3</description_ua>
+            </offer>
+        <offer id="95-04516" available="true">
+                <erp>95-04516</erp>
+            <barcode>6970503684516</barcode>
+            <quantity_in_stock>10</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35668-supertonk_prezervativi_muaisi_001_blackwet_tube_12sht_z_dodatkovim_mastilom</url>
+            <price>497.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_35664692d8fc1e1aef.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692d8fc068a64.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692d8fc076390.jpg</picture>
+            <name>Супертонкі презервативи Muaisi 001 BlackWet Tube 12шт з додатковим мастилом</name>
+            <Отображать>Да</Отображать>
+            <stock>10</stock>
+            <vendor>OLO</vendor>
+            <model>Супертонкі презервативи Muaisi 001 BlackWet Tube 12шт з додатковим мастилом</model>
+            <description>Високоякісні латексні резервативи з гладким рельєфом та підвищеною кількістю мастила для максимально природних відчуттів.  Презервативи виготовлені з ультратонкого міцного латексу завтовшки 0.02 мікрона. Кожен презерватив поміщений у персональний контейнер, а також рясно змащений ультра-ковзним мастилом для максимального задоволення та захисту від натирань.&lt;br /&gt;
+Довжина - ≥160 мм;&lt;br /&gt;
+Діаметр – 52±2 mm;&lt;br /&gt;
+Товщина: 0,02 м;&lt;br /&gt;
+Матеріал – 100% натуральний латекс;&lt;br /&gt;
+Рельєф – гладкий;&lt;br /&gt;
+В упаковці 12 шт</description>
+            <name_ua>Супертонкі презервативи Muaisi 001 BlackWet Tube 12шт з додатковим мастилом</name_ua>
+            <description_ua>Високоякісні латексні резервативи з гладким рельєфом та підвищеною кількістю мастила для максимально природних відчуттів.  Презервативи виготовлені з ультратонкого міцного латексу завтовшки 0.02 мікрона. Кожен презерватив поміщений у персональний контейнер, а також рясно змащений ультра-ковзним мастилом для максимального задоволення та захисту від натирань.&lt;br /&gt;
+Довжина - ≥160 мм;&lt;br /&gt;
+Діаметр – 52±2 mm;&lt;br /&gt;
+Товщина: 0,02 м;&lt;br /&gt;
+Матеріал – 100% натуральний латекс;&lt;br /&gt;
+Рельєф – гладкий;&lt;br /&gt;
+В упаковці 12 шт</description_ua>
+            </offer>
+        <offer id="95-04493" available="true">
+                <erp>95-04493</erp>
+            <barcode>6970503684493</barcode>
+            <quantity_in_stock>10</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35669-supertonk_prezervativi_muaisi_001_redwet_tube_12sht_rebrist_z_dodatkovim_mastilom</url>
+            <price>497.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_35665692d8f62922e1.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692d8f6030b86.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692d8f603d12c.jpg</picture>
+            <name>Супертонкі презервативи Muaisi 001 REDWet Tube 12шт ребристі з додатковим мастилом</name>
+            <Отображать>Да</Отображать>
+            <stock>10</stock>
+            <vendor>OLO</vendor>
+            <model>Супертонкі презервативи Muaisi 001 REDWet Tube 12шт ребристі з додатковим мастилом</model>
+            <description>Ультратонкі ребристі презервативи Muaisi Red 0.02 м:&lt;br /&gt;
+розмір: довжина 170 мм, ширина 52 мм, товщина 0.02 м;&lt;br /&gt;
+презервативи виготовлені з ультратонкого міцного латексу завтовшки 0.02 мікрона;&lt;br /&gt;
+реберця для додаткової стимуляції;&lt;br /&gt;
+підвищена кількість лубриканту для максимально природних відчуттів;&lt;br /&gt;
+кожен презерватив поміщений в персональний контейнер;&lt;br /&gt;
+упаковка: 12 шт.</description>
+            <name_ua>Супертонкі презервативи Muaisi 001 REDWet Tube 12шт ребристі з додатковим мастилом</name_ua>
+            <description_ua>Ультратонкі ребристі презервативи Muaisi Red 0.02 м:&lt;br /&gt;
+розмір: довжина 170 мм, ширина 52 мм, товщина 0.02 м;&lt;br /&gt;
+презервативи виготовлені з ультратонкого міцного латексу завтовшки 0.02 мікрона;&lt;br /&gt;
+реберця для додаткової стимуляції;&lt;br /&gt;
+підвищена кількість лубриканту для максимально природних відчуттів;&lt;br /&gt;
+кожен презерватив поміщений в персональний контейнер;&lt;br /&gt;
+упаковка: 12 шт.</description_ua>
             </offer>
         <offer id="37-3703" available="true">
                 <erp>37-3703</erp>
@@ -70860,40 +71584,6 @@ Virgin Tight - це відмінний вибір для тих, хто шука
             <name_ua>Фалоімітатор BAILE Flexible Real Penis</name_ua>
             <description_ua>Фалоімітатор BAILE Flexible Real Penis</description_ua>
             </offer>
-        <offer id="101-4495" available="true">
-                <erp>101-4495</erp>
-            <barcode>5906233084495</barcode>
-            <quantity_in_stock>13</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/35878-universalyniy_intimniy_lubrikant_mylove_neutral_slide_original_50ml</url>
-            <price>191.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3587469f1e51acedb3.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69f1e5143de55.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69f1e5145a457.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69f1e51484a21.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69f1e514a7698.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69f1e514c95f9.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69f1e514e3b3f.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69f1e51508366.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69f1e5151c42f.jpg</picture>
-            <name>Інтимний лубрикант MyLove Neutral Slide Original 50мл</name>
-            <Отображать>Да</Отображать>
-            <stock>13</stock>
-            <vendor>MyLove</vendor>
-            <model>Інтимний лубрикант MyLove Neutral Slide Original 50мл</model>
-            <description>MyLove Neutral Slide Original — інтимний лубрикант, створений для комфортного та природного ковзання. Його нейтральна формула без запаху не відволікає від близькості та підходить для тих, хто віддає перевагу чистим і м’яким відчуттям.&lt;br /&gt;
-&lt;br /&gt;
-Гель має збалансовану консистенцію: достатньо густу, щоб не розтікатися, але водночас легку для рівномірного нанесення. Завдяки цьому він забезпечує плавне та тривале ковзання без липкості.&lt;br /&gt;
-&lt;br /&gt;
-Засіб підходить для щоденного використання та стане надійним вибором для тих, хто шукає простий і універсальний варіант без зайвих ароматів чи добавок.</description>
-            <name_ua>Інтимний лубрикант MyLove Neutral Slide Original 50мл</name_ua>
-            <description_ua>MyLove Neutral Slide Original — інтимний лубрикант, створений для комфортного та природного ковзання. Його нейтральна формула без запаху не відволікає від близькості та підходить для тих, хто віддає перевагу чистим і м’яким відчуттям.&lt;br /&gt;
-&lt;br /&gt;
-Гель має збалансовану консистенцію: достатньо густу, щоб не розтікатися, але водночас легку для рівномірного нанесення. Завдяки цьому він забезпечує плавне та тривале ковзання без липкості.&lt;br /&gt;
-&lt;br /&gt;
-Засіб підходить для щоденного використання та стане надійним вибором для тих, хто шукає простий і універсальний варіант без зайвих ароматів чи добавок.</description_ua>
-            </offer>
         <offer id="19-2082" available="true">
                 <erp>19-2082</erp>
             <barcode>3548960020821</barcode>
@@ -71233,6 +71923,40 @@ Virgin Tight - це відмінний вибір для тих, хто шука
 Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
 Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
 Запах: Без запаху (нейтральний)&lt;/br&gt;</description_ua>
+            </offer>
+        <offer id="101-4495" available="true">
+                <erp>101-4495</erp>
+            <barcode>5906233084495</barcode>
+            <quantity_in_stock>14</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35878-universalyniy_intimniy_lubrikant_mylove_neutral_slide_original_50ml</url>
+            <price>191.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>46</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3587469f1e51acedb3.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69f1e5143de55.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69f1e5145a457.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69f1e51484a21.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69f1e514a7698.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69f1e514c95f9.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69f1e514e3b3f.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69f1e51508366.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69f1e5151c42f.jpg</picture>
+            <name>Інтимний лубрикант MyLove Neutral Slide Original 50мл</name>
+            <Отображать>Да</Отображать>
+            <stock>14</stock>
+            <vendor>MyLove</vendor>
+            <model>Інтимний лубрикант MyLove Neutral Slide Original 50мл</model>
+            <description>MyLove Neutral Slide Original — інтимний лубрикант, створений для комфортного та природного ковзання. Його нейтральна формула без запаху не відволікає від близькості та підходить для тих, хто віддає перевагу чистим і м’яким відчуттям.&lt;br /&gt;
+&lt;br /&gt;
+Гель має збалансовану консистенцію: достатньо густу, щоб не розтікатися, але водночас легку для рівномірного нанесення. Завдяки цьому він забезпечує плавне та тривале ковзання без липкості.&lt;br /&gt;
+&lt;br /&gt;
+Засіб підходить для щоденного використання та стане надійним вибором для тих, хто шукає простий і універсальний варіант без зайвих ароматів чи добавок.</description>
+            <name_ua>Інтимний лубрикант MyLove Neutral Slide Original 50мл</name_ua>
+            <description_ua>MyLove Neutral Slide Original — інтимний лубрикант, створений для комфортного та природного ковзання. Його нейтральна формула без запаху не відволікає від близькості та підходить для тих, хто віддає перевагу чистим і м’яким відчуттям.&lt;br /&gt;
+&lt;br /&gt;
+Гель має збалансовану консистенцію: достатньо густу, щоб не розтікатися, але водночас легку для рівномірного нанесення. Завдяки цьому він забезпечує плавне та тривале ковзання без липкості.&lt;br /&gt;
+&lt;br /&gt;
+Засіб підходить для щоденного використання та стане надійним вибором для тих, хто шукає простий і універсальний варіант без зайвих ароматів чи добавок.</description_ua>
             </offer>
         <offer id="48-11713" available="true">
                 <erp>48-11713</erp>
@@ -72625,6 +73349,66 @@ Just Glide Premium Anal - це ідеальний вибір для тих, хт
 &lt;br /&gt;
 Засіб підходить для щоденного використання та стане надійним вибором для тих, хто шукає простий і універсальний варіант без зайвих ароматів чи добавок.</description_ua>
             </offer>
+        <offer id="93-0747" available="true">
+                <erp>93-0747</erp>
+            <barcode />
+            <quantity_in_stock>50</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32184-prezervativi_one_glowing_pleasures</url>
+            <price>60.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3218068556e5e008fa.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68556dc1a12fe.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68556dc1bdf94.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68556dc1c58ce.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68556dc1cd58c.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68556dc1d6522.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68556dc1e7298.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68556dc1ee5fc.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68556dc20285d.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68556dc20a437.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68556dc212ba7.png</picture>
+            <name>Презерватив ONE Glowing Pleasures, 1 шт</name>
+            <Отображать>Да</Отображать>
+            <stock>50</stock>
+            <vendor>ONE (США)</vendor>
+            <model>Презерватив ONE Glowing Pleasures, 1 шт</model>
+            <description>Презерватив з &lt;b&gt;фосфоресцентним покриттям&lt;/b&gt; One Glowing Pleasures, що створює романтичну атмосферу завдяки яскравому світінню в темряві. Після 30-секундного впливу світла виріб світиться протягом 15 хвилин, додаючи інтимності вашим стосункам.&lt;br /&gt;
+&lt;br /&gt;
+Виготовлений з &lt;b&gt;натурального латексу&lt;/b&gt; з безпечним фосфорним пігментом, що забезпечує надійний захист без шкоди для здоров'я. Циліндрична форма з накопичувачем та &lt;b&gt;силіконове змащення&lt;/b&gt; гарантують комфортне використання та легке ковзання.&lt;br /&gt;
+&lt;br /&gt;
+Стандартний розмір підходить більшості чоловіків, а гладенька текстура без запаху та смаку забезпечує природні відчуття під час близькості.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: One&lt;br /&gt;
+Виробник: One&lt;br /&gt;
+Матеріал: Латекс&lt;br /&gt;
+Розмір засобу захисту: Стандартний&lt;br /&gt;
+Довжина загальна (см): 19.1&lt;br /&gt;
+Діаметр (см): 5.3&lt;br /&gt;
+Текстура: Гладенька&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;br /&gt;
+Запах: Без запаху (нейтральний)</description>
+            <name_ua>Презерватив ONE Glowing Pleasures, 1 шт</name_ua>
+            <description_ua>Презерватив з &lt;b&gt;фосфоресцентним покриттям&lt;/b&gt; One Glowing Pleasures, що створює романтичну атмосферу завдяки яскравому світінню в темряві. Після 30-секундного впливу світла виріб світиться протягом 15 хвилин, додаючи інтимності вашим стосункам.&lt;br /&gt;
+&lt;br /&gt;
+Виготовлений з &lt;b&gt;натурального латексу&lt;/b&gt; з безпечним фосфорним пігментом, що забезпечує надійний захист без шкоди для здоров'я. Циліндрична форма з накопичувачем та &lt;b&gt;силіконове змащення&lt;/b&gt; гарантують комфортне використання та легке ковзання.&lt;br /&gt;
+&lt;br /&gt;
+Стандартний розмір підходить більшості чоловіків, а гладенька текстура без запаху та смаку забезпечує природні відчуття під час близькості.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: One&lt;br /&gt;
+Виробник: One&lt;br /&gt;
+Матеріал: Латекс&lt;br /&gt;
+Розмір засобу захисту: Стандартний&lt;br /&gt;
+Довжина загальна (см): 19.1&lt;br /&gt;
+Діаметр (см): 5.3&lt;br /&gt;
+Текстура: Гладенька&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;br /&gt;
+Запах: Без запаху (нейтральний)</description_ua>
+            </offer>
         <offer id="42-06239380000" available="true">
                 <erp>42-06239380000</erp>
             <barcode>4024144623945</barcode>
@@ -72834,6 +73618,78 @@ AQUAglide 3 мл - це зручний і практичний варіант д
 Чому обирають AQUAglide 3 мл:&lt;br /&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;br /&gt;
 AQUAglide 3 мл - це зручний і практичний варіант для тих, хто шукає компактний лубрикант для подорожей або спробувати продукт перед покупкою великої упаковки. Його водна основа забезпечує комфорт і ефективне зволоження, що робить інтимні моменти більш приємними.</description_ua>
+            </offer>
+        <offer id="93-0774" available="true">
+                <erp>93-0774</erp>
+            <barcode />
+            <quantity_in_stock>100</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32191-prezervativi_one_extreme_ribs</url>
+            <price>48.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_32187686bc784cf83d.jpg</picture>
+            <name>Презерватив ONE Extreme Ribs, 1 шт</name>
+            <Отображать>Да</Отображать>
+            <stock>100</stock>
+            <vendor>ONE (США)</vendor>
+            <model>Презервативи ONE Extreme Ribs</model>
+            <description>Презерватив ONE Extreme Ribs забезпечує &lt;b&gt;надійний захист та інтенсивні відчуття&lt;/b&gt; завдяки унікальній ребристій поверхні. Виготовлений з міцного латексу стандартного розміру, підходить більшості чоловіків і гарантує комфортне використання.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Циліндрична форма з резервуаром та &lt;b&gt;силіконове змащення&lt;/b&gt; забезпечують легке надягання та природні відчуття. Ребриста текстура створює додаткову стимуляцію для обох партнерів, а нейтральний склад без смаку та запаху не відволікає від intimності.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Сумісний з лубрикантами на водній та силіконовій основі, що дозволяє &lt;b&gt;персоналізувати досвід&lt;/b&gt; відповідно до ваших потреб.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Бренд: One&lt;br /&gt;&lt;br /&gt;
+Виробник: One&lt;br /&gt;&lt;br /&gt;
+Матеріал: Латекс&lt;br /&gt;&lt;br /&gt;
+Текстура: Ребриста&lt;br /&gt;&lt;br /&gt;
+Розмір засобу захисту: Стандартний&lt;br /&gt;&lt;br /&gt;
+Довжина загальна (см): 19&lt;br /&gt;&lt;br /&gt;
+Діаметр (см): 5.3&lt;br /&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;br /&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)</description>
+            <name_ua>Презерватив ONE Extreme Ribs, 1 шт</name_ua>
+            <description_ua>Презерватив ONE Extreme Ribs забезпечує &lt;b&gt;надійний захист та інтенсивні відчуття&lt;/b&gt; завдяки унікальній ребристій поверхні. Виготовлений з міцного латексу стандартного розміру, підходить більшості чоловіків і гарантує комфортне використання.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Циліндрична форма з резервуаром та &lt;b&gt;силіконове змащення&lt;/b&gt; забезпечують легке надягання та природні відчуття. Ребриста текстура створює додаткову стимуляцію для обох партнерів, а нейтральний склад без смаку та запаху не відволікає від intimності.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Сумісний з лубрикантами на водній та силіконовій основі, що дозволяє &lt;b&gt;персоналізувати досвід&lt;/b&gt; відповідно до ваших потреб.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Бренд: One&lt;br /&gt;&lt;br /&gt;
+Виробник: One&lt;br /&gt;&lt;br /&gt;
+Матеріал: Латекс&lt;br /&gt;&lt;br /&gt;
+Текстура: Ребриста&lt;br /&gt;&lt;br /&gt;
+Розмір засобу захисту: Стандартний&lt;br /&gt;&lt;br /&gt;
+Довжина загальна (см): 19&lt;br /&gt;&lt;br /&gt;
+Діаметр (см): 5.3&lt;br /&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;br /&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)</description_ua>
+            </offer>
+        <offer id="93-0745" available="true">
+                <erp>93-0745</erp>
+            <barcode />
+            <quantity_in_stock>100</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/32464-prezervativi_one_classic_select_</url>
+            <price>48.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>96</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3246068de487e6335a.jpg</picture>
+            <name>Презервативи ONE Classic Select </name>
+            <Отображать>Да</Отображать>
+            <stock>100</stock>
+            <vendor>ONE (США)</vendor>
+            <model>Презервативи ONE Classic Select </model>
+            <description>Презервативи ONE Classic Select Contest Collection поєднують класичну форму, додаткову змазку для комфорту та унікальний дизайн упаковки. Кожен кондом запакований у круглу обгортку з малюнком — переможцем міжнародного конкурсу ONE Design Contest, де свої ідеї представляли як аматори, так і професійні дизайнери. Таке оформлення привертає увагу до важливості безпечного сексу й робить використання більш особливим.&lt;br /&gt;
+&lt;br /&gt;
+Виготовлені з високоякісного латексу за запатентованою формулою Sensatex, презервативи мають прямі еластичні стінки, що забезпечують щільне та комфортне прилягання (до 19 см довжини). Для додаткової зручності кожен презерватив змащений преміальним силіконовим лубрикантом MOVE, який подовжує ковзання та зменшує тертя.</description>
+            <name_ua>Презервативи ONE Classic Select </name_ua>
+            <description_ua>Презервативи ONE Classic Select Contest Collection поєднують класичну форму, додаткову змазку для комфорту та унікальний дизайн упаковки. Кожен кондом запакований у круглу обгортку з малюнком — переможцем міжнародного конкурсу ONE Design Contest, де свої ідеї представляли як аматори, так і професійні дизайнери. Таке оформлення привертає увагу до важливості безпечного сексу й робить використання більш особливим.&lt;br /&gt;
+&lt;br /&gt;
+Виготовлені з високоякісного латексу за запатентованою формулою Sensatex, презервативи мають прямі еластичні стінки, що забезпечують щільне та комфортне прилягання (до 19 см довжини). Для додаткової зручності кожен презерватив змащений преміальним силіконовим лубрикантом MOVE, який подовжує ковзання та зменшує тертя.</description_ua>
             </offer>
         <offer id="12-EXS Lube" available="true">
                 <erp>12-EXS Lube</erp>
