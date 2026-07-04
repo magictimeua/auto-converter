@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-07-04 08:15">
+<yml_catalog date="2026-07-04 11:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -709,27 +709,6 @@ Bunny Tail Plug - це анальна пробка, виконана з ніжн
             <description>Насадка на пеніс супер реалістична, виготовлена з матеріалу Nature Skin. Загальна довжина 15,5 см (з них 3 см розширення), внутрішній діаметр 2 см (дуже гнучкий), зовнішній діаметр 4 см. Матеріал: TPR, не містить фталатів. Загальна довжина 15.5см, Внутрішній діаметр 2см, Зовнішній діаметр 4см, Матеріал TPR</description>
             <name_ua>Насадка NS Penis Sleeve</name_ua>
             <description_ua>Насадка на пеніс супер реалістична, виготовлена з матеріалу Nature Skin. Загальна довжина 15,5 см (з них 3 см розширення), внутрішній діаметр 2 см (дуже гнучкий), зовнішній діаметр 4 см. Матеріал: TPR, не містить фталатів. Загальна довжина 15.5см, Внутрішній діаметр 2см, Зовнішній діаметр 4см, Матеріал TPR</description_ua>
-            </offer>
-        <offer id="42-05202840000" available="true">
-                <erp>42-05202840000</erp>
-            <barcode>4024144521937</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2964-vaginalyni_kulyki_bk_heavy_metal_balls</url>
-            <price>1145.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>142</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-05202840000.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_673ce203ba436.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_673ce203dad7f.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_673ce203e4d87.png</picture>
-            <name>Вагінальні кульки Pretty Love Heavy Metal, чорні</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>ORION</vendor>
-            <model>Вагінальні кульки Pretty Love Heavy Metal, чорні</model>
-            <description>Вагінальні кульки Pretty Love Heavy Metal, чорні</description>
-            <name_ua>Вагінальні кульки Pretty Love Heavy Metal, чорні</name_ua>
-            <description_ua>Вагінальні кульки Pretty Love Heavy Metal, чорні</description_ua>
             </offer>
         <offer id="42-05215230000" available="true">
                 <erp>42-05215230000</erp>
@@ -5912,6 +5891,30 @@ PJUR WOMAN Алое адаптовано до природного pH балан
 Ідеально підходить для подарунка.&lt;br /&gt;
 Виготовлений з вуглецевої сталі.&lt;br /&gt;
 Підходить для всіх типів плит.</description_ua>
+            </offer>
+        <offer id="42-07720380000" available="true">
+                <erp>42-07720380000</erp>
+            <barcode>4024144772520</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/20641-podushka_plush_pillow_breasts</url>
+            <price>871.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>93</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_206416177d5de7c8c2.jpg</picture>
+            <name>Подушка Plush Pillow Breasts</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>ORION</vendor>
+            <model>Подушка Plush Pillow Breasts</model>
+            <description>Мрія кожного чоловіка ... Незвичайна подушка, у формі привабливих грудей - ідеально підійде в якості подарунка на 18-річчя, мальчишник або День святого Валентина! Відтепер кожен може притиснути голову до гладких жіночих грудей...&lt;br /&gt;
+Розміри: 24 х 37 х 19 см.&lt;br /&gt;
+&lt;br /&gt;
+Матеріал: 100% поліестер.</description>
+            <name_ua>Подушка Plush Pillow Breasts</name_ua>
+            <description_ua>Мрія кожного чоловіка ... Незвичайна подушка, у формі привабливих грудей - ідеально підійде в якості подарунка на 18-річчя, мальчишник або День святого Валентина! Відтепер кожен може притиснути голову до гладких жіночих грудей...&lt;br /&gt;
+Розміри: 24 х 37 х 19 см.&lt;br /&gt;
+&lt;br /&gt;
+Матеріал: 100% поліестер.</description_ua>
             </offer>
         <offer id="42-07765300000" available="true">
                 <erp>42-07765300000</erp>
@@ -23588,30 +23591,6 @@ pjur INFINITY прагне допомогти людям заново відкр
 Водонепроникність: Так&lt;/br&gt;&lt;br /&gt;
 Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
 Живлення: Акумулятор&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="42-07720380000" available="true">
-                <erp>42-07720380000</erp>
-            <barcode>4024144772520</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/20641-podushka_plush_pillow_breasts</url>
-            <price>871.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>93</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_206416177d5de7c8c2.jpg</picture>
-            <name>Подушка Plush Pillow Breasts</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>ORION</vendor>
-            <model>Подушка Plush Pillow Breasts</model>
-            <description>Мрія кожного чоловіка ... Незвичайна подушка, у формі привабливих грудей - ідеально підійде в якості подарунка на 18-річчя, мальчишник або День святого Валентина! Відтепер кожен може притиснути голову до гладких жіночих грудей...&lt;br /&gt;
-Розміри: 24 х 37 х 19 см.&lt;br /&gt;
-&lt;br /&gt;
-Матеріал: 100% поліестер.</description>
-            <name_ua>Подушка Plush Pillow Breasts</name_ua>
-            <description_ua>Мрія кожного чоловіка ... Незвичайна подушка, у формі привабливих грудей - ідеально підійде в якості подарунка на 18-річчя, мальчишник або День святого Валентина! Відтепер кожен може притиснути голову до гладких жіночих грудей...&lt;br /&gt;
-Розміри: 24 х 37 х 19 см.&lt;br /&gt;
-&lt;br /&gt;
-Матеріал: 100% поліестер.</description_ua>
             </offer>
         <offer id="42-07761060000" available="true">
                 <erp>42-07761060000</erp>
@@ -53378,6 +53357,60 @@ pjur WOMAN Vegan має товарний знак Vegan Society. Ця печат
             <name_ua>Насадка на пеніс B-Series Perfect Sleeve Soft Penis Extension, прозора</name_ua>
             <description_ua>Насадка на пеніс Perfect Sleeve - B - Series</description_ua>
             </offer>
+        <offer id="69-17052" available="true">
+                <erp>69-17052</erp>
+            <barcode>5600742917052</barcode>
+            <quantity_in_stock>4</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31265-sprey_prolongator_orgie_time_lag_2_delay_spray</url>
+            <price>1133.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>40</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_31262684f00384f348.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_684effe2e2b91.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_684f002c37c55.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_684f002c482fb.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_684f002c56576.png</picture>
+            <name>Спрей-пролонгатор Orgie Time Lag 2 Delay Gel, 10 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>4</stock>
+            <vendor>ORGIE COSMETICS</vendor>
+            <model>Спрей-пролонгатор Orgie Time Lag 2 Delay Gel, 10 мл</model>
+            <description>Спрей для подовження інтимної близькості Orgie Time Lag 2 забезпечує &lt;b&gt;контроль над тривалістю статевого акту&lt;/b&gt; завдяки інноваційній формулі без анестетиків. Засіб допомагає відтермінувати кульмінацію, підтримує стійкість ерекції та посилює сексуальний потяг.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Формула збагачена &lt;b&gt;пантенолом та екстрактом алое вера&lt;/b&gt; для зволоження шкіри, а також містить екстракт даміани для додаткової стимуляції. Продукт не містить бензокаїну чи лідокаїну, що робить його безпечним для регулярного використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Застосування просте: &lt;b&gt;2-3 натискання на пеніс з легким масажем&lt;/b&gt; за кілька хвилин до близькості. Одного флакона вистачає приблизно на 167 застосувань, що робить засіб економічним у використанні.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Orgie&lt;/br&gt;&lt;br /&gt;
+Виробник: Orgie&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 10&lt;/br&gt;&lt;br /&gt;
+Форма випуску: Рідина&lt;/br&gt;&lt;br /&gt;
+Призначення: Для продовження статевого акту&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: З пантенолом, Пролонгуючі, З алое&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Їстівне: Ні&lt;/br&gt;</description>
+            <name_ua>Спрей-пролонгатор Orgie Time Lag 2 Delay Gel, 10 мл</name_ua>
+            <description_ua>Спрей для подовження інтимної близькості Orgie Time Lag 2 забезпечує &lt;b&gt;контроль над тривалістю статевого акту&lt;/b&gt; завдяки інноваційній формулі без анестетиків. Засіб допомагає відтермінувати кульмінацію, підтримує стійкість ерекції та посилює сексуальний потяг.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Формула збагачена &lt;b&gt;пантенолом та екстрактом алое вера&lt;/b&gt; для зволоження шкіри, а також містить екстракт даміани для додаткової стимуляції. Продукт не містить бензокаїну чи лідокаїну, що робить його безпечним для регулярного використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Застосування просте: &lt;b&gt;2-3 натискання на пеніс з легким масажем&lt;/b&gt; за кілька хвилин до близькості. Одного флакона вистачає приблизно на 167 застосувань, що робить засіб економічним у використанні.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Orgie&lt;/br&gt;&lt;br /&gt;
+Виробник: Orgie&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 10&lt;/br&gt;&lt;br /&gt;
+Форма випуску: Рідина&lt;/br&gt;&lt;br /&gt;
+Призначення: Для продовження статевого акту&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: З пантенолом, Пролонгуючі, З алое&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Їстівне: Ні&lt;/br&gt;</description_ua>
+            </offer>
         <offer id="74-9434" available="true">
                 <erp>74-9434</erp>
             <barcode>402981125943</barcode>
@@ -59838,6 +59871,31 @@ Cananga Odorata Flower Oil — антисептична та релаксува�
 Термін служби батареї: до 200 хвилин&lt;br /&gt;
 Час заряджання: 1 год</description_ua>
             </offer>
+        <offer id="26-00189" available="true">
+                <erp>26-00189</erp>
+            <barcode>5903661808020</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/29700-masturbator_vagina_manga___boss_series</url>
+            <price>291.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>52</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_2970062ee929b356b5.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee9298e58b8.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92991948a.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee9299363ad.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92994f4e8.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee929963d7d.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92997a659.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92998f5eb.png</picture>
+            <name>Штучна вагіна Boss Series Manga, тілесна</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor />
+            <model>Штучна вагіна Boss Series Manga, тілесна</model>
+            <description>Штучна вагіна Boss Series Manga, тілесна</description>
+            <name_ua>Штучна вагіна Boss Series Manga, тілесна</name_ua>
+            <description_ua>Штучна вагіна Boss Series Manga, тілесна</description_ua>
+            </offer>
         <offer id="BI-014607" available="true">
                 <erp>BI-014607</erp>
             <barcode>6959532321715</barcode>
@@ -60675,60 +60733,6 @@ Cananga Odorata Flower Oil — антисептична та релаксува�
             <description>Цей пальчиковий вібратор є ідеальним доповненням до спальні як для сольного задоволення, так і для парних ігор! Відчуйте потужну стимуляцію за допомогою цього акумуляторного силіконового вібратора! Він має цілих 12 потужних режимів вібрації, які пропонують вам божественну стимуляцію, яку ви коли-небудь хотіли, щоб отримати максимальне задоволення!</description>
             <name_ua>Симулятор орального сексу для жінок Pretty Love Magic Bee, жовтий</name_ua>
             <description_ua>Цей пальчиковий вібратор є ідеальним доповненням до спальні як для сольного задоволення, так і для парних ігор! Відчуйте потужну стимуляцію за допомогою цього акумуляторного силіконового вібратора! Він має цілих 12 потужних режимів вібрації, які пропонують вам божественну стимуляцію, яку ви коли-небудь хотіли, щоб отримати максимальне задоволення!</description_ua>
-            </offer>
-        <offer id="69-17052" available="true">
-                <erp>69-17052</erp>
-            <barcode>5600742917052</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31265-sprey_prolongator_orgie_time_lag_2_delay_spray</url>
-            <price>1133.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>40</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_31262684f00384f348.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_684effe2e2b91.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_684f002c37c55.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_684f002c482fb.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_684f002c56576.png</picture>
-            <name>Спрей-пролонгатор Orgie Time Lag 2 Delay Gel, 10 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>ORGIE COSMETICS</vendor>
-            <model>Спрей-пролонгатор Orgie Time Lag 2 Delay Gel, 10 мл</model>
-            <description>Спрей для подовження інтимної близькості Orgie Time Lag 2 забезпечує &lt;b&gt;контроль над тривалістю статевого акту&lt;/b&gt; завдяки інноваційній формулі без анестетиків. Засіб допомагає відтермінувати кульмінацію, підтримує стійкість ерекції та посилює сексуальний потяг.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Формула збагачена &lt;b&gt;пантенолом та екстрактом алое вера&lt;/b&gt; для зволоження шкіри, а також містить екстракт даміани для додаткової стимуляції. Продукт не містить бензокаїну чи лідокаїну, що робить його безпечним для регулярного використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Застосування просте: &lt;b&gt;2-3 натискання на пеніс з легким масажем&lt;/b&gt; за кілька хвилин до близькості. Одного флакона вистачає приблизно на 167 застосувань, що робить засіб економічним у використанні.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Orgie&lt;/br&gt;&lt;br /&gt;
-Виробник: Orgie&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 10&lt;/br&gt;&lt;br /&gt;
-Форма випуску: Рідина&lt;/br&gt;&lt;br /&gt;
-Призначення: Для продовження статевого акту&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: З пантенолом, Пролонгуючі, З алое&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Їстівне: Ні&lt;/br&gt;</description>
-            <name_ua>Спрей-пролонгатор Orgie Time Lag 2 Delay Gel, 10 мл</name_ua>
-            <description_ua>Спрей для подовження інтимної близькості Orgie Time Lag 2 забезпечує &lt;b&gt;контроль над тривалістю статевого акту&lt;/b&gt; завдяки інноваційній формулі без анестетиків. Засіб допомагає відтермінувати кульмінацію, підтримує стійкість ерекції та посилює сексуальний потяг.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Формула збагачена &lt;b&gt;пантенолом та екстрактом алое вера&lt;/b&gt; для зволоження шкіри, а також містить екстракт даміани для додаткової стимуляції. Продукт не містить бензокаїну чи лідокаїну, що робить його безпечним для регулярного використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Застосування просте: &lt;b&gt;2-3 натискання на пеніс з легким масажем&lt;/b&gt; за кілька хвилин до близькості. Одного флакона вистачає приблизно на 167 застосувань, що робить засіб економічним у використанні.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Orgie&lt;/br&gt;&lt;br /&gt;
-Виробник: Orgie&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 10&lt;/br&gt;&lt;br /&gt;
-Форма випуску: Рідина&lt;/br&gt;&lt;br /&gt;
-Призначення: Для продовження статевого акту&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: З пантенолом, Пролонгуючі, З алое&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Їстівне: Ні&lt;/br&gt;</description_ua>
             </offer>
         <offer id="BI-300011" available="true">
                 <erp>BI-300011</erp>
@@ -63100,6 +63104,34 @@ LEVELZ Triple Ring — це ерекційне кільце з трьома вз
             <name_ua>Фалоімітатор Pretty Love Najm 9.1 Super Soft Liquid Silicone Dildo</name_ua>
             <description_ua>Фалоімітатор Pretty Love Najm 9.1" Super Soft Liquid Silicone Dildo</description_ua>
             </offer>
+        <offer id="BW-008080EA" available="true">
+                <erp>BW-008080EA</erp>
+            <barcode>6959532326628</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35952-vibrator_baile___bodach_7_vibration_functions_7_thrusting_settings_7_rotation_functions</url>
+            <price>1819.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>143</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_359486a305eb1cac37.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6a30581912f19.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6a3058191f448.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6a305819288c3.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6a305819325da.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6a3058193c032.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6a30581947669.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6a3058195130f.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6a3058195acb5.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6a30581968cf9.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6a30581974d92.jpg</picture>
+            <name>Вібратор BAILE - Bodach, 7 vibration functions 7 thrusting settings 7 rotation functions</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor />
+            <model>Вібратор BAILE - Bodach, 7 vibration functions 7 thrusting settings 7 rotation functions</model>
+            <description>Реалістичний фалоімітатор з м'якого і гнучкого матеріалу. Фалоімітатор має злегка зігнутий вал з прожилками. Міцна присоска гарантує, що фалоімітатор залишається в правильному положенні, коли ви кладете його на підлогу або стіну. Використовуйте цю сексуальну іграшку разом з улюбленим зволожуючим кремом. Фаллоімітатор легко чистити теплою водою та засобом для чищення іграшок. Матеріал пластик tpr Загальна довжина 24 см Діаметр 4,2 см Водонепроникний Так Колір м’яса</description>
+            <name_ua>Вібратор BAILE - Bodach, 7 vibration functions 7 thrusting settings 7 rotation functions</name_ua>
+            <description_ua>Реалістичний фалоімітатор з м'якого і гнучкого матеріалу. Фалоімітатор має злегка зігнутий вал з прожилками. Міцна присоска гарантує, що фалоімітатор залишається в правильному положенні, коли ви кладете його на підлогу або стіну. Використовуйте цю сексуальну іграшку разом з улюбленим зволожуючим кремом. Фаллоімітатор легко чистити теплою водою та засобом для чищення іграшок. Матеріал пластик tpr Загальна довжина 24 см Діаметр 4,2 см Водонепроникний Так Колір м’яса</description_ua>
+            </offer>
         <offer id="BI-300124-1" available="true">
                 <erp>BI-300124-1</erp>
             <barcode>6959532363166</barcode>
@@ -64777,6 +64809,24 @@ Muaisi 001 BlueWet поєднують надійний захист, комфо�
             <name_ua>Ерекційне кільце B - Series EasyLove, чорне</name_ua>
             <description_ua>Кільце може ефективно збільшити ерекцію та зупинити передчасну еякуляцію. Отримайте необхідну підтримку для надзвичайно потужного оргазму, продовживши свою любовну гру. Продукт виготовлений з дуже хороших матеріалів TPR та ABS, завдяки чому є абсолютно безпечним у використанні.</description_ua>
             </offer>
+        <offer id="67-00054" available="true">
+                <erp>67-00054</erp>
+            <barcode />
+            <quantity_in_stock>6</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/29084-vibrator___butterfly_pink</url>
+            <price>372.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>14</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/67-00054.jpg</picture>
+            <name>Вібратор Butterfly Pink</name>
+            <Отображать>Да</Отображать>
+            <stock>6</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Вібратор Butterfly Pink</model>
+            <description>Стимулятор у формі метелика стимулює найінтимніші частини жіночого тіла. Регульовані нейлонові лямки можна регулювати під будь -які розміри, забезпечуючи комфорт використання. Носити цей чудовий стимулятор таємно під одягом, ніхто не дізнається. Метелик спеціально розроблений для стимуляції чутливого клітора, тоді як 6 -сантиметровий пеніс забезпечує додаткові відчуття.</description>
+            <name_ua>Вібратор Butterfly Pink</name_ua>
+            <description_ua>Стимулятор у формі метелика стимулює найінтимніші частини жіночого тіла. Регульовані нейлонові лямки можна регулювати під будь -які розміри, забезпечуючи комфорт використання. Носити цей чудовий стимулятор таємно під одягом, ніхто не дізнається. Метелик спеціально розроблений для стимуляції чутливого клітора, тоді як 6 -сантиметровий пеніс забезпечує додаткові відчуття.</description_ua>
+            </offer>
         <offer id="67-00055" available="true">
                 <erp>67-00055</erp>
             <barcode>5903661801304</barcode>
@@ -64988,31 +65038,6 @@ Muaisi 001 BlueWet поєднують надійний захист, комфо�
 Запах: Іланг-Іланг&lt;/br&gt;&lt;br /&gt;
 Їстівне: Так&lt;/br&gt;&lt;br /&gt;
 Додаткові ефекти: Без ефектів&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="26-00189" available="true">
-                <erp>26-00189</erp>
-            <barcode>5903661808020</barcode>
-            <quantity_in_stock>6</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29700-masturbator_vagina_manga___boss_series</url>
-            <price>291.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>52</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_2970062ee929b356b5.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee9298e58b8.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92991948a.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee9299363ad.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92994f4e8.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee929963d7d.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92997a659.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92998f5eb.png</picture>
-            <name>Штучна вагіна Boss Series Manga, тілесна</name>
-            <Отображать>Да</Отображать>
-            <stock>6</stock>
-            <vendor />
-            <model>Штучна вагіна Boss Series Manga, тілесна</model>
-            <description>Штучна вагіна Boss Series Manga, тілесна</description>
-            <name_ua>Штучна вагіна Boss Series Manga, тілесна</name_ua>
-            <description_ua>Штучна вагіна Boss Series Manga, тілесна</description_ua>
             </offer>
         <offer id="61-00042" available="true">
                 <erp>61-00042</erp>
@@ -67450,34 +67475,6 @@ MyLove Aroma Series Intim&amp;Massage 2in1 Orange — універсальний
 &lt;br /&gt;
 Завдяки поєднанню витонченого дизайну та комфортних розмірів цей плагін стане чудовим вибором для знайомства з анальною стимуляцією або для тих, хто цінує естетику в кожній деталі.</description_ua>
             </offer>
-        <offer id="BW-008080EA" available="true">
-                <erp>BW-008080EA</erp>
-            <barcode>6959532326628</barcode>
-            <quantity_in_stock>6</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/35952-vibrator_baile___bodach_7_vibration_functions_7_thrusting_settings_7_rotation_functions</url>
-            <price>1819.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>143</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_359486a305eb1cac37.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6a30581912f19.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6a3058191f448.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6a305819288c3.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6a305819325da.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6a3058193c032.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6a30581947669.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6a3058195130f.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6a3058195acb5.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6a30581968cf9.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6a30581974d92.jpg</picture>
-            <name>Вібратор BAILE - Bodach, 7 vibration functions 7 thrusting settings 7 rotation functions</name>
-            <Отображать>Да</Отображать>
-            <stock>6</stock>
-            <vendor />
-            <model>Вібратор BAILE - Bodach, 7 vibration functions 7 thrusting settings 7 rotation functions</model>
-            <description>Реалістичний фалоімітатор з м'якого і гнучкого матеріалу. Фалоімітатор має злегка зігнутий вал з прожилками. Міцна присоска гарантує, що фалоімітатор залишається в правильному положенні, коли ви кладете його на підлогу або стіну. Використовуйте цю сексуальну іграшку разом з улюбленим зволожуючим кремом. Фаллоімітатор легко чистити теплою водою та засобом для чищення іграшок. Матеріал пластик tpr Загальна довжина 24 см Діаметр 4,2 см Водонепроникний Так Колір м’яса</description>
-            <name_ua>Вібратор BAILE - Bodach, 7 vibration functions 7 thrusting settings 7 rotation functions</name_ua>
-            <description_ua>Реалістичний фалоімітатор з м'якого і гнучкого матеріалу. Фалоімітатор має злегка зігнутий вал з прожилками. Міцна присоска гарантує, що фалоімітатор залишається в правильному положенні, коли ви кладете його на підлогу або стіну. Використовуйте цю сексуальну іграшку разом з улюбленим зволожуючим кремом. Фаллоімітатор легко чистити теплою водою та засобом для чищення іграшок. Матеріал пластик tpr Загальна довжина 24 см Діаметр 4,2 см Водонепроникний Так Колір м’яса</description_ua>
-            </offer>
         <offer id="BI-300138" available="true">
                 <erp>BI-300138</erp>
             <barcode>6959532363869</barcode>
@@ -69156,24 +69153,6 @@ AQUAglide Raspberry - це ідеальний вибір для тих, хто �
             <description>Кільце може ефективно збільшити ерекцію та зупинити передчасну еякуляцію. Отримайте необхідну підтримку для надзвичайно потужного оргазму, продовживши свою любовну гру. Виступи на кільці додатково стимулюють клітор. Кільце гнучке і дуже добре прилягає до окружності кожного пеніса. Отримайте необхідну підтримку для остаточного оргазму. Завдяки цьому вібруючому кільцю гра з вашим партнером вийде на новий рівень! Вібрація доставить вам і вашому партнеру неймовірне задоволення. Продукт виготовлений з дуже хороших матеріалів TPR та ABS, завдяки чому продукт є абсолютно безпечним у використанні.</description>
             <name_ua>Ерекційне кільце Ring Red</name_ua>
             <description_ua>Кільце може ефективно збільшити ерекцію та зупинити передчасну еякуляцію. Отримайте необхідну підтримку для надзвичайно потужного оргазму, продовживши свою любовну гру. Виступи на кільці додатково стимулюють клітор. Кільце гнучке і дуже добре прилягає до окружності кожного пеніса. Отримайте необхідну підтримку для остаточного оргазму. Завдяки цьому вібруючому кільцю гра з вашим партнером вийде на новий рівень! Вібрація доставить вам і вашому партнеру неймовірне задоволення. Продукт виготовлений з дуже хороших матеріалів TPR та ABS, завдяки чому продукт є абсолютно безпечним у використанні.</description_ua>
-            </offer>
-        <offer id="67-00054" available="true">
-                <erp>67-00054</erp>
-            <barcode />
-            <quantity_in_stock>7</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29084-vibrator___butterfly_pink</url>
-            <price>372.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>14</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/67-00054.jpg</picture>
-            <name>Вібратор Butterfly Pink</name>
-            <Отображать>Да</Отображать>
-            <stock>7</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Вібратор Butterfly Pink</model>
-            <description>Стимулятор у формі метелика стимулює найінтимніші частини жіночого тіла. Регульовані нейлонові лямки можна регулювати під будь -які розміри, забезпечуючи комфорт використання. Носити цей чудовий стимулятор таємно під одягом, ніхто не дізнається. Метелик спеціально розроблений для стимуляції чутливого клітора, тоді як 6 -сантиметровий пеніс забезпечує додаткові відчуття.</description>
-            <name_ua>Вібратор Butterfly Pink</name_ua>
-            <description_ua>Стимулятор у формі метелика стимулює найінтимніші частини жіночого тіла. Регульовані нейлонові лямки можна регулювати під будь -які розміри, забезпечуючи комфорт використання. Носити цей чудовий стимулятор таємно під одягом, ніхто не дізнається. Метелик спеціально розроблений для стимуляції чутливого клітора, тоді як 6 -сантиметровий пеніс забезпечує додаткові відчуття.</description_ua>
             </offer>
         <offer id="26-00144" available="true">
                 <erp>26-00144</erp>
