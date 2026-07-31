@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-07-31 08:15">
+<yml_catalog date="2026-07-31 11:15">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
     <url>http://blissclub.com.ua/</url>
-    <eurate>51.40</eurate>
+    <eurate>51.60</eurate>
     <currencies>
             <currency id="UAH" rate="1" />
         </currencies>
@@ -434,6 +434,25 @@
             <description>Ексклюзивний гель на водній основі зі смаком та ароматом ванілі (не алергічний, суперефективний). Захистіть легкі та надійні рішення, якщо природне завоювання піхви недостатнє. Повідомляти без цих проблем він підтримує інтенсивність відчуттів і емоцій під час статевого.</description>
             <name_ua>Гель лубрикант Waterglide Vanilla Icecream 300 m</name_ua>
             <description_ua>Ексклюзивний гель на водній основі зі смаком та ароматом ванілі (не алергічний, суперефективний). Захистіть легкі та надійні рішення, якщо природне завоювання піхви недостатнє. Повідомляти без цих проблем він підтримує інтенсивність відчуттів і емоцій під час статевого.</description_ua>
+            </offer>
+        <offer id="42-05579190000" available="true">
+                <erp>42-05579190000</erp>
+            <barcode>4024144557912</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2887-vibrator__realistichniy_vibrator__ns_big_vibe</url>
+            <price>1767.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>143</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_288761c9a81eb3393.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_61c9a81dce195.png</picture>
+            <name>Вібратор Nature Skin Big Vibe, реалістичний</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>ORION</vendor>
+            <model>Вібратор Nature Skin Big Vibe, реалістичний</model>
+            <description>Потужний, дуже натуралістичний вібратор Nature Skin Big Vibe. Прямий, злегка нахилений ствол має рельєфну фактуру з великою кількістю жилок, що рівномірно покривають поверхню аксесуара. При виготовленні фалоса використана кібершкіра – сучасний, ультрареалістичний матеріал, майже невідмінний на дотик живого людського тіла. Для живлення використовуються 2 шт АА, які слід придбати додатково. Довжина 23 см, діаметр 4,5 см</description>
+            <name_ua>Вібратор Nature Skin Big Vibe, реалістичний</name_ua>
+            <description_ua>Потужний, дуже натуралістичний вібратор Nature Skin Big Vibe. Прямий, злегка нахилений ствол має рельєфну фактуру з великою кількістю жилок, що рівномірно покривають поверхню аксесуара. При виготовленні фалоса використана кібершкіра – сучасний, ультрареалістичний матеріал, майже невідмінний на дотик живого людського тіла. Для живлення використовуються 2 шт АА, які слід придбати додатково. Довжина 23 см, діаметр 4,5 см</description_ua>
             </offer>
         <offer id="42-05182120000" available="true">
                 <erp>42-05182120000</erp>
@@ -9377,32 +9396,6 @@ AQUAglide Massage+Glide Lemongrass - це ідеальний вибір для �
 Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
 Живлення: Батарейки ААА (1 шт.)&lt;/br&gt;</description_ua>
             </offer>
-        <offer id="BW-022090NR" available="true">
-                <erp>BW-022090NR</erp>
-            <barcode>6959532334173</barcode>
-            <quantity_in_stock>1</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30793-strapon_on_pretty_love_harness_briefs_tom</url>
-            <price>850.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>34</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_30790656900b580a49.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_656900b4092c4.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_656900b420ae6.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_656900b437ae3.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_656900b45101f.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_656900b46673f.gif</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_656900b47d4fa.gif</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_656900b4947cd.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_656900b4a81e3.gif</picture>
-            <name>Страпон ON PRETTY LOVE HARNESS BRIEFS TOM</name>
-            <Отображать>Да</Отображать>
-            <stock>1</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Страпон ON PRETTY LOVE HARNESS BRIEFS TOM</model>
-            <description>Страпон реалістичний з поясом, який можна використовувати до ширини талії 86 см. Довжина фаломітітора 20 см. Діаметр 4,4 см</description>
-            <name_ua>Страпон ON PRETTY LOVE HARNESS BRIEFS TOM</name_ua>
-            <description_ua>Страпон реалістичний з поясом, який можна використовувати до ширини талії 86 см. Довжина фаломітітора 20 см. Діаметр 4,4 см</description_ua>
-            </offer>
         <offer id="73-4018218" available="true">
                 <erp>73-4018218</erp>
             <barcode>4061504018218</barcode>
@@ -13190,6 +13183,42 @@ Ultra Strong Massager — чудовий вибір для людей, які ш
 Загальна довжина 9,2 см&lt;br /&gt;
 Діаметр 2,8 см&lt;br /&gt;
 Стильна упаковка у вигляді замшевого футляра</description_ua>
+            </offer>
+        <offer id="64-00153" available="true">
+                <erp>64-00153</erp>
+            <barcode>5906233081951</barcode>
+            <quantity_in_stock>1</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31857-analyna_probka_silikonova_ewellery_plug_clear___m</url>
+            <price>392.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>31</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_31853678b7368d580e.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_678b73673d8ad.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_678b73675274a.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_678b73677206d.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_678b73678fb53.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_678b7367a4d17.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_678b7367bd701.jpeg</picture>
+            <name>Анальна пробка Boss Series Jewellery Plug Clear, силіконова, M</name>
+            <Отображать>Да</Отображать>
+            <stock>1</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Анальна пробка Boss Series Jewellery Plug Clear, силіконова, M</model>
+            <description>Ексклюзивні анальні прикраси з силікону. Високоякісний силікон пестить оксамитовим дотиком і гарантує безпеку для вашого тіла. Пробка ідеально гладка і не викликає роздратування шкіри.&lt;br /&gt;
+Ідеально підходить для початківців і досвідчених любителів анальних ігор.&lt;br /&gt;
+Чудовий діамант, прикріплений до основи, елегантний і додає чуттєвості.&lt;br /&gt;
+Ковпачок має ідеальний контур, спеціальна анатомічна форма полегшує нанесення.&lt;br /&gt;
+Цибулинчаста форма забезпечує чудову стимуляцію. Водночас вузьке горлечко з ромбоподібною основою дозволить м’язам охопити та утримувати пробку на місці, запобігаючи розсмоктуванню.&lt;br /&gt;
+Загальна довжина 9,2 см&lt;br /&gt;
+Діаметр 2,8 см</description>
+            <name_ua>Анальна пробка Boss Series Jewellery Plug Clear, силіконова, M</name_ua>
+            <description_ua>Ексклюзивні анальні прикраси з силікону. Високоякісний силікон пестить оксамитовим дотиком і гарантує безпеку для вашого тіла. Пробка ідеально гладка і не викликає роздратування шкіри.&lt;br /&gt;
+Ідеально підходить для початківців і досвідчених любителів анальних ігор.&lt;br /&gt;
+Чудовий діамант, прикріплений до основи, елегантний і додає чуттєвості.&lt;br /&gt;
+Ковпачок має ідеальний контур, спеціальна анатомічна форма полегшує нанесення.&lt;br /&gt;
+Цибулинчаста форма забезпечує чудову стимуляцію. Водночас вузьке горлечко з ромбоподібною основою дозволить м’язам охопити та утримувати пробку на місці, запобігаючи розсмоктуванню.&lt;br /&gt;
+Загальна довжина 9,2 см&lt;br /&gt;
+Діаметр 2,8 см</description_ua>
             </offer>
         <offer id="74-2757" available="true">
                 <erp>74-2757</erp>
@@ -18146,25 +18175,6 @@ pjur INFINITY прагне допомогти людям заново відкр
             <name_ua>Вагінальні кульки Velvet Purple Balls</name_ua>
             <description_ua>Кульки ідеально підходять для щоденної вправи на напругу м’язів тазового дна. Дають можливість підтримувати м'язи  в тонусі, додадуть їм пружності та еластичності. Діаметр - 3,5 см.. Кульки виготовлені з безпечного для шкіри матеріалу. </description_ua>
             </offer>
-        <offer id="42-05579190000" available="true">
-                <erp>42-05579190000</erp>
-            <barcode>4024144557912</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2887-vibrator__realistichniy_vibrator__ns_big_vibe</url>
-            <price>1767.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>143</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_288761c9a81eb3393.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_61c9a81dce195.png</picture>
-            <name>Вібратор Nature Skin Big Vibe, реалістичний</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>ORION</vendor>
-            <model>Вібратор Nature Skin Big Vibe, реалістичний</model>
-            <description>Потужний, дуже натуралістичний вібратор Nature Skin Big Vibe. Прямий, злегка нахилений ствол має рельєфну фактуру з великою кількістю жилок, що рівномірно покривають поверхню аксесуара. При виготовленні фалоса використана кібершкіра – сучасний, ультрареалістичний матеріал, майже невідмінний на дотик живого людського тіла. Для живлення використовуються 2 шт АА, які слід придбати додатково. Довжина 23 см, діаметр 4,5 см</description>
-            <name_ua>Вібратор Nature Skin Big Vibe, реалістичний</name_ua>
-            <description_ua>Потужний, дуже натуралістичний вібратор Nature Skin Big Vibe. Прямий, злегка нахилений ствол має рельєфну фактуру з великою кількістю жилок, що рівномірно покривають поверхню аксесуара. При виготовленні фалоса використана кібершкіра – сучасний, ультрареалістичний матеріал, майже невідмінний на дотик живого людського тіла. Для живлення використовуються 2 шт АА, які слід придбати додатково. Довжина 23 см, діаметр 4,5 см</description_ua>
-            </offer>
         <offer id="28-00058" available="true">
                 <erp>28-00058</erp>
             <barcode>5901549407204</barcode>
@@ -18212,6 +18222,28 @@ pjur INFINITY прагне допомогти людям заново відкр
 До скляної пробки кріпиться довгий пухнастий хвостик чорного кольору, що надає іграшці тваринного шарму. Хвіст виготовлений зі штучного хутра. Його довжина сягає 28 см.&lt;br /&gt;
 &lt;br /&gt;
 Обов'язково зволожуйте скляну пробку мастилами, щоб її проникнення було легким та приємним.</description_ua>
+            </offer>
+        <offer id="42-05060100000" available="true">
+                <erp>42-05060100000</erp>
+            <barcode>4024144507467</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/2933-vaginalyni_kulyki_bilizna__velyur_velvet_black_balls</url>
+            <price>1170.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>142</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/42-05060100000.jpg</picture>
+            <name>Вагінальні кульки You2Toys Velvet, чорні</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor>ORION</vendor>
+            <model>Вагінальні кульки You2Toys Velvet, чорні</model>
+            <description>ЗЛюбовні кульки з 4 ниток з м'якою на дотик текстурою та еластичними ремінцями. М’ячі підходять для ефективного тренування тазового дна: м’ячі ваги обертаються всередині і викликають вібрацію при кожному русі, що призводить до посилення м’язових скорочень. Маючи вагу 108 г, м’ячі кохання ідеально підходять для вже досвідчених експертів.&lt;br /&gt;
+&lt;br /&gt;
+Загальна довжина 24 см (включаючи зворотний ремінь), м'яч Ø 3,5 см. Вага 108 г. Силікон, ABS, PU.</description>
+            <name_ua>Вагінальні кульки You2Toys Velvet, чорні</name_ua>
+            <description_ua>ЗЛюбовні кульки з 4 ниток з м'якою на дотик текстурою та еластичними ремінцями. М’ячі підходять для ефективного тренування тазового дна: м’ячі ваги обертаються всередині і викликають вібрацію при кожному русі, що призводить до посилення м’язових скорочень. Маючи вагу 108 г, м’ячі кохання ідеально підходять для вже досвідчених експертів.&lt;br /&gt;
+&lt;br /&gt;
+Загальна довжина 24 см (включаючи зворотний ремінь), м'яч Ø 3,5 см. Вага 108 г. Силікон, ABS, PU.</description_ua>
             </offer>
         <offer id="42-05134820000" available="true">
                 <erp>42-05134820000</erp>
@@ -20388,6 +20420,68 @@ BIOglide Neutral - це ідеальний лубрикант для тих, х�
             <description>Бондажний комплект Black Velvets Harness, S-L</description>
             <name_ua>Бондажний комплект Black Velvets Harness, S-L</name_ua>
             <description_ua>Бондажний комплект Black Velvets Harness, S-L</description_ua>
+            </offer>
+        <offer id="42-06199300000" available="true">
+                <erp>42-06199300000</erp>
+            <barcode>4024144629985</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/14798-gely_lubrikant_ust_glide_water_500ml</url>
+            <price>1178.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>46</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/42-06199300000.jpg</picture>
+            <name>Лубрикант Just Glide Waterbased, 500 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor>ORION</vendor>
+            <model>Лубрикант Just Glide Waterbased 500ml</model>
+            <description>Just Glide Waterbased - це універсальний лубрикант на водній основі, який забезпечує довготривале зволоження і комфорт під час інтимних моментів. Об’єм 500 мл робить цей продукт ідеальним для регулярного використання і економічним варіантом для тривалого застосування.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Основні переваги:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+	1.	Водна основа: Лубрикант сумісний з латексними презервативами та секс-іграшками. Легко змивається водою і не залишає липких залишків.&lt;br /&gt;&lt;br /&gt;
+	2.	Зволожуючий ефект: Гелеподібна текстура забезпечує тривале зволоження і зменшення тертя, що підвищує комфорт під час інтимних моментів.&lt;br /&gt;&lt;br /&gt;
+	3.	Універсальність: Підходить для різних типів інтимних моментів і застосувань, забезпечуючи гладкість і комфорт.&lt;br /&gt;&lt;br /&gt;
+	4.	Великий об’єм: Флакон об’ємом 500 мл є економічним і зручним для тривалого використання.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Нанесіть необхідну кількість лубриканта на інтимні зони або секс-іграшки перед початком інтимних моментів. Розподіліть рівномірно для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+	•	Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
+	•	Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
+	•	Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
+	•	Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Чому обирають Just Glide Waterbased:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Just Glide Waterbased - це відмінний вибір для тих, хто шукає універсальний лубрикант на водній основі з великим об’ємом. Його зволожуюча формула забезпечує комфорт і гладкість, роблячи інтимні моменти приємнішими.</description>
+            <name_ua>Лубрикант Just Glide Waterbased, 500 мл</name_ua>
+            <description_ua>Just Glide Waterbased - це універсальний лубрикант на водній основі, який забезпечує довготривале зволоження і комфорт під час інтимних моментів. Об’єм 500 мл робить цей продукт ідеальним для регулярного використання і економічним варіантом для тривалого застосування.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Основні переваги:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+	1.	Водна основа: Лубрикант сумісний з латексними презервативами та секс-іграшками. Легко змивається водою і не залишає липких залишків.&lt;br /&gt;&lt;br /&gt;
+	2.	Зволожуючий ефект: Гелеподібна текстура забезпечує тривале зволоження і зменшення тертя, що підвищує комфорт під час інтимних моментів.&lt;br /&gt;&lt;br /&gt;
+	3.	Універсальність: Підходить для різних типів інтимних моментів і застосувань, забезпечуючи гладкість і комфорт.&lt;br /&gt;&lt;br /&gt;
+	4.	Великий об’єм: Флакон об’ємом 500 мл є економічним і зручним для тривалого використання.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Нанесіть необхідну кількість лубриканта на інтимні зони або секс-іграшки перед початком інтимних моментів. Розподіліть рівномірно для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+	•	Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
+	•	Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
+	•	Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
+	•	Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Чому обирають Just Glide Waterbased:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Just Glide Waterbased - це відмінний вибір для тих, хто шукає універсальний лубрикант на водній основі з великим об’ємом. Його зволожуюча формула забезпечує комфорт і гладкість, роблячи інтимні моменти приємнішими.</description_ua>
             </offer>
         <offer id="42-06234310000" available="true">
                 <erp>42-06234310000</erp>
@@ -24812,6 +24906,72 @@ Just Glide Premium Anal - це ідеальний вибір для тих, хт
             <description>Подвiйний мастурбатор з вiбро BAILE PASSION LADY</description>
             <name_ua>Подвiйний мастурбатор з вiбро BAILE PASSION LADY</name_ua>
             <description_ua>Подвiйний мастурбатор з вiбро BAILE PASSION LADY</description_ua>
+            </offer>
+        <offer id="42-06259300000" available="true">
+                <erp>42-06259300000</erp>
+            <barcode>4024144126200</barcode>
+            <quantity_in_stock>2</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30030-lubrikant_na_vodno_silikonoviy_osnovi_ust_glide_performance_20_ml</url>
+            <price>125.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>46</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_30030637ccc7aef239.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_637ccc78b1a59.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_637ccc78d78ec.png</picture>
+            <name>Лубрикант на водно силіконовій основі Just Glide Performance 20 ml</name>
+            <Отображать>Да</Отображать>
+            <stock>2</stock>
+            <vendor>ORION</vendor>
+            <model>Лубрикант на водно силіконовій основі Just Glide Performance 20 ml</model>
+            <description>Лубрикант на водно-силіконовій основі Just Glide Performance – це високоякісний інтимний гель, створений для максимального комфорту та тривалого задоволення під час сексуальних активностей. Компактний об’єм 20 мл робить цей лубрикант ідеальним для подорожей або використання в будь-який зручний момент.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Основні переваги:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+	1.	Водно-силіконова основа: Поєднання водної та силіконової основи забезпечує тривале зволоження, легко змивається водою, не залишає липких слідів і не викликає подразнень.&lt;br /&gt;&lt;br /&gt;
+	2.	Тривале зволоження: Спеціальна формула забезпечує тривалий ефект зволоження, зменшуючи тертя і підвищуючи комфорт під час сексуальних активностей.&lt;br /&gt;&lt;br /&gt;
+	3.	Гіпоалергенний: Не містить агресивних хімічних речовин, штучних ароматизаторів або барвників, що робить його безпечним для чутливої шкіри.&lt;br /&gt;&lt;br /&gt;
+	4.	Компактний об’єм: Об’єм 20 мл дозволяє мати лубрикант завжди під рукою, що робить його зручним для подорожей і використання в будь-який зручний момент.&lt;br /&gt;&lt;br /&gt;
+	5.	Універсальне використання: Підходить для всіх видів сексуальних активностей, включаючи вагінальний, анальний і оральний секс. Сумісний з латексними презервативами та різними секс-іграшками.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Нанесіть необхідну кількість лубриканта на інтимні зони або секс-іграшки перед початком інтимних моментів. Розподіліть рівномірно для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+	•	Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
+	•	Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
+	•	Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
+	•	Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Чому обирають Just Glide Performance:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Лубрикант на водно-силіконовій основі Just Glide Performance – це ідеальний вибір для тих, хто шукає ефективний і тривалий зволожуючий засіб для інтимних моментів. Його водно-силіконова основа забезпечує тривале зволоження і комфорт, роблячи кожен момент особливим і захопливим. Компактний об’єм дозволяє мати лубрикант завжди під рукою, забезпечуючи готовність до інтимних моментів у будь-який час.</description>
+            <name_ua>Лубрикант на водно силіконовій основі Just Glide Performance 20 ml</name_ua>
+            <description_ua>Лубрикант на водно-силіконовій основі Just Glide Performance – це високоякісний інтимний гель, створений для максимального комфорту та тривалого задоволення під час сексуальних активностей. Компактний об’єм 20 мл робить цей лубрикант ідеальним для подорожей або використання в будь-який зручний момент.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Основні переваги:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+	1.	Водно-силіконова основа: Поєднання водної та силіконової основи забезпечує тривале зволоження, легко змивається водою, не залишає липких слідів і не викликає подразнень.&lt;br /&gt;&lt;br /&gt;
+	2.	Тривале зволоження: Спеціальна формула забезпечує тривалий ефект зволоження, зменшуючи тертя і підвищуючи комфорт під час сексуальних активностей.&lt;br /&gt;&lt;br /&gt;
+	3.	Гіпоалергенний: Не містить агресивних хімічних речовин, штучних ароматизаторів або барвників, що робить його безпечним для чутливої шкіри.&lt;br /&gt;&lt;br /&gt;
+	4.	Компактний об’єм: Об’єм 20 мл дозволяє мати лубрикант завжди під рукою, що робить його зручним для подорожей і використання в будь-який зручний момент.&lt;br /&gt;&lt;br /&gt;
+	5.	Універсальне використання: Підходить для всіх видів сексуальних активностей, включаючи вагінальний, анальний і оральний секс. Сумісний з латексними презервативами та різними секс-іграшками.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Нанесіть необхідну кількість лубриканта на інтимні зони або секс-іграшки перед початком інтимних моментів. Розподіліть рівномірно для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+	•	Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
+	•	Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
+	•	Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
+	•	Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Чому обирають Just Glide Performance:&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+Лубрикант на водно-силіконовій основі Just Glide Performance – це ідеальний вибір для тих, хто шукає ефективний і тривалий зволожуючий засіб для інтимних моментів. Його водно-силіконова основа забезпечує тривале зволоження і комфорт, роблячи кожен момент особливим і захопливим. Компактний об’єм дозволяє мати лубрикант завжди під рукою, забезпечуючи готовність до інтимних моментів у будь-який час.</description_ua>
             </offer>
         <offer id="52-00037" available="true">
                 <erp>52-00037</erp>
@@ -29524,42 +29684,6 @@ Hare характеризується неймовірно потужними в
 Діаметр 3,2 см&lt;br /&gt;
 Стильна упаковка у вигляді замшевого футляра.</description_ua>
             </offer>
-        <offer id="64-00153" available="true">
-                <erp>64-00153</erp>
-            <barcode>5906233081951</barcode>
-            <quantity_in_stock>2</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31857-analyna_probka_silikonova_ewellery_plug_clear___m</url>
-            <price>392.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>31</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_31853678b7368d580e.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_678b73673d8ad.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_678b73675274a.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_678b73677206d.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_678b73678fb53.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_678b7367a4d17.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_678b7367bd701.jpeg</picture>
-            <name>Анальна пробка Boss Series Jewellery Plug Clear, силіконова, M</name>
-            <Отображать>Да</Отображать>
-            <stock>2</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Анальна пробка Boss Series Jewellery Plug Clear, силіконова, M</model>
-            <description>Ексклюзивні анальні прикраси з силікону. Високоякісний силікон пестить оксамитовим дотиком і гарантує безпеку для вашого тіла. Пробка ідеально гладка і не викликає роздратування шкіри.&lt;br /&gt;
-Ідеально підходить для початківців і досвідчених любителів анальних ігор.&lt;br /&gt;
-Чудовий діамант, прикріплений до основи, елегантний і додає чуттєвості.&lt;br /&gt;
-Ковпачок має ідеальний контур, спеціальна анатомічна форма полегшує нанесення.&lt;br /&gt;
-Цибулинчаста форма забезпечує чудову стимуляцію. Водночас вузьке горлечко з ромбоподібною основою дозволить м’язам охопити та утримувати пробку на місці, запобігаючи розсмоктуванню.&lt;br /&gt;
-Загальна довжина 9,2 см&lt;br /&gt;
-Діаметр 2,8 см</description>
-            <name_ua>Анальна пробка Boss Series Jewellery Plug Clear, силіконова, M</name_ua>
-            <description_ua>Ексклюзивні анальні прикраси з силікону. Високоякісний силікон пестить оксамитовим дотиком і гарантує безпеку для вашого тіла. Пробка ідеально гладка і не викликає роздратування шкіри.&lt;br /&gt;
-Ідеально підходить для початківців і досвідчених любителів анальних ігор.&lt;br /&gt;
-Чудовий діамант, прикріплений до основи, елегантний і додає чуттєвості.&lt;br /&gt;
-Ковпачок має ідеальний контур, спеціальна анатомічна форма полегшує нанесення.&lt;br /&gt;
-Цибулинчаста форма забезпечує чудову стимуляцію. Водночас вузьке горлечко з ромбоподібною основою дозволить м’язам охопити та утримувати пробку на місці, запобігаючи розсмоктуванню.&lt;br /&gt;
-Загальна довжина 9,2 см&lt;br /&gt;
-Діаметр 2,8 см</description_ua>
-            </offer>
         <offer id="BI-300002W" available="true">
                 <erp>BI-300002W</erp>
             <barcode>6959532334449</barcode>
@@ -34203,28 +34327,6 @@ Deep Kiss створений для тих, хто цінує комфорт, е
             <name_ua>Лубрикант Waterglide Natural Feeling, 300 мл</name_ua>
             <description_ua>&lt;p&gt;Waterglide Natural Feeling - це водний лубрикант, спеціально розроблений для забезпечення природного і комфортного зволоження під час інтимних моментів. Завдяки своїй високоякісній формулі, цей гель забезпечує тривале ковзання і відмінний комфорт, ідеально підходячи для використання з презервативами і секс-іграшками.&lt;br /&gt;&lt;br /&gt;Основні переваги:&lt;br /&gt;&lt;br /&gt;1. Природне відчуття: Гель має натуральну текстуру, що забезпечує відчуття комфорту і природного зволоження під час інтимних контактів.&lt;br /&gt;2. Великий об’єм: Флакон об’ємом 300 мл дозволяє використовувати гель тривалий час і є економічним варіантом для регулярного застосування.&lt;br /&gt;3. Водна основа: Лубрикант має водну основу, що забезпечує легке очищення і сумісність з латексними презервативами та секс-іграшками.&lt;br /&gt;4. Безпечний для чутливої шкіри: Не містить агресивних компонентів і ароматизаторів, що робить його підходящим для чутливої шкіри і знижує ризик алергічних реакцій.&lt;br /&gt;5. Легкість у використанні: Гель легко наноситься і розподіляється, забезпечуючи тривале зволоження без залишків або жирних слідів.&lt;br /&gt;&lt;br /&gt;Спосіб застосування:&lt;br /&gt;&lt;br /&gt;Нанесіть необхідну кількість гелю на інтимну ділянку тіла або на секс-іграшку перед початком інтимних моментів. Рівномірно розподіліть і насолоджуйтеся комфортом. Після використання промийте зони, на які був нанесений гель, водою.&lt;br /&gt;&lt;br /&gt;Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;• Уникайте контакту з очима.&lt;br /&gt;• Зберігайте у недоступному для дітей місці.&lt;br /&gt;• Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;• Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;Чому обирають Waterglide Natural Feeling:&lt;br /&gt;&lt;br /&gt;Waterglide Natural Feeling - це надійний вибір для тих, хто шукає високоякісний водний лубрикант, що забезпечує природне зволоження і комфорт. Його велика упаковка і бездоганна формула роблять цей гель ідеальним для регулярного використання і забезпечують приємні інтимні моменти.&lt;/p&gt;</description_ua>
             </offer>
-        <offer id="42-05060100000" available="true">
-                <erp>42-05060100000</erp>
-            <barcode>4024144507467</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/2933-vaginalyni_kulyki_bilizna__velyur_velvet_black_balls</url>
-            <price>1170.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>142</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-05060100000.jpg</picture>
-            <name>Вагінальні кульки You2Toys Velvet, чорні</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>ORION</vendor>
-            <model>Вагінальні кульки You2Toys Velvet, чорні</model>
-            <description>ЗЛюбовні кульки з 4 ниток з м'якою на дотик текстурою та еластичними ремінцями. М’ячі підходять для ефективного тренування тазового дна: м’ячі ваги обертаються всередині і викликають вібрацію при кожному русі, що призводить до посилення м’язових скорочень. Маючи вагу 108 г, м’ячі кохання ідеально підходять для вже досвідчених експертів.&lt;br /&gt;
-&lt;br /&gt;
-Загальна довжина 24 см (включаючи зворотний ремінь), м'яч Ø 3,5 см. Вага 108 г. Силікон, ABS, PU.</description>
-            <name_ua>Вагінальні кульки You2Toys Velvet, чорні</name_ua>
-            <description_ua>ЗЛюбовні кульки з 4 ниток з м'якою на дотик текстурою та еластичними ремінцями. М’ячі підходять для ефективного тренування тазового дна: м’ячі ваги обертаються всередині і викликають вібрацію при кожному русі, що призводить до посилення м’язових скорочень. Маючи вагу 108 г, м’ячі кохання ідеально підходять для вже досвідчених експертів.&lt;br /&gt;
-&lt;br /&gt;
-Загальна довжина 24 см (включаючи зворотний ремінь), м'яч Ø 3,5 см. Вага 108 г. Силікон, ABS, PU.</description_ua>
-            </offer>
         <offer id="42-05738680000" available="true">
                 <erp>42-05738680000</erp>
             <barcode>4024144576470</barcode>
@@ -35279,6 +35381,56 @@ Deep Kiss створений для тих, хто цінує комфорт, е
             <name_ua>Нашийник Bad Kitty Halsband Strass</name_ua>
             <description_ua>Нашийник Bad Kitty Halsband Strass</description_ua>
             </offer>
+        <offer id="42-05073340000" available="true">
+                <erp>42-05073340000</erp>
+            <barcode>4024144510160</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/7695-manzhet_na_pompu_universal_sleeve_sil_vibrator</url>
+            <price>593.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>71</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/42-05073340000.jpg</picture>
+            <name>Манжет на помпу You2Toys Universal Sleeve</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor>ORION</vendor>
+            <model>Манжет на помпу You2Toys Universal Sleeve</model>
+            <description>Манжет You2Toys Universal Sleeve створений для &lt;b&gt;заміни або доповнення насадки на вакуумну помпу&lt;/b&gt;. Виготовлений з гіпоалергенного силікону, забезпечує надійне прилягання та ефективну герметизацію під час використання помпи.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Еластичний матеріал дозволяє насадці &lt;b&gt;розтягуватися від 2,5 до 7 см в діаметрі&lt;/b&gt;, забезпечуючи комфортну посадку та стимуляцію. Гладенька текстура силікону приємна на дотик та легко очищується після використання. Манжет не потребує додatkового живлення та працює виключно за рахунок створеного вакууму.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Підходить для регулярного використання з вакуумними помпами. Сумісний лише з лубрикантами на водній основі, легко миється водою з спеціальними засобами для догляду.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: You2Toys&lt;/br&gt;&lt;br /&gt;
+Виробник: Orion&lt;/br&gt;&lt;br /&gt;
+Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
+Тип помпи: Аксесуари для помпи&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 7&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 2.5&lt;/br&gt;&lt;br /&gt;
+Живлення: Не потребує&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Ні&lt;/br&gt;</description>
+            <name_ua>Манжет на помпу You2Toys Universal Sleeve</name_ua>
+            <description_ua>Манжет You2Toys Universal Sleeve створений для &lt;b&gt;заміни або доповнення насадки на вакуумну помпу&lt;/b&gt;. Виготовлений з гіпоалергенного силікону, забезпечує надійне прилягання та ефективну герметизацію під час використання помпи.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Еластичний матеріал дозволяє насадці &lt;b&gt;розтягуватися від 2,5 до 7 см в діаметрі&lt;/b&gt;, забезпечуючи комфортну посадку та стимуляцію. Гладенька текстура силікону приємна на дотик та легко очищується після використання. Манжет не потребує додatkового живлення та працює виключно за рахунок створеного вакууму.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Підходить для регулярного використання з вакуумними помпами. Сумісний лише з лубрикантами на водній основі, легко миється водою з спеціальними засобами для догляду.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: You2Toys&lt;/br&gt;&lt;br /&gt;
+Виробник: Orion&lt;/br&gt;&lt;br /&gt;
+Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
+Тип помпи: Аксесуари для помпи&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 7&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 2.5&lt;/br&gt;&lt;br /&gt;
+Живлення: Не потребує&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Ні&lt;/br&gt;</description_ua>
+            </offer>
         <offer id="30-97417-30-541" available="true">
                 <erp>30-97417-30-541</erp>
             <barcode>8713221819932</barcode>
@@ -35800,68 +35952,6 @@ Deep Kiss створений для тих, хто цінує комфорт, е
             <description>Мастурбатор Pretty Love Crazy Bull Stronger Man</description>
             <name_ua>Мастурбатор Pretty Love Crazy Bull Stronger Man</name_ua>
             <description_ua>Мастурбатор Pretty Love Crazy Bull Stronger Man</description_ua>
-            </offer>
-        <offer id="42-06199300000" available="true">
-                <erp>42-06199300000</erp>
-            <barcode>4024144629985</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/14798-gely_lubrikant_ust_glide_water_500ml</url>
-            <price>1178.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-06199300000.jpg</picture>
-            <name>Лубрикант Just Glide Waterbased, 500 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>ORION</vendor>
-            <model>Лубрикант Just Glide Waterbased 500ml</model>
-            <description>Just Glide Waterbased - це універсальний лубрикант на водній основі, який забезпечує довготривале зволоження і комфорт під час інтимних моментів. Об’єм 500 мл робить цей продукт ідеальним для регулярного використання і економічним варіантом для тривалого застосування.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Основні переваги:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-	1.	Водна основа: Лубрикант сумісний з латексними презервативами та секс-іграшками. Легко змивається водою і не залишає липких залишків.&lt;br /&gt;&lt;br /&gt;
-	2.	Зволожуючий ефект: Гелеподібна текстура забезпечує тривале зволоження і зменшення тертя, що підвищує комфорт під час інтимних моментів.&lt;br /&gt;&lt;br /&gt;
-	3.	Універсальність: Підходить для різних типів інтимних моментів і застосувань, забезпечуючи гладкість і комфорт.&lt;br /&gt;&lt;br /&gt;
-	4.	Великий об’єм: Флакон об’ємом 500 мл є економічним і зручним для тривалого використання.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Нанесіть необхідну кількість лубриканта на інтимні зони або секс-іграшки перед початком інтимних моментів. Розподіліть рівномірно для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-	•	Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
-	•	Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
-	•	Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
-	•	Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Чому обирають Just Glide Waterbased:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Just Glide Waterbased - це відмінний вибір для тих, хто шукає універсальний лубрикант на водній основі з великим об’ємом. Його зволожуюча формула забезпечує комфорт і гладкість, роблячи інтимні моменти приємнішими.</description>
-            <name_ua>Лубрикант Just Glide Waterbased, 500 мл</name_ua>
-            <description_ua>Just Glide Waterbased - це універсальний лубрикант на водній основі, який забезпечує довготривале зволоження і комфорт під час інтимних моментів. Об’єм 500 мл робить цей продукт ідеальним для регулярного використання і економічним варіантом для тривалого застосування.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Основні переваги:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-	1.	Водна основа: Лубрикант сумісний з латексними презервативами та секс-іграшками. Легко змивається водою і не залишає липких залишків.&lt;br /&gt;&lt;br /&gt;
-	2.	Зволожуючий ефект: Гелеподібна текстура забезпечує тривале зволоження і зменшення тертя, що підвищує комфорт під час інтимних моментів.&lt;br /&gt;&lt;br /&gt;
-	3.	Універсальність: Підходить для різних типів інтимних моментів і застосувань, забезпечуючи гладкість і комфорт.&lt;br /&gt;&lt;br /&gt;
-	4.	Великий об’єм: Флакон об’ємом 500 мл є економічним і зручним для тривалого використання.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Нанесіть необхідну кількість лубриканта на інтимні зони або секс-іграшки перед початком інтимних моментів. Розподіліть рівномірно для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-	•	Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
-	•	Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
-	•	Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
-	•	Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Чому обирають Just Glide Waterbased:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Just Glide Waterbased - це відмінний вибір для тих, хто шукає універсальний лубрикант на водній основі з великим об’ємом. Його зволожуюча формула забезпечує комфорт і гладкість, роблячи інтимні моменти приємнішими.</description_ua>
             </offer>
         <offer id="42-05182040000" available="true">
                 <erp>42-05182040000</erp>
@@ -38347,72 +38437,6 @@ Ultra Female Harness Strap-On - це універсальний продукт, 
             <name_ua>Мастурбатор ротик BAILE - BABY Pussy</name_ua>
             <description_ua>Мастурбатор ротик BAILE - BABY Pussy</description_ua>
             </offer>
-        <offer id="42-06259300000" available="true">
-                <erp>42-06259300000</erp>
-            <barcode>4024144126200</barcode>
-            <quantity_in_stock>3</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30030-lubrikant_na_vodno_silikonoviy_osnovi_ust_glide_performance_20_ml</url>
-            <price>125.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_30030637ccc7aef239.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_637ccc78b1a59.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_637ccc78d78ec.png</picture>
-            <name>Лубрикант на водно силіконовій основі Just Glide Performance 20 ml</name>
-            <Отображать>Да</Отображать>
-            <stock>3</stock>
-            <vendor>ORION</vendor>
-            <model>Лубрикант на водно силіконовій основі Just Glide Performance 20 ml</model>
-            <description>Лубрикант на водно-силіконовій основі Just Glide Performance – це високоякісний інтимний гель, створений для максимального комфорту та тривалого задоволення під час сексуальних активностей. Компактний об’єм 20 мл робить цей лубрикант ідеальним для подорожей або використання в будь-який зручний момент.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Основні переваги:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-	1.	Водно-силіконова основа: Поєднання водної та силіконової основи забезпечує тривале зволоження, легко змивається водою, не залишає липких слідів і не викликає подразнень.&lt;br /&gt;&lt;br /&gt;
-	2.	Тривале зволоження: Спеціальна формула забезпечує тривалий ефект зволоження, зменшуючи тертя і підвищуючи комфорт під час сексуальних активностей.&lt;br /&gt;&lt;br /&gt;
-	3.	Гіпоалергенний: Не містить агресивних хімічних речовин, штучних ароматизаторів або барвників, що робить його безпечним для чутливої шкіри.&lt;br /&gt;&lt;br /&gt;
-	4.	Компактний об’єм: Об’єм 20 мл дозволяє мати лубрикант завжди під рукою, що робить його зручним для подорожей і використання в будь-який зручний момент.&lt;br /&gt;&lt;br /&gt;
-	5.	Універсальне використання: Підходить для всіх видів сексуальних активностей, включаючи вагінальний, анальний і оральний секс. Сумісний з латексними презервативами та різними секс-іграшками.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Нанесіть необхідну кількість лубриканта на інтимні зони або секс-іграшки перед початком інтимних моментів. Розподіліть рівномірно для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-	•	Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
-	•	Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
-	•	Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
-	•	Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Чому обирають Just Glide Performance:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Лубрикант на водно-силіконовій основі Just Glide Performance – це ідеальний вибір для тих, хто шукає ефективний і тривалий зволожуючий засіб для інтимних моментів. Його водно-силіконова основа забезпечує тривале зволоження і комфорт, роблячи кожен момент особливим і захопливим. Компактний об’єм дозволяє мати лубрикант завжди під рукою, забезпечуючи готовність до інтимних моментів у будь-який час.</description>
-            <name_ua>Лубрикант на водно силіконовій основі Just Glide Performance 20 ml</name_ua>
-            <description_ua>Лубрикант на водно-силіконовій основі Just Glide Performance – це високоякісний інтимний гель, створений для максимального комфорту та тривалого задоволення під час сексуальних активностей. Компактний об’єм 20 мл робить цей лубрикант ідеальним для подорожей або використання в будь-який зручний момент.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Основні переваги:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-	1.	Водно-силіконова основа: Поєднання водної та силіконової основи забезпечує тривале зволоження, легко змивається водою, не залишає липких слідів і не викликає подразнень.&lt;br /&gt;&lt;br /&gt;
-	2.	Тривале зволоження: Спеціальна формула забезпечує тривалий ефект зволоження, зменшуючи тертя і підвищуючи комфорт під час сексуальних активностей.&lt;br /&gt;&lt;br /&gt;
-	3.	Гіпоалергенний: Не містить агресивних хімічних речовин, штучних ароматизаторів або барвників, що робить його безпечним для чутливої шкіри.&lt;br /&gt;&lt;br /&gt;
-	4.	Компактний об’єм: Об’єм 20 мл дозволяє мати лубрикант завжди під рукою, що робить його зручним для подорожей і використання в будь-який зручний момент.&lt;br /&gt;&lt;br /&gt;
-	5.	Універсальне використання: Підходить для всіх видів сексуальних активностей, включаючи вагінальний, анальний і оральний секс. Сумісний з латексними презервативами та різними секс-іграшками.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Спосіб застосування:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Нанесіть необхідну кількість лубриканта на інтимні зони або секс-іграшки перед початком інтимних моментів. Розподіліть рівномірно для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-	•	Уникайте контакту з очима.&lt;br /&gt;&lt;br /&gt;
-	•	Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;&lt;br /&gt;
-	•	Зберігайте у недоступному для дітей місці.&lt;br /&gt;&lt;br /&gt;
-	•	Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Чому обирають Just Glide Performance:&lt;br /&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Лубрикант на водно-силіконовій основі Just Glide Performance – це ідеальний вибір для тих, хто шукає ефективний і тривалий зволожуючий засіб для інтимних моментів. Його водно-силіконова основа забезпечує тривале зволоження і комфорт, роблячи кожен момент особливим і захопливим. Компактний об’єм дозволяє мати лубрикант завжди під рукою, забезпечуючи готовність до інтимних моментів у будь-який час.</description_ua>
-            </offer>
         <offer id="52-00030" available="true">
                 <erp>52-00030</erp>
             <barcode>5903661806064</barcode>
@@ -39822,6 +39846,30 @@ Ultra Female Harness Strap-On - це універсальний продукт, 
 Водонепроникність: Так&lt;/br&gt;&lt;br /&gt;
 Наявність вібрації: Ні&lt;/br&gt;&lt;br /&gt;
 Живлення: Не потребує&lt;/br&gt;</description_ua>
+            </offer>
+        <offer id="BW-008104ZR" available="true">
+                <erp>BW-008104ZR</erp>
+            <barcode>6959532327106</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/30998-faloimitator_z_moshonkoyu_ta__vibro_baile_beautiful_bahamut_94</url>
+            <price>862.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>132</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3099565f53e9c29b2a.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e95d7693.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e95e7e34.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e96034dd.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e9612cc2.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e96223d6.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e9632347.gif</picture>
+            <name>Фалоімітатор з мошонкою та  вібро BAILE-Beautiful Bahamut 9.4</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Фалоімітатор з мошонкою та  вібро BAILE-Beautiful Bahamut 9.4</model>
+            <description>Фалоімітатор з мошонкою та  вібро BAILE-Beautiful Bahamut 9.4</description>
+            <name_ua>Фалоімітатор з мошонкою та  вібро BAILE-Beautiful Bahamut 9.4</name_ua>
+            <description_ua>Фалоімітатор з мошонкою та  вібро BAILE-Beautiful Bahamut 9.4</description_ua>
             </offer>
         <offer id="11-90263" available="true">
                 <erp>11-90263</erp>
@@ -41669,6 +41717,72 @@ Ultra Female Harness Strap-On - це універсальний продукт, 
             <description>Багатошвидкісний вібратор темного пурпурного кольору, що перезаряджається. Має кліторальний стимулятор. Матеріал – силікон. Має 30 режимів вібрації та пульсації. Управління здійснюється за допомогою сенсорних кнопок біля основи іграшки. Загальна довжина – 20 см, робоча довжина – 10 см, максимальний діаметр – 3 см, довжина кліторального відростка – 4 см, діаметр – 2,5 см.</description>
             <name_ua>Вібратор PRETTY LOVE  Alvis purple, 30 function</name_ua>
             <description_ua>Багатошвидкісний вібратор темного пурпурного кольору, що перезаряджається. Має кліторальний стимулятор. Матеріал – силікон. Має 30 режимів вібрації та пульсації. Управління здійснюється за допомогою сенсорних кнопок біля основи іграшки. Загальна довжина – 20 см, робоча довжина – 10 см, максимальний діаметр – 3 см, довжина кліторального відростка – 4 см, діаметр – 2,5 см.</description_ua>
+            </offer>
+        <offer id="BI-014927-A2" available="true">
+                <erp>BI-014927-A2</erp>
+            <barcode>6959532360523</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/31562-vibrator_pretty_love_butterfly_kiss_purple</url>
+            <price>723.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>27</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3155966edae818352c.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edae7f19aea.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edae7f4bc7f.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edae7f6e636.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edae7f94c5e.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edae7fbb600.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edae7feb389.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edae801b955.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edae803c026.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edae805f294.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_66edae80818be.gif</picture>
+            <name>Вібратор Pretty Love Butterfly Kiss, темно-фіолетовий</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Вібратор Pretty Love Butterfly Kiss, темно-фіолетовий</model>
+            <description>Вібратор темно-фіолетового кольору з подвійною стимуляцією забезпечує одночасний вплив на &lt;b&gt;вагінальну зону та кліторальну область&lt;/b&gt;. Основний стрижень з вигнутою анатомічною формою та гладенькою текстурою призначений для точкового впливу на еротичні зони, а додатковий відросток у вигляді метелика щільно контактує з чутливими ділянками.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Пристрій оснащений &lt;b&gt;двома незалежними моторами та 30 різними програмами вібрації&lt;/b&gt;, що дозволяє підібрати оптимальний режим інтенсивності. Зручне розташування кнопок керування на основі забезпечує легкий доступ під час використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Модель працює від двох батарейок формату ААА та підходить для використання з лубрикантами на водній основі. Після застосування рекомендується очищення спеціальними засобами для інтимних іграшок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Силікон, Пластик&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 19.9&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 9.5&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 3.1&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
+Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
+Керування з додатку: Ні&lt;/br&gt;&lt;br /&gt;
+Водонепроникність: Ні&lt;/br&gt;</description>
+            <name_ua>Вібратор Pretty Love Butterfly Kiss, темно-фіолетовий</name_ua>
+            <description_ua>Вібратор темно-фіолетового кольору з подвійною стимуляцією забезпечує одночасний вплив на &lt;b&gt;вагінальну зону та кліторальну область&lt;/b&gt;. Основний стрижень з вигнутою анатомічною формою та гладенькою текстурою призначений для точкового впливу на еротичні зони, а додатковий відросток у вигляді метелика щільно контактує з чутливими ділянками.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Пристрій оснащений &lt;b&gt;двома незалежними моторами та 30 різними програмами вібрації&lt;/b&gt;, що дозволяє підібрати оптимальний режим інтенсивності. Зручне розташування кнопок керування на основі забезпечує легкий доступ під час використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Модель працює від двох батарейок формату ААА та підходить для використання з лубрикантами на водній основі. Після застосування рекомендується очищення спеціальними засобами для інтимних іграшок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
+Виробник: Baile&lt;/br&gt;&lt;br /&gt;
+Матеріал: Силікон, Пластик&lt;/br&gt;&lt;br /&gt;
+Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
+Довжина загальна (см): 19.9&lt;/br&gt;&lt;br /&gt;
+Довжина робоча (см): 9.5&lt;/br&gt;&lt;br /&gt;
+Діаметр (см): 3.1&lt;/br&gt;&lt;br /&gt;
+Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
+Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
+Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
+Керування з додатку: Ні&lt;/br&gt;&lt;br /&gt;
+Водонепроникність: Ні&lt;/br&gt;</description_ua>
             </offer>
         <offer id="BI-026258" available="true">
                 <erp>BI-026258</erp>
@@ -44281,6 +44395,49 @@ OLO – це нове покоління надтонких презервати
 Смак: Вишня&lt;/br&gt;&lt;br /&gt;
 Запах: Вишня&lt;/br&gt;&lt;br /&gt;
 Додаткові ефекти: Без ефектів&lt;/br&gt;</description_ua>
+            </offer>
+        <offer id="26-00209" available="true">
+                <erp>26-00209</erp>
+            <barcode>5906233082682</barcode>
+            <quantity_in_stock>3</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35740-masturbator_vagina_masturbation_cup___stealth_pleasure</url>
+            <price>286.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>52</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_357366974c9bfd5f5d.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6974c9ba88b06.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6974c9ba9442b.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6974c9ba9dc70.jpg</picture>
+            <name>Мастурбатор вагіна Masturbation cup - Stealth Pleasure</name>
+            <Отображать>Да</Отображать>
+            <stock>3</stock>
+            <vendor>BOSS SERIES</vendor>
+            <model>Мастурбатор вагіна Masturbation cup - Stealth Pleasure</model>
+            <description>Чашка для мастурбації – Stealth Pleasure&lt;br /&gt;
+пропонує виняткові відчуття у стильній та непомітній упаковці.&lt;br /&gt;
+Розроблена для інтенсивної стимуляції та максимального комфорту,&lt;br /&gt;
+вона має реалістичну внутрішню текстуру, яка реагує на кожен рух.&lt;br /&gt;
+Гнучкий, високоякісний матеріал адаптується до тіла,&lt;br /&gt;
+створюючи відчуття справжньої близькості.&lt;br /&gt;
+Виготовлена з безпечного для шкіри силікону та м’якого TPE,&lt;br /&gt;
+вона гарантує довговічність та винятково приємні відчуття.&lt;br /&gt;
+Насолоджуйтесь глибокими відчуттями – коли завгодно та як завгодно.&lt;br /&gt;
+Розміри:&lt;br /&gt;
+Довжина: 16 см&lt;br /&gt;
+Діаметр: 7 см</description>
+            <name_ua>Мастурбатор вагіна Masturbation cup - Stealth Pleasure</name_ua>
+            <description_ua>Чашка для мастурбації – Stealth Pleasure&lt;br /&gt;
+пропонує виняткові відчуття у стильній та непомітній упаковці.&lt;br /&gt;
+Розроблена для інтенсивної стимуляції та максимального комфорту,&lt;br /&gt;
+вона має реалістичну внутрішню текстуру, яка реагує на кожен рух.&lt;br /&gt;
+Гнучкий, високоякісний матеріал адаптується до тіла,&lt;br /&gt;
+створюючи відчуття справжньої близькості.&lt;br /&gt;
+Виготовлена з безпечного для шкіри силікону та м’якого TPE,&lt;br /&gt;
+вона гарантує довговічність та винятково приємні відчуття.&lt;br /&gt;
+Насолоджуйтесь глибокими відчуттями – коли завгодно та як завгодно.&lt;br /&gt;
+Розміри:&lt;br /&gt;
+Довжина: 16 см&lt;br /&gt;
+Діаметр: 7 см</description_ua>
             </offer>
         <offer id="BI-300147" available="true">
                 <erp>BI-300147</erp>
@@ -50154,30 +50311,6 @@ pjur WOMAN Vegan має товарний знак Vegan Society. Ця печат
 Водонепроникність: Ні&lt;/br&gt;&lt;br /&gt;
 Живлення: Акумулятор&lt;/br&gt;</description_ua>
             </offer>
-        <offer id="BW-008104ZR" available="true">
-                <erp>BW-008104ZR</erp>
-            <barcode>6959532327106</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/30998-faloimitator_z_moshonkoyu_ta__vibro_baile_beautiful_bahamut_94</url>
-            <price>862.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>132</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3099565f53e9c29b2a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e95d7693.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e95e7e34.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e96034dd.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e9612cc2.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e96223d6.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_65f53e9632347.gif</picture>
-            <name>Фалоімітатор з мошонкою та  вібро BAILE-Beautiful Bahamut 9.4</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Фалоімітатор з мошонкою та  вібро BAILE-Beautiful Bahamut 9.4</model>
-            <description>Фалоімітатор з мошонкою та  вібро BAILE-Beautiful Bahamut 9.4</description>
-            <name_ua>Фалоімітатор з мошонкою та  вібро BAILE-Beautiful Bahamut 9.4</name_ua>
-            <description_ua>Фалоімітатор з мошонкою та  вібро BAILE-Beautiful Bahamut 9.4</description_ua>
-            </offer>
         <offer id="110-00002" available="true">
                 <erp>110-00002</erp>
             <barcode>5903661809317</barcode>
@@ -51123,72 +51256,6 @@ USB перезаряджається&lt;br /&gt;
 Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
 Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
 Живлення: Акумулятор&lt;/br&gt;</description_ua>
-            </offer>
-        <offer id="BI-014927-A2" available="true">
-                <erp>BI-014927-A2</erp>
-            <barcode>6959532360523</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/31562-vibrator_pretty_love_butterfly_kiss_purple</url>
-            <price>723.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>27</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3155966edae818352c.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edae7f19aea.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edae7f4bc7f.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edae7f6e636.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edae7f94c5e.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edae7fbb600.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edae7feb389.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edae801b955.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edae803c026.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edae805f294.jpeg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_66edae80818be.gif</picture>
-            <name>Вібратор Pretty Love Butterfly Kiss, темно-фіолетовий</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Вібратор Pretty Love Butterfly Kiss, темно-фіолетовий</model>
-            <description>Вібратор темно-фіолетового кольору з подвійною стимуляцією забезпечує одночасний вплив на &lt;b&gt;вагінальну зону та кліторальну область&lt;/b&gt;. Основний стрижень з вигнутою анатомічною формою та гладенькою текстурою призначений для точкового впливу на еротичні зони, а додатковий відросток у вигляді метелика щільно контактує з чутливими ділянками.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Пристрій оснащений &lt;b&gt;двома незалежними моторами та 30 різними програмами вібрації&lt;/b&gt;, що дозволяє підібрати оптимальний режим інтенсивності. Зручне розташування кнопок керування на основі забезпечує легкий доступ під час використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Модель працює від двох батарейок формату ААА та підходить для використання з лубрикантами на водній основі. Після застосування рекомендується очищення спеціальними засобами для інтимних іграшок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон, Пластик&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 19.9&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 9.5&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.1&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
-Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
-Керування з додатку: Ні&lt;/br&gt;&lt;br /&gt;
-Водонепроникність: Ні&lt;/br&gt;</description>
-            <name_ua>Вібратор Pretty Love Butterfly Kiss, темно-фіолетовий</name_ua>
-            <description_ua>Вібратор темно-фіолетового кольору з подвійною стимуляцією забезпечує одночасний вплив на &lt;b&gt;вагінальну зону та кліторальну область&lt;/b&gt;. Основний стрижень з вигнутою анатомічною формою та гладенькою текстурою призначений для точкового впливу на еротичні зони, а додатковий відросток у вигляді метелика щільно контактує з чутливими ділянками.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Пристрій оснащений &lt;b&gt;двома незалежними моторами та 30 різними програмами вібрації&lt;/b&gt;, що дозволяє підібрати оптимальний режим інтенсивності. Зручне розташування кнопок керування на основі забезпечує легкий доступ під час використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Модель працює від двох батарейок формату ААА та підходить для використання з лубрикантами на водній основі. Після застосування рекомендується очищення спеціальними засобами для інтимних іграшок.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Pretty Love&lt;/br&gt;&lt;br /&gt;
-Виробник: Baile&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон, Пластик&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 19.9&lt;/br&gt;&lt;br /&gt;
-Довжина робоча (см): 9.5&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 3.1&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Так&lt;/br&gt;&lt;br /&gt;
-Живлення: Батарейки ААА (2 шт.)&lt;/br&gt;&lt;br /&gt;
-Наявність присоски: Ні&lt;/br&gt;&lt;br /&gt;
-Керування з додатку: Ні&lt;/br&gt;&lt;br /&gt;
-Водонепроникність: Ні&lt;/br&gt;</description_ua>
             </offer>
         <offer id="BI-300076HP" available="true">
                 <erp>BI-300076HP</erp>
@@ -53177,49 +53244,6 @@ USB-акумулятор&lt;br /&gt;
 Крім того, кільце біля основи огортає яєчка, утримуючи рукав на місці та підтримуючи довшу та сильнішу ерекцію.&lt;br /&gt;
 Ідеально підходить для тих, хто хоче більше відчувати, більше дарувати та більше переживати.</description_ua>
             </offer>
-        <offer id="26-00209" available="true">
-                <erp>26-00209</erp>
-            <barcode>5906233082682</barcode>
-            <quantity_in_stock>4</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/35740-masturbator_vagina_masturbation_cup___stealth_pleasure</url>
-            <price>286.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>52</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_357366974c9bfd5f5d.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974c9ba88b06.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974c9ba9442b.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6974c9ba9dc70.jpg</picture>
-            <name>Мастурбатор вагіна Masturbation cup - Stealth Pleasure</name>
-            <Отображать>Да</Отображать>
-            <stock>4</stock>
-            <vendor>BOSS SERIES</vendor>
-            <model>Мастурбатор вагіна Masturbation cup - Stealth Pleasure</model>
-            <description>Чашка для мастурбації – Stealth Pleasure&lt;br /&gt;
-пропонує виняткові відчуття у стильній та непомітній упаковці.&lt;br /&gt;
-Розроблена для інтенсивної стимуляції та максимального комфорту,&lt;br /&gt;
-вона має реалістичну внутрішню текстуру, яка реагує на кожен рух.&lt;br /&gt;
-Гнучкий, високоякісний матеріал адаптується до тіла,&lt;br /&gt;
-створюючи відчуття справжньої близькості.&lt;br /&gt;
-Виготовлена з безпечного для шкіри силікону та м’якого TPE,&lt;br /&gt;
-вона гарантує довговічність та винятково приємні відчуття.&lt;br /&gt;
-Насолоджуйтесь глибокими відчуттями – коли завгодно та як завгодно.&lt;br /&gt;
-Розміри:&lt;br /&gt;
-Довжина: 16 см&lt;br /&gt;
-Діаметр: 7 см</description>
-            <name_ua>Мастурбатор вагіна Masturbation cup - Stealth Pleasure</name_ua>
-            <description_ua>Чашка для мастурбації – Stealth Pleasure&lt;br /&gt;
-пропонує виняткові відчуття у стильній та непомітній упаковці.&lt;br /&gt;
-Розроблена для інтенсивної стимуляції та максимального комфорту,&lt;br /&gt;
-вона має реалістичну внутрішню текстуру, яка реагує на кожен рух.&lt;br /&gt;
-Гнучкий, високоякісний матеріал адаптується до тіла,&lt;br /&gt;
-створюючи відчуття справжньої близькості.&lt;br /&gt;
-Виготовлена з безпечного для шкіри силікону та м’якого TPE,&lt;br /&gt;
-вона гарантує довговічність та винятково приємні відчуття.&lt;br /&gt;
-Насолоджуйтесь глибокими відчуттями – коли завгодно та як завгодно.&lt;br /&gt;
-Розміри:&lt;br /&gt;
-Довжина: 16 см&lt;br /&gt;
-Діаметр: 7 см</description_ua>
-            </offer>
         <offer id="20-DS003 CAP BLUE" available="true">
                 <erp>20-DS003 CAP BLUE</erp>
             <barcode />
@@ -55102,56 +55126,6 @@ H2O UNI Gel - це універсальний і надійний лубрика
             <description>Cексуальний чорний бісерний комір із ланцюжком. Намисто еластичне, до нього прикріплений ланцюжок бікіні, який можна прикріпити ззаду за допомогою невеликого затиску. Спереду прикріплений невеликий пучок з бахромою</description>
             <name_ua>Бондажний набір Cottelli ACCESSOIRES Halsband Kette S-L-Pasek, чорний</name_ua>
             <description_ua>Cексуальний чорний бісерний комір із ланцюжком. Намисто еластичне, до нього прикріплений ланцюжок бікіні, який можна прикріпити ззаду за допомогою невеликого затиску. Спереду прикріплений невеликий пучок з бахромою</description_ua>
-            </offer>
-        <offer id="42-05073340000" available="true">
-                <erp>42-05073340000</erp>
-            <barcode>4024144510160</barcode>
-            <quantity_in_stock>5</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/7695-manzhet_na_pompu_universal_sleeve_sil_vibrator</url>
-            <price>593.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>71</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-05073340000.jpg</picture>
-            <name>Манжет на помпу You2Toys Universal Sleeve</name>
-            <Отображать>Да</Отображать>
-            <stock>5</stock>
-            <vendor>ORION</vendor>
-            <model>Манжет на помпу You2Toys Universal Sleeve</model>
-            <description>Манжет You2Toys Universal Sleeve створений для &lt;b&gt;заміни або доповнення насадки на вакуумну помпу&lt;/b&gt;. Виготовлений з гіпоалергенного силікону, забезпечує надійне прилягання та ефективну герметизацію під час використання помпи.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Еластичний матеріал дозволяє насадці &lt;b&gt;розтягуватися від 2,5 до 7 см в діаметрі&lt;/b&gt;, забезпечуючи комфортну посадку та стимуляцію. Гладенька текстура силікону приємна на дотик та легко очищується після використання. Манжет не потребує додatkового живлення та працює виключно за рахунок створеного вакууму.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Підходить для регулярного використання з вакуумними помпами. Сумісний лише з лубрикантами на водній основі, легко миється водою з спеціальними засобами для догляду.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: You2Toys&lt;/br&gt;&lt;br /&gt;
-Виробник: Orion&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
-Тип помпи: Аксесуари для помпи&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 7&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 2.5&lt;/br&gt;&lt;br /&gt;
-Живлення: Не потребує&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Ні&lt;/br&gt;</description>
-            <name_ua>Манжет на помпу You2Toys Universal Sleeve</name_ua>
-            <description_ua>Манжет You2Toys Universal Sleeve створений для &lt;b&gt;заміни або доповнення насадки на вакуумну помпу&lt;/b&gt;. Виготовлений з гіпоалергенного силікону, забезпечує надійне прилягання та ефективну герметизацію під час використання помпи.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Еластичний матеріал дозволяє насадці &lt;b&gt;розтягуватися від 2,5 до 7 см в діаметрі&lt;/b&gt;, забезпечуючи комфортну посадку та стимуляцію. Гладенька текстура силікону приємна на дотик та легко очищується після використання. Манжет не потребує додatkового живлення та працює виключно за рахунок створеного вакууму.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Підходить для регулярного використання з вакуумними помпами. Сумісний лише з лубрикантами на водній основі, легко миється водою з спеціальними засобами для догляду.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: You2Toys&lt;/br&gt;&lt;br /&gt;
-Виробник: Orion&lt;/br&gt;&lt;br /&gt;
-Матеріал: Силікон&lt;/br&gt;&lt;br /&gt;
-Текстура: Гладенька&lt;/br&gt;&lt;br /&gt;
-Тип помпи: Аксесуари для помпи&lt;/br&gt;&lt;br /&gt;
-Діаметр (см): 7&lt;/br&gt;&lt;br /&gt;
-Довжина загальна (см): 2.5&lt;/br&gt;&lt;br /&gt;
-Живлення: Не потребує&lt;/br&gt;&lt;br /&gt;
-Наявність вібрації: Ні&lt;/br&gt;</description_ua>
             </offer>
         <offer id="BI-014173-1" available="true">
                 <erp>BI-014173-1</erp>
@@ -61116,6 +61090,67 @@ Pretty Love Novak — ідеальне поєднання потужності, 
 Додаткові ефекти: Без ефектів&lt;br /&gt;
 К-сть штук в упаковці (шт.): 1</description_ua>
             </offer>
+        <offer id="BI-210364" available="true">
+                <erp>BI-210364</erp>
+            <barcode>6959532337587</barcode>
+            <quantity_in_stock>5</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35635-supermyake_silikonove_erektsiyne_kilytse_radwan__crazy_bull_vodostiyke</url>
+            <price>323.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>37</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_3563169273519847fb.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69273513e09b8.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6927351406d49.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_692735141e25c.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69273514301e2.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6927351441b0a.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6927351481cf9.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_69273514966fd.jpg</picture>
+            <name>Ерекційне кільце Crazy Bull Super Soft Silicone Radwan, чорне</name>
+            <Отображать>Да</Отображать>
+            <stock>5</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Ерекційне кільце Crazy Bull Super Soft Silicone Radwan, чорне</model>
+            <description>Подвійне ерекційне кільце Crazy Bull Radwan з м'якого силікону забезпечує &lt;b&gt;надійну фіксацію пеніса та мошонки&lt;/b&gt; для підтримки стабільної ерекції. Завдяки еластичному матеріалу створює комфортний тиск, який допомагає продовжити інтимну близькість.&lt;br /&gt;
+&lt;br /&gt;
+Виріб має &lt;b&gt;внутрішній діаметр 2,1 см&lt;/b&gt; для оптимального обхвату та загальну довжину 10 см. Гладенька текстура силікону приємна на дотик, а &lt;b&gt;водонепроникна конструкція&lt;/b&gt; дозволяє легко доглядати за аксесуаром після використання.&lt;br /&gt;
+&lt;br /&gt;
+Кільце не потребує додatkового живлення, сумісне з лубрикантами на водній основі. Підходить для пар, які прагнуть урізноманітнити інтимне життя та отримати нові відчуття.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Crazy Bull&lt;br /&gt;
+Виробник: Baile&lt;br /&gt;
+Живлення: Не потребує&lt;br /&gt;
+Матеріал: Силікон&lt;br /&gt;
+Текстура: Гладенька&lt;br /&gt;
+Діаметр (см): 2.1&lt;br /&gt;
+Водонепроникність: Так&lt;br /&gt;
+Наявність вібрації: Ні&lt;br /&gt;
+Керування з додатку: Ні&lt;br /&gt;
+Довжина загальна (см): 10&lt;br /&gt;
+К-сть штук в упаковці (шт.): 1</description>
+            <name_ua>Ерекційне кільце Crazy Bull Super Soft Silicone Radwan, чорне</name_ua>
+            <description_ua>Подвійне ерекційне кільце Crazy Bull Radwan з м'якого силікону забезпечує &lt;b&gt;надійну фіксацію пеніса та мошонки&lt;/b&gt; для підтримки стабільної ерекції. Завдяки еластичному матеріалу створює комфортний тиск, який допомагає продовжити інтимну близькість.&lt;br /&gt;
+&lt;br /&gt;
+Виріб має &lt;b&gt;внутрішній діаметр 2,1 см&lt;/b&gt; для оптимального обхвату та загальну довжину 10 см. Гладенька текстура силікону приємна на дотик, а &lt;b&gt;водонепроникна конструкція&lt;/b&gt; дозволяє легко доглядати за аксесуаром після використання.&lt;br /&gt;
+&lt;br /&gt;
+Кільце не потребує додatkового живлення, сумісне з лубрикантами на водній основі. Підходить для пар, які прагнуть урізноманітнити інтимне життя та отримати нові відчуття.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Crazy Bull&lt;br /&gt;
+Виробник: Baile&lt;br /&gt;
+Живлення: Не потребує&lt;br /&gt;
+Матеріал: Силікон&lt;br /&gt;
+Текстура: Гладенька&lt;br /&gt;
+Діаметр (см): 2.1&lt;br /&gt;
+Водонепроникність: Так&lt;br /&gt;
+Наявність вібрації: Ні&lt;br /&gt;
+Керування з додатку: Ні&lt;br /&gt;
+Довжина загальна (см): 10&lt;br /&gt;
+К-сть штук в упаковці (шт.): 1</description_ua>
+            </offer>
         <offer id="BW-022100HP" available="true">
                 <erp>BW-022100HP</erp>
             <barcode>6959532361247</barcode>
@@ -65471,67 +65506,6 @@ LEVELZ Triple Ring — це ерекційне кільце з трьома вз
 Розмір: 14 × 9 × 11 см&lt;br /&gt;
 Вага: 0,38 кг</description_ua>
             </offer>
-        <offer id="BI-210364" available="true">
-                <erp>BI-210364</erp>
-            <barcode>6959532337587</barcode>
-            <quantity_in_stock>6</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/35635-supermyake_silikonove_erektsiyne_kilytse_radwan__crazy_bull_vodostiyke</url>
-            <price>323.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>37</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3563169273519847fb.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69273513e09b8.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6927351406d49.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_692735141e25c.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69273514301e2.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6927351441b0a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6927351481cf9.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_69273514966fd.jpg</picture>
-            <name>Ерекційне кільце Crazy Bull Super Soft Silicone Radwan, чорне</name>
-            <Отображать>Да</Отображать>
-            <stock>6</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Ерекційне кільце Crazy Bull Super Soft Silicone Radwan, чорне</model>
-            <description>Подвійне ерекційне кільце Crazy Bull Radwan з м'якого силікону забезпечує &lt;b&gt;надійну фіксацію пеніса та мошонки&lt;/b&gt; для підтримки стабільної ерекції. Завдяки еластичному матеріалу створює комфортний тиск, який допомагає продовжити інтимну близькість.&lt;br /&gt;
-&lt;br /&gt;
-Виріб має &lt;b&gt;внутрішній діаметр 2,1 см&lt;/b&gt; для оптимального обхвату та загальну довжину 10 см. Гладенька текстура силікону приємна на дотик, а &lt;b&gt;водонепроникна конструкція&lt;/b&gt; дозволяє легко доглядати за аксесуаром після використання.&lt;br /&gt;
-&lt;br /&gt;
-Кільце не потребує додatkового живлення, сумісне з лубрикантами на водній основі. Підходить для пар, які прагнуть урізноманітнити інтимне життя та отримати нові відчуття.&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Crazy Bull&lt;br /&gt;
-Виробник: Baile&lt;br /&gt;
-Живлення: Не потребує&lt;br /&gt;
-Матеріал: Силікон&lt;br /&gt;
-Текстура: Гладенька&lt;br /&gt;
-Діаметр (см): 2.1&lt;br /&gt;
-Водонепроникність: Так&lt;br /&gt;
-Наявність вібрації: Ні&lt;br /&gt;
-Керування з додатку: Ні&lt;br /&gt;
-Довжина загальна (см): 10&lt;br /&gt;
-К-сть штук в упаковці (шт.): 1</description>
-            <name_ua>Ерекційне кільце Crazy Bull Super Soft Silicone Radwan, чорне</name_ua>
-            <description_ua>Подвійне ерекційне кільце Crazy Bull Radwan з м'якого силікону забезпечує &lt;b&gt;надійну фіксацію пеніса та мошонки&lt;/b&gt; для підтримки стабільної ерекції. Завдяки еластичному матеріалу створює комфортний тиск, який допомагає продовжити інтимну близькість.&lt;br /&gt;
-&lt;br /&gt;
-Виріб має &lt;b&gt;внутрішній діаметр 2,1 см&lt;/b&gt; для оптимального обхвату та загальну довжину 10 см. Гладенька текстура силікону приємна на дотик, а &lt;b&gt;водонепроникна конструкція&lt;/b&gt; дозволяє легко доглядати за аксесуаром після використання.&lt;br /&gt;
-&lt;br /&gt;
-Кільце не потребує додatkового живлення, сумісне з лубрикантами на водній основі. Підходить для пар, які прагнуть урізноманітнити інтимне життя та отримати нові відчуття.&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Crazy Bull&lt;br /&gt;
-Виробник: Baile&lt;br /&gt;
-Живлення: Не потребує&lt;br /&gt;
-Матеріал: Силікон&lt;br /&gt;
-Текстура: Гладенька&lt;br /&gt;
-Діаметр (см): 2.1&lt;br /&gt;
-Водонепроникність: Так&lt;br /&gt;
-Наявність вібрації: Ні&lt;br /&gt;
-Керування з додатку: Ні&lt;br /&gt;
-Довжина загальна (см): 10&lt;br /&gt;
-К-сть штук в упаковці (шт.): 1</description_ua>
-            </offer>
         <offer id="BI-300093W" available="true">
                 <erp>BI-300093W</erp>
             <barcode>6959532361803</barcode>
@@ -67718,6 +67692,27 @@ AQUAglide Raspberry - це ідеальний вибір для тих, хто �
             <description>Ексклюзивні анальні прикраси з нержавіючої сталі. Високоякісна нержавіюча сталь гарантує безпеку вашого тіла. Пробка ідеально гладка, позбавлена гострих країв, не подразнює шкіру.Ідеально підходить для новачків і досвідчених любителів анальних ігор. Виготовлений з металу дає нам можливість охолодити або зігріти його, щоб покращити враження. Красива троянда, прикріплена біля основи, робить її елегантною та чуттєвою. Пробка ідеально профільована, особлива анатомічна форма полегшує нанесення. Цибулинна форма чудово стимулює. Вузька шия з трояндовою основою, з іншого боку, дозволить м’язам обгорнути і утримувати пробку на місці, запобігаючи поглинанню. Стильна упаковка у вигляді замшевого футляра. Загальна довжина 7 см, діаметр 2,7 см</description>
             <name_ua>Анальна металева пробка Plug-Jewellery Gold PLUG ROSE- Red</name_ua>
             <description_ua>Ексклюзивні анальні прикраси з нержавіючої сталі. Високоякісна нержавіюча сталь гарантує безпеку вашого тіла. Пробка ідеально гладка, позбавлена гострих країв, не подразнює шкіру.Ідеально підходить для новачків і досвідчених любителів анальних ігор. Виготовлений з металу дає нам можливість охолодити або зігріти його, щоб покращити враження. Красива троянда, прикріплена біля основи, робить її елегантною та чуттєвою. Пробка ідеально профільована, особлива анатомічна форма полегшує нанесення. Цибулинна форма чудово стимулює. Вузька шия з трояндовою основою, з іншого боку, дозволить м’язам обгорнути і утримувати пробку на місці, запобігаючи поглинанню. Стильна упаковка у вигляді замшевого футляра. Загальна довжина 7 см, діаметр 2,7 см</description_ua>
+            </offer>
+        <offer id="90-800065" available="true">
+                <erp>90-800065</erp>
+            <barcode>347922800065</barcode>
+            <quantity_in_stock>7</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/29703-lubrikant__lubrix_50_ml</url>
+            <price>325.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>46</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_2970362ee968532a3a.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee9682f30bd.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee968321782.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee96832d53b.jpg</picture>
+            <name>Лубрикант Lubrix на водній основі, 50 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>7</stock>
+            <vendor />
+            <model>Лубрикант Lubrix на водній основі, 50 мл</model>
+            <description>Lubrix-високоякісний гель-лубрикант для жінок на водно-гліцериновій основі, створений за спец. Забезпечує тривале легке ковзання під час статевого акту. . Попередньо дзвоніть і живіть, підходячи до будь-якого типу шкіри. Не відчуває втрати здатності, не залишає плям на одязі та післяпосередньому білізні, не містить парабенів. Не зачіпайте первісне і окреме, можна використовувати для анального сексу. Сумісний із різноманітними секс-іграшками та презервативами, легко змішується водою. Об'єм 50 мл.</description>
+            <name_ua>Лубрикант Lubrix на водній основі, 50 мл</name_ua>
+            <description_ua>Lubrix-високоякісний гель-лубрикант для жінок на водно-гліцериновій основі, створений за спец. Забезпечує тривале легке ковзання під час статевого акту. . Попередньо дзвоніть і живіть, підходячи до будь-якого типу шкіри. Не відчуває втрати здатності, не залишає плям на одязі та післяпосередньому білізні, не містить парабенів. Не зачіпайте первісне і окреме, можна використовувати для анального сексу. Сумісний із різноманітними секс-іграшками та презервативами, легко змішується водою. Об'єм 50 мл.</description_ua>
             </offer>
         <offer id="66-LV1003" available="true">
                 <erp>66-LV1003</erp>
@@ -72716,27 +72711,6 @@ AbsolutSex Super Penis - це ефективний крем для стимул�
 Підвищена довговічність завдяки одночасному ефекту нагрубання пеніса та яєчок.&lt;br /&gt;
 Іеально підходить для пар .</description_ua>
             </offer>
-        <offer id="90-800065" available="true">
-                <erp>90-800065</erp>
-            <barcode>347922800065</barcode>
-            <quantity_in_stock>9</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29703-lubrikant__lubrix_50_ml</url>
-            <price>325.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_2970362ee968532a3a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee9682f30bd.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee968321782.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee96832d53b.jpg</picture>
-            <name>Лубрикант Lubrix на водній основі, 50 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>9</stock>
-            <vendor />
-            <model>Лубрикант Lubrix на водній основі, 50 мл</model>
-            <description>Lubrix-високоякісний гель-лубрикант для жінок на водно-гліцериновій основі, створений за спец. Забезпечує тривале легке ковзання під час статевого акту. . Попередньо дзвоніть і живіть, підходячи до будь-якого типу шкіри. Не відчуває втрати здатності, не залишає плям на одязі та післяпосередньому білізні, не містить парабенів. Не зачіпайте первісне і окреме, можна використовувати для анального сексу. Сумісний із різноманітними секс-іграшками та презервативами, легко змішується водою. Об'єм 50 мл.</description>
-            <name_ua>Лубрикант Lubrix на водній основі, 50 мл</name_ua>
-            <description_ua>Lubrix-високоякісний гель-лубрикант для жінок на водно-гліцериновій основі, створений за спец. Забезпечує тривале легке ковзання під час статевого акту. . Попередньо дзвоніть і живіть, підходячи до будь-якого типу шкіри. Не відчуває втрати здатності, не залишає плям на одязі та післяпосередньому білізні, не містить парабенів. Не зачіпайте первісне і окреме, можна використовувати для анального сексу. Сумісний із різноманітними секс-іграшками та презервативами, легко змішується водою. Об'єм 50 мл.</description_ua>
-            </offer>
         <offer id="37-3655" available="true">
                 <erp>37-3655</erp>
             <barcode>8435097836553</barcode>
@@ -76048,6 +76022,34 @@ MyLove Aroma Series Intim&amp;Massage 2in1 Caramel — універсальни�
             <name_ua>Анальний ланцюжокJelly Anal 10 Beads Purple</name_ua>
             <description_ua>Анальний ланцюжокJelly Anal 10 Beads Purple</description_ua>
             </offer>
+        <offer id="BW-001001R" available="true">
+                <erp>BW-001001R</erp>
+            <barcode>6959532325980</barcode>
+            <quantity_in_stock>11</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/28701-baile_clark_vibrating_soft_skin_195_cm</url>
+            <price>289.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>143</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_287016312ee7a39ea5.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6312ee78f2745.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6312ee7911b3b.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6312ee7921ed9.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6312ee793109a.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6312ee7940c6b.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6312ee795121b.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6312ee795e4a7.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6312ee796b779.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6312ee7977065.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6312ee7982d52.jpg</picture>
+            <name>Вібратор Baile Barbara Clark Realistic Multi-Speed Vibrator 19.5 см, тілесний</name>
+            <Отображать>Да</Отображать>
+            <stock>11</stock>
+            <vendor>PRETTY LOVE/BAILE</vendor>
+            <model>Вібратор Barbara Clark Realistic Multi-Speed Vibrator 7,6</model>
+            <description>Реалістичний вібратор створений, щоб забезпечити незабутній реалістичний досвід. Тілесний колір виробу та його натуралістична анатомічна форма закрутять голову будь-якій представниці прекрасної статі. Інтимна іграшка точно повторює анатомічну будову чоловічого члена, має яскраво виражену голівку, рельєф і вени. Живлення від 2*АА , довжина 19,5, діаметр 3,8 см</description>
+            <name_ua>Вібратор Baile Barbara Clark Realistic Multi-Speed Vibrator 19.5 см, тілесний</name_ua>
+            <description_ua>Реалістичний вібратор створений, щоб забезпечити незабутній реалістичний досвід. Тілесний колір виробу та його натуралістична анатомічна форма закрутять голову будь-якій представниці прекрасної статі. Інтимна іграшка точно повторює анатомічну будову чоловічого члена, має яскраво виражену голівку, рельєф і вени. Живлення від 2*АА , довжина 19,5, діаметр 3,8 см</description_ua>
+            </offer>
         <offer id="64-00083" available="true">
                 <erp>64-00083</erp>
             <barcode>5903661801007</barcode>
@@ -76677,33 +76679,59 @@ MyLove Aroma Series Intim&amp;Massage 2in1 Caramel — універсальни�
 Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
 Їстівне: Ні&lt;/br&gt;</description_ua>
             </offer>
-        <offer id="BW-001001R" available="true">
-                <erp>BW-001001R</erp>
-            <barcode>6959532325980</barcode>
+        <offer id="42-06257010000" available="true">
+                <erp>42-06257010000</erp>
+            <barcode>4024144642595</barcode>
             <quantity_in_stock>12</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/28701-baile_clark_vibrating_soft_skin_195_cm</url>
-            <price>289.00</price>
+            <url>http://blissclub.com.ua/product/28997-analyniy_lubrikant_ust_glide_premium_anal_200_ml</url>
+            <price>738.00</price>
             <currencyId>UAH</currencyId>
-            <categoryId>143</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_287016312ee7a39ea5.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6312ee78f2745.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6312ee7911b3b.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6312ee7921ed9.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6312ee793109a.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6312ee7940c6b.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6312ee795121b.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6312ee795e4a7.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6312ee796b779.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6312ee7977065.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_6312ee7982d52.jpg</picture>
-            <name>Вібратор Baile Barbara Clark Realistic Multi-Speed Vibrator 19.5 см, тілесний</name>
+            <categoryId>159</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/42-06257010000.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68755d7eca362.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_68755d7ed8312.jpg</picture>
+            <name>Лубрикант анальний Just Glide Premium Anal, 200 мл</name>
             <Отображать>Да</Отображать>
             <stock>12</stock>
-            <vendor>PRETTY LOVE/BAILE</vendor>
-            <model>Вібратор Barbara Clark Realistic Multi-Speed Vibrator 7,6</model>
-            <description>Реалістичний вібратор створений, щоб забезпечити незабутній реалістичний досвід. Тілесний колір виробу та його натуралістична анатомічна форма закрутять голову будь-якій представниці прекрасної статі. Інтимна іграшка точно повторює анатомічну будову чоловічого члена, має яскраво виражену голівку, рельєф і вени. Живлення від 2*АА , довжина 19,5, діаметр 3,8 см</description>
-            <name_ua>Вібратор Baile Barbara Clark Realistic Multi-Speed Vibrator 19.5 см, тілесний</name_ua>
-            <description_ua>Реалістичний вібратор створений, щоб забезпечити незабутній реалістичний досвід. Тілесний колір виробу та його натуралістична анатомічна форма закрутять голову будь-якій представниці прекрасної статі. Інтимна іграшка точно повторює анатомічну будову чоловічого члена, має яскраво виражену голівку, рельєф і вени. Живлення від 2*АА , довжина 19,5, діаметр 3,8 см</description_ua>
+            <vendor>ORION</vendor>
+            <model>Лубрикант анальний Just Glide Premium Anal, 200 мл</model>
+            <description>Анальний лубрикант Just Glide Premium Anal об'ємом 200 мл забезпечує &lt;b&gt;тривале зволоження та комфорт&lt;/b&gt; під час інтимної близькості. Силіконова основа створює стійке покриття, що не висихає протягом тривалого часу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Формула збагачена &lt;b&gt;гіалуроновою кислотою та пантенолом&lt;/b&gt;, які сприяють регенерації шкіри та забезпечують додатковий догляд. Веганський склад не містить штучних ароматизаторів і смакових добавок, залишаючись нейтральним для чутливої шкіри.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Зручний тюбик дозволяє легко дозувати необхідну кількість засобу. Підходить для тих, хто цінує якісні продукти з доглядаючими компонентами у складі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Just Glide&lt;/br&gt;&lt;br /&gt;
+Виробник: Just Glide&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 200&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Силіконова&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: З пантенолом, З гіалуроновою кислотою, Без ефектів&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;</description>
+            <param name="Країна">Німеччина</param>
+            <param name="Місткість (мл)">200</param>
+            <param name="Марка/Лінія">Orion/Just Glide</param>
+            <param name="Основа">Силіконова</param>
+            <param name="Запах">Без запаха</param>
+            <param name="Їстівний">Ні</param>
+            <name_ua>Лубрикант анальний Just Glide Premium Anal, 200 мл</name_ua>
+            <description_ua>Анальний лубрикант Just Glide Premium Anal об'ємом 200 мл забезпечує &lt;b&gt;тривале зволоження та комфорт&lt;/b&gt; під час інтимної близькості. Силіконова основа створює стійке покриття, що не висихає протягом тривалого часу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Формула збагачена &lt;b&gt;гіалуроновою кислотою та пантенолом&lt;/b&gt;, які сприяють регенерації шкіри та забезпечують додатковий догляд. Веганський склад не містить штучних ароматизаторів і смакових добавок, залишаючись нейтральним для чутливої шкіри.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Зручний тюбик дозволяє легко дозувати необхідну кількість засобу. Підходить для тих, хто цінує якісні продукти з доглядаючими компонентами у складі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Just Glide&lt;/br&gt;&lt;br /&gt;
+Виробник: Just Glide&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 200&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Силіконова&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: З пантенолом, З гіалуроновою кислотою, Без ефектів&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;</description_ua>
             </offer>
         <offer id="69-51652" available="true">
                 <erp>69-51652</erp>
@@ -77123,6 +77151,24 @@ MyLove Aroma Series Intim&amp;Massage 2in1 Caramel — універсальни�
 &lt;br /&gt;
 Ніжна текстура, фруктовий аромат і приємний смак роблять цей гель чудовим вибором для тих, хто хоче додати у близькість трохи солодких ноток.</description_ua>
             </offer>
+        <offer id="90-023661" available="true">
+                <erp>90-023661</erp>
+            <barcode>3760196023661</barcode>
+            <quantity_in_stock>12</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/35897-popers_rush_original_25ml</url>
+            <price>602.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>128</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_358936a3137eb2d6dc.jpeg</picture>
+            <name>Поперс Rush Original 25ml</name>
+            <Отображать>Да</Отображать>
+            <stock>12</stock>
+            <vendor />
+            <model>Поперс Rush Original 25ml</model>
+            <description>Поперс Rush Original 25ml</description>
+            <name_ua>Поперс Rush Original 25ml</name_ua>
+            <description_ua>Поперс Rush Original 25ml</description_ua>
+            </offer>
         <offer id="19-31183" available="true">
                 <erp>19-31183</erp>
             <barcode>3548968311839</barcode>
@@ -77364,60 +77410,6 @@ MyLove Aroma Series Intim&amp;Massage 2in1 Caramel — універсальни�
 &lt;br /&gt;
 Ємність 50 мл. WrO</description_ua>
             </offer>
-        <offer id="42-06257010000" available="true">
-                <erp>42-06257010000</erp>
-            <barcode>4024144642595</barcode>
-            <quantity_in_stock>13</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/28997-analyniy_lubrikant_ust_glide_premium_anal_200_ml</url>
-            <price>738.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>159</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/42-06257010000.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68755d7eca362.jpg</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_68755d7ed8312.jpg</picture>
-            <name>Лубрикант анальний Just Glide Premium Anal, 200 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>13</stock>
-            <vendor>ORION</vendor>
-            <model>Лубрикант анальний Just Glide Premium Anal, 200 мл</model>
-            <description>Анальний лубрикант Just Glide Premium Anal об'ємом 200 мл забезпечує &lt;b&gt;тривале зволоження та комфорт&lt;/b&gt; під час інтимної близькості. Силіконова основа створює стійке покриття, що не висихає протягом тривалого часу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Формула збагачена &lt;b&gt;гіалуроновою кислотою та пантенолом&lt;/b&gt;, які сприяють регенерації шкіри та забезпечують додатковий догляд. Веганський склад не містить штучних ароматизаторів і смакових добавок, залишаючись нейтральним для чутливої шкіри.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Зручний тюбик дозволяє легко дозувати необхідну кількість засобу. Підходить для тих, хто цінує якісні продукти з доглядаючими компонентами у складі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Just Glide&lt;/br&gt;&lt;br /&gt;
-Виробник: Just Glide&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 200&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Силіконова&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: З пантенолом, З гіалуроновою кислотою, Без ефектів&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;</description>
-            <param name="Країна">Німеччина</param>
-            <param name="Місткість (мл)">200</param>
-            <param name="Марка/Лінія">Orion/Just Glide</param>
-            <param name="Основа">Силіконова</param>
-            <param name="Запах">Без запаха</param>
-            <param name="Їстівний">Ні</param>
-            <name_ua>Лубрикант анальний Just Glide Premium Anal, 200 мл</name_ua>
-            <description_ua>Анальний лубрикант Just Glide Premium Anal об'ємом 200 мл забезпечує &lt;b&gt;тривале зволоження та комфорт&lt;/b&gt; під час інтимної близькості. Силіконова основа створює стійке покриття, що не висихає протягом тривалого часу.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Формула збагачена &lt;b&gt;гіалуроновою кислотою та пантенолом&lt;/b&gt;, які сприяють регенерації шкіри та забезпечують додатковий догляд. Веганський склад не містить штучних ароматизаторів і смакових добавок, залишаючись нейтральним для чутливої шкіри.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Зручний тюбик дозволяє легко дозувати необхідну кількість засобу. Підходить для тих, хто цінує якісні продукти з доглядаючими компонентами у складі.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Just Glide&lt;/br&gt;&lt;br /&gt;
-Виробник: Just Glide&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 200&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Силіконова&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: З пантенолом, З гіалуроновою кислотою, Без ефектів&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;</description_ua>
-            </offer>
         <offer id="90-408155" available="true">
                 <erp>90-408155</erp>
             <barcode>3760196021735</barcode>
@@ -77584,24 +77576,6 @@ MyLove Aroma Series Intim&amp;Massage 2in1 Caramel — універсальни�
 Заряджання через USB – екологічно чисте та зручне заряджання без потреби в батарейках.&lt;br /&gt;
 Ергономічний дизайн – ідеально адаптується до тіла, підвищуючи комфорт та ефективність.&lt;br /&gt;
 Ідеально підходить для окремих осіб та пар, які хочуть досліджувати нові відчуття та посилити свою інтимну близькість. Завдяки компактному розміру та елегантному оздобленню, Kylee ідеально підходить як для самотнього задоволення, так і для спільних моментів.</description_ua>
-            </offer>
-        <offer id="90-023661" available="true">
-                <erp>90-023661</erp>
-            <barcode>3760196023661</barcode>
-            <quantity_in_stock>13</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/35897-popers_rush_original_25ml</url>
-            <price>602.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>128</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_358936a3137eb2d6dc.jpeg</picture>
-            <name>Поперс Rush Original 25ml</name>
-            <Отображать>Да</Отображать>
-            <stock>13</stock>
-            <vendor />
-            <model>Поперс Rush Original 25ml</model>
-            <description>Поперс Rush Original 25ml</description>
-            <name_ua>Поперс Rush Original 25ml</name_ua>
-            <description_ua>Поперс Rush Original 25ml</description_ua>
             </offer>
         <offer id="35-30092" available="true">
                 <erp>35-30092</erp>
@@ -78766,6 +78740,31 @@ MyLove Aroma Series Intim&amp;Massage 2in1 Caramel — універсальни�
 Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
 Запах: Без запаху (нейтральний)&lt;/br&gt;</description_ua>
             </offer>
+        <offer id="26-00189" available="true">
+                <erp>26-00189</erp>
+            <barcode>5903661808020</barcode>
+            <quantity_in_stock>17</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/29700-masturbator_vagina_manga___boss_series</url>
+            <price>293.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>52</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_2970062ee929b356b5.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee9298e58b8.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92991948a.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee9299363ad.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92994f4e8.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee929963d7d.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92997a659.png</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92998f5eb.png</picture>
+            <name>Штучна вагіна Boss Series Manga, тілесна</name>
+            <Отображать>Да</Отображать>
+            <stock>17</stock>
+            <vendor />
+            <model>Штучна вагіна Boss Series Manga, тілесна</model>
+            <description>Штучна вагіна Boss Series Manga, тілесна</description>
+            <name_ua>Штучна вагіна Boss Series Manga, тілесна</name_ua>
+            <description_ua>Штучна вагіна Boss Series Manga, тілесна</description_ua>
+            </offer>
         <offer id="64-00013F" available="true">
                 <erp>64-00013F</erp>
             <barcode>5906233085348</barcode>
@@ -78859,6 +78858,52 @@ MyLove Aroma Series Intim&amp;Massage 2in1 Caramel — універсальни�
             <description>Шипучі серця для ванни, 10 шт. у текстильному мішечку близько 12 г, </description>
             <name_ua>Шипучі серця для ванни, 10 шт</name_ua>
             <description_ua>Шипучі серця для ванни, 10 шт. у текстильному мішечку близько 12 г, </description_ua>
+            </offer>
+        <offer id="90-800066" available="true">
+                <erp>90-800066</erp>
+            <barcode>347922800066</barcode>
+            <quantity_in_stock>19</quantity_in_stock>
+            <url>http://blissclub.com.ua/product/29704-lubrikant__lubrix_100_ml</url>
+            <price>425.00</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>46</categoryId>
+            <picture>https://blissclub.com.ua/images/product_variants/product_2970462ee960b7baa3.jpg</picture>
+            <name>Лубрикант Lubrix, 100 мл</name>
+            <Отображать>Да</Отображать>
+            <stock>19</stock>
+            <vendor />
+            <model>Лубрикант Lubrix, 100 мл</model>
+            <description>Лубрикант Lubrix об'ємом 100 мл створений для усунення дискомфорту та сухості під час інтимної близькості. &lt;b&gt;Водна основа&lt;/b&gt; забезпечує природне відчуття та легке змивання, а нейтральна формула без запаху та смаку гарантує комфортне використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Змазка надає &lt;b&gt;тривале ковзання&lt;/b&gt; та ефективне зволоження, не залишаючи плям на білизні чи постільній білизні. Формула безпечна для здоров'я та &lt;b&gt;сумісна з усіма видами інтимних іграшок&lt;/b&gt;, включаючи силіконові, латексні та інші матеріали.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Зручна упаковка дозволяє легко дозувати необхідну кількість продукту. Лубрикант підходить для регулярного використання та допомагає зробити інтимність більш комфортною та приємною.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Lubrix&lt;/br&gt;&lt;br /&gt;
+Виробник: Concorde&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 100&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: Без ефектів&lt;/br&gt;</description>
+            <name_ua>Лубрикант Lubrix, 100 мл</name_ua>
+            <description_ua>Лубрикант Lubrix об'ємом 100 мл створений для усунення дискомфорту та сухості під час інтимної близькості. &lt;b&gt;Водна основа&lt;/b&gt; забезпечує природне відчуття та легке змивання, а нейтральна формула без запаху та смаку гарантує комфортне використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Змазка надає &lt;b&gt;тривале ковзання&lt;/b&gt; та ефективне зволоження, не залишаючи плям на білизні чи постільній білизні. Формула безпечна для здоров'я та &lt;b&gt;сумісна з усіма видами інтимних іграшок&lt;/b&gt;, включаючи силіконові, латексні та інші матеріали.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Зручна упаковка дозволяє легко дозувати необхідну кількість продукту. Лубрикант підходить для регулярного використання та допомагає зробити інтимність більш комфортною та приємною.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
+&lt;br /&gt;
+Бренд: Lubrix&lt;/br&gt;&lt;br /&gt;
+Виробник: Concorde&lt;/br&gt;&lt;br /&gt;
+Об'єм (мл): 100&lt;/br&gt;&lt;br /&gt;
+Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
+Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
+Додаткові ефекти: Без ефектів&lt;/br&gt;</description_ua>
             </offer>
         <offer id="42-01806960000-25" available="true">
                 <erp>42-01806960000-25</erp>
@@ -79147,52 +79192,6 @@ Just Glide Toylube - це відмінний вибір для тих, хто ш
             <description>&lt;p&gt;Лубрикант на водній основі Just Glide Premium – це високоякісний інтимний гель, створений для максимального комфорту та задоволення під час сексуальних активностей. Компактний об’єм 50 мл робить цей лубрикант ідеальним для подорожей або використання в будь-який зручний момент, забезпечуючи безперервний комфорт і приємні відчуття.&lt;br /&gt;&lt;br /&gt;Основні переваги:&lt;br /&gt;&lt;br /&gt;1. Водна основа: Легко змивається водою, не залишає липких слідів і не викликає подразнень. Сумісний з латексними презервативами та різними секс-іграшками.&lt;br /&gt;2. Преміум якість: Виготовлений з високоякісних інгредієнтів, що забезпечують чудову зволожуючу здатність і тривалий ефект.&lt;br /&gt;3. Гіпоалергенний: Не містить агресивних хімічних речовин, штучних ароматизаторів або барвників, що робить його безпечним для чутливої шкіри.&lt;br /&gt;4. Тривале зволоження: Спеціально розроблена формула забезпечує тривале зволоження, зменшуючи тертя і підвищуючи комфорт під час сексуальних активностей.&lt;br /&gt;5. Компактний об’єм: Об’єм 50 мл дозволяє мати лубрикант завжди під рукою, що робить його зручним для подорожей і використання в будь-який зручний момент.&lt;br /&gt;&lt;br /&gt;Спосіб застосування:&lt;br /&gt;&lt;br /&gt;Нанесіть необхідну кількість лубриканта на інтимні зони або секс-іграшки перед початком інтимних моментів. Розподіліть рівномірно для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;• Уникайте контакту з очима.&lt;br /&gt;• Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;• Зберігайте у недоступному для дітей місці.&lt;br /&gt;• Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;Чому обирають Just Glide Premium:&lt;br /&gt;&lt;br /&gt;Лубрикант на водній основі Just Glide Premium – це чудовий вибір для тих, хто шукає преміальний зволожуючий засіб для інтимних моментів. Його водна основа забезпечує тривале зволоження і комфорт, роблячи кожен момент особливим і захопливим. Компактний об’єм дозволяє мати лубрикант завжди під рукою, забезпечуючи готовність до інтимних моментів у будь-який час.&lt;/p&gt;</description>
             <name_ua>Лубрикант на водній основі Just Glide Premium 50 ml</name_ua>
             <description_ua>&lt;p&gt;Лубрикант на водній основі Just Glide Premium – це високоякісний інтимний гель, створений для максимального комфорту та задоволення під час сексуальних активностей. Компактний об’єм 50 мл робить цей лубрикант ідеальним для подорожей або використання в будь-який зручний момент, забезпечуючи безперервний комфорт і приємні відчуття.&lt;br /&gt;&lt;br /&gt;Основні переваги:&lt;br /&gt;&lt;br /&gt;1. Водна основа: Легко змивається водою, не залишає липких слідів і не викликає подразнень. Сумісний з латексними презервативами та різними секс-іграшками.&lt;br /&gt;2. Преміум якість: Виготовлений з високоякісних інгредієнтів, що забезпечують чудову зволожуючу здатність і тривалий ефект.&lt;br /&gt;3. Гіпоалергенний: Не містить агресивних хімічних речовин, штучних ароматизаторів або барвників, що робить його безпечним для чутливої шкіри.&lt;br /&gt;4. Тривале зволоження: Спеціально розроблена формула забезпечує тривале зволоження, зменшуючи тертя і підвищуючи комфорт під час сексуальних активностей.&lt;br /&gt;5. Компактний об’єм: Об’єм 50 мл дозволяє мати лубрикант завжди під рукою, що робить його зручним для подорожей і використання в будь-який зручний момент.&lt;br /&gt;&lt;br /&gt;Спосіб застосування:&lt;br /&gt;&lt;br /&gt;Нанесіть необхідну кількість лубриканта на інтимні зони або секс-іграшки перед початком інтимних моментів. Розподіліть рівномірно для досягнення максимального комфорту і зменшення тертя.&lt;br /&gt;&lt;br /&gt;Запобіжні заходи:&lt;br /&gt;&lt;br /&gt;• Уникайте контакту з очима.&lt;br /&gt;• Не використовуйте на пошкодженій або подразненій шкірі.&lt;br /&gt;• Зберігайте у недоступному для дітей місці.&lt;br /&gt;• Зберігайте при кімнатній температурі, подалі від прямого сонячного світла.&lt;br /&gt;&lt;br /&gt;Чому обирають Just Glide Premium:&lt;br /&gt;&lt;br /&gt;Лубрикант на водній основі Just Glide Premium – це чудовий вибір для тих, хто шукає преміальний зволожуючий засіб для інтимних моментів. Його водна основа забезпечує тривале зволоження і комфорт, роблячи кожен момент особливим і захопливим. Компактний об’єм дозволяє мати лубрикант завжди під рукою, забезпечуючи готовність до інтимних моментів у будь-який час.&lt;/p&gt;</description_ua>
-            </offer>
-        <offer id="90-800066" available="true">
-                <erp>90-800066</erp>
-            <barcode>347922800066</barcode>
-            <quantity_in_stock>20</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29704-lubrikant__lubrix_100_ml</url>
-            <price>425.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>46</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_2970462ee960b7baa3.jpg</picture>
-            <name>Лубрикант Lubrix, 100 мл</name>
-            <Отображать>Да</Отображать>
-            <stock>20</stock>
-            <vendor />
-            <model>Лубрикант Lubrix, 100 мл</model>
-            <description>Лубрикант Lubrix об'ємом 100 мл створений для усунення дискомфорту та сухості під час інтимної близькості. &lt;b&gt;Водна основа&lt;/b&gt; забезпечує природне відчуття та легке змивання, а нейтральна формула без запаху та смаку гарантує комфортне використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Змазка надає &lt;b&gt;тривале ковзання&lt;/b&gt; та ефективне зволоження, не залишаючи плям на білизні чи постільній білизні. Формула безпечна для здоров'я та &lt;b&gt;сумісна з усіма видами інтимних іграшок&lt;/b&gt;, включаючи силіконові, латексні та інші матеріали.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Зручна упаковка дозволяє легко дозувати необхідну кількість продукту. Лубрикант підходить для регулярного використання та допомагає зробити інтимність більш комфортною та приємною.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Lubrix&lt;/br&gt;&lt;br /&gt;
-Виробник: Concorde&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 100&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: Без ефектів&lt;/br&gt;</description>
-            <name_ua>Лубрикант Lubrix, 100 мл</name_ua>
-            <description_ua>Лубрикант Lubrix об'ємом 100 мл створений для усунення дискомфорту та сухості під час інтимної близькості. &lt;b&gt;Водна основа&lt;/b&gt; забезпечує природне відчуття та легке змивання, а нейтральна формула без запаху та смаку гарантує комфортне використання.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Змазка надає &lt;b&gt;тривале ковзання&lt;/b&gt; та ефективне зволоження, не залишаючи плям на білизні чи постільній білизні. Формула безпечна для здоров'я та &lt;b&gt;сумісна з усіма видами інтимних іграшок&lt;/b&gt;, включаючи силіконові, латексні та інші матеріали.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Зручна упаковка дозволяє легко дозувати необхідну кількість продукту. Лубрикант підходить для регулярного використання та допомагає зробити інтимність більш комфортною та приємною.&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Характеристики:&lt;/b&gt;&lt;/br&gt;&lt;/br&gt;&lt;br /&gt;
-&lt;br /&gt;
-Бренд: Lubrix&lt;/br&gt;&lt;br /&gt;
-Виробник: Concorde&lt;/br&gt;&lt;br /&gt;
-Об'єм (мл): 100&lt;/br&gt;&lt;br /&gt;
-Основа (складу): Водна&lt;/br&gt;&lt;br /&gt;
-Запах: Без запаху (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Смак: Без смаку (нейтральний)&lt;/br&gt;&lt;br /&gt;
-Додаткові ефекти: Без ефектів&lt;/br&gt;</description_ua>
             </offer>
         <offer id="42-06259570000" available="true">
                 <erp>42-06259570000</erp>
@@ -79517,31 +79516,6 @@ ONE Extra Strong — вибір для тих, хто прагне поєдна�
 &lt;br /&gt;
 Розмір виробу: 26 х 13 см&lt;br /&gt;
 Вага виробу: 0,14 кг</description_ua>
-            </offer>
-        <offer id="26-00189" available="true">
-                <erp>26-00189</erp>
-            <barcode>5903661808020</barcode>
-            <quantity_in_stock>23</quantity_in_stock>
-            <url>http://blissclub.com.ua/product/29700-masturbator_vagina_manga___boss_series</url>
-            <price>293.00</price>
-            <currencyId>UAH</currencyId>
-            <categoryId>52</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_2970062ee929b356b5.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee9298e58b8.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92991948a.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee9299363ad.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92994f4e8.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee929963d7d.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92997a659.png</picture>
-            <picture>https://blissclub.com.ua/images/product_variants/product_62ee92998f5eb.png</picture>
-            <name>Штучна вагіна Boss Series Manga, тілесна</name>
-            <Отображать>Да</Отображать>
-            <stock>23</stock>
-            <vendor />
-            <model>Штучна вагіна Boss Series Manga, тілесна</model>
-            <description>Штучна вагіна Boss Series Manga, тілесна</description>
-            <name_ua>Штучна вагіна Boss Series Manga, тілесна</name_ua>
-            <description_ua>Штучна вагіна Boss Series Manga, тілесна</description_ua>
             </offer>
         <offer id="30-97431-60-509" available="true">
                 <erp>30-97431-60-509</erp>
@@ -79978,7 +79952,7 @@ ONE Extra Strong — вибір для тих, хто прагне поєдна�
         <offer id="42-06239460000" available="true">
                 <erp>42-06239460000</erp>
             <barcode>4024144623952</barcode>
-            <quantity_in_stock>46</quantity_in_stock>
+            <quantity_in_stock>45</quantity_in_stock>
             <url>http://blissclub.com.ua/product/3094-analyniy_gely_lubrikant_ust_glide_anal_200</url>
             <price>427.00</price>
             <currencyId>UAH</currencyId>
@@ -79988,7 +79962,7 @@ ONE Extra Strong — вибір для тих, хто прагне поєдна�
             <picture>https://blissclub.com.ua/images/product_variants/product_68760f059eaf5.jpg</picture>
             <name>Лубрикант Just Glide Anal, 200 мл</name>
             <Отображать>Да</Отображать>
-            <stock>46</stock>
+            <stock>45</stock>
             <vendor>ORION</vendor>
             <model>Анальний лубрикант Just Glide Anal, 200 мл</model>
             <description>Продукт Just Glide Anal призначений для анального задоволення. Кришталево прозора змазка спеціально розроблена для чутливої області ануса. Він містить цінну формулу з 7 рослин і на 100% є веганом. Його формула на водній основі означає, що його можна використовувати з силіконовими іграшками. Гель легко миється. Безпечний для використання з латексними презервативами. Без запаху і смаку. Його також можна використовувати вагінально. Гінеколог &lt;br /&gt;
