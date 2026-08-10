@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-08-10 11:15">
+<yml_catalog date="2026-08-10 13:00">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
     <url>http://blissclub.com.ua/</url>
-    <eurate>51.70</eurate>
+    <eurate>51.80</eurate>
     <currencies>
             <currency id="UAH" rate="1" />
         </currencies>
@@ -16188,7 +16188,7 @@ OLO Extra Large спеціально розроблені для чоловік�
             <barcode>6970960524363</barcode>
             <quantity_in_stock>1</quantity_in_stock>
             <url>http://blissclub.com.ua/product/35675-prezervativi_zbudzhuyuchi_olo_001_red_foil_shto_zigrivayuty_z_gialuronovoyu_kislotoyu_10_sht</url>
-            <price>225.00</price>
+            <price>206.00</price>
             <currencyId>UAH</currencyId>
             <categoryId>96</categoryId>
             <picture>https://blissclub.com.ua/images/product_variants/product_35671692d8a69e5e87.jpg</picture>
@@ -33083,7 +33083,7 @@ USB-зарядка.&lt;br /&gt;
             <barcode>6970960523687</barcode>
             <quantity_in_stock>2</quantity_in_stock>
             <url>http://blissclub.com.ua/product/35673-prezervativi_ulytratonki_olo_001_black_z_gialuronovoyu_kislotoyu_10_sht_folyga</url>
-            <price>225.00</price>
+            <price>206.00</price>
             <currencyId>UAH</currencyId>
             <categoryId>96</categoryId>
             <picture>https://blissclub.com.ua/images/product_variants/product_356696930189b8ad60.jpeg</picture>
