@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-09-19 08:00">
+<yml_catalog date="2026-09-19 12:45">
     <shop>
         <name>BlissClub Export</name>
     <company>BlissClub</company>
@@ -70844,15 +70844,16 @@ MyLove Aroma Series Intim&amp;Massage 2in1 Cherry — універсальний
             <price>137.00</price>
             <currencyId>UAH</currencyId>
             <categoryId>96</categoryId>
-            <picture>https://blissclub.com.ua/images/product_variants/product_3063164c2baf730e46.jpeg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_306316aae520e1d349.jpg</picture>
+            <picture>https://blissclub.com.ua/images/product_variants/product_6aae51afc989e.jpg</picture>
             <name>Презервативи Unimil Box 3 Max Love</name>
             <Отображать>Да</Отображать>
             <stock>15</stock>
             <vendor>UNIMIL</vendor>
             <model>Презервативи Unimil Box 3 Max Love</model>
-            <description>Презервативи Unimil Box 3 Max Love</description>
+            <description>&lt;p&gt;Презервативи Unimil Box 3 Max Love&lt;/p&gt;</description>
             <name_ua>Презервативи Unimil Box 3 Max Love</name_ua>
-            <description_ua>Презервативи Unimil Box 3 Max Love</description_ua>
+            <description_ua>&lt;p&gt;Презервативи Unimil Box 3 Max Love&lt;/p&gt;</description_ua>
             </offer>
         <offer id="101-4952" available="true">
                 <erp>101-4952</erp>
